@@ -1,7 +1,7 @@
 import feedparser
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from googletrans import Translator
 from dateutil import parser as date_parser
 
@@ -26,10 +26,10 @@ translator = Translator()
 
 def get_category(text):
     text = text.lower()
-    if any(word in text for word in ['diplomacia', 'canciller', 'embajador', 'relaciones']): return "Diplomacy"
-    if any(word in text for word in ['militar', 'ejército', 'armada', 'fuerzas armadas']): return "Military"
-    if any(word in text for word in ['energía', 'eléctrica', 'litio', 'solar', 'combustible']): return "Energy"
-    if any(word in text for word in ['economía', 'pib', 'mercado', 'banco', 'hacienda']): return "Economy"
+    if any(w in text for w in ['diplomacia', 'canciller', 'embajador', 'relaciones', 'tratado']): return "Diplomacy"
+    if any(w in text for w in ['militar', 'ejército', 'armada', 'fuerza aérea', 'defensa']): return "Military"
+    if any(w in text for w in ['energía', 'eléctrica', 'litio', 'solar', 'combustible', 'gas']): return "Energy"
+    if any(w in text for w in ['economía', 'pib', 'mercado', 'banco', 'hacienda', 'finanzas']): return "Economy"
     return "Local Events"
 
 def fetch_and_process():
@@ -38,23 +38,29 @@ def fetch_and_process():
 
     existing_data = []
     if os.path.exists(FILE_PATH):
-        with open(FILE_PATH, 'r') as f:
-            existing_data = json.load(f)
+        try:
+            with open(FILE_PATH, 'r') as f:
+                existing_data = json.load(f)
+        except:
+            existing_data = []
 
     new_stories = []
     seen_urls = {s['url'] for s in existing_data}
-    now = datetime.now(datetime.now().astimezone().tzinfo)
+    now = datetime.now(timezone.utc)
 
     for source_name, url in RSS_FEEDS.items():
         feed = feedparser.parse(url)
         for entry in feed.entries:
             try:
                 pub_date = date_parser.parse(entry.published)
-                if now - pub_date > timedelta(days=MAX_AGE_DAYS):
+                if pub_date.tzinfo is None:
+                    pub_date = pub_date.replace(tzinfo=timezone.utc)
+                
+                if (now - pub_date).days > MAX_AGE_DAYS:
                     continue
                 
                 if entry.link not in seen_urls:
-                    # Translate Title (Spanish to English)
+                    # Spanish to English translation
                     translated_title = translator.translate(entry.title, src='es', dest='en').text
                     
                     story = {
@@ -66,31 +72,32 @@ def fetch_and_process():
                     }
                     new_stories.append(story)
                     seen_urls.add(entry.link)
-            except Exception:
+            except:
                 continue
 
-    # Merge and filter
-    combined = new_stories + existing_data
-    # Remove duplicates and items > 7 days
-    final_list = []
+    # Merge and deduplicate
+    all_stories = new_stories + existing_data
+    
+    # Filter for freshness
+    fresh_stories = []
     seen = set()
-    for s in combined:
-        dt = datetime.strptime(s['published_date'], "%Y-%m-%d %H:%M:%S")
-        if dt > (datetime.now() - timedelta(days=MAX_AGE_DAYS)) and s['url'] not in seen:
-            final_list.append(s)
+    for s in all_stories:
+        dt = datetime.strptime(s['published_date'], "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+        if (now - dt).days <= MAX_AGE_DAYS and s['url'] not in seen:
+            fresh_stories.append(s)
             seen.add(s['url'])
 
-    # Sort by date descending
-    final_list.sort(key=lambda x: x['published_date'], reverse=True)
+    # Sort descending
+    fresh_stories.sort(key=lambda x: x['published_date'], reverse=True)
 
-    # Group and limit to 20 per category
-    categorized_output = []
+    # Final selection: 20 per category
+    final_output = []
     for cat in CATEGORIES:
-        cat_stories = [s for s in final_list if s['category'] == cat][:TARGET_PER_CAT]
-        categorized_output.extend(cat_stories)
+        cat_group = [s for s in fresh_stories if s['category'] == cat][:TARGET_PER_CAT]
+        final_output.extend(cat_group)
 
     with open(FILE_PATH, 'w') as f:
-        json.dump(categorized_output, f, indent=4)
+        json.dump(final_output, f, indent=4)
 
 if __name__ == "__main__":
     fetch_and_process()
