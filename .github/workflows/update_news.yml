@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # This block fixes the 403 error shown in your screenshot
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -27,6 +31,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p docs
           git add docs/chile_news.json
           git commit -m "Automated news update" || exit 0
           git push
