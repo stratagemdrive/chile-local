@@ -1,5 +1,12 @@
 [
     {
+        "title": "On his first presidential tour: Kast is received by Javier Milei at the Casa Rosada in Argentina",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/en-su-primera-gira-presidencial-kast-es-recibido-por-javier-milei-en-la-casa-rosada-en-argentina/",
+        "published_date": "2026-04-06 13:47:02",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Nicol\u00e1s Mass\u00fa expands his investment portfolio with his entry into the wine business",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/04/nicolas-massu-amplia-su-portafolio-de-inversiones-con-su-ingreso-al-negocio-del-vino/",
@@ -147,13 +154,6 @@
         "category": "Energy"
     },
     {
-        "title": "With the visit of Chappell Roan and former president Boric among its clients: how the El Bajo bar became the center of the night in Lastarria",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/29/con-la-visita-de-chappell-roan-y-el-expresidente-boric-entre-sus-clientes-como-el-bajo-se-convirtio-en-el-centro-de-la-noche-en-lastarria/",
-        "published_date": "2026-03-29 11:20:00",
-        "category": "Energy"
-    },
-    {
         "title": "Taxes down and doubts up: the vision of 12 deputies of the Finance Commission divided by the reduction for companies and their compensation",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/04/impuestos-a-la-baja-y-dudas-al-alza-la-vision-de-12-diputados-de-la-comision-de-hacienda-divididos-por-la-rebaja-a-empresas-y-su-compensacion/",
@@ -222,6 +222,13 @@
         "url": "https://www.theclinic.cl/2026/03/29/poduje-anuncia-que-revocara-expropiacion-de-colonia-dignidad-y-gajardo-lo-califica-como-una-bofetada-directa-a-la-memoria-de-las-victimas/",
         "published_date": "2026-03-29 17:00:56",
         "category": "Economy"
+    },
+    {
+        "title": "The traffic balance of Holy Week: 420 accidents were recorded with 12 deaths, five more than in 2025",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/el-balance-de-transito-de-la-semana-santa-se-registraron-420-accidentes-con-12-fallecidos-cinco-mas-que-en-2025/",
+        "published_date": "2026-04-06 13:40:22",
+        "category": "Local Events"
     },
     {
         "title": "With the Apablaza case present: the delegation and the limited itinerary of Kast in Argentina",
@@ -354,13 +361,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/03/la-uc-anuncia-que-no-vendera-entradas-a-publico-general-local-para-el-partido-ante-boca-apunta-a-complejidades-por-recibir-a-2-mil-hinchas-visitantes/",
         "published_date": "2026-04-03 16:53:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parisi says she would have supported Bachelet's candidacy to the UN: \u201cYou cannot forget the importance of a president who was elected twice\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/03/parisi-dice-que-hubiera-apoyado-la-candidatura-de-bachelet-a-la-onu-no-puedes-olvidar-la-importancia-de-una-presidenta-que-salio-dos-veces-electa/",
-        "published_date": "2026-04-03 15:12:49",
         "category": "Local Events"
     }
 ]
