@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bukele's surprising decision to remove his ambassador in Chile and the noise that was generated in La Moneda with the Kast advance chief",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/la-sorpresiva-decision-de-bukele-de-remover-a-su-embajador-en-chile-y-el-ruido-que-se-genero-en-la-moneda-con-el-jefe-de-avanzada-de-kast/",
+        "published_date": "2026-04-06 22:41:27",
+        "category": "Diplomacy"
+    },
+    {
         "title": "On his first presidential tour: Kast is received by Javier Milei at the Casa Rosada in Argentina",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/06/en-su-primera-gira-presidencial-kast-es-recibido-por-javier-milei-en-la-casa-rosada-en-argentina/",
@@ -47,6 +54,20 @@
         "url": "https://www.theclinic.cl/2026/04/01/junior-la-joya-cruzat-defendera-por-primera-vez-el-titulo-mundial-de-boxeo-super-pluma-en-el-santiago-fight-night/",
         "published_date": "2026-04-01 13:39:18",
         "category": "Military"
+    },
+    {
+        "title": "BancoEstado launches special credit to buy hybrid cars amid the rise in fuel prices",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/bancoestado-estrena-credito-especial-para-comprar-autos-hibridos-en-medio-del-alza-de-combustibles/",
+        "published_date": "2026-04-06 23:16:32",
+        "category": "Energy"
+    },
+    {
+        "title": "The asphalt paradox: The Chilean automotive market accelerates between rising prices and the thirst for efficiency",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/mercado-automotor-chileno/",
+        "published_date": "2026-04-06 21:41:19",
+        "category": "Energy"
     },
     {
         "title": "Longueira: \u201cToday we are full of right-wingers who believe they are brave because of what they write on social networks, but I have never seen them fight for ideas in the towns\u201d",
@@ -154,6 +175,13 @@
         "category": "Energy"
     },
     {
+        "title": "Historical members of the U place their trust in the seal of Fernando Gago: \u201cToday you can see a very leading team, which understands the idea\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/historicos-de-la-u-depositan-su-confianza-en-el-sello-de-fernando-gago-hoy-se-nota-un-equipo-muy-protagonista-que-entiende-la-idea/",
+        "published_date": "2026-04-06 21:40:24",
+        "category": "Economy"
+    },
+    {
         "title": "Taxes down and doubts up: the vision of 12 deputies of the Finance Commission divided by the reduction for companies and their compensation",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/04/impuestos-a-la-baja-y-dudas-al-alza-la-vision-de-12-diputados-de-la-comision-de-hacienda-divididos-por-la-rebaja-a-empresas-y-su-compensacion/",
@@ -217,11 +245,46 @@
         "category": "Economy"
     },
     {
-        "title": "Poduje announces that he will revoke the expropriation of Colonia Dignidad and Gajardo describes it as \u201ca direct slap to the memory of the victims\u201d",
+        "title": "Las Condes is divided before the Cat\u00f3lica party with Boca in the Claro Arena: critical councilors accuse discomfort due to massive events during the week",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/29/poduje-anuncia-que-revocara-expropiacion-de-colonia-dignidad-y-gajardo-lo-califica-como-una-bofetada-directa-a-la-memoria-de-las-victimas/",
-        "published_date": "2026-03-29 17:00:56",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/06/las-condes-se-divide-ante-el-partido-de-catolica-con-boca-en-el-claro-arena-concejales-criticos-acusan-incomodidad-por-eventos-masivos-en-la-semana/",
+        "published_date": "2026-04-06 23:06:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cCoaching\u201d with advisors, studying parliamentarians and requesting a public session: Eduardo Cerna's strategy to confront Congress",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/coaching-con-asesores-estudio-de-parlamentarios-y-pedir-una-sesion-publica-la-estrategia-de-eduardo-cerna-para-enfrentar-al-congreso/",
+        "published_date": "2026-04-06 23:00:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Global food prices rose 3% in March, driven by oils, meat and cereals",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/precios-de-los-alimentos-a-nivel-mundial-subieron-3-en-marzo-impulsado-por-los-aceites-la-carne-y-los-cereales/",
+        "published_date": "2026-04-06 21:52:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "So that they are not left alone: \u200b\u200bthis is KNino, the first Chilean television channel that seeks to entertain dogs when you are not at home",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/para-que-no-queden-solos-asi-es-knino-el-primer-canal-chileno-de-television-que-busca-entretener-a-los-perros-cuando-no-estas-en-casa/",
+        "published_date": "2026-04-06 21:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Given a drop in the polls: Minister Sedini defends \u201cpolitically incorrect\u201d decisions and asks to be evaluated in 4 years",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/ante-baja-en-las-encuentas-ministra-sedini-defiende-decisiones-politicamente-incorrectas-y-pide-ser-evaluados-en-4-anos/",
+        "published_date": "2026-04-06 21:34:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eduardo Cerna supports the departure of the deputy director and low pressure on Steinert: \u201cThe person who makes the decisions in the PDI is this general director\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/06/eduardo-cerna-respalda-salida-de-subdirectora-y-baja-presion-sobre-steinert-quien-toma-las-decisiones-en-la-pdi-es-este-director-general/",
+        "published_date": "2026-04-06 20:46:09",
+        "category": "Local Events"
     },
     {
         "title": "The traffic balance of Holy Week: 420 accidents were recorded with 12 deaths, five more than in 2025",
@@ -319,48 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/04/experto-que-creo-guia-para-evitar-amenazas-de-violencia-escolar-en-ee-uu-las-medidas-como-detectores-de-metales-no-han-hecho-mas-seguras-a-las-escuelas/",
         "published_date": "2026-04-04 11:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong presidentialism, weak ministers: the paradox that Kast exposes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/04/presidencialismo-fuerte-ministros-debiles-la-paradoja-que-expone-a-kast/",
-        "published_date": "2026-04-04 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jani Due\u00f1as and her musical commitment with Sombra: \u201cNow I feel more confident and daring to show my emotions\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/03/jani-duenas-y-su-apuesta-musical-con-sombra-ahora-me-siento-mas-segura-y-atrevida-para-mostrar-mis-emociones/",
-        "published_date": "2026-04-03 22:57:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The case of the failed Los Lagos Education Seremi who denounces \u201ccomputer sabotage\u201d after her frustrated appointment",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/03/el-caso-de-la-fallida-seremi-de-educacion-de-los-lagos-que-denuncia-sabotaje-informatico-tras-su-frustrado-nombramiento/",
-        "published_date": "2026-04-03 19:38:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe ways forward do not always coincide\u201d: Cristi\u00e1n Contreras (Dr. File) becomes the first casualty of the new PDG bench",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/03/cristian-contreras-dr-file-se-convierte-en-la-primera-baja-de-la-nueva-bancada-del-pdg-las-formas-de-avanzar-no-siempre-coinciden/",
-        "published_date": "2026-04-03 19:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "After failed operation: Government of Argentina offers a large reward for anyone who provides information about Galvarino Apablaza",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/03/tras-fallido-operativo-gobierno-de-argentina-ofrece-cuantiosa-recompensa-para-quien-aporte-informacion-sobre-galvarino-apablaza/",
-        "published_date": "2026-04-03 17:22:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The UC announces that it will not sell tickets to the local general public for the match against Boca: it points to complexities in receiving 2,000 visiting fans",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/03/la-uc-anuncia-que-no-vendera-entradas-a-publico-general-local-para-el-partido-ante-boca-apunta-a-complejidades-por-recibir-a-2-mil-hinchas-visitantes/",
-        "published_date": "2026-04-03 16:53:42",
         "category": "Local Events"
     }
 ]
