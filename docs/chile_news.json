@@ -56,6 +56,13 @@
         "category": "Military"
     },
     {
+        "title": "AI divides Chileans: study revealed that most value it, but others believe it is worsening the water crisis",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/ia-divide-a-los-chilenos-estudio-revelo-que-la-mayoria-la-valora-pero-otros-creen-que-esta-empeorando-la-crisis-del-agua/",
+        "published_date": "2026-04-08 00:55:00",
+        "category": "Energy"
+    },
+    {
         "title": "BancoEstado launches special credit to buy hybrid cars amid the rise in fuel prices",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/06/bancoestado-estrena-credito-especial-para-comprar-autos-hibridos-en-medio-del-alza-de-combustibles/",
@@ -161,13 +168,6 @@
         "category": "Energy"
     },
     {
-        "title": "Opposition raises its tone and demands that La Moneda replenish the Mepco in the face of fuel increases: \u201cWe ask the Government to reverse this measure\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/30/oposicion-sube-el-tono-y-exige-que-la-moneda-reponga-el-mepco-ante-alza-de-combustibles-le-pedimos-al-gobierno-que-revierta-esta-medida/",
-        "published_date": "2026-03-30 20:52:55",
-        "category": "Energy"
-    },
-    {
         "title": "Minister Sedini's meeting with the National Press Association in which Servel's debt to the media and criticism of clipping was addressed",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/07/la-reunion-de-la-ministra-sedini-con-la-asociacion-nacional-de-la-prensa-en-que-se-abordo-la-deuda-del-servel-con-los-medios-y-criticas-al-clipping/",
@@ -259,11 +259,67 @@
         "category": "Economy"
     },
     {
-        "title": "MacBook Neo: Apple's master move that puts the entry laptop market in check",
+        "title": "From Hogwarts to Santiago: Harry Potter's Forbidden Forest will be installed in Quinta Normal Park",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/30/resena-review-macbook-neo-chile-apple/",
-        "published_date": "2026-03-30 19:41:03",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/07/bosque-prohibido-harry-potter-en-quinta-normal/",
+        "published_date": "2026-04-07 22:46:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The modern system that Walmart promotes with 2,300 robots in Pudahuel: it will integrate stores, online purchases and reduce physical effort by 80%",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/el-moderno-sistema-que-walmart-impulsa-con-2-300-robots-en-pudahuel-integrara-tiendas-compras-online-y-reducira-el-esfuerzo-fisico-en-80/",
+        "published_date": "2026-04-07 22:39:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "SUVs were positioned as the best-selling cars during the first quarter of 2026: MG ZX and Suzuki Fronx were the favorites of Chileans",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/los-suv-se-posicionaron-como-los-autos-mas-vendidos-durante-el-primer-trimestre-de-2026-mg-zx-y-suzuki-fronx-fueron-los-favoritos-de-los-chilenos/",
+        "published_date": "2026-04-07 22:36:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The arrival of the security chief of Colo Colo to the Government of Kast: Comptroller's Office reviews his hiring for not having a professional title as he is a former police officer",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/el-arribo-del-jefe-de-seguridad-de-colo-colo-al-gobierno-de-kast-contraloria-revisa-su-contratacion-por-no-tener-titulo-profesional-al-ser-excarabinero/",
+        "published_date": "2026-04-07 22:28:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new face of El Giratorio: the details of the most ambitious remodeling of the Providencia classic in its 45 years of history",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/el-giratorio-remodelacion-45-anos-restaurante-providencia/",
+        "published_date": "2026-04-07 21:54:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The commented signing of journalist Christian Pino in La Moneda: he took office in the Undersecretary of Security",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/el-comentado-fichaje-del-periodista-christian-pino-en-la-moneda-asumio-cargo-en-la-subsecretaria-de-seguridad/",
+        "published_date": "2026-04-07 21:48:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Kast inaugurates Fidae 2026 and highlights the country's aerospace positioning: \u201cChile did not come to this by chance\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/presidente-kast-inaugura-fidae-2026-y-destaca-posicionamiento-aeroespacial-del-pais-chile-no-llego-a-esto-por-casualidad/",
+        "published_date": "2026-04-07 20:28:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alejandro Tabilo and Cristian Gar\u00edn are risking their way to the third round of the M1000 in Monte Carlo: the rivals and schedules of the Chileans for this Wednesday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/alejandro-tabilo-y-cristian-garin-se-juegan-el-paso-a-la-tercera-ronda-del-m1000-de-montecarlo-los-rivales-y-horarios-de-los-chilenos-para-este-miercoles/",
+        "published_date": "2026-04-07 20:10:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government announcement would have promoted an increase in CAE debt payments: Quiroz assures that collection went from $30 million to $200 million per day",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/07/anuncio-del-gobierno-habria-impulsado-un-alza-de-pagos-de-deudas-cae-quiroz-asegura-que-recaudacion-paso-de-30-millones-a-200-millones-diarios/",
+        "published_date": "2026-04-07 19:22:52",
+        "category": "Local Events"
     },
     {
         "title": "The reappearance of Isabel Allende (PS) one year after her dismissal in the Senate: she will share a forum with Pedro S\u00e1nchez and Lula da Silva abroad",
@@ -340,69 +396,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/06/eduardo-cerna-respalda-salida-de-subdirectora-y-baja-presion-sobre-steinert-quien-toma-las-decisiones-en-la-pdi-es-este-director-general/",
         "published_date": "2026-04-06 20:46:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The traffic balance of Holy Week: 420 accidents were recorded with 12 deaths, five more than in 2025",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/el-balance-de-transito-de-la-semana-santa-se-registraron-420-accidentes-con-12-fallecidos-cinco-mas-que-en-2025/",
-        "published_date": "2026-04-06 13:40:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the Apablaza case present: the delegation and the limited itinerary of Kast in Argentina",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/con-el-caso-apablaza-presente-la-comitiva-y-el-acotado-itinerario-de-kast-en-argentina/",
-        "published_date": "2026-04-05 21:11:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAre you going to tell me that he couldn't go down ten floors to vote?\u201d: Parisi's defenses after the expulsion of \u201cDr. File\u201d from the PDG bench",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/me-vas-a-decir-que-no-pudo-bajar-diez-pisos-para-votar-los-descargos-de-parisi-tras-la-expulsion-del-dr-file-de-la-bancada-del-pdg/",
-        "published_date": "2026-04-05 18:43:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mayor of Puerto Montt's criticism of the time change in Los Lagos: \u201cIt was an opportunity for the new government to listen to the citizens\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/las-criticas-del-alcalde-de-puerto-montt-por-el-cambio-de-hora-en-los-lagos-era-una-oportunidad-para-el-nuevo-gobierno-de-escuchar-a-la-ciudadania/",
-        "published_date": "2026-04-05 16:54:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cStatements that do not adjust to reality\u201d: the new confrontation between Juan Carlos Mu\u00f1oz and Louis de Grange",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/afirmaciones-que-no-se-ajustan-a-la-realidad-el-nuevo-enfrentamiento-entre-juan-carlos-munoz-y-louis-de-grange/",
-        "published_date": "2026-04-05 15:35:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cInjured clients and collaborators were recorded\u201d: Mallplaza Vespucio speaks out after the chaos caused by the throwing of money and announces evaluation of legal actions",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/se-registraron-clientes-y-colaboradores-lesionados-mallplaza-vespucio-se-pronuncia-tras-el-caos-provocado-por-lanzamiento-de-dinero-y-anuncia-evaluacion-de-acciones-legales/",
-        "published_date": "2026-04-05 14:00:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "RN and UDI: Watch it on TV?",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/rn-y-udi-mirarlo-por-tv/",
-        "published_date": "2026-04-05 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paulina Zamorano, former head of the Search Plan: \u201cIt is an honor that a lawyer from Pinochet fired me, that means that we were doing the job very well\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/paulina-zamorano-exencargada-del-plan-de-busqueda-es-un-honor-que-me-haya-echado-un-abogado-de-pinochet-eso-significa-que-estabamos-haciendo-muy-bien-el-trabajo/",
-        "published_date": "2026-04-05 12:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Constanza Mart\u00ednez, president of the FA: \u201dWe do not regret the principles that inspire us, we are not going to apologize for believing that Chile is unfair\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/05/constanza-martinez-president-del-frente-amplio-nosotros-no-nos-arrepentimos-de-los-principios-de-que-nos-inspiran/",
-        "published_date": "2026-04-05 12:00:00",
         "category": "Local Events"
     }
 ]
