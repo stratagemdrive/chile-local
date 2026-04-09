@@ -49,20 +49,6 @@
         "category": "Military"
     },
     {
-        "title": "With steps in the INDH and against abortion: who is Constanza Garrido, the person in charge of the Kast Government for the National Search Plan",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/01/con-pasos-en-el-indh-y-contraria-al-aborto-quien-es-constanza-garrido-la-encargada-del-gobierno-de-kast-para-el-plan-nacional-de-busqueda/",
-        "published_date": "2026-04-01 13:49:25",
-        "category": "Military"
-    },
-    {
-        "title": "Junior \u201cLa Joya\u201d Cruzat will defend the Super Featherweight world boxing title for the first time at the Santiago Fight Night",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/01/junior-la-joya-cruzat-defendera-por-primera-vez-el-titulo-mundial-de-boxeo-super-pluma-en-el-santiago-fight-night/",
-        "published_date": "2026-04-01 13:39:18",
-        "category": "Military"
-    },
-    {
         "title": "Minister Rinc\u00f3n announces two bills to stop increases in electricity bills caused by delays in setting rates",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/08/ministra-rincon-anuncia-dos-proyectos-de-ley-para-frenar-alzas-en-cuentas-de-la-luz-provocadas-por-retrasos-en-fijacion-de-tarifas/",
@@ -175,13 +161,6 @@
         "category": "Energy"
     },
     {
-        "title": "A gift gas cylinder and transfers of $100,000 for artisanal fishing: Kast announces new measures to face the rise in fuel prices",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/01/un-cilindro-de-gas-de-regalo-y-transferencias-de-100-000-para-la-pesca-artesanal-kast-anuncia-nuevas-medidas-para-enfrentar-alza-en-combustibles/",
-        "published_date": "2026-04-01 14:51:36",
-        "category": "Energy"
-    },
-    {
         "title": "The market that does not stop: sales of used vehicles in Chile mark their best March since 2023",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/08/ventas-de-vehiculos-usados-en-chile/",
@@ -266,11 +245,60 @@
         "category": "Economy"
     },
     {
-        "title": "CMF suspends transactions in bonds and shares of Cl\u00ednica Las Condes due to failure to send financial statements in March",
+        "title": "Bigger, more powerful, more expensive: the Jolion Max proves that GWM no longer plays alone among price brands",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/01/cmf-suspende-transacciones-de-bonos-y-acciones-de-clinica-las-condes-por-no-envio-de-estados-financieros-en-marzo/",
-        "published_date": "2026-04-01 12:38:30",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/09/haval-jolion-max/",
+        "published_date": "2026-04-09 16:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government opens to adding measures to educational plan after attack on Lincolao and UDI asks to remove free university tuition for those involved in attacks",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/09/gobierno-se-abre-a-sumar-medidas-a-plan-educacional-tras-ataque-a-lincolao-y-udi-pide-quitar-gratuidad-universitaria-a-involucrados-en-ataques/",
+        "published_date": "2026-04-09 15:07:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maip\u00fa sues for animal abuse after video of burning dog: \u201cWhen a limit like this is crossed, institutions have the duty to respond\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/09/grave-caso-maltrato-animal-perrita-fue-quemada-en-maipu/",
+        "published_date": "2026-04-09 14:56:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two hours locked up, a failed dialogue with the rector and injuries to her head and arm: the details of the complaint for \u201cattack on authority\u201d against Minister Lincolao",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/09/dos-horas-encerrada-un-fallido-dialogo-con-el-rector-y-lesiones-en-su-cabeza-y-brazo-los-detalles-de-la-querella-por-atentado-a-la-autoridad-contra-la-ministra-lincolao/",
+        "published_date": "2026-04-09 14:35:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "A complaint, request for a summary and expel and detain the identified students: the Government's demands on the U. Austral after the attack on Minister Lincolao",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/09/una-querella-solicitud-de-sumario-y-expulsar-y-detener-a-los-estudiantes-identificados-las-exigencias-del-gobierno-a-la-u-austral-tras-la-agresion-a-la-ministra-lincolao/",
+        "published_date": "2026-04-09 13:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The deer that came back from the cold: the rebirth of the Volga brand with a Chinese engine",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/09/el-ciervo-que-volvio-del-frio-el-renacimiento-de-la-marca-volga-con-motor-chino/",
+        "published_date": "2026-04-09 11:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "TVN is committed to massive events: it will broadcast \u201cLa Fiesta del Memo\u201d on its tenth anniversary hosted by Daniel Fuenzalida",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/09/tvn-transmitira-la-fiesta-del-memo-decimo-aniversario/",
+        "published_date": "2026-04-09 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "With a lighting work and activities focused on book month, Udec prepares to celebrate the 100 years of its libraries",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/con-una-obra-luminica-y-actividades-orientadas-en-el-mes-del-libro-udec-se-prepara-para-celebrar-los-100-anos-de-sus-bibliotecas/",
+        "published_date": "2026-04-09 01:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Kast targeted an \u201cideological group\u201d after attacking Minister Lincolao: \u201cHer actions have no explanation or justification\u201d",
@@ -354,62 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/07/el-arribo-del-jefe-de-seguridad-de-colo-colo-al-gobierno-de-kast-contraloria-revisa-su-contratacion-por-no-tener-titulo-profesional-al-ser-excarabinero/",
         "published_date": "2026-04-07 22:28:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new face of El Giratorio: the details of the most ambitious remodeling of the Providencia classic in its 45 years of history",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/el-giratorio-remodelacion-45-anos-restaurante-providencia/",
-        "published_date": "2026-04-07 21:54:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The commented signing of journalist Christian Pino in La Moneda: he took office in the Undersecretary of Security",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/el-comentado-fichaje-del-periodista-christian-pino-en-la-moneda-asumio-cargo-en-la-subsecretaria-de-seguridad/",
-        "published_date": "2026-04-07 21:48:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Kast inaugurates Fidae 2026 and highlights the country's aerospace positioning: \u201cChile did not come to this by chance\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/presidente-kast-inaugura-fidae-2026-y-destaca-posicionamiento-aeroespacial-del-pais-chile-no-llego-a-esto-por-casualidad/",
-        "published_date": "2026-04-07 20:28:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alejandro Tabilo and Cristian Gar\u00edn are risking their way to the third round of the M1000 in Monte Carlo: the rivals and schedules of the Chileans for this Wednesday",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/alejandro-tabilo-y-cristian-garin-se-juegan-el-paso-a-la-tercera-ronda-del-m1000-de-montecarlo-los-rivales-y-horarios-de-los-chilenos-para-este-miercoles/",
-        "published_date": "2026-04-07 20:10:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announcement would have promoted an increase in CAE debt payments: Quiroz assures that collection went from $30 million to $200 million per day",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/anuncio-del-gobierno-habria-impulsado-un-alza-de-pagos-de-deudas-cae-quiroz-asegura-que-recaudacion-paso-de-30-millones-a-200-millones-diarios/",
-        "published_date": "2026-04-07 19:22:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reappearance of Isabel Allende (PS) one year after her dismissal in the Senate: she will share a forum with Pedro S\u00e1nchez and Lula da Silva abroad",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/la-reaparicion-de-isabel-allende-ps-a-un-ano-de-su-destitucion-en-el-senado-compartira-foro-con-pedro-sanchez-y-lula-da-silva-en-el-extranjero/",
-        "published_date": "2026-04-07 14:56:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inability to apply for free tuition and the prohibition of the use of hoods inside and outside campuses: the Government's measures to confront violence in schools",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/inhabilidad-para-postular-a-la-gratuidad-y-prohibicion-del-uso-de-capuchas-dentro-y-fuera-de-recintos-las-medidas-del-gobierno-para-enfrentar-la-violencia-en-colegios/",
-        "published_date": "2026-04-07 14:41:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everything connected: How to build your Apple ecosystem and get the most out of it in 2026",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/ecosistema-apple-iphone-ipad/",
-        "published_date": "2026-04-07 14:20:44",
         "category": "Local Events"
     }
 ]
