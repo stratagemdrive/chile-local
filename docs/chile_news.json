@@ -63,6 +63,27 @@
         "category": "Military"
     },
     {
+        "title": "Minister Rinc\u00f3n announces two bills to stop increases in electricity bills caused by delays in setting rates",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/ministra-rincon-anuncia-dos-proyectos-de-ley-para-frenar-alzas-en-cuentas-de-la-luz-provocadas-por-retrasos-en-fijacion-de-tarifas/",
+        "published_date": "2026-04-08 23:04:11",
+        "category": "Energy"
+    },
+    {
+        "title": "\u201cPlease legislate for the country and stop worrying about your ego\u201d: Mayor Toledo responds to Ossand\u00f3n's attack for gasoline expenses",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/por-favor-legisle-para-el-pais-y-deje-de-preocuparse-de-su-ego-alcalde-toledo-responde-a-arremetida-de-ossandon-por-gastos-en-bencina/",
+        "published_date": "2026-04-08 22:17:49",
+        "category": "Energy"
+    },
+    {
+        "title": "Banquet in Valpara\u00edso for change of command cost $50 million and Kast Government spent close to $475 million on ceremonies for the event",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/duda-resuelta-banquete-jet-set-en-la-moneda-costo-50-millones-y-gobierno-de-kast-gasto-otros-475-millones-en-el-cambio-de-mando/",
+        "published_date": "2026-04-08 21:28:44",
+        "category": "Energy"
+    },
+    {
         "title": "Increase in the price of gasoline boosts March CPI by 1% and inflation for the last twelve months reaches 2.8%",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/08/alza-en-el-precio-de-las-bencinas-impulsa-ipc-de-marzo-en-un-1-e-inflacion-de-los-ultimos-doce-meses-llega-a-28/",
@@ -161,20 +182,6 @@
         "category": "Energy"
     },
     {
-        "title": "Teleworking, reducing speed limits and reducing business trips: the measures that Europe is evaluating to save fuel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/31/teletrabajo-reduccion-de-los-limites-de-velocidad-y-disminuir-los-viajes-de-negocios-las-medidas-que-evalua-europa-para-ahorrar-combustible/",
-        "published_date": "2026-03-31 22:20:00",
-        "category": "Energy"
-    },
-    {
-        "title": "UDI presses for cuts in Congress and carries out a cost study: almost $40 million is the extra expense for new deputies since Bachelet's reform",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/31/udi-presiona-por-recorte-en-el-congreso-y-realiza-estudio-de-costos-23-millones-mensuales-por-diputado-y-43-millones-mensuales-por-senador/",
-        "published_date": "2026-03-31 21:24:05",
-        "category": "Energy"
-    },
-    {
         "title": "The market that does not stop: sales of used vehicles in Chile mark their best March since 2023",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/08/ventas-de-vehiculos-usados-en-chile/",
@@ -266,11 +273,53 @@
         "category": "Economy"
     },
     {
-        "title": "The end of its plant in Maip\u00fa: the reasons that led Electrolux to transform its supply model and leave production in Chile",
+        "title": "Kast targeted an \u201cideological group\u201d after attacking Minister Lincolao: \u201cHer actions have no explanation or justification\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/03/31/el-fin-de-su-planta-en-maipu-los-motivos-que-llevaron-a-electrolux-a-transformar-su-modelo-de-abastecimiento-y-dejar-la-produccion-en-chile/",
-        "published_date": "2026-03-31 21:50:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/08/kast-apunto-a-grupo-ideologizado-tras-agresion-a-ministra-lincolao-su-actuar-no-tiene-explicacion-ni-justificacion/",
+        "published_date": "2026-04-08 23:44:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jacqueline Sep\u00falveda becomes the first rector in the history of the University of Concepci\u00f3n",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/jacqueline-sepulveda-se-convierte-en-la-primera-rectora-mujer-de-la-historia-de-la-universidad-de-concepcion/",
+        "published_date": "2026-04-08 22:28:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Between not being an obstacle and controlling the agenda: how the opposition prepares for the entry of Kast's miscellaneous law",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/entre-no-ser-un-obstaculo-y-controlar-la-agenda-como-se-prepara-la-oposicion-para-el-ingreso-de-la-ley-miscelanea-de-kast/",
+        "published_date": "2026-04-08 22:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The details of the new season of \u201cOnly Friends\u201d: Mega program returns with Tonka Tomicic as a strong card in the animation and interview with Kike Morande",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/tonka-tomicic-regresa-al-prime-con-only-friends-en-mega-junto-a-jose-antonio-neme/",
+        "published_date": "2026-04-08 21:28:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colegio de Cerrillos clarifies the origin of the bull lost in the yard: it appeared out of nowhere, it was loose for three days and the owners went to look for it after viral videos",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/colegio-de-cerrillos-aclara-origen-del-toro-perdido-en-el-patio-aparecio-de-la-nada-estuvo-tres-dias-suelto-y-duenos-fueron-a-buscarlo-tras-videos-virales/",
+        "published_date": "2026-04-08 21:24:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister Mas questions Codelco harshly: \u201cWe are going to attend the next shareholders meeting with a very critical view regarding management\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/ministro-mas-lanza-duro-cuestionamiento-a-codelco-vamos-a-asistir-con-una-mirada-muy-critica-respecto-de-la-gestion-a-la-proxima-junta-de-accionistas/",
+        "published_date": "2026-04-08 21:09:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Science receives transversal support after being attacked at the Austral University and the Government sues for an attack on authority",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/08/ministra-de-ciencia-recibe-respaldo-transversal-tras-ser-agredida-en-la-universidad-austral-y-el-gobierno-se-querella-por-atentado-a-la-autoridad/",
+        "published_date": "2026-04-08 20:55:41",
+        "category": "Local Events"
     },
     {
         "title": "Sedini accuses \u201cpolitical anxiety\u201d in criticism of her role as spokesperson: \u201cI came to be the face of the Government and I am not going to hide\u201d",
@@ -361,55 +410,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/07/ecosistema-apple-iphone-ipad/",
         "published_date": "2026-04-07 14:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will make it possible to study the internal structure of the island: they install the first network of seismometers in Juan Fern\u00e1ndez",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/permitiran-estudiar-la-estructura-interna-de-la-isla-instalan-primera-red-de-sismometros-en-juan-fernandez/",
-        "published_date": "2026-04-07 13:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are 17 thousand units in the country: Sernac issued a safety alert for a cell phone charger that can cause overheating",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/hay-17-mil-unidades-en-el-pais-sernac-emitio-alerta-de-seguridad-por-cargador-de-celular-que-puede-generar-sobrecalentamiento/",
-        "published_date": "2026-04-07 01:01:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Las Condes is divided before the Cat\u00f3lica party with Boca in the Claro Arena: critical councilors accuse discomfort due to massive events during the week",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/las-condes-se-divide-ante-el-partido-de-catolica-con-boca-en-el-claro-arena-concejales-criticos-acusan-incomodidad-por-eventos-masivos-en-la-semana/",
-        "published_date": "2026-04-06 23:06:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cCoaching\u201d with advisors, studying parliamentarians and requesting a public session: Eduardo Cerna's strategy to confront Congress",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/coaching-con-asesores-estudio-de-parlamentarios-y-pedir-una-sesion-publica-la-estrategia-de-eduardo-cerna-para-enfrentar-al-congreso/",
-        "published_date": "2026-04-06 23:00:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Global food prices rose 3% in March, driven by oils, meat and cereals",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/precios-de-los-alimentos-a-nivel-mundial-subieron-3-en-marzo-impulsado-por-los-aceites-la-carne-y-los-cereales/",
-        "published_date": "2026-04-06 21:52:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "So that they are not left alone: \u200b\u200bthis is KNino, the first Chilean television channel that seeks to entertain dogs when you are not at home",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/para-que-no-queden-solos-asi-es-knino-el-primer-canal-chileno-de-television-que-busca-entretener-a-los-perros-cuando-no-estas-en-casa/",
-        "published_date": "2026-04-06 21:45:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Given a drop in the polls: Minister Sedini defends \u201cpolitically incorrect\u201d decisions and asks to be evaluated in 4 years",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/06/ante-baja-en-las-encuentas-ministra-sedini-defiende-decisiones-politicamente-incorrectas-y-pide-ser-evaluados-en-4-anos/",
-        "published_date": "2026-04-06 21:34:55",
         "category": "Local Events"
     }
 ]
