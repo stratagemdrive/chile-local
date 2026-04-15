@@ -21,6 +21,13 @@
         "category": "Military"
     },
     {
+        "title": "Government removes the La Araucan\u00eda Energy Seremi after disappearing from work for days without any justification",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/la-historia-patrick-dungan-el-seremi-de-energia-removido-por-dejar-de-ir-a-su-oficina-sin-notificacion-previa-y-el-contacto-fallido-con-su-numero-de-emergencia/",
+        "published_date": "2026-04-15 21:33:48",
+        "category": "Energy"
+    },
+    {
         "title": "Transporters warn of failures in the registration system for gasoline subsidies amid an imminent new increase",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/14/transportistas-alertan-fallas-en-sistema-de-inscripcion-para-subsidio-a-las-bencinas-en-medio-de-inminente-nueva-alza/",
@@ -105,6 +112,13 @@
         "category": "Energy"
     },
     {
+        "title": "Jorge Rodr\u00edguez, former president of the CFA, warns: \u201clowering the corporate tax rate in the short term generates more fiscal deficit\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/borrador-automaticojorge-rodriguez-expresidente-del-cfa-bajar-la-tasa-de-impuesto-corporativo-en-el-corto-plazo-genera-mas-deficit-fiscal/",
+        "published_date": "2026-04-15 22:25:37",
+        "category": "Economy"
+    },
+    {
         "title": "Smart #5: the premium electric SUV in Chile that arrived with its tasks done",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/14/smart-5-el-suv-electrico-premium-en-chile-que-llego-con-las-tareas-hechas/",
@@ -154,18 +168,60 @@
         "category": "Economy"
     },
     {
-        "title": "Minister Sedini's meeting with the National Press Association in which Servel's debt to the media and criticism of clipping was addressed",
+        "title": "Entel hosted the launch of Avonni 2026 and reinforces leadership and innovation as a strategic axis of its contribution to the country",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/la-reunion-de-la-ministra-sedini-con-la-asociacion-nacional-de-la-prensa-en-que-se-abordo-la-deuda-del-servel-con-los-medios-y-criticas-al-clipping/",
-        "published_date": "2026-04-07 14:22:58",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/15/entel-avonni-2026/",
+        "published_date": "2026-04-15 23:28:41",
+        "category": "Local Events"
     },
     {
-        "title": "Quiroz advances details of the National Reconstruction Plan: \u201cWe need to aim to grow 4% again, and that is what the project is about\u201d",
+        "title": "Mobile plans in Chile: what is the eSIM and why is it adding users",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/07/quiroz-adelanta-detalles-del-plan-de-reconstruccion-nacional-necesitamos-apuntar-a-volver-a-crecer-4-y-de-eso-se-trata-el-proyecto/",
-        "published_date": "2026-04-07 13:20:43",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/15/planes-moviles-esim-chile/",
+        "published_date": "2026-04-15 23:03:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Senate approves and submits to law a project to build a monument in memory of Sebasti\u00e1n Pi\u00f1era",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/senado-aprueba-y-despacha-a-ley-proyecto-para-construir-un-monumento-en-memoria-de-sebastian-pinera/",
+        "published_date": "2026-04-15 22:58:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coca-Cola Andina and Inacap strengthen the training culture with a program for crew members",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/coca-cola-andina-programa-impulso-inacap/",
+        "published_date": "2026-04-15 22:57:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Human remains that could be up to five thousand years old are discovered in San Vicente de Tagua Tagua",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/hallazgo-de-restos-humanos-en-san-vicente-de-tagua-tagua/",
+        "published_date": "2026-04-15 22:23:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Larra\u00edn and Andr\u00e9s Allamand's resignation from RN: \"The party has become blurred. The main problem was supporting Matthei based on surveys\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/carlos-larrain-y-renuncia-de-andres-allamand-a-rn-el-partido-se-ha-desdibujado-el-principal-problema-fue-apoyar-a-matthei-en-base-a-encuestas/",
+        "published_date": "2026-04-15 22:19:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The commitment to dialogue and the \u201cwinks\u201d of the PPD to the Government that excite La Moneda about obtaining transversal support in its reconstruction plan",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/la-apuesta-dialogante-y-los-guinos-del-ppd-al-gobierno-que-ilusionan-a-la-moneda-con-obtener-apoyo-transversal-en-su-plan-de-reconstruccion/",
+        "published_date": "2026-04-15 22:18:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "From alarm to setback: Government reevaluates project to expand the country's main rehabilitation institute to build oncology center in Pe\u00f1alol\u00e9n",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/15/de-la-alarma-al-retroceso-gobierno-reevalua-proyecto-para-ampliar-principal-instituto-de-rehabilitacion-del-pais-para-construir-centro-oncologico-en-penalolen/",
+        "published_date": "2026-04-15 22:12:11",
+        "category": "Local Events"
     },
     {
         "title": "Paula Navarro and the arrival of a coach to men's professional football: \u201cSouth America is not yet ready for that, perhaps Brazil, but Chile least of all\u201d",
@@ -249,62 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/13/solo-diez-instituciones-tienen-el-sello-naranja-como-la-biblioteca-central-para-ciegos-busca-mejorar-la-inclusion-en-chile/",
         "published_date": "2026-04-13 22:12:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maximum tension in the Communist Party: the discussion between Daniel Jadue and former minister Jaime Gajardo that marked the XI plenary session of the central committee",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/tension-al-maximo-en-el-partido-comunista-la-discusion-entre-daniel-jadue-y-el-exministro-jaime-gajardo-que-marco-el-xi-pleno-del-comite-central/",
-        "published_date": "2026-04-13 21:46:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "World premiere of 'La Nena', third installment of the successful 'La Novia Gitana' saga, this Sunday, April 12",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/estreno-mundial-serie-la-nena/",
-        "published_date": "2026-04-13 21:41:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cEl desestrece\u201d by Mart\u00edn C\u00e1rcamo and Luis Slimming plummets in ratings and is in last place, below \u201cMois\u00e9s y los 10 commandments\u201d by TVN",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/el-desestrece-cae-cuarto-lugar-rating-superado-moises-tvn/",
-        "published_date": "2026-04-13 21:31:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipality of Tiltil files a complaint for animal abuse against a man for hitting a dog on public roads: it included a video that makes it evident",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/municipalidad-de-tiltil-se-querella-por-maltrato-animal-contra-hombre-por-golpear-a-perro-en-la-via-publica-incluyo-un-video-que-lo-deja-en-evidencia/",
-        "published_date": "2026-04-13 21:16:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abandonment and loneliness, the \u201csilent reality\u201d that Mar\u00eda P\u00eda Adriasola warns about as she completes one month as first lady",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/12/abandono-y-soledad-la-silenciosa-realidad-que-alerta-maria-pia-adriasola-al-cumplir-un-mes-como-primera-dama/",
-        "published_date": "2026-04-12 23:02:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe're not going to get anywhere like this\u201d: Tiane Endler's harsh defense to her teammates after La Roja's loss to Argentina",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/12/asi-no-vamos-a-llegar-a-ninguna-parte-el-duro-descargo-de-tiane-endler-ante-sus-companeras-tras-la-caida-de-la-roja-ante-argentina/",
-        "published_date": "2026-04-12 19:33:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI thank the rector for his efforts to de-escalate the situation\u201d: this is how Minister Lincolao responded to the apology letters from the UACh authorities",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/12/asi-respondio-la-ministra-lincolao-las-cartas-de-disculpas-de-las-autoridades-de-la-uach/",
-        "published_date": "2026-04-12 18:12:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mara Sedini says that she does not stop at the criticism: \u201cFor me this is a wonderful, challenging position, I enjoy it and I am very free in exercising it\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/12/mara-sedini-dice-que-no-se-detiene-en-las-criticas-para-mi-este-es-un-cargo-maravilloso-desafiante-lo-disfruto-y-soy-muy-libre-ejerciendolo/",
-        "published_date": "2026-04-12 16:07:41",
         "category": "Local Events"
     }
 ]
