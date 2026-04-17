@@ -7,11 +7,32 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Paulina N\u00fa\u00f1ez's defense of the Reconstruction Law: \u201cA company that pays more taxes is a company that postpones its investments\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/la-defensa-de-paulina-nunez-a-la-ley-de-reconstruccion-una-empresa-que-paga-mas-impuestos-es-una-empresa-que-posterga-sus-inversiones/",
+        "published_date": "2026-04-17 22:49:40",
+        "category": "Military"
+    },
+    {
         "title": "Marcel's defense: \u201cUS$560 million have been committed in compensatory benefits, more or less the same as would have been spent with Mepco\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/14/la-defensa-de-marcel-se-han-comprometido-us560-millones-en-beneficios-compensatorios-mas-o-menos-lo-mismo-que-se-hubiese-gastado-con-el-mepco/",
         "published_date": "2026-04-14 22:40:16",
         "category": "Military"
+    },
+    {
+        "title": "\u201cFailures were detected in the application of audit procedures\u201d: CMF applies harsh sanctions to Deloitte and one of its partners for violations in the context of the Primus Case",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/cmf-aplica-dura-sancion-a-deloitte-y-a-uno-de-sus-socios-por-infracciones-en-el-contexto-del-caso-primus/",
+        "published_date": "2026-04-17 23:32:11",
+        "category": "Energy"
+    },
+    {
+        "title": "Diesel has a successor: Volvo Trucks tests its hydrogen truck on the road",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/camion-a-hidrogeno-de-volvo-trucks/",
+        "published_date": "2026-04-17 21:57:27",
+        "category": "Energy"
     },
     {
         "title": "Government clarifies that there will be no delivery of gas cylinders but rather monetary aid deposited directly to the beneficiaries starting in June",
@@ -119,18 +140,53 @@
         "category": "Economy"
     },
     {
-        "title": "Implementation of the new Open Finance law opens controversy between Fintec and CMF",
+        "title": "The new Santiago City controversy: tickets from 25 thousand pesos for a match in the third category of Chilean soccer",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/09/implementacion-de-nueva-ley-de-finanzas-abiertas-abre-polemica-entre-fintec-y-comision-para-el-mercado-financiero/",
-        "published_date": "2026-04-09 22:34:48",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/17/la-nueva-controversia-de-santiago-city-entradas-desde-los-25-mil-pesos-para-un-partido-de-la-tercera-categoria-del-futbol-chileno/",
+        "published_date": "2026-04-17 22:57:41",
+        "category": "Local Events"
     },
     {
-        "title": "Gael Yeomans, leader of the Frente Amplio bench: \u201cQuiroz wants to apply the chainsaw in Chile and we are not going to allow it\u201d",
+        "title": "The rains arrive in the Metropolitan Region: check what time it will rain in Santiago this weekend",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/09/borrador-automatico-gael-yeomans/",
-        "published_date": "2026-04-09 22:19:01",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/17/llegan-las-lluvias-a-la-region-metropolitana-revisa-a-que-hora-llovera-en-santiago-este-fin-de-semana/",
+        "published_date": "2026-04-17 22:49:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "With a double from Mar\u00eda Jos\u00e9 Urrutia: this was the friendly of Colo Colo women against a men's team",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/con-doblete-de-maria-jose-urrutia-asi-fue-el-amistoso-de-colo-colo-femenino-contra-un-equipo-masculino/",
+        "published_date": "2026-04-17 22:42:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elimination of contributions would benefit nearly 207 thousand older adults with incomes of more than $2 million per month",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/eliminacion-de-contribuciones-beneficiaria-a-cerca-de-207-mil-adultos-mayores-con-ingresos-de-mas-de-2-millones-mensuales/",
+        "published_date": "2026-04-17 22:39:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sold out and a stage up to the middle of the field: Cris MJ's milestones in the first concert of a Chilean urban artist at the National Stadium",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/cris-mj-estadio-nacional-sold-out-records-spotify-hito-urbano-chileno/",
+        "published_date": "2026-04-17 22:18:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claro starts 2026 reaffirming its leadership in mobile portability, adding more than 1 million customers last year",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/claro-portabilidad-millon-clientes/",
+        "published_date": "2026-04-17 21:58:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Telecanal remains without transmission for seven days after CNTV sanction and announces that it will stop retransmitting Russian channel RT",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/17/telecanal-se-queda-siete-dias-sin-transmision-tras-sancion-del-cntv-por-retransmitir-canal-ruso-rt/",
+        "published_date": "2026-04-17 21:49:29",
+        "category": "Local Events"
     },
     {
         "title": "\u201cEvery public weight requires order and justification\u201d: the crossing between Arrau and Orrego after the new stoppage of works in the GAM",
@@ -221,55 +277,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/15/minuta-del-gobierno-plantea-suspender-por-cuatro-anos-el-ingreso-de-nuevas-instituciones-a-la-gratuidad-en-el-marco-del-plan-de-reconstruccion/",
         "published_date": "2026-04-16 02:12:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cFrom the first moment, it was clear that he was the right person\u201d: the story of \u201cDesiertos\u201d, the album that marked Beto Cuevas' entry into La Ley and its reissue 25 years later",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/la-ley-desiertos-25-anos-reeedicion-vinilo-historia/",
-        "published_date": "2026-04-16 01:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt is urgent that the Government prioritizes the recovery of order and security\u201d: the call from San Bernardo to La Moneda after an attack suffered by Mayor White",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/es-urgente-que-el-gobierno-priorice-la-recuperacion-del-orden-y-la-seguridad-san-bernardo-la-moneda-agresion-alcalde-white/",
-        "published_date": "2026-04-16 00:47:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The oncological health alert begins to govern: Minsal will have extraordinary powers to care for patients awaiting diagnosis or treatment",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/comienza-a-regir-la-alerta-sanitaria-oncologica-minsal-contara-con-facultades-extraordinarias-para-atender-a-pacientes-que-esperan-diagnostico-o-tratamiento/",
-        "published_date": "2026-04-15 23:59:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "With more than 40 pro-investment and pro-employment measures: the five axes contained in Jos\u00e9 Antonio Kast's first national chain",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/con-mas-de-40-medidas-proinversion-y-proempleo-los-cinco-ejes-que-contiene-la-primera-cadena-nacional-de-jose-antonio-kast/",
-        "published_date": "2026-04-15 23:48:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Entel hosted the launch of Avonni 2026 and reinforces leadership and innovation as a strategic axis of its contribution to the country",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/entel-avonni-2026/",
-        "published_date": "2026-04-15 23:28:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mobile plans in Chile: what is the eSIM and why is it adding users",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/planes-moviles-esim-chile/",
-        "published_date": "2026-04-15 23:03:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Senate approves and submits to law a project to build a monument in memory of Sebasti\u00e1n Pi\u00f1era",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/senado-aprueba-y-despacha-a-ley-proyecto-para-construir-un-monumento-en-memoria-de-sebastian-pinera/",
-        "published_date": "2026-04-15 22:58:29",
         "category": "Local Events"
     }
 ]
