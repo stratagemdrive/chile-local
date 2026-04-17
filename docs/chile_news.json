@@ -77,6 +77,13 @@
         "category": "Energy"
     },
     {
+        "title": "Coca-Cola Andina will invest more than US$500 million in the next two years",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/16/coca-cola-inversion-500-millones/",
+        "published_date": "2026-04-16 23:57:01",
+        "category": "Economy"
+    },
+    {
         "title": "Jorge Rodr\u00edguez, former president of the CFA, warns: \u201clowering the corporate tax rate in the short term generates more fiscal deficit\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/15/borrador-automaticojorge-rodriguez-expresidente-del-cfa-bajar-la-tasa-de-impuesto-corporativo-en-el-corto-plazo-genera-mas-deficit-fiscal/",
@@ -126,10 +133,31 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cEvery public weight requires order and justification\u201d: the crossing between Arrau and Orrego after the new stoppage of works in the GAM",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/16/cada-peso-publico-requiere-orden-y-justificacion-el-cruce-entre-arrau-y-orrego-tras-la-nueva-paralizacion-de-obras-en-el-gam/",
+        "published_date": "2026-04-17 02:03:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Educational communities affected by the fires in Biob\u00edo receive a donation of computers and free internet with satellite connectivity",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/16/comunidades-educativas-afectadas-por-los-incendios-en-el-biobio-reciben-donacion-de-computadores-e-internet-gratuito-con-conectividad-satelital/",
+        "published_date": "2026-04-17 01:13:36",
+        "category": "Local Events"
+    },
+    {
         "title": "Analysis of the digital conversation after the national Kast network: 60% of the interactions were in rejection of the announced measures",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/16/analisis-de-la-conversacion-digital-tras-la-cadena-nacional-de-kast-un-60-de-las-interacciones-fueron-en-rechazo-a-las-medidas-anunciadas/",
         "published_date": "2026-04-16 23:18:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tom\u00e1s Leighton, executive director of Rumbo Colectivo: \u201cThe extreme right works in campaigns, but it does not work to govern\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/16/tomas-leighton-director-ejecutivo-de-rumbo-colectivo-la-ultraderecha-funciona-en-campana-pero-no-funciona-para-gobernar/",
+        "published_date": "2026-04-16 23:03:57",
         "category": "Local Events"
     },
     {
@@ -242,27 +270,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/15/senado-aprueba-y-despacha-a-ley-proyecto-para-construir-un-monumento-en-memoria-de-sebastian-pinera/",
         "published_date": "2026-04-15 22:58:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coca-Cola Andina and Inacap strengthen the training culture with a program for crew members",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/coca-cola-andina-programa-impulso-inacap/",
-        "published_date": "2026-04-15 22:57:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Human remains that could be up to five thousand years old are discovered in San Vicente de Tagua Tagua",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/hallazgo-de-restos-humanos-en-san-vicente-de-tagua-tagua/",
-        "published_date": "2026-04-15 22:23:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Carlos Larra\u00edn and Andr\u00e9s Allamand's resignation from RN: \"The party has become blurred. The main problem was supporting Matthei based on surveys\"",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/15/carlos-larrain-y-renuncia-de-andres-allamand-a-rn-el-partido-se-ha-desdibujado-el-principal-problema-fue-apoyar-a-matthei-en-base-a-encuestas/",
-        "published_date": "2026-04-15 22:19:11",
         "category": "Local Events"
     }
 ]
