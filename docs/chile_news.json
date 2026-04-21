@@ -35,6 +35,13 @@
         "category": "Military"
     },
     {
+        "title": "\u201cStop sending us useless things\u201d: The tense session in the Chamber where an ultimatum was given to the Government for new extensions to the state of emergency in La Araucan\u00eda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/la-tensa-sesion-en-la-camara-de-diputados-en-la-que-se-le-quito-respaldo-al-gobierno-para-futuras-prorrogas-del-estado-de-emergencia-en-la-macrozona-sur/",
+        "published_date": "2026-04-21 23:15:00",
+        "category": "Energy"
+    },
+    {
         "title": "88% of Chileans claim that their spending on food has increased: the greatest increases are identified in eggs and meat",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/19/un-88-de-los-chilenos-asegura-que-ha-subido-su-gasto-en-alimentos-mayores-alzas-se-identifican-en-huevos-y-carnes/",
@@ -98,11 +105,11 @@
         "category": "Energy"
     },
     {
-        "title": "SEC fines two energy companies more than $2 billion for their responsibility in the massive 2025 blackout",
+        "title": "The lessons for growth that Andr\u00e9s Velasco brought to Chile with his new book: \u201cLet what happened to Mexico not happen to us, let us lower taxes and then nothing happens\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/sec-multa-a-dos-empresas-de-energia-por-mas-de-2-mil-millones-por-su-responsabilidad-en-el-masivo-apagon-de-2025/",
-        "published_date": "2026-04-13 21:32:23",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/04/21/las-lecciones-para-el-crecimiento-que-andres-velasco-trajo-a-chile-con-nuevo-libro-que-no-nos-pase-lo-de-mexico-que-bajemos-los-impuestos-y-despues-no-pase-nada/",
+        "published_date": "2026-04-21 23:14:46",
+        "category": "Economy"
     },
     {
         "title": "Accelerate the supply of critical minerals, project facilitation and preferential prices: The keys to the agreement that Chile signed with the United States",
@@ -168,18 +175,60 @@
         "category": "Economy"
     },
     {
-        "title": "Pension reform, taxation, casinos and investment permits: the lobbying debut of the Treasury, Labor and Economy",
+        "title": "\u201cKast Effect\u201d: Migrant entries into the country through non-authorized crossings decrease, but figures for voluntary departures do not show an increase",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/reforma-previsional-tributacion-casinos-y-permisos-de-inversion-el-debut-lobista-de-hacienda-trabajo-y-economia/",
-        "published_date": "2026-04-13 22:32:26",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/21/efecto-kast-disminuyen-los-ingresos-de-migrantes-al-pais-pero-cifras-de-salidas-voluntarias-se-mantienen/",
+        "published_date": "2026-04-21 23:01:11",
+        "category": "Local Events"
     },
     {
-        "title": "Legend, winch and VAT discount: the Jimny 3 Doors is renewed without betraying its DNA",
+        "title": "The 10 ugliest cars in history: when design becomes a catastrophe",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/13/suzuki-jimny-3-puertas/",
-        "published_date": "2026-04-13 22:22:35",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/21/los-10-autos-mas-feos-de-la-historia-cuando-el-diseno-se-convierte-en-catastrofe/",
+        "published_date": "2026-04-21 22:52:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cYou just have to have the desire\u201d: CrossFit for older adults that is gaining ground and improving quality of life after 60",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/adultos-mayores-encuentran-en-el-crossfit-una-nueva-forma-de-moverse/",
+        "published_date": "2026-04-21 22:48:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Everyone behind the PDG: the dispute over the key votes of the National Reconstruction Plan due to the left's rejection of the idea of \u200b\u200blegislating",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/todos-tras-el-pdg-la-disputa-por-los-votos-clave-del-plan-de-reconstruccion-nacional-ante-rechazo-de-la-izquierda-a-la-idea-de-legislar/",
+        "published_date": "2026-04-21 21:56:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI love you, you are perfect, now change\u201d: the musical that makes the audience laugh (and recognize themselves) enters its final stretch at Teatro Mori",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/te-amo-eres-perfecto-ahora-cambia-musical-teatro-mori-parque-arauco-recta-final/",
+        "published_date": "2026-04-21 21:52:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new life of the Larra\u00edn Palace in the middle of its sale process: the centenary house of Santiago will open its doors on Heritage Day",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/la-nueva-vida-del-palacio-larrain-en-medio-de-su-proceso-de-venta-centenaria-casona-de-santiago-abrira-sus-puertas-en-el-dia-de-los-patrimonios/",
+        "published_date": "2026-04-21 21:49:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIs the Frente Amplio still governing or what?\u201d: The ruling party questions the appointment of Jeanette Vega as deputy director at Claudio Vicu\u00f1a Hospital",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/sigue-gobernando-el-frente-amplio-o-que-oficialismo-cuestiona-nombramiento-de-jeanette-vega-como-subdirectora-en-hospital-claudio-vicuna/",
+        "published_date": "2026-04-21 21:37:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are calm\u201d: Chamber of Deputies approves the \u201cProtected Schools\u201d project and sends it to the Senate",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/21/estamos-tranquilos-camara-de-diputados-aprueba-proyecto-de-escuelas-protegidas-y-lo-despacha-al-senado/",
+        "published_date": "2026-04-21 21:04:57",
+        "category": "Local Events"
     },
     {
         "title": "It will reach its peak this Tuesday night: how and when to see the meteor shower with the naked eye",
@@ -263,62 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/19/de-que-lado-estas-el-mensaje-de-protesta-de-the-strokes-en-coachella-que-incluyo-una-referencia-a-salvador-allende/",
         "published_date": "2026-04-19 14:02:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Interview with the owner of the legendary Bar de Ren\u00e9 and its 30 years of history: \u201cI think we are the best bar in Santiago\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/19/entrevista-al-dueno-del-bar-de-rene-y-sus-30-anos-de-historia-creo-que-somos-el-mejor-bar-de-santiago/",
-        "published_date": "2026-04-19 12:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Collect the past to save the future",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/19/cobrar-el-pasado-para-salvar-el-futuro/",
-        "published_date": "2026-04-19 12:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Welcome to Parisi 2030",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/19/bienvenidos-a-parisi-2030/",
-        "published_date": "2026-04-19 12:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reappearance of Jorge Segovia: \"What Bielsa says or doesn't say doesn't matter to me... where is he? Does he still exist?\"",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/18/la-reaparicion-de-jorge-segovia-lo-que-diga-bielsa-o-deje-de-decir-me-da-igual-donde-esta-existe-todavia/",
-        "published_date": "2026-04-19 01:45:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camila Vallejo in her international premiere after leaving La Moneda: \u201cDisinformation constitutes a much more serious and worrying threat for democracies\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/18/camila-vallejo-en-su-estreno-internacional-tras-dejar-la-moneda-la-desinformacion-hoy-en-dia-constituye-una-amenaza-mucho-mas-grave-y-preocupante-para-las-democracias/",
-        "published_date": "2026-04-18 22:56:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power Newsletter: La Moneda overflowing with optimism",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/18/newsletter-poder-la-moneda-desbordada-en-optimismo/",
-        "published_date": "2026-04-18 14:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe Elvis factor\u201d: the former chief registrar who bothers notary Francisco Leiva in the midst of the investigation into appointments to positions in the Judiciary",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/18/el-factor-elvis-el-exjefe-de-registro-que-incomoda-al-notario-francisco-leiva-en-medio-de-la-investigacion-por-nombramientos-de-cargos-del-poder-judicial/",
-        "published_date": "2026-04-18 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "SME unions accuse that the government project benefits large companies and warn because it did not consider a preferential rate for small companies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/18/gremios-de-las-pymes-acusan-que-proyecto-del-gobierno-beneficia-a-las-grandes-empresas-y-alertan-porque-no-considero-tasa-preferencial-para-las-pequenas/",
-        "published_date": "2026-04-18 12:30:00",
         "category": "Local Events"
     }
 ]
