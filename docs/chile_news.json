@@ -70,11 +70,25 @@
         "category": "Energy"
     },
     {
-        "title": "88% of Chileans claim that their spending on food has increased: the greatest increases are identified in eggs and meat",
+        "title": "Treasury specifically cuts the Ministry of Culture by $51,750 million: three programs are left without resources after budget adjustment",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/19/un-88-de-los-chilenos-asegura-que-ha-subido-su-gasto-en-alimentos-mayores-alzas-se-identifican-en-huevos-y-carnes/",
-        "published_date": "2026-04-19 22:37:16",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/04/27/hacienda-concreta-recorte-a-ministerio-de-las-culturas-por-51-750-millones-tres-programas-quedan-sin-recursos-tras-ajuste-presupuestario/",
+        "published_date": "2026-04-27 22:37:51",
+        "category": "Economy"
+    },
+    {
+        "title": "What is behind Arturo Squella's \u201ccall to order\u201d to the Second Floor of Kast and the growing discomfort in the ruling party",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/que-hay-detras-del-llamado-al-orden-de-arturo-squella-al-segundo-piso-de-kast-y-la-incomodidad-creciente-en-el-oficialismo/",
+        "published_date": "2026-04-27 22:27:40",
+        "category": "Economy"
+    },
+    {
+        "title": "ECLAC cut its growth projection for Chile to 2% this year amid a scenario of geopolitical conflicts",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/cepal-recorto-a-2-proyeccion-de-crecimiento-para-chile-este-ano-en-medio-de-un-escenario-de-conflictos-geopoliticos/",
+        "published_date": "2026-04-27 22:17:00",
+        "category": "Economy"
     },
     {
         "title": "College of Teachers and the instructions from the Treasury: \u201cWhile Kast invites his friends to lunch at La Moneda, he wants to take away food from the students\u201d",
@@ -147,11 +161,53 @@
         "category": "Economy"
     },
     {
-        "title": "Quiroz distances himself from Garc\u00eda Ruminot regarding the significance of the Reconstruction Law: \u201cThe Government does not risk its success with this project\u201d",
+        "title": "\u201cGet them off the ground\u201d: The initiative that seeks to reward attendance in Early Childhood Education and that takes the winners on a trip to NASA",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/19/quiroz-toma-distancia-de-garcia-ruminot-respecto-a-la-trascendencia-de-la-ley-de-reconstruccion-el-gobierno-no-se-juega-su-exito-con-este-proyecto/",
-        "published_date": "2026-04-19 16:07:07",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/27/haz-que-despeguen-la-iniciativa-que-busca-premiar-la-asistencia-en-la-educacion-parvularia-y-que-lleva-a-los-ganadores-de-viaje-a-la-nasa/",
+        "published_date": "2026-04-27 23:15:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meetings with the Government do not reduce tension: PC and FA insist on rejecting the mega-reform of La Moneda and propose dividing the initiative",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/reuniones-con-el-gobierno-no-bajan-la-tension-pc-y-fa-insisten-en-rechazar-la-megarreforma-de-la-moneda-y-proponen-dividir-la-iniciativa/",
+        "published_date": "2026-04-27 22:44:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The historic and million-dollar fine that a Chinese mall in the south of the country received: Sernac detected dangerous products, poorly labeled and without authorizations",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/multa-historica-a-mall-chino-en-panguipulli-por-infraccion-a-la-ley-del-consumidor-tribunal-actuo-tras-denuncia-del-sernac/",
+        "published_date": "2026-04-27 22:26:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Director of Junaeb reiterates that \u201cthe PAE beneficiary students will continue to receive their food normally, without interruptions\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/director-de-junaeb-reitera-que-los-alumnos-beneficiarios-del-pae-seguiran-recibiendo-su-alimentacion-de-forma-normal-sin-interrupciones/",
+        "published_date": "2026-04-27 22:20:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt is unusual\u201d: How was the turnaround at the San Antonio Hospital that ended with the ratification of Jeanette Vega and the resignation of nine specialists",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/es-insolito-el-vuelco-en-el-hospital-de-san-antonio-que-termino-con-la-ratificacion-de-jeanette-vega-en-su-cargo-y-nueve-renuncias-de-especialistas/",
+        "published_date": "2026-04-27 22:15:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIn here you can already see the finish line\u201d: The balance of the Nike immersive tunnel in the middle of the Santiago Marathon 2026",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/aqui-dentro-ya-se-ve-la-meta-el-balance-del-tunel-inmersivo-de-nike-en-medio-de-la-maraton-de-santiago-2026/",
+        "published_date": "2026-04-27 21:58:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The profile of Francisco S\u00f3lanich, the third to take office as Seremi of Cultures in the RM and who warned of a \u201cvacuum of leadership\u201d in the Kast Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/27/francisco-solanich-nuevo-seremi-culturas-rm-renato-munster-salida-controversia/",
+        "published_date": "2026-04-27 21:52:04",
+        "category": "Local Events"
     },
     {
         "title": "Juan Tagle opens a debate: \u201cI hope that one day responsible beer sales will be allowed in Chilean stadiums\u201d",
@@ -242,55 +298,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/25/desde-pekin-geely-pisa-el-acelerador-con-su-primer-robotaxi-sin-volante-y-un-sedan-de-925-hp-que-desafia-a-byd/",
         "published_date": "2026-04-25 20:04:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Injuv officials accuse an \u201cearly closure\u201d of the institution after the announcement of a reduction in the 2026 budget",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/funcionarios-del-injuv-acusan-un-cierre-anticipado-de-la-institucion-tras-anuncio-de-rebaja-del-presupuesto-2026/",
-        "published_date": "2026-04-25 19:29:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIn which family there are no differences\u201d: Kast recognizes the \u201ctrangles\u201d with RN but highlights the unity in parliament and the role of Garc\u00eda Ruminot",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/en-que-familia-no-hay-diferencias-kast-reconoce-los-tironeos-con-rn-pero-destaca-la-unidad-en-el-parlamento-y-el-rol-de-garcia-ruminot/",
-        "published_date": "2026-04-25 16:56:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Newsletter Poder: Government Security Plan in question",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/newsletter-poder-plan-de-seguridad-del-gobierno-en-entredicho/",
-        "published_date": "2026-04-25 13:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paola Diez, professor of female leadership, and the personal attacks on Minister Mara Sedini: \u201cIs this the cost for women to enter politics?\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/paola-diez-profesora-de-liderazgo-femenino-y-los-ataques-personales-a-sedinieste-es-el-costo-de-las-mujeres-para-ingresar-a-la-politica/",
-        "published_date": "2026-04-25 12:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Generation of Yesterday, the company of three dancers over eighty years old and their new work: \u201cWe are a group that continues to work revolutionaryly in freedom\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/generacion-del-ayer-la-compania-de-tres-bailarinas-de-mas-de-ochenta-anos-y-su-nueva-obra-somos-un-grupo-que-sigue-trabajando-revolucionariamente-en-libertad/",
-        "published_date": "2026-04-25 12:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cShe was treated with the respect she deserves, in the context of a sensitive conversation\u201d: F\u00e1bula's new response to Mar\u00eda Teresa Johns' accusations",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/24/fue-tratada-con-el-respeto-que-merece-en-el-contexto-de-una-conversacion-sensible-la-nueva-respuesta-de-fabula-ante-las-acusaciones-de-maria-teresa-johns/",
-        "published_date": "2026-04-25 01:31:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ev\u00f3poli is saved from its dissolution: Tricel determines that it meets the requirements to continue as a party",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/24/evopoli-se-salva-de-su-disolucion-tricel-determina-que-cumple-los-requisitos-para-continuar-como-partido/",
-        "published_date": "2026-04-25 00:25:21",
         "category": "Local Events"
     }
 ]
