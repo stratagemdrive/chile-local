@@ -1,10 +1,10 @@
 [
     {
-        "title": "\u201cThe ditch is a very small tool that has proven to be the most media-friendly\u201d: The analysis of the commissioner of the northern macrozone of work on the border",
+        "title": "Municipalities denounce the failure of massive gas purchases after companies Gasco and Abastible increased their values: \u201cit had never happened before\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/20/aumento-en-detecciones-y-expulsiones-de-inmigrantes-irregulares-se-deberia-a-aumento-de-dotacion-policial-y-militar-en-macrozona-norte/",
-        "published_date": "2026-04-20 23:14:13",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/04/28/municipios-denuncian-el-fracaso-de-compra-masiva-de-gas-luego-de-que-empresas-gasgo-y-abastible-aumentaran-sus-valores-nunca-antes-habia-pasado/",
+        "published_date": "2026-04-28 21:49:12",
+        "category": "Energy"
     },
     {
         "title": "Country Manager of BYD: leading company in electromobility: \u201cIt would seem unusual to me that if we had to renew the public transport fleet, we would renew it with diesel buses\u201d",
@@ -68,6 +68,20 @@
         "url": "https://www.theclinic.cl/2026/04/21/la-tensa-sesion-en-la-camara-de-diputados-en-la-que-se-le-quito-respaldo-al-gobierno-para-futuras-prorrogas-del-estado-de-emergencia-en-la-macrozona-sur/",
         "published_date": "2026-04-21 23:15:00",
         "category": "Energy"
+    },
+    {
+        "title": "\u201cThe cheapest on the market\u201d: The automotive business that buys wrecked cars and sells them fixed up that is in the crosshairs after Kaminski's arrest",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/los-mas-baratos-del-mercado-el-negocio-de-la-automotora-que-compra-autos-chocados-y-los-vende-arreglados-que-esta-en-la-mira-tras-la-detencion-de-kaminski/",
+        "published_date": "2026-04-28 21:55:32",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cIt does not meet the expectations that we consider necessary\u201d: CUT rejects the proposal to readjust the minimum salary of the Treasury and takes the dispute to Congress",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/no-cumple-las-expectativas-que-consideramos-necesarias-cut-rechaza-propuesta-de-reajuste-del-sueldo-minimo-de-hacienda-y-lleva-la-disputa-al-congreso/",
+        "published_date": "2026-04-28 21:46:42",
+        "category": "Economy"
     },
     {
         "title": "Treasury specifically cuts the Ministry of Culture by $51,750 million: three programs are left without resources after budget adjustment",
@@ -147,18 +161,53 @@
         "category": "Economy"
     },
     {
-        "title": "Accelerate the supply of critical minerals, project facilitation and preferential prices: The keys to the agreement that Chile signed with the United States",
+        "title": "From Paul McCartney to Roger Waters: the emblematic Z\u00f3calo of Mexico City prepares for the historic presentation of 31 Minutes",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/20/acelerar-el-suministro-de-minerales-criticos-facilitacion-de-proyectos-y-precios-preferentes-las-claves-del-acuerdo-que-firmo-chile-con-estados-unidos/",
-        "published_date": "2026-04-20 22:41:58",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/28/de-paul-mccartney-a-roger-waters-el-historico-zocalo-de-ciudad-de-mexico-se-prepara-para-una-historica-presentacion-de-31-minutos/",
+        "published_date": "2026-04-28 23:40:02",
+        "category": "Local Events"
     },
     {
-        "title": "Between tensions and criticism from the Government: this was the annual meeting of Codelco prior to the change of board of directors",
+        "title": "Geely's jump to heavyweights",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/20/entre-tensiones-y-criticas-del-gobierno-asi-fue-la-junta-anual-de-codelco-previo-al-cambio-de-directorio/",
-        "published_date": "2026-04-20 22:13:45",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/28/el-salto-de-geely-a-los-pesos-pesados/",
+        "published_date": "2026-04-28 23:09:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "New director(s) of the San Antonio hospital, on hiring Jeanette Vega: \u201cTechnically, a doctor with her experience obviously has the capabilities\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/nuevo-director-s-del-hospital-de-san-antonio-sobre-contratacion-de-jeanette-vega-tecnicamente-un-medico-con-la-experiencia-de-ella-obviamente-tiene-las-capacidades/",
+        "published_date": "2026-04-28 22:41:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Financial software for companies: technology that puts the numbers in order",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/softwares-financieros-empresas/",
+        "published_date": "2026-04-28 22:36:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is the Argentine businessman accused of buying hundreds of hectares on the Chilean border and putting the country's sovereignty at risk?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/quien-es-el-empresario-argentino-acusado-de-comprar-cientos-de-hectareas-en-la-frontera-chilena-y-poner-en-riesgo-la-soberania-del-pais/",
+        "published_date": "2026-04-28 22:33:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is V\u00edctor Vald\u00e9s, Alejandro Irarr\u00e1zaval's right-hand man in the midst of the growing official annoyance with the Second Floor of La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/quien-es-victor-valdes-la-mano-derecha-de-alejandro-irarrazaval-en-medio-de-la-creciente-molestia-oficialista-con-el-segundo-piso-de-la-moneda/",
+        "published_date": "2026-04-28 22:15:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt's just a starting point\u201d: Psychologists analyze government proposal that seeks to restrict social networks to minors",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/es-solo-un-punto-de-partida-psicologos-analizan-propuesta-del-gobierno-que-busca-restringir-las-redes-sociales-a-menores-de-edad/",
+        "published_date": "2026-04-28 22:12:04",
+        "category": "Local Events"
     },
     {
         "title": "Neftal\u00ed Carabantes, security expert at the U. Central, for Protected Schools: \u201cIt can be detrimental to the continuity of many students\u201d",
@@ -249,55 +298,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/26/la-proyeccion-que-apunta-a-rebajar-la-semana-laboral-de-cinco-a-tres-dias-con-la-ia-como-actor-decisivo/",
         "published_date": "2026-04-26 17:18:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cStop justifying your decisions by sowing doubts\u201d: the harsh letter from one of the companies behind the frustrated expansion of the GAM to the undersecretary of Public Works",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/dejen-de-justificar-sus-decisiones-sembrando-dudas-la-dura-carta-de-una-de-las-empresas-detras-de-la-frustrada-ampliacion-del-gam-al-subsecretario-de-obras-publicas/",
-        "published_date": "2026-04-26 14:51:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rishtedar: how an Indian food restaurant, born in a family kitchen, ended up expanding with four locations to the eastern sector of Santiago and to Miami",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/rishtedar-como-un-restaurante-de-comida-india-nacido-en-una-cocina-familiar-termino-expandiendose-con-cuatro-locales-al-sector-oriente-de-santiago-y-hasta-miami/",
-        "published_date": "2026-04-26 12:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rita Cox's Column: Barrio Triana, everything happening",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/columna-de-rita-cox-barrio-triana-todo-pasando/",
-        "published_date": "2026-04-26 12:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kike Mujica's Column: Where are they that cannot be seen?",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/columna-de-kike-mujica-a-donde-estan-que-no-se-ven/",
-        "published_date": "2026-04-26 12:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00c1lvaro Ortiz, president of the DC: \u201cThere is an eagerness to establish that the party is dying, but here we are\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/alvaro-ortiz-presidente-de-la-dc-hay-un-afan-de-dejar-establecido-que-el-partido-muere-pero-aqui-estamos/",
-        "published_date": "2026-04-26 12:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sedini Plan: La Moneda's design to reposition the spokesperson after her questioned start",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/plan-sedini-el-diseno-de-la-moneda-para-reposicionar-a-la-vocera-tras-su-cuestionado-arranque/",
-        "published_date": "2026-04-26 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cecilia P\u00e9rez and the option of presiding over the U: \u201cAfter having served Chile, the second greatest honor is being able to direct the most beautiful institution in our country\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/cecilia-perez-y-la-opcion-de-presidir-la-u-despues-de-haber-servido-a-chile-el-segundo-honor-mas-grande-es-poder-dirigir-la-institucion-mas-linda-de-nuestro-pais/",
-        "published_date": "2026-04-25 23:24:22",
         "category": "Local Events"
     }
 ]
