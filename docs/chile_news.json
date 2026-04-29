@@ -77,11 +77,18 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cStop sending us useless things\u201d: The tense session in the Chamber where an ultimatum was given to the Government for new extensions to the state of emergency in La Araucan\u00eda",
+        "title": "BAIC in Beijing 2026: an electric SUV that denies its origins and a truck destined for Chile",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/21/la-tensa-sesion-en-la-camara-de-diputados-en-la-que-se-le-quito-respaldo-al-gobierno-para-futuras-prorrogas-del-estado-de-emergencia-en-la-macrozona-sur/",
-        "published_date": "2026-04-21 23:15:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/04/29/baic-salon-beijing-2026-bj81-pickup/",
+        "published_date": "2026-04-29 20:18:25",
+        "category": "Economy"
+    },
+    {
+        "title": "Quiroz defends possible cuts to the PGU in the face of possible improper payments: \u201cThere could be people who obtained the benefit and should not\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/quiroz-apunta-a-posibles-pagos-indebidos-de-la-pgu-tras-cuestionamientos-por-recortes-en-programas-sociales/",
+        "published_date": "2026-04-29 19:38:42",
+        "category": "Economy"
     },
     {
         "title": "\u201cThe cheapest on the market\u201d: The automotive business that buys wrecked cars and sells them fixed up that is in the crosshairs after Kaminski's arrest",
@@ -168,11 +175,60 @@
         "category": "Economy"
     },
     {
-        "title": "The lessons for growth that Andr\u00e9s Velasco brought to Chile with his new book: \u201cLet what happened to Mexico not happen to us, let us lower taxes and then nothing happens\u201d",
+        "title": "Who are the Minvu officials close to Paulina N\u00fa\u00f1ez who were separated by Poduje after her encounter with the president of the Senate",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/21/las-lecciones-para-el-crecimiento-que-andres-velasco-trajo-a-chile-con-nuevo-libro-que-no-nos-pase-lo-de-mexico-que-bajemos-los-impuestos-y-despues-no-pase-nada/",
-        "published_date": "2026-04-21 23:14:46",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/04/29/quienes-son-los-funcionarios-del-minvu-cercanos-a-paulina-nunez-que-fueron-desvinculados-por-poduje-tras-su-cruce-con-la-presidenta-del-senado/",
+        "published_date": "2026-04-29 22:36:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "From G.I.T to G Y T: the return to Chile with a new line-up and the intact weight of \u201cEs Por Amor\u201d at 40 years",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/git-g-y-t-regreso-40-anos-es-por-amor-chile/",
+        "published_date": "2026-04-29 22:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Minister of Labor, Giorgio Boccardo, reappears to criticize the readjustment of the minimum wage proposed by the Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/reaparece-exministro-del-trabajo-giorgio-boccardo-para-criticar-reajuste-del-salario-minimo-propuesto-por-el-gobierno/",
+        "published_date": "2026-04-29 22:01:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "An icon that changes engines: the Volkswagen ID.Electric pole takes accessible mobility to another scale",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/volkswagen-id-polo-electrico/",
+        "published_date": "2026-04-29 22:01:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe would love to stimulate the debate\u201d: NASA director reveals that he is fighting to make Pluto a planet again",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/nos-encantaria-impulsar-el-debate-director-de-la-nasa-revela-que-esta-luchando-para-que-pluton-vuelva-a-ser-un-planeta/",
+        "published_date": "2026-04-29 20:45:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Javiera Toro (FA), former Minister of Social Development and cuts in the portfolio: \u201cWhat the country needs is not less social protection, but to strengthen it\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/javiera-toro-fa-exministra-de-desarrollo-social-y-recortes-en-la-cartera-lo-que-necesita-el-pais-no-es-menos-proteccion-social-sino-fortalecerla/",
+        "published_date": "2026-04-29 20:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Following a complaint from the ANP, the Ministry of Mining decided to suspend the clipping service tender",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/reclamo-de-la-anp-logra-suspender-licitacion-del-ministerio-de-mineria-por-uso-de-clipping-sin-licencias/",
+        "published_date": "2026-04-29 20:24:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI ask you to maintain respect\u201d: President Kast faced a tense moment with health personnel in Temuco",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/les-pido-que-mantengamos-el-respeto-presidente-kast-enfrento-tenso-momento-con-personal-de-salud-en-temuco/",
+        "published_date": "2026-04-29 20:02:31",
+        "category": "Local Events"
     },
     {
         "title": "Movicenter brought together hundreds of families in a new edition of MoviKids Day 2026",
@@ -256,62 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/27/multa-historica-a-mall-chino-en-panguipulli-por-infraccion-a-la-ley-del-consumidor-tribunal-actuo-tras-denuncia-del-sernac/",
         "published_date": "2026-04-27 22:26:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Director of Junaeb reiterates that \u201cthe PAE beneficiary students will continue to receive their food normally, without interruptions\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/27/director-de-junaeb-reitera-que-los-alumnos-beneficiarios-del-pae-seguiran-recibiendo-su-alimentacion-de-forma-normal-sin-interrupciones/",
-        "published_date": "2026-04-27 22:20:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt is unusual\u201d: How was the turnaround at the San Antonio Hospital that ended with the ratification of Jeanette Vega and the resignation of nine specialists",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/27/es-insolito-el-vuelco-en-el-hospital-de-san-antonio-que-termino-con-la-ratificacion-de-jeanette-vega-en-su-cargo-y-nueve-renuncias-de-especialistas/",
-        "published_date": "2026-04-27 22:15:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIn here you can already see the finish line\u201d: The balance of the Nike immersive tunnel in the middle of the Santiago Marathon 2026",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/27/aqui-dentro-ya-se-ve-la-meta-el-balance-del-tunel-inmersivo-de-nike-en-medio-de-la-maraton-de-santiago-2026/",
-        "published_date": "2026-04-27 21:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The profile of Francisco S\u00f3lanich, the third to take office as Seremi of Cultures in the RM and who warned of a \u201cvacuum of leadership\u201d in the Kast Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/27/francisco-solanich-nuevo-seremi-culturas-rm-renato-munster-salida-controversia/",
-        "published_date": "2026-04-27 21:52:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juan Tagle opens a debate: \u201cI hope that one day responsible beer sales will be allowed in Chilean stadiums\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/juan-tagle-abre-un-debate-para-el-futbol-chileno-espero-que-algun-dia-se-permita-una-venta-responsable-de-cerveza-en-los-estadios-de-chile/",
-        "published_date": "2026-04-27 00:28:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opposition think tanks launch \u201cTax Simulator\u201d, a platform that seeks to refute the National Reconstruction Plan",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/centros-de-pensamiento-de-oposicion-lanzan-simulador-tributario-plataforma-que-busca-refutar-el-plan-de-reconstruccion-nacional/",
-        "published_date": "2026-04-26 23:38:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The case of the dogs that died in Puc\u00f3n due to a fallen power line cable: \u201cThere are two victims, but this could have been much more serious\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/el-caso-de-las-perras-fallecidas-en-pucon-por-un-cable-del-tendido-electrico-caido-hay-dos-victimas-pero-esto-podria-haber-sido-mucho-mas-grave/",
-        "published_date": "2026-04-26 21:51:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cReinstalling the campaign logic only agitates the atmosphere\u201d: the reactions in Chile Let's face Kast's attack against the Boric administration",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/reinstalar-la-logica-de-campana-solo-agita-el-ambiente-las-reacciones-en-chile-vamos-ante-la-ultima-arremetida-de-kast-contra-la-administracion-boric/",
-        "published_date": "2026-04-26 19:04:03",
         "category": "Local Events"
     }
 ]
