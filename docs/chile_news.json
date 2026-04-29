@@ -1,5 +1,19 @@
 [
     {
+        "title": "Electric charging on the road takes the leap that the south expected: Porsche and Copec Voltex alliance",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/29/carga-electrica-en-ruta/",
+        "published_date": "2026-04-29 11:30:00",
+        "category": "Energy"
+    },
+    {
+        "title": "The Comptroller's Office sets rules for drug tests in the Government: there will be 30 days to do them and the results will be public",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/contraloria-fija-reglas-a-los-test-de-drogas-en-el-gobierno-habra-30-dias-para-hacerselos-y-resultados-seran-publicos/",
+        "published_date": "2026-04-29 01:38:13",
+        "category": "Energy"
+    },
+    {
         "title": "Municipalities denounce the failure of massive gas purchases after companies Gasco and Abastible increased their values: \u201cit had never happened before\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/28/municipios-denuncian-el-fracaso-de-compra-masiva-de-gas-luego-de-que-empresas-gasgo-y-abastible-aumentaran-sus-valores-nunca-antes-habia-pasado/",
@@ -161,6 +175,13 @@
         "category": "Economy"
     },
     {
+        "title": "Movicenter brought together hundreds of families in a new edition of MoviKids Day 2026",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/04/28/movicenter-movikids-day/",
+        "published_date": "2026-04-29 00:58:10",
+        "category": "Local Events"
+    },
+    {
         "title": "From Paul McCartney to Roger Waters: the emblematic Z\u00f3calo of Mexico City prepares for the historic presentation of 31 Minutes",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/28/de-paul-mccartney-a-roger-waters-el-historico-zocalo-de-ciudad-de-mexico-se-prepara-para-una-historica-presentacion-de-31-minutos/",
@@ -291,13 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/26/reinstalar-la-logica-de-campana-solo-agita-el-ambiente-las-reacciones-en-chile-vamos-ante-la-ultima-arremetida-de-kast-contra-la-administracion-boric/",
         "published_date": "2026-04-26 19:04:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The projection that aims to reduce the working week from five to three days with AI as a decisive actor",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/26/la-proyeccion-que-apunta-a-rebajar-la-semana-laboral-de-cinco-a-tres-dias-con-la-ia-como-actor-decisivo/",
-        "published_date": "2026-04-26 17:18:53",
         "category": "Local Events"
     }
 ]
