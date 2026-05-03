@@ -7,6 +7,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Column by Carmen Soza on fiscal spending: The ethical imperative of tidying up the house",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/03/columna-de-carmen-soza-sobre-gasto-fiscal-el-imperativo-etico-de-ordenar-la-casa/",
+        "published_date": "2026-05-03 12:17:00",
+        "category": "Energy"
+    },
+    {
+        "title": "The secrets of the Swiss Fountain: the history of one of the most emblematic soda fountains in Santiago, its expansion and landing at Open Kennedy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/03/los-secretos-de-la-fuente-suiza-la-historia-de-una-de-las-fuentes-de-soda-mas-emblematica-de-santiago-su-expansion-y-el-desembarco-en-open-kennedy/",
+        "published_date": "2026-05-03 12:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "All the costs of studying more years: why Chile continues to train professionals in long university degrees and the debate that seeks to shorten them",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/02/cuanto-deben-durar-las-carreras-universitarias-como-la-educacion-escolar-la-empleabilidad-publica-o-el-factor-economico-influyen-en-el-debate/",
@@ -77,18 +91,18 @@
         "category": "Energy"
     },
     {
-        "title": "Galen Rupp, luxury guest of the Santiago Marathon 2026: \u201cWhat matters is how you live your day to day life and how intelligently you train\u201d",
+        "title": "Luis Cordero: \u201cThe Government should communicate its security plan and strategy more clearly\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/galen-rupp-invitado-de-lujo-del-maraton-de-santiago-2026-lo-que-importa-es-como-vives-tu-dia-a-dia-y-con-que-inteligencia-entrenas/",
-        "published_date": "2026-04-25 22:31:17",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/05/03/luis-cordero-el-gobierno-deberia-comunicar-de-un-modo-mas-claro-su-plan-de-seguridad-y-la-estrategia/",
+        "published_date": "2026-05-03 12:06:00",
+        "category": "Economy"
     },
     {
-        "title": "\u201cInstead of reducing spending, they could increase it\u201d: Ma\u00f1alich and Molina's critical look at the Treasury's recommendations to the Ministry of Health",
+        "title": "Undersecretary of Tourism announces project to adapt working hours for workers in the sector: \u201cIt is a topic that has been in high demand by the industry for a long time\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/en-lugar-de-disminuir-el-gasto-lo-podrian-aumentar-la-mirada-critica-de-manalich-y-molina-a-las-recomendaciones-de-hacienda-al-ministerio-de-salud/",
-        "published_date": "2026-04-25 14:51:28",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/05/03/subsecretaria-de-turismo-anuncia-proyecto-para-adaptar-jornada-de-trabajadores-del-sector-es-un-tema-bien-demandado-por-la-industria-hace-mucho-tiempo/",
+        "published_date": "2026-05-03 12:02:00",
+        "category": "Economy"
     },
     {
         "title": "Quiroz and the Dipres: it was not a mistake of words, it was a mistake of policy",
@@ -154,11 +168,32 @@
         "category": "Economy"
     },
     {
-        "title": "College of Teachers and the instructions from the Treasury: \u201cWhile Kast invites his friends to lunch at La Moneda, he wants to take away food from the students\u201d",
+        "title": "The most powerful woman in Chilean football: P\u00e9rez soy",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/25/colegio-de-profesores-y-el-instructivo-de-hacienda-mientras-kast-invita-a-almorzar-a-sus-amigos-a-la-moneda-le-quiere-quitar-la-alimentacion-a-los-estudiantes/",
-        "published_date": "2026-04-25 13:30:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/03/la-mujer-mas-poderosa-del-futbol-chileno-perez-soy/",
+        "published_date": "2026-05-03 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Preview of the book of intimate conversations with Carolina Toh\u00e1, part two: \u201cI went through some very serious situations of sexual abuse\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/03/adelanto-del-libro-de-conversaciones-intimas-con-carolina-toha-parte-dos-yo-pase-por-unas-situaciones-bien-graves-de-abuso-sexual/",
+        "published_date": "2026-05-03 12:12:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Editorial: When \u201crebuilding\u201d threatens the right to create",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/03/editorial-cuando-reconstruir-amenaza-el-derecho-a-crear/",
+        "published_date": "2026-05-03 12:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The race that has already begun: Kast's call to seek the best presidential letter from the ruling party and the movement of chips in the parties",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/03/la-carrera-que-ya-comenzo-el-llamado-de-kast-a-buscar-la-mejor-carta-presidencial-del-oficialismo-y-el-movimiento-de-fichas-en-los-partidos/",
+        "published_date": "2026-05-03 12:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Newsletter Poder: The new conservative wave of the Chilean right",
@@ -270,34 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/30/alcalde-iglesias-ante-la-renovacion-de-santa-laura-anunciada-por-segovia-union-espanola-no-ha-presentado-ningun-proyecto-asociado-a-su-estadio/",
         "published_date": "2026-05-01 01:55:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Johannes Kaiser: \u201cThe probability of us entering the Government is very, very low\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/30/johannes-kaiser-la-probabilidad-de-que-nosotros-entremos-al-gobierno-es-muy-muy-baja/",
-        "published_date": "2026-05-01 00:52:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cInjurious accusation\u201d: Minister Steinert announces a complaint against Senator N\u00fa\u00f1ez after statements about his relationship with a lawyer who defended a drug trafficker",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/30/imputacion-injuriosa-ministra-steinert-anuncia-querella-contra-senador-nunez-tras-dichos-sobre-su-vinculo-con-abogado-que-defendio-a-un-narco/",
-        "published_date": "2026-05-01 00:01:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The change of tone in the opposition with Minister Mara Sedini that triggered the Comptroller's opinion against her ministry",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/30/el-cambio-de-tono-en-la-oposicion-con-la-ministra-mara-sedini-que-gatillo-el-dictamen-de-contraloria-en-contra-de-su-ministerio/",
-        "published_date": "2026-04-30 22:19:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Entel promotes second version of the 55+ Fund with a focus on digital inclusion and support for older people",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/30/fondo-55-segunda-edicion-entel/",
-        "published_date": "2026-04-30 22:15:42",
         "category": "Local Events"
     }
 ]
