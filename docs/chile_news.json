@@ -1,10 +1,24 @@
 [
     {
+        "title": "Meta, OpenAI, NVIDIA and Google: the Government's tour to attract technology investment to Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/meta-openai-nvidia-y-google-la-gira-del-gobierno-para-atraer-inversion-en-tecnologia-a-chile/",
+        "published_date": "2026-05-07 22:13:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Blow to Colmena: court orders millionaire compensation to affiliate for charges with table declared unconstitutional",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/04/30/golpe-a-colmena-corte-ordena-millonaria-indemnizacion-a-afiliado-por-cobros-con-tabla-declarada-inconstitucional/",
         "published_date": "2026-04-30 20:59:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Equipment out of service and only 1.4% of imports audited: Comptroller's Office detects irregularities at the Iquique Customs",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/equipamientos-fuera-de-servicio-y-solo-14-de-importaciones-fiscalizadas-contraloria-detecta-irregularidades-en-la-aduana-de-iquique/",
+        "published_date": "2026-05-07 21:52:37",
+        "category": "Energy"
     },
     {
         "title": "Ximena Rinc\u00f3n refers to a possible increase in electricity bills in July: \u201cWe are working on a formula that allows us to address this issue\u201d",
@@ -77,6 +91,13 @@
         "category": "Energy"
     },
     {
+        "title": "Blow to Pi\u00f1era's legacy: Education cut the budget of the Bicentenario High Schools by almost half",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/el-golpe-a-los-liceos-bicentenarios-que-complica-a-uno-de-los-principales-legados-de-pinera-educacion-recorto-el-programa-en-mas-de-2-600-millones/",
+        "published_date": "2026-05-07 22:39:01",
+        "category": "Economy"
+    },
+    {
         "title": "The engine that does not finish accelerating: how the Chilean automotive market moves in 2026",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/",
@@ -140,18 +161,53 @@
         "category": "Economy"
     },
     {
-        "title": "BAIC in Beijing 2026: an electric SUV that denies its origins and a truck destined for Chile",
+        "title": "Prosecutor's Office charges homicide against inmate who murdered his cellmate and committed acts of cannibalism",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/29/baic-salon-beijing-2026-bj81-pickup/",
-        "published_date": "2026-04-29 20:18:25",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/07/fiscalia-confirma-actos-de-canibalismo-en-homicidio-dentro-de-carcel-de-la-serena-reo-saco-ojos-y-mordio-orejas-a-victima/",
+        "published_date": "2026-05-07 22:42:23",
+        "category": "Local Events"
     },
     {
-        "title": "Quiroz defends possible cuts to the PGU in the face of possible improper payments: \u201cThere could be people who obtained the benefit and should not\u201d",
+        "title": "The WhatsApp chat led by Mara Sedini's ministry with 128 mayors, which seeks to contain municipal pressure from the Government",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/29/quiroz-apunta-a-posibles-pagos-indebidos-de-la-pgu-tras-cuestionamientos-por-recortes-en-programas-sociales/",
-        "published_date": "2026-04-29 19:38:42",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/07/el-chat-de-whatsapp-que-encabeza-mara-sedini-con-128-alcaldes-con-el-que-busca-contener-la-presion-municipal-desde-el-gobierno/",
+        "published_date": "2026-05-07 22:36:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt's a lack of respect\u201d: Colo Colo Femenino team demonstrates against the content of the TVN vertical soap opera recorded at the Monumental",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/es-una-falta-de-respeto-plantel-de-colo-colo-femenino-se-manifiesta-en-contra-del-contenido-de-la-teleserie-vertical-de-tvn-grabada-en-el-monumental/",
+        "published_date": "2026-05-07 22:25:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Resignation of councilors Ugarte and De la Maza in Las Condes increases pressure on Second Floor cores who have broken Kast's promise",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/renuncia-de-concejales-ugarte-y-de-la-maza-en-las-condes-eleva-presion-a-cores-del-segundo-piso-que-han-incumplido-promesa-de-kast/",
+        "published_date": "2026-05-07 22:23:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cSilver\u201d: The exclusive space for people over 50 years old that will open in Mallplaza Ega\u00f1a",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/silver-el-exclusivo-espacio-para-personas-mayores-de-50-anos-que-se-inaugurara-en-mallplaza-egana/",
+        "published_date": "2026-05-07 22:00:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "This was the emotional release of baby rheas in Patagonia National Park",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/asi-fue-la-emotiva-liberacion-de-crias-de-nandu-en-el-parque-nacional-patagonia/",
+        "published_date": "2026-05-07 21:54:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diego Schalper informs the CMF regarding processing deadlines for the implementation of the Fintech Law",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/diego-schalper-oficia-a-la-cmf-por-plazos-de-tramitacion-para-la-implementacion-de-ley-fintech/",
+        "published_date": "2026-05-07 21:52:57",
+        "category": "Local Events"
     },
     {
         "title": "Claudio Bravo's new political signal: \u201cI would love to be mayor and thus be able to remove all corrupt people\u201d",
@@ -242,55 +298,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/06/la-compra-de-azul-azul-bajo-la-mira-como-el-caso-sartor-estallo-en-la-u-y-los-presuntos-delitos-que-investiga-la-fiscalia/",
         "published_date": "2026-05-06 22:06:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mallplaza's positive report: a profit that grows 20.5% in the first half of 2026 and a residential strategy that continues to advance",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/el-positivo-reporte-de-mallplaza-una-utilidad-que-crece-al-205-en-el-primer-semestre-de-2026-y-una-estrategia-residencial-que-sigue-avanzando/",
-        "published_date": "2026-05-06 02:36:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe way of doing politics also matters\u201d: Matthei debuts as a radio panelist with harsh criticism of the Government and the reconstruction plan",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/la-forma-de-hacer-politica-tambien-importa-matthei-debuta-como-panelista-radial-con-duras-criticas-al-gobierno-y-al-plan-de-reconstruccion/",
-        "published_date": "2026-05-06 01:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Autonomous Fiscal Council warns fiscal risks in mega reconstruction reform and requests additional financing sources",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/consejo-fiscal-autonomo-advierte-riesgos-fiscales-en-megarreforma-de-reconstruccion-y-pide-fuentes-de-financiamiento-adicionales/",
-        "published_date": "2026-05-05 23:33:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The curious Jumbo artifact that went viral on TikTok: this is how the machine that keeps vegetables fresh works",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/el-curioso-artefacto-del-jumbo-que-se-viralizo-en-tiktok-asi-funciona-la-maquina-que-mantiene-frescas-las-verduras/",
-        "published_date": "2026-05-05 22:18:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court of Appeals of Santiago rejects compensation for damages to churches during the social outbreak",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/corte-de-apelaciones-de-santiago-rechaza-indemnizacion-por-danos-a-iglesias-durante-el-estallido-social/",
-        "published_date": "2026-05-05 22:18:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The pressure against Minister Steinert exerted by Rodolfo Carter's core of trust and the so-called \"turn of the helm\" in Security",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/la-presion-contra-la-ministra-steinert-que-ha-ejercido-el-nucleo-de-confianza-de-rodolfo-carter-y-el-llamado-un-golpe-de-timon-en-seguridad/",
-        "published_date": "2026-05-05 22:07:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neither friends nor partners: study reveals who Chileans call first when everything gets complicated",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/ni-amigos-ni-pareja-estudio-revela-a-quien-llaman-primero-los-chilenos-cuando-todo-se-complica/",
-        "published_date": "2026-05-05 22:07:28",
         "category": "Local Events"
     }
 ]
