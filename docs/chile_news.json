@@ -77,18 +77,11 @@
         "category": "Energy"
     },
     {
-        "title": "Electric charging on the road takes the leap that the south expected: Porsche and Copec Voltex alliance",
+        "title": "The engine that does not finish accelerating: how the Chilean automotive market moves in 2026",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/29/carga-electrica-en-ruta/",
-        "published_date": "2026-04-29 11:30:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The Comptroller's Office sets rules for drug tests in the Government: there will be 30 days to do them and the results will be public",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/28/contraloria-fija-reglas-a-los-test-de-drogas-en-el-gobierno-habra-30-dias-para-hacerselos-y-resultados-seran-publicos/",
-        "published_date": "2026-04-29 01:38:13",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/",
+        "published_date": "2026-05-07 12:07:12",
+        "category": "Economy"
     },
     {
         "title": "Amid Treasury cuts, Government decrees an increase of $4,758 million in the budget for the Comptroller's Office",
@@ -159,6 +152,27 @@
         "url": "https://www.theclinic.cl/2026/04/29/quiroz-apunta-a-posibles-pagos-indebidos-de-la-pgu-tras-cuestionamientos-por-recortes-en-programas-sociales/",
         "published_date": "2026-04-29 19:38:42",
         "category": "Economy"
+    },
+    {
+        "title": "Claudio Bravo's new political signal: \u201cI would love to be mayor and thus be able to remove all corrupt people\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/06/la-nueva-senal-politica-de-claudio-bravo-me-encantaria-ser-alcalde-y-asi-poder-remover-a-todo-corrupto/",
+        "published_date": "2026-05-07 02:49:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "PlaIA 2026: artificial intelligence and startups event will bring together founders, developers and investors in Zapallar",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/06/plaia-2026-founders-inversionistas-zapallar/",
+        "published_date": "2026-05-07 01:22:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe continue working with all political forces\u201d: The Government's reaction after the break with the PDG",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/06/seguimos-trabajando-con-todas-las-fuerzas-politicas-la-reaccion-del-gobierno-tras-el-quiebre-con-el-pdg/",
+        "published_date": "2026-05-07 00:48:20",
+        "category": "Local Events"
     },
     {
         "title": "\u201cDo you want us to believe what you are saying?\u201d: The tense moment that Undurraga experienced at the GAM when he was rebuked for the failed expansion of the cultural center",
@@ -277,27 +291,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/05/ni-amigos-ni-pareja-estudio-revela-a-quien-llaman-primero-los-chilenos-cuando-todo-se-complica/",
         "published_date": "2026-05-05 22:07:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey asked to either leave or lower the rent\u201d: Ripley renegotiated with Mall El Centro and will leave two full floors",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/ellos-pedian-o-salir-o-bajar-la-renta-ripley-renegocio-con-mall-el-centro-y-dejara-dos-pisos-completos/",
-        "published_date": "2026-05-05 21:54:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The era of 1,300 kilometers: Geely EX5 EM-i lands in Chile betting on extreme autonomy",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/geely-ex5-em-i-2/",
-        "published_date": "2026-05-05 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is Uber Women, the new option of the app that arrives in Chile and that prioritizes the meeting between passengers and drivers",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/05/asi-es-uber-mujeres-la-nueva-opcion-de-la-app-que-llega-a-chile-y-que-prioriza-el-encuentro-entre-pasajeras-y-conductoras/",
-        "published_date": "2026-05-05 04:00:00",
         "category": "Local Events"
     }
 ]
