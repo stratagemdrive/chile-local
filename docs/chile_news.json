@@ -84,13 +84,6 @@
         "category": "Energy"
     },
     {
-        "title": "The new brand of the Chery Group lands with force: LEPAS at the Beijing Motor Show aims directly at Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/04/30/lepas-en-el-salon-de-beijing/",
-        "published_date": "2026-04-30 11:30:00",
-        "category": "Energy"
-    },
-    {
         "title": "Blow to Pi\u00f1era's legacy: Education cut the budget of the Bicentenario High Schools by almost half",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/07/el-golpe-a-los-liceos-bicentenarios-que-complica-a-uno-de-los-principales-legados-de-pinera-educacion-recorto-el-programa-en-mas-de-2-600-millones/",
@@ -159,6 +152,27 @@
         "url": "https://www.theclinic.cl/2026/05/01/la-descarnada-critica-de-pablo-longueira-al-gobierno-de-kast-el-nivel-de-improvisacion-a-mi-me-sorprende/",
         "published_date": "2026-05-01 19:35:59",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cThe important thing is that we are fine\u201d: deputy Lorena Pizarro and her chief of staff were victims of a slamming door in Macul",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/lo-importante-es-que-estamos-bien-diputada-lorena-pizarro-y-su-jefa-de-gabinete-fueron-victimas-de-un-portonazo-en-macul/",
+        "published_date": "2026-05-08 02:35:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kast supports Quiroz for the possible use of decrees if the mega-reform does not advance: \"Governments continue to govern and there are matters that do not require law\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/kast-respalda-a-quiroz-por-posible-uso-de-decretos-si-la-megarreforma-no-avanza-los-gobiernos-siguen-gobernando-y-hay-materias-que-no-requieren-ley/",
+        "published_date": "2026-05-08 01:41:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minsal reports the preventive isolation of two Chileans who boarded the cruise ship with a hantavirus outbreak",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/07/minsal-informa-el-aislamiento-preventivo-de-dos-chilenos-que-subieron-al-crucero-con-brote-de-hantavirus/",
+        "published_date": "2026-05-08 00:30:33",
+        "category": "Local Events"
     },
     {
         "title": "Prosecutor's Office charges homicide against inmate who murdered his cellmate and committed acts of cannibalism",
@@ -277,27 +291,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/06/los-anos-de-pablo-cerda-fuera-de-la-television-y-su-regreso-al-teatro-tras-18-anos-decidi-hace-muchos-anos-no-tener-hijos-creo-que-mi-legado-son-las-peliculas-la-ficcion/",
         "published_date": "2026-05-06 22:39:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "How the operation in Temucuicui gave Steinert a break amid criticism of his management and his new call to be patient to show results",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/06/como-el-operativo-en-temucuicui-dio-un-respiro-a-steinert-en-medio-de-criticas-a-su-gestion-y-su-nuevo-llamado-a-tener-paciencia-para-mostrar-resultados/",
-        "published_date": "2026-05-06 22:26:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The biologist who dedicates his life to protecting penguins raises an alert in Chile for the Humboldt penguin: \u201cBetween 2021 and 2025 the population fell by more than 60%\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/06/el-biologo-que-dedica-su-vida-a-proteger-a-los-pinguinos-levanta-alerta-en-chile-por-el-de-humboldt-entre-2021-y-2025-la-poblacion-cayo-mas-de-60/",
-        "published_date": "2026-05-06 22:21:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The purchase of Azul Azul under the spotlight: how the Sartor Case broke out in the U and the alleged crimes investigated by the Prosecutor's Office",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/06/la-compra-de-azul-azul-bajo-la-mira-como-el-caso-sartor-estallo-en-la-u-y-los-presuntos-delitos-que-investiga-la-fiscalia/",
-        "published_date": "2026-05-06 22:06:24",
         "category": "Local Events"
     }
 ]
