@@ -84,27 +84,6 @@
         "category": "Energy"
     },
     {
-        "title": "All the costs of studying more years: why Chile continues to train professionals in long university degrees and the debate that seeks to shorten them",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/02/cuanto-deben-durar-las-carreras-universitarias-como-la-educacion-escolar-la-empleabilidad-publica-o-el-factor-economico-influyen-en-el-debate/",
-        "published_date": "2026-05-02 12:26:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The woman who spent six months in prison for a false positive for drugs and who today questions her compensation: \u201cThey put me in jail for something I didn't do\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/02/la-mujer-que-paso-seis-meses-presa-por-un-falso-positivo-de-drogas-y-que-hoy-cuestiona-su-compensacion-me-metieron-a-la-carcel-por-algo-que-no-hice/",
-        "published_date": "2026-05-02 12:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Alejandro Micco on Quiroz: \u201cMaking so many enemies in all the ministries, because he is very confrontational, at some point it can take its toll on him\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/02/alejandro-micco-sobre-quiroz-ganarse-tantos-enemigos-en-todos-los-ministerios-porque-es-muy-confrontacional-en-algun-momento-le-puede-pasar-la-cuenta/",
-        "published_date": "2026-05-02 12:00:00",
-        "category": "Energy"
-    },
-    {
         "title": "Chile Day: President of the Central Bank announces measures to expand payments with electronic transfers and regulatory framework for stablecoins",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/08/chile-day-presidenta-del-banco-central-anuncia-medidas-para-expandir-pagos-con-transferencias-electronicas-y-marco-regulatorio-para-stablecoins/",
@@ -168,11 +147,74 @@
         "category": "Economy"
     },
     {
-        "title": "Quiroz and the Dipres: it was not a mistake of words, it was a mistake of policy",
+        "title": "At the age of 25, the artist Alonso Bello inaugurates a free, flooded gallery in Barrio Italia where the public enters in fisherman costumes to see his interactive works",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/02/quiroz-y-la-dipres-no-fue-un-error-de-palabra-fue-un-error-de-politica/",
-        "published_date": "2026-05-02 12:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/10/a-los-25-anos-el-artista-alonso-bello-inaugura-una-galeria-inundada-y-gratuita-en-barrio-italia-donde-el-publico-entra-con-trajes-de-pescador-para-ver-sus-obras-interactivas/",
+        "published_date": "2026-05-10 21:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deputy Javier Olivares reports that he was attacked by an amateur player from Club Montevideo de Olmu\u00e9 after yelling at him: \u201cthe left always lives\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/diputado-javier-olivares-denuncia-que-fue-agredido-por-jugador-amateur-de-club-montevideo-de-olmue-tras-gritar-la-izquierda-siempre-vive/",
+        "published_date": "2026-05-10 20:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are concerned about the possibility of narco-funerals\u201d: \u200b\u200bthe letter with which residents of Providencia seek to stop the operation of Iv\u00e1n Mart\u00ednez's \u201c5-star\u201d funeral home",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/nos-preocupa-la-posibilidad-de-narcofunerales-la-carta-con-que-vecinos-de-providencia-buscan-frenar-el-funcionamiento-de-funeraria-5-estrellas-de-ivan-martinez/",
+        "published_date": "2026-05-10 18:06:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThese are the consequences of what the President said\u201d: Deputy Araya reveals dozens of death threats after controversy over \u201ctsunami\u201d of indications",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/estas-son-las-consecuencias-de-lo-que-dijo-el-presidente-diputado-araya-denuncia-decenas-de-amenazas-de-muerte-tras-polemica-por-tsunami-de-indicaciones/",
+        "published_date": "2026-05-10 16:47:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lotus, the Chilean production company behind Lollapalooza, is betting on a new Latin music festival: BAMBA will debut with two days at Parque O'Higgins",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/lotus-la-productora-chilena-detras-de-lollapalooza-apuesta-por-un-nuevo-festival-de-musica-latina-bamba-debutara-con-dos-dias-en-el-parque-ohiggins/",
+        "published_date": "2026-05-10 16:19:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The day DJ M\u00e9ndez told the story behind Madre M\u00eda: \u201cI wanted to say old lady, I realize that as an adult I have screwed up a lot, I'm sorry for that\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/el-dia-que-dj-mendez-conto-la-historia-detras-de-madre-mia-queria-decirle-vieja-me-doy-cuenta-que-de-adulto-te-he-cagado-mucho-lo-siento-por-eso/",
+        "published_date": "2026-05-10 14:46:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in San Joaqu\u00edn: three elderly adults die after a fire that destroyed a light-material home",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/tragedia-en-san-joaquin-tres-adultos-mayores-mueren-tras-incendio-que-destruyo-una-vivienda-de-material-ligero/",
+        "published_date": "2026-05-10 14:35:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The gender debt on IPSA boards: only four companies already meet the goal of 40% women by 2032",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/la-deuda-de-genero-en-los-directorios-del-ipsa-solo-cuatro-empresas-ya-cumplen-la-meta-de-40-de-mujeres-para-2032/",
+        "published_date": "2026-05-10 14:17:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Interview with the owner of Bar El T\u00fanel: almost 60 years of history of the place, the answer to the old myth of whether it was ever a cabaret and its foray into social networks",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/entrevista-al-dueno-del-bar-el-tunel-casi-60-anos-de-historia-del-local-la-respuesta-al-viejo-mito-de-si-alguna-vez-fue-un-cabaret-y-su-incursion-en-redes-sociales/",
+        "published_date": "2026-05-10 13:55:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Kike Mujica: Parisi and Jiles, a chapter of Primer Plano",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/10/columna-de-kike-mujica-parisi-y-jiles-un-capitulo-de-primer-plano/",
+        "published_date": "2026-05-10 12:19:00",
+        "category": "Local Events"
     },
     {
         "title": "The first \u201cTecito con Evelyn\u201d: Matthei gathers 20 followers in a cafeteria in Providencia after a call that had more than 5 thousand registered",
@@ -242,76 +284,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/08/instalan-escultura-de-bronce-de-historico-lider-de-bomberos-en-pleno-paseo-bulnes-pesa-250-kilos-y-mide-mas-de-tres-metros/",
         "published_date": "2026-05-08 22:30:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heritage Service denounces the loss of a valuable sample of 30 heritage arpilleras from Villa Grimaldi: \u201cA possible theft cannot be ruled out\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/servicio-del-patrimonio-denuncia-extravio-de-valiosa-muestra-de-30-arpilleras-patrimoniales-desde-villa-grimaldi-no-se-descarta-un-eventual-hurto/",
-        "published_date": "2026-05-08 22:27:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daniela Catrileo receives prestigious German Anna Seghers literary award",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/daniela-catrileo-recibe-prestigioso-premio-literario-aleman-anna-seghers/",
-        "published_date": "2026-05-08 22:18:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI can't believe it, I just paid for the full year\u201d: Exclusive Pilates center in the eastern sector of Santiago declares bankruptcy",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/no-puedo-creerlo-acabo-de-pagar-el-ano-completo-exclusivo-centro-de-pilates-del-sector-oriente-de-santiago-se-declara-en-quiebra/",
-        "published_date": "2026-05-08 22:13:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mobile gaming gains ground: screen, autonomy and control come to define the choice of a smartphone",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/telefonos-para-juego-como-escogerlos/",
-        "published_date": "2026-05-08 22:06:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt is not a court nor a space focused only on legal conflicts\u201d: the details of \u201cFuerte y Claro\u201d, the new program by Carmen Gloria Arroyo on Mega",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/no-es-un-tribunal-ni-un-espacio-centrado-solo-en-conflictos-legales-los-detalles-de-fuerte-y-claro-el-nuevo-programa-de-carmen-gloria-arroyo-en-mega/",
-        "published_date": "2026-05-08 22:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt is already happening\u201d: Ecologist Olga Barbosa warns how climate change is affecting the flavor of Chilean wines",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/ya-esta-ocurriendo-ecologa-olga-barbosa-advierte-como-el-cambio-climatico-esta-afectando-el-sabor-de-los-vinos-chilenos/",
-        "published_date": "2026-05-08 22:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe important thing is that we are fine\u201d: deputy Lorena Pizarro and her chief of staff were victims of a slamming door in Macul",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/lo-importante-es-que-estamos-bien-diputada-lorena-pizarro-y-su-jefa-de-gabinete-fueron-victimas-de-un-portonazo-en-macul/",
-        "published_date": "2026-05-08 02:35:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kast supports Quiroz for the possible use of decrees if the mega-reform does not advance: \"Governments continue to govern and there are matters that do not require law\"",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/kast-respalda-a-quiroz-por-posible-uso-de-decretos-si-la-megarreforma-no-avanza-los-gobiernos-siguen-gobernando-y-hay-materias-que-no-requieren-ley/",
-        "published_date": "2026-05-08 01:41:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minsal reports the preventive isolation of two Chileans who boarded the cruise ship with a hantavirus outbreak",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/minsal-informa-el-aislamiento-preventivo-de-dos-chilenos-que-subieron-al-crucero-con-brote-de-hantavirus/",
-        "published_date": "2026-05-08 00:30:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office charges homicide against inmate who murdered his cellmate and committed acts of cannibalism",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/fiscalia-confirma-actos-de-canibalismo-en-homicidio-dentro-de-carcel-de-la-serena-reo-saco-ojos-y-mordio-orejas-a-victima/",
-        "published_date": "2026-05-07 22:42:23",
         "category": "Local Events"
     }
 ]
