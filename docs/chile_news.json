@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cIt leaves us completely defenseless against AI companies\u201d: SCD rejects the Government's indication of the Reconstruction Law",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/12/nos-deja-en-la-indefension-total-frente-a-las-empresas-de-ia-scd-rechaza-indicacion-del-gobierno-a-ley-de-reconstruccion/",
+        "published_date": "2026-05-13 00:22:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Meta, OpenAI, NVIDIA and Google: the Government's tour to attract technology investment to Chile",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/07/meta-openai-nvidia-y-google-la-gira-del-gobierno-para-atraer-inversion-en-tecnologia-a-chile/",
@@ -84,6 +91,13 @@
         "category": "Energy"
     },
     {
+        "title": "Strengthening 5G and fixed internet while betting on Starlink: Entel's challenges in Peru after its explosive growth",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/13/fortalecer-el-5g-y-el-internet-fijo-mientras-se-apuesta-por-starlink-los-desafios-de-entel-en-peru-tras-su-explosivo-crecimiento/",
+        "published_date": "2026-05-13 11:56:00",
+        "category": "Economy"
+    },
+    {
         "title": "Biministro Mas celebrates the increase in the price of copper: \u201cIt means greater tax collection for the State\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/12/biministro-mas-celebra-aumento-en-el-precio-del-cobre-significa-una-mayor-recaudacion-tributaria-para-el-estado/",
@@ -131,6 +145,13 @@
         "url": "https://www.theclinic.cl/2026/05/05/revisar-propuesta-de-devolucion-de-iva-y-visita-a-nueva-directiva-pdg-los-planes-de-parisi-en-su-retorno-a-chile-y-el-almuerzo-que-sostendra-con-quiroz/",
         "published_date": "2026-05-05 22:03:33",
         "category": "Economy"
+    },
+    {
+        "title": "The world is electrified in Chinese: CATL accumulates 40% of the batteries that move the planet",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/13/produccion-mundial-baterias-autos-electricos-china/",
+        "published_date": "2026-05-13 12:31:11",
+        "category": "Local Events"
     },
     {
         "title": "\u201cUsers always tend to play more mathematics\u201d: Cachai Online, the app that helps students prepare for the PAES",
@@ -263,13 +284,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/11/ministra-toledo-en-chileday-adelanto-que-este-ano-sera-historico-en-sesiones-del-comite-de-ministros-y-en-resolucion-de-proyectos-de-inversion/",
         "published_date": "2026-05-11 22:01:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juanes, Marc Anthony and Fito Paez head the poster that will mark the debut of the Bamba Festival on October 24 and 25, 2026 at Parque O'Higgins.",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/11/juanes-marc-anthony-y-fito-paez-encabezan-el-cartel-que-marcara-el-debut-del-festival-bamba-el-proximo-24-y-25-de-octubre-de-2026-en-el-parque-ohiggins/",
-        "published_date": "2026-05-11 21:41:15",
         "category": "Local Events"
     }
 ]
