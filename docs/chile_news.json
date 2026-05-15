@@ -7,13 +7,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Meta, OpenAI, NVIDIA and Google: the Government's tour to attract technology investment to Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/meta-openai-nvidia-y-google-la-gira-del-gobierno-para-atraer-inversion-en-tecnologia-a-chile/",
-        "published_date": "2026-05-07 22:13:13",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Supreme Court rejects appeal for protection from the student who murdered the inspector in Calama: he sought to suspend the procedure due to \u201cmental insanity\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/14/corte-suprema-rechaza-recurso-de-amparo-del-estudiante-que-asesino-a-inspectora-en-calama-buscaba-suspender-el-procedimiento-por-enajenacion-mental/",
@@ -105,13 +98,6 @@
         "category": "Energy"
     },
     {
-        "title": "Equipment out of service and only 1.4% of imports audited: Comptroller's Office detects irregularities at the Iquique Customs",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/equipamientos-fuera-de-servicio-y-solo-14-de-importaciones-fiscalizadas-contraloria-detecta-irregularidades-en-la-aduana-de-iquique/",
-        "published_date": "2026-05-07 21:52:37",
-        "category": "Energy"
-    },
-    {
         "title": "Finance Commission rejects article of the mega-reform that sought to modify the Intellectual Property Law",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/13/comision-de-hacienda-rechaza-articulo-de-la-megarreforma-que-buscaba-modificar-la-ley-de-propiedad-intelectual/",
@@ -161,11 +147,74 @@
         "category": "Economy"
     },
     {
-        "title": "Blow to Pi\u00f1era's legacy: Education cut the budget of the Bicentenario High Schools by almost half",
+        "title": "Kast defends indication on migrants after the removal of Chomali and proposes \u201creestablishing a police presence\u201d in health centers",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/el-golpe-a-los-liceos-bicentenarios-que-complica-a-uno-de-los-principales-legados-de-pinera-educacion-recorto-el-programa-en-mas-de-2-600-millones/",
-        "published_date": "2026-05-07 22:39:01",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/15/kast-defiende-indicacion-sobre-migrantes-tras-el-desmarque-de-chomali-y-propone-restablecer-una-presencia-policial-en-centros-de-salud/",
+        "published_date": "2026-05-15 23:46:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zoom on the budget cut of the Ministry of Women: $2,741 million less concentrated in funds and programs delivered by Sernameg",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/zoom-al-recorte-presupuestario-del-ministerio-de-la-mujer-2-741-millones-menos-concentrados-en-fondos-y-programas-entregados-por-sernameg/",
+        "published_date": "2026-05-15 22:56:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government and opposition senators open negotiations to expand the crimes included in the Economic Intelligence Subsystem project",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/gobierno-y-senadores-de-oposicion-abren-negociacion-para-ampliar-los-delitos-incluidos-en-el-proyecto-de-subsistema-de-inteligencia-economica/",
+        "published_date": "2026-05-15 22:54:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cut of more than $56 billion in Transportation raises alerts for possible impacts on regional buses and electromobility",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/recorte-de-mas-de-56-mil-millones-en-transporte-enciende-alertas-por-posibles-impactos-en-buses-regionales-y-electromovilidad/",
+        "published_date": "2026-05-15 22:51:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cMinisters do not 'distance themselves' from their own Government\u201d: The discomfort caused on the right by Minister Chomali's refusal to address migrants",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/los-ministros-no-se-desmarcan-de-su-propio-gobierno-la-incomodidad-que-provoco-en-la-derecha-el-descuelgue-de-la-ministra-chomali-a-indicacion-sobre-migrantes/",
+        "published_date": "2026-05-15 22:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Madrid to Santiago: Flabelus, the Spanish artisan shoe brand that lands in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/de-madrid-a-santiago-flabelus-la-marca-de-zapatos-artesanales-espanoles-que-aterriza-en-chile/",
+        "published_date": "2026-05-15 22:38:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ferrari Amalfi lands in Chile: the new grand tourer that takes over from the Roma",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/ferrari-amalfi-en-chile/",
+        "published_date": "2026-05-15 22:27:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hard setback for CAE debtors: Supreme Court shields the TGR and declares more than 1,400 protection resources for credit collections inadmissible",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/tesoreria-logra-reves-judicial-para-deudores-del-cae-corte-suprema-declara-inadmisibles-mas-de-1-400-recursos-de-proteccion-por-cobros-del-credito/",
+        "published_date": "2026-05-15 22:26:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Culture is the hardest hit ministry and cuts almost 10% of its budget: from the Museum of Memory to the Cultural Pass are affected",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/gobierno-kast-recorte-presupuesto-cultura-2026-teatro-a-mil-museo-memoria/",
+        "published_date": "2026-05-15 22:23:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marcelo Gonz\u00e1lez, the Chilean scientist who will be part of an international group of experts that will analyze the impact of plastics in polar environments",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/15/marcelo-gonzalez-el-cientifico-chileno-que-integrara-grupo-internacional-de-expertos-que-analizara-el-impacto-de-los-plasticos-en-entornos-polares/",
+        "published_date": "2026-05-15 22:17:09",
+        "category": "Local Events"
     },
     {
         "title": "Bachelet in Uruguay: reveals her future agenda, targets the extreme right and advocates for women to lead spaces of power",
@@ -235,76 +284,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/14/la-salida-es-por-la-izquierda-la-exposicion-de-jeannette-jara-en-el-foro-progresista-de-sao-paulo-y-su-despliegue-por-sudamericano/",
         "published_date": "2026-05-14 21:50:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 400,000 applications with salary claims of around $1 million register the Expo Laborum Online 2026",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/14/mas-de-400-000-postulaciones-con-pretensiones-de-sueldo-en-torno-a-1-millon-registra-la-expo-laborum-online-2026/",
-        "published_date": "2026-05-14 21:22:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "RN revives criticism of La Moneda's communication management and the role of spokesperson Mara Sedini, and sparks annoyance in the Palace",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/14/rn-revive-criticas-al-manejo-comunicacional-de-la-moneda-y-al-rol-de-la-vocera-mara-sedini-y-desata-molestia-en-palacio/",
-        "published_date": "2026-05-14 21:14:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The case of the two Carabineros who were sentenced to six years in prison for robbing a motorist during an inspection",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/el-caso-de-los-dos-carabineros-que-fueron-condenados-a-seis-anos-de-prision-por-robarle-a-un-motorista-durante-una-fiscalizacion/",
-        "published_date": "2026-05-14 01:01:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Can we govern by avoiding conflict and with friendly fire?Jos\u00e9 Antonio Kast's particular way of exercising power",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/se-puede-gobernar-evitando-el-conflicto-y-con-fuego-amigo/",
-        "published_date": "2026-05-14 00:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe are going to be on the same path to fight for the middle class\u201d: Mayor of Puente Alto, Mat\u00edas Toledo, met with Franco and Zandra Parisi",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/vamos-a-estar-en-la-misma-vereda-para-luchar-por-la-clase-media-alcalde-de-puente-alto-matias-toledo-se-reunio-con-franco-y-zandra-parisi/",
-        "published_date": "2026-05-13 23:26:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The silent dispute for the next presidency of the Frente Amplio and the doubts that arise about the continuity of Constanza Mart\u00ednez",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/la-silenciosa-disputa-por-la-proxima-presidencia-del-frente-amplio-y-las-dudas-que-surgen-sobre-la-continuidad-de-constanza-martinez/",
-        "published_date": "2026-05-13 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Review the concession contract or a possible change of shareholders: the position of the candidates for the rectorship of the University of Chile in the face of the Azul Azul crisis",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/revisar-el-contrato-de-concesion-o-un-posible-cambio-de-accionistas-la-postura-de-los-candidatos-a-la-rectoria-de-la-u-de-chile-frente-a-la-crisis-de-azul-azul/",
-        "published_date": "2026-05-13 22:51:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mercedes Ron and her path from Wattpad to being a bestseller: \u201cYou have to write for yourself, fall in love with your own book\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/mercedes-ron-y-su-camino-desde-wattpad-a-ser-exito-de-ventas-hay-que-escribir-para-uno-mismo-enamorarte-de-tu-propio-libro/",
-        "published_date": "2026-05-13 22:08:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cHow do you intend to keep the network functioning?\u201d: The alert generated in the Health sector by the million-dollar cuts to hospitals and primary care",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/como-pretenden-mantener-la-red-funcionando-la-alerta-que-genera-en-el-sector-salud-los-millonarios-recortes-a-hospitales-y-la-atencion-primaria/",
-        "published_date": "2026-05-13 22:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Kast met with opposition mayors in La Moneda and apologized to those who \u201cdid not receive\u201d the invitation",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/presidente-kast-se-reunio-con-alcaldes-de-oposicion-en-la-moneda-y-se-disculpo-con-aquellos-que-no-les-llego-la-invitacion/",
-        "published_date": "2026-05-13 22:00:11",
         "category": "Local Events"
     }
 ]
