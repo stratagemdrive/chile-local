@@ -35,6 +35,13 @@
         "category": "Military"
     },
     {
+        "title": "From Ros\u00e9 to Burgundy Strawberry: why Gato decided to can its products and join the global trend of carbonated wine cocktails",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/14/desde-rose-a-borgona-frutilla-gato-apuesta-por-cocteles-de-vino-gasificados-en-lata-para-acercarse-a-nuevos-consumidores/",
+        "published_date": "2026-05-15 00:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "Chilean Light Electromobility Association: \u201cThe acquisition of a light electric vehicle is no longer seen as an expensive investment\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/14/asociacion-chilena-de-electromovilidad-liviana-la-adquisicion-de-un-vehiculo-electrico-liviano-ya-dejo-de-verse-como-una-inversion-cara/",
@@ -161,11 +168,39 @@
         "category": "Economy"
     },
     {
-        "title": "The engine that does not finish accelerating: how the Chilean automotive market moves in 2026",
+        "title": "Bachelet in Uruguay: reveals her future agenda, targets the extreme right and advocates for women to lead spaces of power",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/07/ventas-de-autos-en-chile-abril-2026/",
-        "published_date": "2026-05-07 12:07:12",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/15/bachelet-en-uruguay-revela-su-futura-agenda-apunta-contra-la-extrema-derecha-y-aboga-por-que-mujeres-lideren-espacios-de-poder/",
+        "published_date": "2026-05-15 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI did not make an absolute promise to pardon all people\u201d: Kast fixes position before consultation on those convicted for human rights",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/14/no-hice-una-promesa-absoluta-de-indultar-a-todas-las-personas-kast-fija-postura-ante-consulta-sobre-condenados-por-derechos-humanos/",
+        "published_date": "2026-05-15 02:49:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The silent presence of Ed Sheeran in Chile: he will be the surprise guest of Martin Garrix at the Movistar Arena",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/14/la-silenciosa-presencia-de-ed-sheeran-en-chile-sera-el-invitado-sorpresa-de-martin-garrix-en-el-movistar-arena/",
+        "published_date": "2026-05-15 02:19:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago leads the sad world ranking and appears as the capital with the worst air quality: it surpasses China, India and Indonesia in pollution",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/14/santiago-registra-la-peor-calidad-del-aire-en-el-mundo-segun-plataforma-internacional-pero-bajo-la-norma-chilena-la-clasificacion-solo-es-regular/",
+        "published_date": "2026-05-15 01:18:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inflated grades?The percentage of students with an average over 6.0 has doubled since the incorporation of the ranking and it would not be due to greater learning",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/14/notas-infladas-porcentaje-de-estudiantes-con-promedio-sobre-60-se-duplico-desde-la-incorporacion-del-ranking-y-no-seria-por-mayor-aprendizaje/",
+        "published_date": "2026-05-15 00:00:00",
+        "category": "Local Events"
     },
     {
         "title": "\u201cEl deshielo\u201d by Manuela Martelli debuted in Cannes with positive reception from the public",
@@ -270,41 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/13/presidente-kast-se-reunio-con-alcaldes-de-oposicion-en-la-moneda-y-se-disculpo-con-aquellos-que-no-les-llego-la-invitacion/",
         "published_date": "2026-05-13 22:00:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is no clear vision that defines the purpose\u201d: The surprising brake that leaves Santiago's aspiration to organize the 2030 Youth Olympic Games on hold",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/no-hay-una-vision-clara-que-defina-el-proposito-el-sorpresivo-freno-que-deja-en-suspenso-la-aspiracion-de-santiago-de-organizar-los-juegos-olimpicos-de-la-juventud-2030/",
-        "published_date": "2026-05-13 21:45:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world is electrified in Chinese: CATL accumulates 40% of the batteries that move the planet",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/produccion-mundial-baterias-autos-electricos-china/",
-        "published_date": "2026-05-13 12:31:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cUsers always tend to play more mathematics\u201d: Cachai Online, the app that helps students prepare for the PAES",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/12/los-usuarios-tienden-a-jugar-siempre-mas-matematicas-cachai-online-la-app-que-ayuda-a-estudiantes-a-preparar-la-paes/",
-        "published_date": "2026-05-12 23:08:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Biob\u00edo, Posta Central and S\u00f3tero del R\u00edo hospitals among the more than 80 facilities that will suffer the budget cut in the Ministry of Health",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/12/hospitales-del-biobio-posta-central-y-sotero-del-rio-entre-los-mas-de-80-recintos-que-sufriran-el-recorte-de-presupuesto-en-el-ministerio-de-salud/",
-        "published_date": "2026-05-12 23:07:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alejandra Mizala and Francisco Mart\u00ednez go to the second round in the rector election of the University of Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/12/alejandra-mizala-y-francisco-martinez-pasan-a-segunda-vuelta-en-eleccion-de-rectoria-de-la-universidad-de-chile/",
-        "published_date": "2026-05-12 22:16:58",
         "category": "Local Events"
     }
 ]
