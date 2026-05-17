@@ -91,13 +91,6 @@
         "category": "Energy"
     },
     {
-        "title": "Owners of Tiramis\u00fa add a new Italian restaurant in Isidora Goyenechea: Panino Amorino",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/08/duenos-de-tiramisu-suman-un-nuevo-restaurante-italiano-en-isidora-goyenechea-panino-amorino/",
-        "published_date": "2026-05-09 01:00:00",
-        "category": "Energy"
-    },
-    {
         "title": "Finance Commission rejects article of the mega-reform that sought to modify the Intellectual Property Law",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/13/comision-de-hacienda-rechaza-articulo-de-la-megarreforma-que-buscaba-modificar-la-ley-de-propiedad-intelectual/",
@@ -138,6 +131,13 @@
         "url": "https://www.theclinic.cl/2026/05/11/movicenter-mercado-libre-evento-descuentos/",
         "published_date": "2026-05-11 22:08:30",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cI am concerned and the decision seems terrible to me\u201d: \u00c9rika Olivera's analysis of the cancellation of the National and Paranational Games",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/16/me-preocupa-y-me-parece-terrible-la-decision-el-analisis-de-erika-olivera-sobre-la-cancelacion-de-los-juegos-nacionales-y-paranacionales/",
+        "published_date": "2026-05-17 00:01:31",
+        "category": "Local Events"
     },
     {
         "title": "List that had won the annulled PDG elections charges against the Supreme Court, accuses \u201cserious crisis of institutional legitimacy\u201d and seeks to appeal",
@@ -270,13 +270,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/15/gobierno-kast-recorte-presupuesto-cultura-2026-teatro-a-mil-museo-memoria/",
         "published_date": "2026-05-15 22:23:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcelo Gonz\u00e1lez, the Chilean scientist who will be part of an international group of experts that will analyze the impact of plastics in polar environments",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/15/marcelo-gonzalez-el-cientifico-chileno-que-integrara-grupo-internacional-de-expertos-que-analizara-el-impacto-de-los-plasticos-en-entornos-polares/",
-        "published_date": "2026-05-15 22:17:09",
         "category": "Local Events"
     }
 ]
