@@ -21,6 +21,13 @@
         "category": "Military"
     },
     {
+        "title": "Boric's time in Berlin: he talks about energy and defends his government's strategy in the face of the fuel crisis in contrast to \u201cother rulers\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/19/el-paso-de-boric-por-berlin-expune-sobre-energia-y-defiende-la-estrategia-de-su-gobierno-ante-la-crisis-de-combustibles-en-contraste-con-otros-gobernantes/",
+        "published_date": "2026-05-19 13:25:51",
+        "category": "Energy"
+    },
+    {
         "title": "Behind the wheel of the Jetour T1 PHEV: 341 horses and some unanswered questions",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/18/al-volante-jetour-t1-phev/",
@@ -67,13 +74,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/13/el-descubrimiento-fue-anecdotico-estudio-chileno-prueba-terapia-electrica-para-aliviar-dolores-menstruales/",
         "published_date": "2026-05-13 22:45:14",
-        "category": "Energy"
-    },
-    {
-        "title": "One thousand inspections, 459 detainees and 223 foreigners reported: the balance of the mega police operation led by the Ministry of Security",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/11/mil-fiscalizaciones-459-detenidos-y-223-extranjeros-denunciados-el-balance-del-megaoperativo-policial-liderado-por-el-ministerio-de-seguridad/",
-        "published_date": "2026-05-11 13:09:25",
         "category": "Energy"
     },
     {
@@ -138,6 +138,20 @@
         "url": "https://www.theclinic.cl/2026/05/11/movicenter-mercado-libre-evento-descuentos/",
         "published_date": "2026-05-11 22:08:30",
         "category": "Economy"
+    },
+    {
+        "title": "Undersecretary Quintana rules out that there is no security plan: \u201cThe deputies expected to be given a little ringed book\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/subsecretaria-quintana-descarta-que-no-exista-un-plan-de-seguridad-los-diputados-esperaban-que-se-les-diera-un-librito-anillado/",
+        "published_date": "2026-05-19 02:25:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cNo, because it is a man's career\u201d: campaign makes visible the prejudices that continue to keep women away from the sciences",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/no-porque-es-carrera-de-hombres-campana-visibiliza-los-prejuicios-que-siguen-alejando-a-mujeres-de-las-ciencias/",
+        "published_date": "2026-05-19 01:15:00",
+        "category": "Local Events"
     },
     {
         "title": "Coca-Cola Andina transforms the way of exploring Barrio Italia with the Digital Passport",
@@ -263,20 +277,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/17/columna-de-carmen-soza-volver-a-centrarnos-en-la-educacion/",
         "published_date": "2026-05-17 12:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Representative Irac\u00ed Hassler (PC): \u201cThe Government talks about the Communist Party to divert attention from a reform that does not have citizen support\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/17/diputada-iraci-hassler-pc-el-gobierno-habla-del-partido-comunista-para-desviar-la-atencion-de-una-reforma-que-no-cuenta-con-apoyo-ciudadano/",
-        "published_date": "2026-05-17 12:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI am concerned and the decision seems terrible to me\u201d: \u00c9rika Olivera's analysis of the cancellation of the National and Paranational Games",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/me-preocupa-y-me-parece-terrible-la-decision-el-analisis-de-erika-olivera-sobre-la-cancelacion-de-los-juegos-nacionales-y-paranacionales/",
-        "published_date": "2026-05-17 00:01:31",
         "category": "Local Events"
     }
 ]
