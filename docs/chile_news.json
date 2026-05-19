@@ -21,6 +21,13 @@
         "category": "Military"
     },
     {
+        "title": "Behind the wheel of the Jetour T1 PHEV: 341 horses and some unanswered questions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/al-volante-jetour-t1-phev/",
+        "published_date": "2026-05-18 21:08:43",
+        "category": "Energy"
+    },
+    {
         "title": "Chef Juan Ozaki's crusade from Pichilemu to bring Kanpai to the select group of the best restaurants in Latin America",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/17/juan-ozaki-kanpai-pichilemu-restaurante-nikkei-latinoamerica/",
@@ -70,6 +77,20 @@
         "category": "Energy"
     },
     {
+        "title": "Ad portas of the June Ipom: Economists adjust growth projections downwards after a 0.5% drop in GDP in the first quarter",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/ad-portas-del-ipom-de-junio-economistas-ajustan-a-la-baja-proyecciones-de-crecimiento-tras-caida-de-05-en-el-pib-del-primer-trimestre/",
+        "published_date": "2026-05-18 22:32:16",
+        "category": "Economy"
+    },
+    {
+        "title": "Sales of electric cars in the world: Europe accelerates while North America slows down",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/ventas-autos-electricos-mundo-abril-2026/",
+        "published_date": "2026-05-18 21:59:07",
+        "category": "Economy"
+    },
+    {
         "title": "Pablo Garc\u00eda projects growth between 1.5 and 2% for 2026: \u201cIt is difficult for me to think that the economy can accelerate without an improvement in the international scenario\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/17/pablo-garcia-proyecta-un-crecimiento-entre-15-y-2-para-2026-me-cuesta-pensar-que-la-economia-pueda-reacelerarse-sin-una-mejora-del-escenario-internacional/",
@@ -117,6 +138,55 @@
         "url": "https://www.theclinic.cl/2026/05/11/movicenter-mercado-libre-evento-descuentos/",
         "published_date": "2026-05-11 22:08:30",
         "category": "Economy"
+    },
+    {
+        "title": "Coca-Cola Andina transforms the way of exploring Barrio Italia with the Digital Passport",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/juntos-en-todas-coca-cola-andina-pasaporte-digital/",
+        "published_date": "2026-05-18 23:17:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first Paranormal Museum in South America opens in Santiago: It has an official replica of the Anabelle doll",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/abre-en-santiago-el-primer-museo-paranormal-de-sudamerica-tiene-una-replica-oficial-de-la-muneca-anabelle/",
+        "published_date": "2026-05-18 22:46:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt does not represent a danger\u201d: What is known about the asteroid 2026 JH2 that will pass \u201cclose\u201d to Earth this Monday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/no-representa-un-peligro-lo-que-se-sabe-del-asteroide-2026-jh2-que-pasara-cerca-de-la-tierra-este-lunes/",
+        "published_date": "2026-05-18 22:33:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Renzo Corona will take over as president of ICARE, replacing Holger Paulmann",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/renzo-corona-asumira-como-presidente-de-icare-en-reemplazo-de-holger-paulmann/",
+        "published_date": "2026-05-18 22:01:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opposition closes ranks after the Government's call for Democratic Socialism to separate from the PC and the FA, but anticipates differences over the mega-reform",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/oposicion-cierra-filas-tras-llamado-del-gobierno-al-socialismo-democratico-a-separarse-del-pc-y-el-fa-pero-anticipa-diferencias-por-la-megarreforma/",
+        "published_date": "2026-05-18 21:54:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Francisco Castillo, the Chilean chef behind Caf\u00e9 Bar J.F.in Brooklyn: \u201cI am interested in showing that South American cuisine has a wide range\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/francisco-castillo-chef-chileno-new-york-cafe-bar-jf-the-new-york-times/",
+        "published_date": "2026-05-18 21:53:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Students with special needs in the PIE program reach a record number and already represent 13% of school enrollment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/18/estudiantes-con-necesidades-especiales-en-el-programa-pie-alcanzan-cifra-record-y-ya-representan-el-13-de-la-matricula-escolar/",
+        "published_date": "2026-05-18 21:44:39",
+        "category": "Local Events"
     },
     {
         "title": "Boric begins the second part of his international agenda and travels to Europe to be part of forums in Germany, Wales and England",
@@ -207,55 +277,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/16/me-preocupa-y-me-parece-terrible-la-decision-el-analisis-de-erika-olivera-sobre-la-cancelacion-de-los-juegos-nacionales-y-paranacionales/",
         "published_date": "2026-05-17 00:01:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "List that had won the annulled PDG elections charges against the Supreme Court, accuses \u201cserious crisis of institutional legitimacy\u201d and seeks to appeal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/lista-que-habia-ganado-las-elecciones-anuladas-del-pdg-carga-contra-el-tribunal-supremo-acusa-grave-crisis-de-legitimidad-institucional-y-busca-vias-para-apelar/",
-        "published_date": "2026-05-16 22:46:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe did an exhaustive study\u201d: Natalia Duco defends the cancellation of the National and Paranational Games",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/hicimos-un-estudio-exhaustivo-natalia-duco-defiende-la-cancelacion-de-los-juegos-nacionales-y-paranacionales/",
-        "published_date": "2026-05-16 18:19:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "From incomplete minutes to differences between votes and signatures: Supreme Court annuls the internal elections of the PDG due to a series of inconsistencies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/de-actas-incompletas-a-diferencias-entre-votos-y-firmas-tribunal-supremo-anula-las-elecciones-internas-del-pdg-por-una-serie-de-inconsistencias/",
-        "published_date": "2026-05-16 17:24:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new judicial chapter in the collection of the CAE: Court annuls the threat of embargo against the debtor and questions the conduct of the Treasury",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/un-nuevo-capitulo-judicial-en-el-cobro-del-cae-corte-deja-sin-efecto-embargo-a-deudora-y-cuestiona-el-proceder-de-la-tesoreria/",
-        "published_date": "2026-05-16 16:23:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The FJ that Toyota did not dare to make: compact, affordable and without giving up the mud",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/toyota-land-cruiser-fj/",
-        "published_date": "2026-05-16 16:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fernando Zuqui, UC reference 2026 version: \u201cI was surprised by the club, the people who work every day, how it is managed\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/fernando-zuqui-referente-de-la-uc-version-2026-me-ha-sorprendido-el-club-la-gente-que-trabaja-dia-a-dia-el-como-se-maneja/",
-        "published_date": "2026-05-16 15:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ricardo Raphael and \u201cFabricaci\u00f3n\u201d, the book about the Wallace Case that will be adapted by Maite Alberdi: \u201cThere is no nobler figure than a searching mother\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/16/ricardo-raphael-y-fabricacion-el-libro-del-caso-wallace-que-sera-adaptado-por-maite-alberdi-no-hay-figura-mas-noble-que-una-madre-buscadora-por-eso-nadie-cuestiono-la-his/",
-        "published_date": "2026-05-16 14:00:00",
         "category": "Local Events"
     }
 ]
