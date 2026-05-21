@@ -1,12 +1,5 @@
 [
     {
-        "title": "\u201cIt leaves us completely defenseless against AI companies\u201d: SCD rejects the Government's indication of the Reconstruction Law",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/12/nos-deja-en-la-indefension-total-frente-a-las-empresas-de-ia-scd-rechaza-indicacion-del-gobierno-a-ley-de-reconstruccion/",
-        "published_date": "2026-05-13 00:22:10",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The difficult defense of the president of TVN in the Senate: the channel reduced its losses by 16% in 2025, but debt exceeds $69 billion",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/20/nuevo-presidente-de-tvn-expone-en-el-senado-canal-redujo-perdidas-pero-deuda-supera-los-69-mil-millones/",
@@ -26,6 +19,13 @@
         "url": "https://www.theclinic.cl/2026/05/14/corte-suprema-rechaza-recurso-de-amparo-del-estudiante-que-asesino-a-inspectora-en-calama-buscaba-suspender-el-procedimiento-por-enajenacion-mental/",
         "published_date": "2026-05-14 23:23:21",
         "category": "Military"
+    },
+    {
+        "title": "One in every ten cars sold in Chile is now plug-in",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/21/uno-de-cada-diez-autos-vendidos-en-chile-ya-es-enchufable/",
+        "published_date": "2026-05-21 11:30:00",
+        "category": "Energy"
     },
     {
         "title": "Justice supports not renewing registration of a student with ADHD: \u201cIt began to affect the right of other students to a safe environment\u201d",
@@ -105,6 +105,13 @@
         "category": "Energy"
     },
     {
+        "title": "Movicenter and Mercado Libre Vehiculos close a successful automotive event with unprecedented discounts and thousands of attendees",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/20/movicenter-mercado-libre-vehiculos-asistentes/",
+        "published_date": "2026-05-21 01:41:34",
+        "category": "Economy"
+    },
+    {
         "title": "Barcelona arrives in Santiago: the new SEAT Ibiza and Arona in Chile",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/20/seat-ibiza-y-arona-nuevos-en-chile/",
@@ -161,11 +168,25 @@
         "category": "Economy"
     },
     {
-        "title": "Strengthening 5G and fixed internet while betting on Starlink: Entel's challenges in Peru after its explosive growth",
+        "title": "Opposition claims to be \u201corganized, united and strong\u201d to confront the mega-reform in the Senate: they will reject the idea of \u200b\u200blegislating",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/13/fortalecer-el-5g-y-el-internet-fijo-mientras-se-apuesta-por-starlink-los-desafios-de-entel-en-peru-tras-su-explosivo-crecimiento/",
-        "published_date": "2026-05-13 11:56:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/21/oposicion-afirma-estar-organizada-unida-y-fuerte-para-hacer-frente-a-la-megarreforma-en-el-senado-rechazaran-la-idea-de-legislar/",
+        "published_date": "2026-05-21 13:52:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fired manager, reprimanded executives and a complaint to the Prosecutor's Office: Codelco's measures after detecting deviations in 2025 production",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/20/un-gerente-despedido-ejecutivos-amonestados-y-una-denuncia-ante-fiscalia-las-medidas-de-codelco-tras-detectar-desviaciones-en-la-produccion-de-2025/",
+        "published_date": "2026-05-21 02:02:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt is a new strategic step in our expansion plan\u201d: Parque Arauco announces the acquisition of the Paseo Quil\u00edn Mall for US$119 million",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/20/es-un-nuevo-paso-estrategico-de-nuestro-plan-de-expansion-parque-arauco-anuncia-la-adquisicion-del-mall-paseo-quilin-por-us119-millones/",
+        "published_date": "2026-05-21 01:05:53",
+        "category": "Local Events"
     },
     {
         "title": "Committee of Ministers confirms the RCA of Volta, the million-dollar project that marks a milestone for the green ammonia industry in the country",
@@ -284,27 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/19/crisis-de-vivienda-asi-funciona-el-modelo-comprar-arrendando-que-inmobiliarias-potencian-para-este-2026-en-chile/",
         "published_date": "2026-05-19 22:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Steinert's circle of trust that protects her at her worst moment and the changes made in La Moneda to support her in the cabinet",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/el-circulo-de-confianza-de-steinert-que-la-protege-en-su-peor-momento-y-los-cambios-realizados-en-la-moneda-para-sostenerla-en-el-gabinete/",
-        "published_date": "2026-05-19 22:23:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bucolic town of 3,000 inhabitants auctions land with prices from 100 euros to find new neighbors",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/bucolico-pueblo-de-3-000-habitantes-subasta-terrenos-con-precios-desde-los-100-euros-para-encontrar-nuevos-vecinos/",
-        "published_date": "2026-05-19 21:46:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pressure increases on Health due to cuts: senators, mayors, former ministers and unions insist on the effects it could have on the hospital system",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/aumenta-presion-sobre-salud-por-recortes-senadores-alcaldes-exministros-y-gremios-insisten-sobre-los-efectos-que-podria-tener-en-el-sistema-hospitalario/",
-        "published_date": "2026-05-19 21:25:33",
         "category": "Local Events"
     }
 ]
