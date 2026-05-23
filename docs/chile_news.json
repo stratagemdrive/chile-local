@@ -14,13 +14,6 @@
         "category": "Military"
     },
     {
-        "title": "Supreme Court rejects appeal for protection from the student who murdered the inspector in Calama: he sought to suspend the procedure due to \u201cmental insanity\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/14/corte-suprema-rechaza-recurso-de-amparo-del-estudiante-que-asesino-a-inspectora-en-calama-buscaba-suspender-el-procedimiento-por-enajenacion-mental/",
-        "published_date": "2026-05-14 23:23:21",
-        "category": "Military"
-    },
-    {
         "title": "Metro reinforces sanitation work after complaint about the presence of mice at the Universidad de Chile station",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/21/metro-refuerza-trabajos-de-sanitizacion-tras-denuncia-sobre-presencia-de-ratones-en-la-estacion-universidad-de-chile/",
@@ -84,27 +77,6 @@
         "category": "Energy"
     },
     {
-        "title": "From Ros\u00e9 to Burgundy Strawberry: why Gato decided to can its products and join the global trend of carbonated wine cocktails",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/14/desde-rose-a-borgona-frutilla-gato-apuesta-por-cocteles-de-vino-gasificados-en-lata-para-acercarse-a-nuevos-consumidores/",
-        "published_date": "2026-05-15 00:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Chilean Light Electromobility Association: \u201cThe acquisition of a light electric vehicle is no longer seen as an expensive investment\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/14/asociacion-chilena-de-electromovilidad-liviana-la-adquisicion-de-un-vehiculo-electrico-liviano-ya-dejo-de-verse-como-una-inversion-cara/",
-        "published_date": "2026-05-14 21:33:22",
-        "category": "Energy"
-    },
-    {
-        "title": "The judicial battle of Costanera Norte against Buses RED for the fuel spill on the Vitacura highway: there were 43 incidents in five months",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/14/costanera-norte-se-querella-contra-empresa-de-buses-red-por-reiterados-derrames-de-combustible-y-danos-en-autopista/",
-        "published_date": "2026-05-14 21:12:03",
-        "category": "Energy"
-    },
-    {
         "title": "\u201cWe are talking about another serious failure in controls\u201d: Biministro Mas speaks out after an audit that confirmed overestimation of production in Codelco",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/21/estamos-hablando-de-otra-falla-grave-en-los-controles-biministro-mas-se-pronuncia-tras-auditoria-que-confirmo-sobrestimacion-de-produccion-en-codelco/",
@@ -152,6 +124,76 @@
         "url": "https://www.theclinic.cl/2026/05/17/pablo-garcia-proyecta-un-crecimiento-entre-15-y-2-para-2026-me-cuesta-pensar-que-la-economia-pueda-reacelerarse-sin-una-mejora-del-escenario-internacional/",
         "published_date": "2026-05-17 12:13:00",
         "category": "Economy"
+    },
+    {
+        "title": "Olmu\u00e9 Festival is on pause: Court suspends the concession to Bizarro-Chilevisi\u00f3n after a lawsuit from Channel 13",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/festival-de-olmue-queda-en-pausa-tribunal-suspende-la-concesion-a-bizarro-chilevision-tras-demanda-de-canal-13/",
+        "published_date": "2026-05-22 23:58:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Gabriel Rodr\u00edguez and how a Chilean came to illustrate Stephen King's new novel",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/quien-es-gabriel-rodriguez-y-como-un-chileno-llego-a-ilustrar-la-nueva-novela-de-stephen-king/",
+        "published_date": "2026-05-22 22:56:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nils Reichmuth, the new European of La Roja: he is 24 years old, he played in Swiss youth teams and has just achieved a historic championship",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/nils-reichmuth-el-nuevo-europeo-de-la-roja-tiene-24-anos-jugo-en-selecciones-juveniles-de-suiza-y-viene-de-lograr-un-historico-campeonato/",
+        "published_date": "2026-05-22 22:33:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the midst of debate over the increase in violence in schools: National Institute promotes a congress on school coexistence",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/en-medio-de-debate-por-alza-de-violencia-en-colegios-instituto-nacional-impulsa-congreso-sobre-convivencia-escolar/",
+        "published_date": "2026-05-22 22:21:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The rebranding of Insulza: the international agenda in Brazil and Mexico and its new facet in the private world",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/el-rebranding-de-insulza-la-agenda-internacional-en-brasil-y-mexico-y-su-nueva-faceta-en-el-mundo-privado/",
+        "published_date": "2026-05-22 22:19:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister Rinc\u00f3n confirms that she will soon send a new electricity subsidy bill and freezes the cross-subsidy bill",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/ministra-rincon-confirma-que-enviara-pronto-un-nuevo-proyecto-de-ley-de-subsidios-electricos-y-congela-el-de-subsidios-cruzados/",
+        "published_date": "2026-05-22 22:13:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medical leaves: more than 15 thousand workers performed paid work while they were on rest between 2024 and 2025",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/licencias-medicas-mas-de-15-mil-trabajadores-realizaron-labores-pagadas-mientras-estaban-con-reposo-entre-2024-y-2025/",
+        "published_date": "2026-05-22 22:13:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cecilia P\u00e9rez maintains her position in La Florida after becoming president of the U: there would be no legal incompatibility and the club and municipality support her functions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/cecilia-perez-mantiene-su-cargo-en-la-florida-tras-asumir-como-presidenta-de-la-u-no-habria-incompatibilidad-legal-y-el-club-y-municipio-respaldan-sus-funciones/",
+        "published_date": "2026-05-22 22:11:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Katherine Martorell: \u201cIt was evident that Minister Steinert had a problem communicating and functioning politically\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/katherine-martorell-era-evidente-que-la-ministra-steiner-tenia-un-problema-para-comunicar-y-para-desenvolverse-politicamente/",
+        "published_date": "2026-05-22 22:11:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Soccer card games: Toque Games' bet that mixes trivia, nostalgia and soccer passion",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/22/juegos-cartas-de-futbol-toque-games/",
+        "published_date": "2026-05-22 21:56:44",
+        "category": "Local Events"
     },
     {
         "title": "Second Environmental Court provides clarification of its ruling and allows Collahuasi to continue with its $3.2 billion project partially",
@@ -221,76 +263,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/20/rescatados-y-listos-para-encontrar-a-una-familia-casaideas-y-ayuda-callejeros-anuncian-nueva-jornada-de-adopcion-de-mascotas/",
         "published_date": "2026-05-20 22:13:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Advance the second dose of the vaccine: the debate that opened among experts as a result of the measles outbreak that affects Peru and other countries in the region",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/20/adelantar-la-segunda-dosis-de-la-vacuna-el-debate-que-se-abrio-entre-expertos-a-raiz-del-brote-de-sarampion-que-afecta-peru-y-otros-paises-de-la-region/",
-        "published_date": "2026-05-20 22:06:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The law already applies: How Chilean companies are adapting to the 42 hours",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/20/empresas-chilenas-adptacion-42-horas/",
-        "published_date": "2026-05-20 21:52:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Only nine women out of 22 ministers: the imbalance that was accentuated in Kast's cabinet after the ministerial adjustment",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/20/solo-nueve-mujeres-de-22-ministros-el-desequilibro-que-se-acentuo-en-el-gabinete-de-kast-tras-el-ajuste-ministerial/",
-        "published_date": "2026-05-20 21:39:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chamber of Deputies votes on the Kast mega-reform: the tense and uncertain scenario prior to a key test for the Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/20/camara-de-diputados-vota-la-megarreforma-de-kast-el-tenso-e-incierto-escenario-previo-a-una-prueba-clave-para-el-gobierno/",
-        "published_date": "2026-05-20 13:16:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "From being part of Kast's feat at the Movistar Arena to taking vacations due to his abrupt departure from the Government: Mara Sedini's time at La Moneda",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/20/de-ser-parte-de-la-hazana-de-kast-en-el-movistar-arena-a-tomarse-vacaciones-por-su-abrupta-salida-del-gobierno-el-paso-de-mara-sedini-por-la-moneda/",
-        "published_date": "2026-05-20 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why Kast decided to make an unexpected cabinet change and what the adjustment in communications consists of",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/por-que-kast-decidio-hacer-un-inesperado-cambio-de-gabinete-y-en-que-consiste-el-ajuste-en-las-comunicaciones/",
-        "published_date": "2026-05-20 01:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The road to the fall of Trinidad Steinert: how Kast's big bet on Security failed",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/la-fallida-apuesta-del-presidente-kast-en-seguridad-remueve-a-trinidad-steinert-a-70-dias-de-asumir/",
-        "published_date": "2026-05-20 00:54:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mart\u00edn Arrau, the strong man of the Republican Party on whom Kast bets to improve Security management",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/martin-arrau-la-apuesta-de-kast-para-mejorar-la-gestion-en-seguridad-tras-las-criticas-al-desempeno-de-steinert/",
-        "published_date": "2026-05-20 00:48:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "A little more than two months after taking office as President: Kast breaks record with the fastest cabinet change since the return to democracy",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/a-un-poco-mas-de-dos-meses-de-asumir-como-presidente-kast-rompe-record-con-el-cambio-de-gabinete-mas-rapido-desde-el-retorno-a-la-democracia/",
-        "published_date": "2026-05-20 00:34:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cabinet change: Arrau will take over Security, Alvarado will be bi-minister of the Interior and Spokesperson and De Grange will be bi-minister of Transportation and Public Works",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/19/tras-casi-70-dias-tras-asumir-como-presidente-jose-antonio-kast-realizara-su-primer-cambio-de-gabinete/",
-        "published_date": "2026-05-19 23:30:04",
         "category": "Local Events"
     }
 ]
