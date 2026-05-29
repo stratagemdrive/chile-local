@@ -77,11 +77,11 @@
         "category": "Energy"
     },
     {
-        "title": "One in every ten cars sold in Chile is now plug-in",
+        "title": "Jeff Bezos' mega rocket exploded during a test at Cape Canaveral",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/21/uno-de-cada-diez-autos-vendidos-en-chile-ya-es-enchufable/",
-        "published_date": "2026-05-21 11:30:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/05/29/el-megacohete-de-jeff-bezos-exploto-durante-una-prueba-en-cabo-canaveral/",
+        "published_date": "2026-05-29 13:30:15",
+        "category": "Economy"
     },
     {
         "title": "\u201cMy dad used Fla\u00f1o\u201d: The survival story of the Chilean perfume that has been on the market for more than 70 years and became a symbol of nostalgia",
@@ -133,11 +133,25 @@
         "category": "Economy"
     },
     {
-        "title": "Movicenter and Mercado Libre Vehiculos close a successful automotive event with unprecedented discounts and thousands of attendees",
+        "title": "Opposition chooses Undersecretary Quintana as the new focus of criticism in security amid Arrau's new style in the ministry",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/20/movicenter-mercado-libre-vehiculos-asistentes/",
-        "published_date": "2026-05-21 01:41:34",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/29/oposicion-escoge-a-subsecretaria-quintana-como-nuevo-foco-de-criticas-en-seguridad-en-medio-de-nuevo-estilo-de-arrau-en-el-ministerio/",
+        "published_date": "2026-05-29 13:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "UC achieves a historic victory for Chilean soccer against Boca in La Bombonera and advances in the Libertadores with a perfect away campaign",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/28/la-uc-logra-un-triunfo-historico-para-el-futbol-chileno-ante-boca-en-la-bombonera-y-avanza-en-la-libertadores-con-una-campana-perfecta-de-visitante/",
+        "published_date": "2026-05-29 02:37:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Orthodox Church sanctions historic parish priest Francisco Salvador with reduction to lay status: he accuses serious conduct and announces that he will send records to the Public Ministry",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/28/iglesia-ortodoxa-sanciona-a-historico-parroco-francisco-salvador-con-la-reduccion-al-estado-laical-acusa-conductas-graves-y-anuncia-que-remitira-antecedentes-al-ministerio-publico/",
+        "published_date": "2026-05-29 02:00:59",
+        "category": "Local Events"
     },
     {
         "title": "Channel 13 does not freeze the Olmu\u00e9 Festival, but continues with the lawsuit and seeks to invalidate the tender won by Bizarro and Chilevisi\u00f3n",
@@ -256,27 +270,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/27/diputado-cesar-valenzuela-ps-me-alegro-de-que-el-gobierno-haya-salido-de-la-trinchera-politica-para-enfrentar-el-tema-de-seguridad/",
         "published_date": "2026-05-27 14:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sch\u00f6nhaut and the arrival of Jessica Flores to Prodemu: \u201cThe minister is wrong by appointing people who seem more committed to brave bars\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/26/schonhaut-y-la-llegada-de-jessica-flores-a-prodemu-la-ministra-se-equivoca-nombrando-personas-que-parecen-mas-comprometidas-con-barras-bravas/",
-        "published_date": "2026-05-27 02:42:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThis could, at some point, bring work to our neighbors\u201d: the reaction of the municipal council of Lampa to the possibility of receiving the U stadium",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/26/esto-podria-en-algun-momento-traer-trabajo-a-nuestros-vecinos-la-reaccion-del-concejo-municipal-de-lampa-ante-la-posibilidad-de-recibir-el-estadio-de-la-u/",
-        "published_date": "2026-05-27 01:06:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Juan Pablo del R\u00edo, the architect who led the internationalization of Sodimac and who will leave the presidency of the company after almost 30 years",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/26/quien-es-juan-pablo-del-rio-el-arquitecto-condujo-la-internacionalizacion-de-sodimac-y-que-dejara-la-presidencia-de-la-compania-tras-casi-30-anos/",
-        "published_date": "2026-05-26 23:37:36",
         "category": "Local Events"
     }
 ]
