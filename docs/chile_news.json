@@ -77,6 +77,13 @@
         "category": "Energy"
     },
     {
+        "title": "Opinion newsletter Power: Government: from metaphor to Quirozazo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/30/newsletter-de-opinion-poder-gobierno-de-la-metafora-al-quirozazo/",
+        "published_date": "2026-05-30 12:00:00",
+        "category": "Economy"
+    },
+    {
         "title": "Mario Marcel will launch his new book at the Faculty of Economics of the University of Chile with Andr\u00e9s Velasco and Alejandra Mustakis as guests",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/29/mario-marcel-realizara-lanzamiento-de-su-nuevo-libro-en-la-facultad-de-economia-de-la-u-de-chile-con-andres-velasco-y-alejandra-mustakis-como-invitados/",
@@ -145,6 +152,27 @@
         "url": "https://www.theclinic.cl/2026/05/22/don-salva-la-apuesta-de-cencosud-por-los-supermercados-de-descuentos-en-chile-que-tuvo-su-estreno-en-santiago/",
         "published_date": "2026-05-23 01:18:17",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cI am not afraid of them\u201d: Representative Javiera Rodr\u00edguez speaks after a funeral against her during an activity at the University of Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/29/no-les-tengo-miedo-diputada-javiera-rodriguez-habla-tras-funa-en-su-contra-durante-una-actividad-en-la-universidad-de-chile/",
+        "published_date": "2026-05-30 02:52:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are facing an extremely serious event\u201d: SAG files a complaint with the Prosecutor's Office after the discovery of a puma shot in the Caj\u00f3n del Maipo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/29/estamos-frente-a-un-hecho-extremadamente-grave-sag-presenta-denuncia-ante-fiscalia-tras-hallazgo-de-puma-baleado-en-el-cajon-del-maipo/",
+        "published_date": "2026-05-30 01:11:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI doing the shopping for you: the future that digital leaders project for e-commerce in Chile a few days before Cyber \u200b\u200bDay 2026",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/29/la-ia-haciendo-las-compras-por-ti-el-futuro-que-lideres-digitales-proyectan-para-el-comercio-electronico-en-chile-a-pocos-dias-del-cyber-day-2026/",
+        "published_date": "2026-05-30 01:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Comptroller's Office rejects million-dollar helicopter purchase for Carabineros after detecting errors in the tender",
@@ -263,27 +291,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/28/como-conseguir-15-mil-nuevas-becas-google-en-chile-ia/",
         "published_date": "2026-05-28 13:26:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cVoluntary request\u201d: The Gendarmerie's reasons for transferring three common prisoners from Punta Peuco to other prisons six months after their first admission",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/28/peticion-voluntaria-los-motivos-de-gendarmeria-para-trasladar-a-tres-reos-comunes-desde-punta-peuco-a-otros-recintos-penitenciarios-a-seis-meses-del-primer-ingreso/",
-        "published_date": "2026-05-28 13:07:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Schalper accuses an \u201calgorithm dictatorship\u201d in Congress: \u201cArtificial controversies are created to get minutes on TikTok\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/27/schalper-acusa-una-dictadura-del-algoritmo-en-el-congreso-se-crean-polemicas-artificiales-para-sacar-minutos-en-tiktok/",
-        "published_date": "2026-05-27 23:14:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Undersecretariat of Fisheries summoned different sectors to dialogue to prepare the modifications to the Lafkenche Law",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/27/subsecretaria-de-pesca-convoco-a-distintos-sectores-a-dialogar-para-preparar-las-modificaciones-a-ley-lafkenche/",
-        "published_date": "2026-05-27 22:31:28",
         "category": "Local Events"
     }
 ]
