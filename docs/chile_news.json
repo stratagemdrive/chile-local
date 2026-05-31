@@ -28,6 +28,13 @@
         "category": "Military"
     },
     {
+        "title": "Column by Carmen Soza: Contributions: the pending adjustment of the municipalities",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/31/columna-de-carmen-soza-contribuciones-el-ajuste-pendiente-de-los-municipios/",
+        "published_date": "2026-05-31 12:01:00",
+        "category": "Energy"
+    },
+    {
         "title": "Packages accumulated in the concierge, failed deliveries or returned parcels: the logistical challenge that CyberDay represents in residential buildings",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/30/paquetes-acumulados-en-conserjeria-entregas-fallidas-o-encomiendas-devueltas-el-desafio-logistico-que-representa-el-cyberday-en-edificios-residenciales/",
@@ -168,11 +175,39 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cDon Salva\u201d, Cencosud's commitment to discount supermarkets in Chile that had its premiere in Santiago",
+        "title": "Pending debt in security, receding expectations and the possibility of \u201cre-enchanting\u201d: what is at stake in the first Kast Public Account",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/22/don-salva-la-apuesta-de-cencosud-por-los-supermercados-de-descuentos-en-chile-que-tuvo-su-estreno-en-santiago/",
-        "published_date": "2026-05-23 01:18:17",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/05/31/deuda-pendiente-en-seguridad-recular-expectativas-y-la-posibilidad-de-reencantar-que-esta-en-juego-en-la-primera-cuenta-publica-de-kast/",
+        "published_date": "2026-05-31 12:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harold Mayne-Nicholls: \u201cWe are building a government so that the next one will be populist\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/31/harold-mayne-nicholls-estamos-construyendo-un-gobierno-para-que-el-proximo-sea-populista/",
+        "published_date": "2026-05-31 12:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Editorial: Pope Leo XIV and artificial intelligence: the next frontier of world power",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/31/editorial-el-papa-leon-xiv-y-la-inteligencia-artificial-la-proxima-frontera-del-poder-mundial/",
+        "published_date": "2026-05-31 12:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Garc\u00eda Ruminot, Minister of Segpres: \u201cWe took charge of security, the big difference with Boric is the conviction with which we acted\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/31/jose-garcia-ruminot-ministro-segpres-nos-hicimos-cargo-de-la-seguridad-la-gran-diferencia-con-boric-es-la-conviccion-con-la-que-actuamos/",
+        "published_date": "2026-05-31 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luis Cordero Vega Column: Pragmatism",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/05/31/columna-de-luis-cordero-vega-pragmatismo/",
+        "published_date": "2026-05-31 12:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Fraud and leak risks: the alerts raised by experts after OpenAI's announcement that it will allow ChatGPT to connect with bank accounts",
@@ -277,41 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/05/29/la-historia-de-como-rn-convencio-a-kusanovic-de-entrar-al-senado-el-rol-de-carlos-larrain-el-tironeo-con-evopoli-y-como-complica-la-megarreforma/",
         "published_date": "2026-05-29 21:15:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIf you compress the layers too much, you eliminate air and provide less warmth\u201d: Expert explains the ideal formula for making the bed in winter and why fewer blankets are better",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/29/si-comprimes-demasiado-las-capas-eliminas-aire-y-abriga-menos-experto-explica-la-formula-ideal-para-armar-la-cama-en-invierno-y-por-que-menos-frazadas-es-mejor/",
-        "published_date": "2026-05-29 21:05:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opposition chooses Undersecretary Quintana as the new focus of criticism in security amid Arrau's new style in the ministry",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/29/oposicion-escoge-a-subsecretaria-quintana-como-nuevo-foco-de-criticas-en-seguridad-en-medio-de-nuevo-estilo-de-arrau-en-el-ministerio/",
-        "published_date": "2026-05-29 13:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "UC achieves a historic victory for Chilean soccer against Boca in La Bombonera and advances in the Libertadores with a perfect away campaign",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/28/la-uc-logra-un-triunfo-historico-para-el-futbol-chileno-ante-boca-en-la-bombonera-y-avanza-en-la-libertadores-con-una-campana-perfecta-de-visitante/",
-        "published_date": "2026-05-29 02:37:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Orthodox Church sanctions historic parish priest Francisco Salvador with reduction to lay status: he accuses serious conduct and announces that he will send records to the Public Ministry",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/28/iglesia-ortodoxa-sanciona-a-historico-parroco-francisco-salvador-con-la-reduccion-al-estado-laical-acusa-conductas-graves-y-anuncia-que-remitira-antecedentes-al-ministerio-publico/",
-        "published_date": "2026-05-29 02:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Channel 13 does not freeze the Olmu\u00e9 Festival, but continues with the lawsuit and seeks to invalidate the tender won by Bizarro and Chilevisi\u00f3n",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/28/canal-13-no-congela-festival-de-olmue-pero-sigue-adelante-con-demanda-y-busca-invalidar-licitacion-ganada-por-bizarro-y-chilevision/",
-        "published_date": "2026-05-28 22:32:29",
         "category": "Local Events"
     }
 ]
