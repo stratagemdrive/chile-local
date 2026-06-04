@@ -42,6 +42,20 @@
         "category": "Military"
     },
     {
+        "title": "\u201cIt seeks to legalize a business that is illegal today\u201d: Opposition senators will go to the Comptroller's Office after the SII resolution in favor of betting houses",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/busca-legalizar-un-negocio-que-hoy-es-ilegal-senadores-de-oposicion-acudiran-a-contraloria-tras-resolucion-del-sii-en-favor-de-las-casas-de-apuestas/",
+        "published_date": "2026-06-03 23:05:55",
+        "category": "Energy"
+    },
+    {
+        "title": "MG bets everything: three electric vehicles at the same time in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/mg-apuesta-todo-tres-electricos-a-la-vez-en-chile/",
+        "published_date": "2026-06-03 22:16:05",
+        "category": "Energy"
+    },
+    {
         "title": "Can you travel through Chile in an electric SUV?Keys to traveling",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/01/suv-electrico-recorrer-chile-como-viajar/",
@@ -124,6 +138,27 @@
         "url": "https://www.theclinic.cl/2026/05/27/enap-confirma-una-caida-de-65-por-litro-en-el-diesel-mientras-que-bencinas-se-mantienen-estables/",
         "published_date": "2026-05-27 22:08:32",
         "category": "Energy"
+    },
+    {
+        "title": "Car sales in Chile May 2026: sustained traction with warning signs on the road",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/ventas-de-autos-en-chile-mayo-2026-traccion-sostenida-con-senales-de-alerta-en-la-ruta/",
+        "published_date": "2026-06-03 22:54:31",
+        "category": "Economy"
+    },
+    {
+        "title": "Quiroz rules out that a debt request for US$6.2 billion is linked to the deficit contemplated in the reconstruction project",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/quiroz-descarta-que-solicitud-de-endeudamiento-por-us6-200-millones-este-vinculada-a-deficit-contemplado-en-proyecto-de-reconstruccion/",
+        "published_date": "2026-06-03 22:39:00",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cNot even mice, they were capybaras\u201d: Rodent infestation forces \u00d1u\u00f1oa to carry out risk prevention work in schools and municipal gardens",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/ni-siquiera-ratones-eran-capibaras-infestacion-de-roedores-obliga-a-nunoa-a-realizar-labores-de-prevencion-por-riesgos-en-colegios-y-jardines-municipales/",
+        "published_date": "2026-06-03 22:16:57",
+        "category": "Economy"
     },
     {
         "title": "Government calls on the opposition to have \u201cmodesty\u201d after criticism for fiscal debt: \u201cthis indebtedness is a product of the previous management\u201d",
@@ -210,18 +245,39 @@
         "category": "Economy"
     },
     {
-        "title": "Announcement by libertarians and republicans of accusation against Grau divides the ruling party and RN warns of possible impact on the mega-reform",
+        "title": "The ABC to understand the new CMF regulations that change and increase the minimum payment for credit cards",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/26/anuncio-de-libertarios-y-republicanos-de-acusacion-contra-grau-divide-al-oficialismo-y-rn-advierte-posible-impacto-en-la-megarreforma/",
-        "published_date": "2026-05-26 22:34:04",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/03/el-abc-para-entender-la-nueva-normativa-de-la-cmf-que-cambia-y-aumenta-el-pago-minimo-de-las-tarjetas-de-credito/",
+        "published_date": "2026-06-03 22:22:56",
+        "category": "Local Events"
     },
     {
-        "title": "The new face of the Providencia Market that will open its doors in 2027: \u201cIt is the most important transformation since its inauguration\u201d",
+        "title": "Countdown for the vote on the Aclara mining project in Penco: neighbors mobilize to stop \u201cbecoming a sacrifice zone\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/26/la-nueva-cara-del-mercado-providencia-que-abrira-sus-puertas-en-2027-es-la-transformacion-mas-importante-desde-su-inauguracion/",
-        "published_date": "2026-05-26 21:24:23",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/03/cuenta-regresiva-para-la-votacion-del-proyecto-minero-aclara-en-penco-vecinos-se-movilizan-para-frenar-transformarse-en-una-zona-de-sacrificio/",
+        "published_date": "2026-06-03 22:21:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawyer presented writing generated with artificial intelligence: Supreme Court fined her and disqualified her from practicing for a month",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/abogada-presento-escrito-generado-con-inteligencia-artificial-corte-suprema-la-multo-y-la-inhabilito-de-ejercer-por-un-mes/",
+        "published_date": "2026-06-03 21:59:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pets also have a screen: KNino debuted at Expo Mascotas alongside Claro and VTR",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/knino-expo-mascotas-claro-vtr/",
+        "published_date": "2026-06-03 21:55:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cChile is a country that aged very quickly\u201d: The commitment of the Senior Health Center to specialized care for older adults",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/03/chile-es-un-pais-que-envejecio-muy-rapido-la-apuesta-del-centro-de-salud-mayor-por-la-atencion-especializada-de-adultos-mayores/",
+        "published_date": "2026-06-03 21:53:11",
+        "category": "Local Events"
     },
     {
         "title": "With great urgency, the Government enters a project to request authorization for additional debt of US$6.2 billion this year",
@@ -326,41 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/02/los-15-alcaldes-bajo-la-lupa-de-contraloria-por-incumplir-declaracion-obligatoria-podrian-enfrentar-sanciones-y-perdida-del-cargo/",
         "published_date": "2026-06-02 22:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Pilar Giannini, the academic and advisor to Claudio Alvarado chosen by Arrau to be the new Undersecretary of Security",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/02/quien-es-pilar-giannini-la-academica-y-asesora-de-claudio-alvarado-escogida-por-arrau-para-ser-la-nueva-subsecretaria-de-seguridad/",
-        "published_date": "2026-06-02 22:03:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Desbordes celebrates the Court's order to suspend the expansion of Santiago 1 in the midst of a dispute with the Executive: \u201cI call on my government to reconsider\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/02/desbordes-celebra-orden-del-tribunal-de-suspender-ampliacion-de-santiago-1-en-medio-de-disputa-con-el-ejecutivo-hago-un-llamado-a-mi-gobierno-a-recapacitar/",
-        "published_date": "2026-06-02 14:24:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Senator Vodanovic (PS) facing pressure to approve mega-reform: \u201cThe right has a greater obsession with dividing the opposition than with the project\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/02/senadora-vodanovic-ps-ante-presiones-por-aprobar-megarreforma-la-derecha-tiene-una-obsesion-mayor-con-dividir-a-la-oposicion-que-con-el-proyecto/",
-        "published_date": "2026-06-02 13:41:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "WWDC 2026: Everything Apple will present this June 8 (and how it will affect you)",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/02/apple-wwdc-26-siri-novedades/",
-        "published_date": "2026-06-02 13:35:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Remez\u00f3n in the Ministry of Security: Arrau asks for the resignation of undersecretaries of Security and Crime Prevention",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/02/remezon-en-el-ministerio-de-seguridad-arrau-pide-la-renuncia-a-subsecretarios-de-seguridad-y-prevencion-del-delito/",
-        "published_date": "2026-06-02 13:14:28",
         "category": "Local Events"
     }
 ]
