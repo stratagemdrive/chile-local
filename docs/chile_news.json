@@ -98,20 +98,6 @@
         "category": "Energy"
     },
     {
-        "title": "La Pancora y el Erizo, Gabriel Layera's bet in Cachagua: \u201cThe gastronomic wealth of Chile continues to be in its products\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/31/gabriel-layera-la-pancora-y-el-erizo-cachagua/",
-        "published_date": "2026-05-31 12:26:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Column by Carmen Soza: Contributions: the pending adjustment of the municipalities",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/05/31/columna-de-carmen-soza-contribuciones-el-ajuste-pendiente-de-los-municipios/",
-        "published_date": "2026-05-31 12:01:00",
-        "category": "Energy"
-    },
-    {
         "title": "Vittorio Corbo and the increase in debt over 45%: \u201cWe are not going to be so disappointed, because everyone who comes to the party comes disappointed\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/07/vittorio-corbo-y-el-aumento-de-la-deuda-sobre-45-no-nos-vamos-a-ver-tan-chascones-porque-todos-los-que-llegan-a-la-fiesta-vienen-chascones/",
@@ -208,6 +194,27 @@
         "url": "https://www.theclinic.cl/2026/06/01/el-ambicioso-plan-de-expansion-de-la-compania-minera-san-geronimo-buscaran-crear-un-distrito-minero-en-la-serena-y-duplicar-su-produccion/",
         "published_date": "2026-06-01 15:33:47",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cThe only thing left to do is continue supporting so that the truth triumphs\u201d: Joaqu\u00edn Lav\u00edn accuses \u201cjudicial cruelty\u201d against his son and Cathy Barriga",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/08/solo-queda-seguir-apoyando-para-que-la-verdad-triunfe-joaquin-lavin-acusa-ensanamiento-judicial-contra-su-hijo-y-cathy-barriga/",
+        "published_date": "2026-06-08 14:40:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "May CPI rises 0.2% and inflation remains below the 4% limit",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/08/ipc-de-mayo-anota-alza-de-02-e-inflacion-se-mantiene-bajo-el-limite-de-4/",
+        "published_date": "2026-06-08 14:13:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey were talking about the feminist government and look what they ended up with\u201d: Former President Frei launches darts against Boric's administration over female unemployment figures",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/08/venian-hablando-del-gobierno-feminista-y-miren-en-lo-que-terminaron-expresidente-frei-lanza-dardos-contra-administracion-de-boric-por-cifras-de-desempleo-femenino/",
+        "published_date": "2026-06-08 13:28:46",
+        "category": "Local Events"
     },
     {
         "title": "Extend the retention period for foreigners with an expulsion order and punish human trafficking: the projects that Kast announced in immigration matters",
@@ -326,27 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/06/newsletter-de-opinion-poder-kast-insiste-en-gabinete-sin-amigos/",
         "published_date": "2026-06-06 12:57:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rita Cox Column: Scooters, Bad Education",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/06/columna-de-rita-cox-scooters-la-mala-educacion/",
-        "published_date": "2026-06-06 12:21:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Danilo Herrera: He who does nothing, fears nothing",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/06/columna-de-danilo-herrera-el-que-nada-hace-nada-teme/",
-        "published_date": "2026-06-06 12:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Jaime Ma\u00f1alich: The man who fed a country and did not know how to forgive himself",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/06/columna-de-jaime-manalich-el-hombre-que-alimento-a-un-pais-y-no-supo-perdonarse/",
-        "published_date": "2026-06-06 12:01:00",
         "category": "Local Events"
     }
 ]
