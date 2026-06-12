@@ -14,6 +14,13 @@
         "category": "Military"
     },
     {
+        "title": "Andr\u00e9s Couve: \u201cThe Ministry of Science has an absolutely fundamental function which is to contribute to the socioeconomic development of Chile\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/11/andres-couve-el-ministerio-de-ciencia-tiene-una-funcion-absolutamente-fundamental-que-es-contribuir-al-desarrollo-socioeconomico-de-chile/",
+        "published_date": "2026-06-12 01:39:12",
+        "category": "Energy"
+    },
+    {
         "title": "\u201cIt is not harmless\u201d: CFA warns that with new debt of US$6.2 billion, the debt level would reach 43.6% of GDP",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/09/no-es-inocuo-cfa-alerta-que-con-nuevo-endeudamiento-por-us6-200-millones-el-nivel-de-deuda-llegaria-a-436-del-pib/",
@@ -61,6 +68,13 @@
         "url": "https://www.theclinic.cl/2026/06/04/han-ayudado-a-resolver-un-misterio-de-decadas-observatorio-alma-logro-captar-al-agujero-negro-de-la-via-lactea-respirando/",
         "published_date": "2026-06-04 21:16:44",
         "category": "Energy"
+    },
+    {
+        "title": "The race that challenges CrossFit: this is Hyrox, the new discipline that is gaining ground in the Chilean fitness market",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/12/la-carrera-que-desafia-al-crossfit-asi-es-hyrox-la-nueva-disciplina-que-gana-terreno-en-el-mercado-fitness-chileno/",
+        "published_date": "2026-06-12 12:33:00",
+        "category": "Economy"
     },
     {
         "title": "More income, but fewer cars: why is Chile less motorized than its neighbors?",
@@ -166,6 +180,27 @@
         "url": "https://www.theclinic.cl/2026/06/04/la-historia-del-desconocido-y-premiado-pisco-chileno-que-conquista-bares-y-hoteles-en-46-paises-del-mundo-nuestra-esencia-siempre-fue-la-exportacion/",
         "published_date": "2026-06-04 23:07:35",
         "category": "Economy"
+    },
+    {
+        "title": "Instagram, Facebook and WhatsApp fell: what is known about the failures in the Meta platforms",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/12/falla-whatsapp-instagram-facebook/",
+        "published_date": "2026-06-12 14:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Health requests the resignation of the seremi of the portfolio in \u00d1uble: there are already 22 seremis who have left their position in three months of government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/12/ministra-de-salud-pide-la-renuncia-del-seremi-de-la-cartera-en-nuble-ya-son-22-los-seremis-que-han-dejado-su-cargo-en-tres-meses-de-gobierno/",
+        "published_date": "2026-06-12 13:26:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "O'Higgins dismisses official and announces criminal complaint after \"serious invasion of privacy\" in the dressing room of the Under 20 series",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/11/ohiggins-desvincula-a-funcionario-y-anuncia-querella-criminal-tras-grave-invasion-a-la-privacidad-en-el-camarin-de-la-serie-sub-20/",
+        "published_date": "2026-06-12 02:43:53",
+        "category": "Local Events"
     },
     {
         "title": "Usach orders \u201cpreventive and immediate evacuation of the entire campus\u201d after threat of explosive elements and shooting",
@@ -284,27 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/10/mundial-de-peliculas-2026-el-album-cinefilo-que-lanzo-el-cinearte-de-vina-con-laminas-de-filmes-que-van-de-pulp-fiction-a-relatos-salvajes/",
         "published_date": "2026-06-10 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201c14 Theses\u201d: The space of Democratic Socialism that seeks to highlight the legacy of the Concertaci\u00f3n and reformulate the offer of the center-left",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/10/14-tesis-el-espacio-del-socialismo-democratico-que-busca-relevar-el-legado-de-la-concertacion-y-reformular-la-oferta-de-la-centroizquierda/",
-        "published_date": "2026-06-10 22:51:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The unexpected success of Pope Leo XIV's first encyclical that is sold out in bookstores: \u201cReligion is a tradition that still has things to say\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/10/el-inesperado-exito-de-la-primera-enciclica-del-papa-leon-xiv-que-se-agota-en-librerias-la-religion-es-una-tradicion-que-todavia-tiene-cosas-que-decir/",
-        "published_date": "2026-06-10 22:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FA councilor of \u00d1u\u00f1oa is convicted of insults against Sichel: he is suspended from his position and the mayor celebrates that it is an \u201cexemplary\u201d sentence",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/10/concejal-fa-de-nunoa-es-condenado-por-injurias-contra-sichel-es-suspendido-de-su-cargo-y-alcalde-celebra-que-es-una-sentencia-ejemplar/",
-        "published_date": "2026-06-10 22:43:27",
         "category": "Local Events"
     }
 ]
