@@ -21,6 +21,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Tim Payne was announced as Olimpia's reinforcement and left a special thank you to the streamer who made him a global phenomenon",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/tim-payne-fue-anunciado-como-refuerzo-de-olimpia-y-dejo-un-especial-agradecimiento-al-streamer-que-lo-convirtio-en-un-fenomeno-mundial/",
+        "published_date": "2026-06-18 23:30:11",
+        "category": "Military"
+    },
+    {
         "title": "\u201cStop running with your own colors!\u201d: The new tension in the association of mayors after Alessandri's defense of the Government's mega-reform",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/15/deja-de-correr-con-colores-propios-la-nueva-tension-en-la-asociacion-de-alcaldes-tras-defensa-de-alessandri-a-la-megarreforma-del-gobierno/",
@@ -33,6 +40,20 @@
         "url": "https://www.theclinic.cl/2026/06/14/gustavo-alessandri-presidente-de-asociacion-de-alcaldes-muchos-queremos-la-megarreforma-pero-los-municipios-no-podemos-pagar-la-cuenta/",
         "published_date": "2026-06-14 12:01:00",
         "category": "Military"
+    },
+    {
+        "title": "\u201cAn ambitious and aggressive expansion plan\u201d: Kitchen Center opens a new location in Conc\u00f3n and is committed to continuing to grow outside of Santiago",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/un-ambicioso-y-agresivo-plan-de-expansion-kitchen-center-abre-nuevo-local-en-concon-y-apuesta-por-seguir-creciendo-fuera-de-santiago/",
+        "published_date": "2026-06-18 21:55:16",
+        "category": "Energy"
+    },
+    {
+        "title": "Tricel's slam of the door on Enrique Bassaletti and Macarena Santelices: they must return $16 million and $290 million for 2024 campaign expenses",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/el-portazo-del-tricel-a-enrique-bassaletti-y-macarena-santelices-deben-devolver-16-millones-y-290-millones-por-gastos-de-campana-de-2024/",
+        "published_date": "2026-06-18 19:47:18",
+        "category": "Energy"
     },
     {
         "title": "The rebirth of Paseo El Ma\u00f1\u00edo de Vitacura: the new projects that promise to leave years of decline behind and revitalize the gastronomic hub",
@@ -89,6 +110,13 @@
         "url": "https://www.theclinic.cl/2026/06/11/andres-couve-el-ministerio-de-ciencia-tiene-una-funcion-absolutamente-fundamental-que-es-contribuir-al-desarrollo-socioeconomico-de-chile/",
         "published_date": "2026-06-12 01:39:12",
         "category": "Energy"
+    },
+    {
+        "title": "Chile falls one place in the World Competitiveness Ranking and shows signs of stagnation",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/chile-cae-un-puesto-en-el-ranking-de-competitividad-mundial-y-muestra-senales-de-estancamiento/",
+        "published_date": "2026-06-18 23:00:00",
+        "category": "Economy"
     },
     {
         "title": "Without Crying Podcast: Jorge Quiroz vice president?The cultural battle and the scandal of the Haitian children",
@@ -224,11 +252,46 @@
         "category": "Economy"
     },
     {
-        "title": "The race that challenges CrossFit: this is Hyrox, the new discipline that is gaining ground in the Chilean fitness market",
+        "title": "The impact of Father's Day on consumption: sales grow 12% in amounts and transactions increase 39%",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/12/la-carrera-que-desafia-al-crossfit-asi-es-hyrox-la-nueva-disciplina-que-gana-terreno-en-el-mercado-fitness-chileno/",
-        "published_date": "2026-06-12 12:33:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/18/el-impacto-del-dia-del-padre-en-el-consumo-ventas-crecen-12-en-montos-y-transacciones-aumentan-39/",
+        "published_date": "2026-06-18 21:50:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Municipalities paralyze one of three environmental projects when they oppose it, but study reveals that they only challenge 1% of the initiatives",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/estudio-uai-revela-que-municipios-impugnan-solo-el-1-de-los-proyectos-ambientales-en-chile-pero-uno-de-cada-tres-termina-paralizado-cuando-se-oponen/",
+        "published_date": "2026-06-18 21:48:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Libertarians target Bachelet for possible responsibility in the case of Haitian children: \u201cHeads have to roll\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/libertarios-apuntan-contra-bachelet-por-eventual-responsabilidad-en-caso-de-ninos-haitianos-tienen-que-rodar-cabezas/",
+        "published_date": "2026-06-18 21:41:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "It became a venue of excellence in Vi\u00f1a and today faces its imminent closure: the fall of the Mar\u00eda Auxiliadora school and the urgent call from its community",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/llego-a-ser-un-recinto-de-excelencia-de-vina-y-hoy-enfrenta-su-cierre-inminente-la-caida-del-colegio-maria-auxiliadora-y-el-llamado-de-urgencia-de-su-comunidad/",
+        "published_date": "2026-06-18 21:14:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The uncomfortable position of the Frente Amplio in the face of the attacks on Thayer for the entry of Haitians: they accuse \u201cscapegoat\u201d and ask for caution with antecedents",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/la-incomoda-posicion-del-frente-amplio-ante-los-dardos-a-thayer-por-ingreso-de-haitianos-acusan-chivo-expiatorio-y-piden-cautela-con-antecentes/",
+        "published_date": "2026-06-18 20:51:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Podcast: Where are the Haitian children?The DGAC official who warned about the flights",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/18/podcast-donde-estan-los-ninos-haitianos-el-funcionario-de-la-dgac-que-alerto-de-los-vuelos/",
+        "published_date": "2026-06-18 20:30:51",
+        "category": "Local Events"
     },
     {
         "title": "Editorial: Where are they?",
@@ -326,48 +389,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/16/seran-14-000-de-alza-congreso-despacha-reajuste-al-salario-minimo-y-ministro-rau-asegura-que-va-a-compensar-todo-el-aumento-del-ipc/",
         "published_date": "2026-06-16 23:18:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cHe is using lies as a form of political discussion\u201d: The accusations of the president of the Frente Amplio, Constanza Mart\u00ednez, against the Kast Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/16/esta-usando-la-mentira-como-una-forma-de-discusion-politica-las-acusaciones-de-la-presidenta-del-frente-amplio-constanza-martinez-contra-el-gobierno-de-kast/",
-        "published_date": "2026-06-16 22:47:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "France approves in its World Cup premiere with an illuminated Mbapp\u00e9 who surpasses Messi and approaches Klose's record as top scorer in World Cups",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/16/francia-aprueba-en-su-estreno-mundialero-con-un-mbappe-iluminado-que-supera-a-messi-y-se-acerca-al-record-de-klose-como-maximo-goleador-en-copas-del-mundo/",
-        "published_date": "2026-06-16 22:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new battle of fintechs and startups is not technological: it is communicational",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/16/fintechs-startups-comunicacion-estrategica/",
-        "published_date": "2026-06-16 22:33:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ambitious plan of LatamVet, the Chilean network of veterinary clinics that plans to reach 50 medical centers and expand throughout South America",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/16/el-ambicioso-plan-de-latamvet-la-red-de-clinicas-veterinarias-chilena-que-proyecta-alcanzar-50-centros-medicos-y-expandirse-por-sudamerica/",
-        "published_date": "2026-06-16 21:58:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The paleontological museum of replicas made with recycled garbage that is gaining popularity in Algarrobo: \u201cWe dream of one day having a collection of fossils\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/16/el-museo-paleontologico-de-replicas-hechas-con-basura-reciclada-que-gana-popularidad-en-algarrobo-sonamos-algun-dia-contar-con-una-coleccion-de-fosiles/",
-        "published_date": "2026-06-16 21:55:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Harold Mayne-Nicholls's farewell to Marco Muga, the reference of national photography who accompanied him at the 2010 World Cup: \u201cIt is never easy to say goodbye to a friend\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/16/el-adios-de-harold-mayne-nicholls-a-marco-muga-el-referente-de-la-fotografia-nacional-que-lo-acompano-en-el-mundial-2010-nunca-es-facil-despedir-a-un-amigo/",
-        "published_date": "2026-06-16 15:43:45",
         "category": "Local Events"
     }
 ]
