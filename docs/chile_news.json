@@ -1,5 +1,12 @@
 [
     {
+        "title": "Government highlights its intention to restore relations with Venezuela after sending brigades: \u201cWe are open to that, but today what is important is the people\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/25/gobierno-remarca-su-intencion-de-reponer-relaciones-con-venezuela-tras-envio-de-brigadistas-estamos-abiertos-a-eso-pero-hoy-lo-importante-son-las-personas/",
+        "published_date": "2026-06-26 01:20:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The first diplomatic response after the alerts about Haitian children: Foreign Ministry appoints Marco Antonio Aguayo as special ambassador for Haiti",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/20/la-primera-respuesta-diplomatica-tras-las-alertas-por-ninos-haitianos-cancilleria-nombra-a-marco-antonio-aguayo-como-embajador-especial-para-haiti/",
@@ -21,13 +28,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Kast summons the three branches of government and the Comptroller's Office to address the urgency of the alleged trafficking of children from Haiti",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/17/kast-cita-a-los-tres-poderes-del-estado-y-a-la-contraloria-para-abordar-la-urgencia-del-presunto-trafico-de-ninos-desde-haiti/",
-        "published_date": "2026-06-18 00:49:45",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Australis Case: Court of Appeals of Santiago annuls arbitration ruling favoring businessman Isidoro Quiroga",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/24/caso-australis-corte-de-apelaciones-de-santiago-anula-fallo-arbitral-favoreciendo-a-empresario-isidoro-quiroga/",
@@ -40,6 +40,13 @@
         "url": "https://www.theclinic.cl/2026/06/18/tim-payne-fue-anunciado-como-refuerzo-de-olimpia-y-dejo-un-especial-agradecimiento-al-streamer-que-lo-convirtio-en-un-fenomeno-mundial/",
         "published_date": "2026-06-18 23:30:11",
         "category": "Military"
+    },
+    {
+        "title": "BancoEstado's 'digital highway': the technological infrastructure for the implementation of the Liquefied Gas Coupon",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/25/bancoestado-cupon-gas-licuado-tecnologia/",
+        "published_date": "2026-06-26 00:32:30",
+        "category": "Energy"
     },
     {
         "title": "Tom\u00e1s Vodanovic: \u201cToday we are under a different perspective, which does not seek to make the State more efficient, transparent or modern, but rather to reduce its size\u201d",
@@ -203,6 +210,20 @@
         "category": "Economy"
     },
     {
+        "title": "Felipe Raip\u00e1n, the 16-year-old forward who became the second youngest player to score for Colo Colo: \u201cI saw Arturo Vidal on TV\u2026 now it's a dream\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/25/felipe-raipan-el-joven-de-16-anos-que-se-convirtio-en-el-segundo-jugador-mas-joven-en-anotar-por-colo-colo-a-arturo-vidal-lo-veia-en-la-tele-ahora-es-todo-un-sueno/",
+        "published_date": "2026-06-26 02:21:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kast is involved in a tense discussion with a woman in Villarrica: an altercation arose after a child refused to greet the President",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/25/kast-protagoniza-tensa-discusion-con-mujer-en-villarrica-altercado-surgio-luego-de-que-un-nino-le-negara-el-saludo-al-presidente/",
+        "published_date": "2026-06-26 00:19:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Pablo Zeballos, investigator specializing in organized crime: \u201cWe have to pay attention, our ports are at stake\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/25/pablo-zeballos-investigador-especialista-en-crimen-organizado-tenemos-que-poner-atencion-nuestros-puertos-estan-en-juego/",
@@ -326,20 +347,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/24/ministerio-de-medio-ambiente-volvio-a-retirar-de-contraloria-el-decreto-del-plan-de-descontaminacion-del-lago-villarrica/",
         "published_date": "2026-06-24 21:38:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIn terms of camps, the current government has not expressed anything\u201d: The darts that former Minister Monckeberg threw at the Housing management",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/24/en-materia-de-campamentos-el-actual-gobierno-no-ha-expresado-nada-los-dardos-que-lanzo-el-exministro-monckeberg-a-la-gestion-en-vivienda/",
-        "published_date": "2026-06-24 21:14:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cMore than a football team, a family\u201d: Disforia F.C., the first trans and non-binary club in Chile that will make history by representing our country at the Gay Games 2026",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/24/mas-que-un-equipo-de-futbol-una-familia-disforia-f-c-el-primer-club-trans-y-no-binario-de-chile-que-hara-historia-representando-a-nuestro-pais-en-los-gay-games-2026/",
-        "published_date": "2026-06-24 20:50:21",
         "category": "Local Events"
     }
 ]
