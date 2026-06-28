@@ -49,6 +49,13 @@
         "category": "Military"
     },
     {
+        "title": "60 vinyls in one night, 300 negronis in a month and lines of up to 40 minutes: why Ri.Co Hifi became the analogue jewel of Providencia",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/28/60-vinilos-en-una-noche-300-negronis-en-un-mes-y-filas-de-hasta-40-minutos-por-que-ri-co-hifi-se-convirtio-en-la-joya-analoga-de-providencia/",
+        "published_date": "2026-06-28 12:09:00",
+        "category": "Energy"
+    },
+    {
         "title": "The great debt of the Alzheimer's study in Latin America: \u201cPeople do not know that the projection for 2050 is very hopeless\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/26/la-gran-deuda-del-estudio-del-alzheimer-en-america-latina-las-personas-no-saben-que-la-proyeccion-para-2050-es-muy-desesperanzadora/",
@@ -75,6 +82,13 @@
         "url": "https://www.theclinic.cl/2026/06/21/editorial-vacaciones-de-invierno-el-lujo-de-estar/",
         "published_date": "2026-06-21 12:00:00",
         "category": "Energy"
+    },
+    {
+        "title": "Jaime Bellolio (UDI): \"I see figures from the Republican Party who insist on the thesis of moral superiority. That logic only does harm\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/28/jaime-bellolio-udi-veo-a-figuras-del-partido-republicano-que-insisten-en-la-tesis-de-la-superioridad-moral-esa-logica-solo-hace-dano/",
+        "published_date": "2026-06-28 12:00:00",
+        "category": "Economy"
     },
     {
         "title": "The Ferrari that is worth more as a key than as a car",
@@ -168,11 +182,25 @@
         "category": "Economy"
     },
     {
-        "title": "Behind the wheel of the RAM Rampage: the evolution of urban trucks in Chile",
+        "title": "Editorial: Criminal tour",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/20/al-volante-de-la-ram-rampage-la-evolucion-de-las-camionetas-urbanas-en-chile/",
-        "published_date": "2026-06-20 11:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/28/editorial-tour-delictual/",
+        "published_date": "2026-06-28 12:11:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kike Mujica's column, the battle of the right: the brave, the cowards",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/28/columna-de-kike-mujica-la-batalla-de-la-derecha-los-valientes-los-cobardes/",
+        "published_date": "2026-06-28 12:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camila Vallejo's 100 days out of power: her low public profile and landing in international politics",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/28/los-100-dias-de-camila-vallejo-fuera-del-poder-su-bajo-perfil-publico-y-el-desembarco-en-la-politica-internacional/",
+        "published_date": "2026-06-28 12:02:00",
+        "category": "Local Events"
     },
     {
         "title": "\u201cKona, a brave cat\u201d by Gabriel Osorio is awarded at the Annecy Festival, the most important competition in the world for animated films",
@@ -291,27 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/26/que-es-un-doblete-sismico-geologo-explica-los-alcances-del-fenomeno-con-el-terremoto-de-venezuela-y-posibilidades-que-ocurra-algo-asi-en-chile/",
         "published_date": "2026-06-26 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ana Mar\u00eda Gazmuri and her crossing with Poduje: \u201cWriting for four hours straight to a deputy seems inappropriate to me\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/26/ana-maria-gazmuri-y-su-cruce-con-poduje-escribirle-cuatro-horas-seguidas-a-una-diputada-me-parece-que-no-correponde/",
-        "published_date": "2026-06-26 22:00:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milad leaves his successor the responsibility of choosing the new coach of La Roja and assures that the two ANFP commissions are working \u201cintensely\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/26/milad-le-deja-a-su-sucesor-la-responsabilidad-de-elegir-al-nuevo-dt-de-la-roja-y-asegura-que-las-dos-comisiones-de-la-anfp-estan-trabajando-intensamente/",
-        "published_date": "2026-06-26 21:59:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Felipe Raip\u00e1n, the 16-year-old forward who became the second youngest player to score for Colo Colo: \u201cI saw Arturo Vidal on TV\u2026 now it's a dream\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/25/felipe-raipan-el-joven-de-16-anos-que-se-convirtio-en-el-segundo-jugador-mas-joven-en-anotar-por-colo-colo-a-arturo-vidal-lo-veia-en-la-tele-ahora-es-todo-un-sueno/",
-        "published_date": "2026-06-26 02:21:52",
         "category": "Local Events"
     }
 ]
