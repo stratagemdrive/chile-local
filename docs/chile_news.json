@@ -42,6 +42,13 @@
         "category": "Military"
     },
     {
+        "title": "Preview of the book \u201cImpunidad\u201d, about the Penta-SQM scandal and his visit to La Moneda: \u201cLook, partner, the central problem of this country is none other than corruption\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/29/adelanto-del-libro-impunidad-sobre-el-escandalo-penta-sqm-y-su-visita-a-la-moneda-mire-companero-dijo-con-voz-ronca-y-profunda-el-problema-central-de-este-pais-no-es/",
+        "published_date": "2026-06-29 12:20:00",
+        "category": "Energy"
+    },
+    {
         "title": "60 vinyls in one night, 300 negronis in a month and lines of up to 40 minutes: why Ri.Co Hifi became the analogue jewel of Providencia",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/28/60-vinilos-en-una-noche-300-negronis-en-un-mes-y-filas-de-hasta-40-minutos-por-que-ri-co-hifi-se-convirtio-en-la-joya-analoga-de-providencia/",
@@ -70,11 +77,11 @@
         "category": "Energy"
     },
     {
-        "title": "Editorial/ Winter holidays: the luxury of being",
+        "title": "Central Bank projects sharp drop of 1.8% in exports for this year, and economists point to copper and lower global growth",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/21/editorial-vacaciones-de-invierno-el-lujo-de-estar/",
-        "published_date": "2026-06-21 12:00:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/06/29/banco-central-proyecta-fuerte-caida-de-18-de-las-exportaciones-para-este-ano-y-economistas-apuntan-al-cobre-y-al-menor-crecimiento-global/",
+        "published_date": "2026-06-29 12:00:00",
+        "category": "Economy"
     },
     {
         "title": "Vlado Mirosevic declines to attend the state trip with Kast to be able to vote in the AC against Grau: \u201cIt is my responsibility to be in the Senate\u201d",
@@ -175,11 +182,18 @@
         "category": "Economy"
     },
     {
-        "title": "The last beet harvest: chronicle of the end of the crop that fed the Chilean sugar industry for more than 70 years and will leave 3 thousand families without work",
+        "title": "Kaiser after statements by the UDI against the pardon of uniformed officers convicted of 18-O: \u201cIt is difficult for me to contain my anger when reading this\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/21/la-ultima-cosecha-de-remolacha-cronica-del-fin-del-cultivo-que-alimento-a-la-industria-azucarera-chilena-durante-mas-de-70-anos-y-dejara-a-3-mil-familias-sin-trabajo/",
-        "published_date": "2026-06-21 12:54:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/29/kaiser-tras-declaraciones-de-la-udi-conta-indulto-a-uniformados-condenados-por-el-18-o-me-cuesta-contener-la-ira-al-leer-esto/",
+        "published_date": "2026-06-29 14:08:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Influenza B is the second most circulating virus and care for respiratory causes rises to 37.7%",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/29/influenza-b-es-el-segundo-virus-de-mayor-circulacion-y-las-atenciones-por-causas-respiratorias-suben-al-377/",
+        "published_date": "2026-06-29 13:45:21",
+        "category": "Local Events"
     },
     {
         "title": "The challenge of generating a culture of inclusive prevention: how to act in emergencies with people with disabilities and/or dependency",
@@ -305,20 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/27/cada-vez-menos-argentinos-con-maletas-en-los-malls-las-razones-detras-de-la-caida-de-casi-un-40-de-turistas-trasandinos-y-la-apuesta-de-chile-por-atraer-mas-brasilenos/",
         "published_date": "2026-06-27 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cNothing in my life has lasted as long as my psychologist\u201d: The dilemma of patients who remain in therapy for years and cannot (or do not want to) abandon their sessions",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/27/nada-en-mi-vida-ha-durado-tanto-como-mi-psicologa-el-dilema-de-pacientes-que-permanecen-anos-en-terapias-y-no-pueden-o-no-quieren-abandonar-sus-sesiones/",
-        "published_date": "2026-06-27 12:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Navarro and the project of rescuing the records of the Latin American underground of the 80s: \u201cI am interested in ensuring that this scene is not forgotten or lost\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/27/ivan-navarro-y-el-proyecto-de-rescatar-los-discos-del-under-latinoamericano-de-los-80-me-interesa-que-esa-escena-no-se-olvide-o-se-pierda/",
-        "published_date": "2026-06-27 12:13:00",
         "category": "Local Events"
     }
 ]
