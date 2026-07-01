@@ -1,5 +1,12 @@
 [
     {
+        "title": "President of CNTV met with the Russian ambassador and addressed RT's agenda in the country in the midst of the conflict with Telecanal",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/reunion-cntv-embajador-rusia-rt/",
+        "published_date": "2026-06-30 22:39:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Latest report from the Foreign Ministry: the number of Chileans who died after the earthquakes in Venezuela rises to three",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/28/ultimo-reporte-de-cancilleria-numero-de-chilenos-fallecidos-tras-los-terremotos-en-venezuela-asciende-a-tres/",
@@ -42,6 +49,20 @@
         "category": "Military"
     },
     {
+        "title": "Committee of Ministers supports electric megaproject and maintains favorable environmental rating of two initiatives for US$1,510 million",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/comite-de-ministros-respalda-megaproyecto-electrico-y-mantiene-calificacion-ambiental-favorable-de-dos-iniciativas-por-us1-510-millones/",
+        "published_date": "2026-06-30 23:09:08",
+        "category": "Energy"
+    },
+    {
+        "title": "Today is the last day to activate the Liquefied Gas Coupon and 2.6 million households have not done so: check how to access the $27,000 benefit",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/hoy-es-el-ultimo-dia-para-activar-el-cupon-de-gas-licuado-y-26-millones-de-hogares-no-lo-han-hecho-revisa-como-acceder-al-beneficio-de-27-000/",
+        "published_date": "2026-06-30 21:28:01",
+        "category": "Energy"
+    },
+    {
         "title": "Preview of the book \u201cImpunidad\u201d, about the Penta-SQM scandal and his visit to La Moneda: \u201cLook, partner, the central problem of this country is none other than corruption\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/29/adelanto-del-libro-impunidad-sobre-el-escandalo-penta-sqm-y-su-visita-a-la-moneda-mire-companero-dijo-con-voz-ronca-y-profunda-el-problema-central-de-este-pais-no-es/",
@@ -70,11 +91,18 @@
         "category": "Energy"
     },
     {
-        "title": "Tom\u00e1s Vodanovic: \u201cToday we are under a different perspective, which does not seek to make the State more efficient, transparent or modern, but rather to reduce its size\u201d",
+        "title": "BancoEstado and CuentaRUT stand out in citizen assessment due to national presence, lower costs and support for MiPymes",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/22/tomas-vodanovic-fantasia-reducir-estado-recortes-gasto-publico/",
-        "published_date": "2026-06-22 13:19:25",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/06/30/bancoestado-cuentarut-marcas-ciudadanas-cadem/",
+        "published_date": "2026-06-30 22:38:31",
+        "category": "Economy"
+    },
+    {
+        "title": "With a divided right and three disqualifications: Senate rejects constitutional accusation against Grau",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/con-una-derecha-dividida-y-con-tres-inhabilitaciones-senado-rechaza-acusacion-constitucional-en-contra-de-grau/",
+        "published_date": "2026-06-30 22:19:44",
+        "category": "Economy"
     },
     {
         "title": "Central Bank projects sharp drop of 1.8% in exports for this year, and economists point to copper and lower global growth",
@@ -161,25 +189,39 @@
         "category": "Economy"
     },
     {
-        "title": "The legacy of Alan Greenspan, the powerful banker of the FED, in the voice of the head of the Central Bank and three of its former presidents",
+        "title": "The paradox of software and fat: The new profile of technical training in heavy transportation",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/22/el-legado-de-alan-greenspan-el-banquero-poderoso-de-la-fed-en-voz-de-la-titular-del-banco-central-y-tres-de-sus-expresidentes/",
-        "published_date": "2026-06-22 22:36:57",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/30/formacion-tecnica-transporte-pesado-chile/",
+        "published_date": "2026-06-30 23:27:31",
+        "category": "Local Events"
     },
     {
-        "title": "Chocolate, coffee and sugar: the products that could increase in price due to the effect of \u201cEl Ni\u00f1o Godzilla\u201d",
+        "title": "Goodbye to visual noise: the \u201cClean Look\u201d phenomenon that transforms Chilean living rooms",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/22/chocolate-cafe-y-azucar-los-productos-que-podrian-subir-de-precio-por-efecto-de-el-nino-godzilla/",
-        "published_date": "2026-06-22 22:05:45",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/30/fenomeno-clean-look-living-chileno/",
+        "published_date": "2026-06-30 22:32:23",
+        "category": "Local Events"
     },
     {
-        "title": "\u201cWhat if you never cook again?\u201d: Mauricio Henr\u00edquez's model and how the home chef business is beginning to gain ground in Chile",
+        "title": "Soser files a complaint against the director of Junaeb for \u201cslanderous denunciation\u201d and \u201cadministrative prevarication\u201d after the food ration case",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/22/y-si-no-cocinas-nunca-mas-el-modelo-de-mauricio-henriquez-y-como-el-negocio-de-los-chefs-a-domicilio-comienza-a-ganar-terreno-en-chile/",
-        "published_date": "2026-06-22 21:58:24",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/06/30/soser-se-querella-contra-el-director-de-junaeb-por-denuncia-calumniosa-y-prevaricacion-administrativa-tras-caso-de-raciones-de-comida/",
+        "published_date": "2026-06-30 22:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cecilia Cifuentes, member of the Labor Reactivation Table: \u201cWhen one hinders dismissal a lot, what it does is hinder hiring\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/cecilia-cifuentes-integrante-de-mesa-de-reactivacion-laboral-cuando-uno-traba-mucho-el-despido-lo-que-hace-es-trabar-la-contratacion/",
+        "published_date": "2026-06-30 21:52:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The nightmare of a renowned sports journalist due to the administration of Fuente Lastarria: he filed a complaint against his partner after they cut off the power to the premises",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/la-pesadilla-de-un-reconocido-periodista-deportivo-por-la-administracion-de-la-fuente-lastarria-se-querello-contra-su-socio-luego-de-que-le-cortaran-la-luz-del-local/",
+        "published_date": "2026-06-30 21:50:55",
+        "category": "Local Events"
     },
     {
         "title": "Kast hopes to reunite with the family of a boy who died in a bullfight in San Bernardo after his international tour",
@@ -284,41 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/28/editorial-tour-delictual/",
         "published_date": "2026-06-28 12:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kike Mujica's column, the battle of the right: the brave, the cowards",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/28/columna-de-kike-mujica-la-batalla-de-la-derecha-los-valientes-los-cobardes/",
-        "published_date": "2026-06-28 12:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camila Vallejo's 100 days out of power: her low public profile and landing in international politics",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/28/los-100-dias-de-camila-vallejo-fuera-del-poder-su-bajo-perfil-publico-y-el-desembarco-en-la-politica-internacional/",
-        "published_date": "2026-06-28 12:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cKona, a brave cat\u201d by Gabriel Osorio is awarded at the Annecy Festival, the most important competition in the world for animated films",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/27/kona-una-gata-valiente-de-gabriel-osorio-es-premiada-en-el-festival-de-annecy-el-certamen-mas-importante-del-mundo-sobre-el-cine-de-animacion/",
-        "published_date": "2026-06-27 23:06:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The lapidary trial of Marcelo Bielsa that marks the end of his cycle in Uruguay: \u201cHe never understood where he was\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/27/el-lapidario-juicio-a-marcelo-bielsa-que-marca-el-fin-de-su-ciclo-en-uruguay-nunca-entendio-donde-estaba/",
-        "published_date": "2026-06-27 22:21:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Relatives of the child murdered in San Bernardo ask to review the Adolescent Criminal Responsibility Law and toughen penalties for crimes such as ambushes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/27/familiares-del-nino-asesinado-en-san-bernardo-piden-revisar-la-ley-de-responsabilidad-penal-adolescente-y-endurecer-penas-ante-delitos-como-encerronas/",
-        "published_date": "2026-06-27 19:41:11",
         "category": "Local Events"
     }
 ]
