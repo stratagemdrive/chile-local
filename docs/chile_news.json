@@ -91,6 +91,20 @@
         "category": "Energy"
     },
     {
+        "title": "Central Bank reports a 0.9% drop in the Imacec in May due to mining and adds five months of setbacks",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/01/imacec-mayo-2026-cae-09-produccion-minera-banco-central/",
+        "published_date": "2026-07-01 12:55:57",
+        "category": "Economy"
+    },
+    {
+        "title": "Grau after rejection of constitutional accusation: \u201cIt is not true that Chile is in a catastrophic situation in fiscal terms\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/06/30/nicolas-grau-rechazo-acusacion-constitucional-defiende-situacion-fiscal-chile/",
+        "published_date": "2026-07-01 02:09:39",
+        "category": "Economy"
+    },
+    {
         "title": "BancoEstado and CuentaRUT stand out in citizen assessment due to national presence, lower costs and support for MiPymes",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/30/bancoestado-cuentarut-marcas-ciudadanas-cadem/",
@@ -187,6 +201,13 @@
         "url": "https://www.theclinic.cl/2026/06/23/atacama-destaco-con-un-crecimiento-de-105-en-el-primer-trimestre-mientras-que-10-regiones-anotaron-caidas-en-el-pib/",
         "published_date": "2026-06-23 22:01:56",
         "category": "Economy"
+    },
+    {
+        "title": "Chronicle of an announced result: the FA's strategy of not provoking, Zapata's commented performance and the recriminations after the failure of the libel",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/01/cronica-de-un-resultado-anunciado-la-estrategia-del-fa-de-no-provocar-la-comentada-performance-de-zapata-y-las-recriminaciones-tras-el-fracaso-del-libelo/",
+        "published_date": "2026-07-01 13:09:59",
+        "category": "Local Events"
     },
     {
         "title": "The paradox of software and fat: The new profile of technical training in heavy transportation",
@@ -319,13 +340,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/28/columna-de-carmen-soza-de-la-revuelta-al-orden-y-al-sentido-comun/",
         "published_date": "2026-06-28 12:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Editorial: Criminal tour",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/28/editorial-tour-delictual/",
-        "published_date": "2026-06-28 12:11:00",
         "category": "Local Events"
     }
 ]
