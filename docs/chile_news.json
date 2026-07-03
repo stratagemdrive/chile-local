@@ -112,6 +112,13 @@
         "category": "Energy"
     },
     {
+        "title": "Alejandro Weber: \u201cOf course Chile is not falling apart, but we are in a situation that is very complex\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/alejandro-weber-por-supuesto-que-chile-no-se-cae-a-pedazos-pero-estamos-en-una-situacion-que-es-muy-compleja/",
+        "published_date": "2026-07-03 11:00:00",
+        "category": "Economy"
+    },
+    {
         "title": "Central Bank limits payment with bank cards on public transport: if a person travels without sufficient balance, they will be blocked from new trips",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/02/banco-central-delimita-pago-con-tarjetas-bancarias-en-el-transporte-publico-si-una-persona-viaja-sin-saldo-suficiente-quedara-bloqueada-para-nuevos-viajes/",
@@ -201,6 +208,34 @@
         "url": "https://www.theclinic.cl/2026/06/25/evelyn-matthei-lider-de-oposicion-promesas-incumplidas-de-gobierno-y-la-anarquia-en-la-izquierda/",
         "published_date": "2026-06-25 20:02:29",
         "category": "Economy"
+    },
+    {
+        "title": "The battle for the brain of the car of the future",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/sistemas-de-conduccion-autonoma-avanzada/",
+        "published_date": "2026-07-03 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Notbank Yield: the service that helps you generate crypto returns every day",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/02/notbank-yield-criptomonedas/",
+        "published_date": "2026-07-03 02:52:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt transmits order, care and generates a feeling of security\u201d: the before and after of the Concha y Toro neighborhood after the restoration of 100% of its facades",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/02/transmite-orden-cuidado-y-genera-sensacion-de-seguridad-el-antes-y-despues-del-barrio-concha-y-toro-tras-la-resutaracion-del-100-de-sus-fachadas/",
+        "published_date": "2026-07-03 02:42:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Duco points to DG Medios after the non-authorization of BTS shows at the National Stadium: \u201cTheir decision was to sell tickets without confirmation from the IND\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/02/duco-apunta-a-dg-medios-tras-la-no-autorizacion-de-los-shows-de-bts-en-el-estadio-nacional-la-decision-de-ellos-fue-vender-entradas-sin-la-confirmacion-del-ind/",
+        "published_date": "2026-07-03 02:06:59",
+        "category": "Local Events"
     },
     {
         "title": "Rugby applauds the IND's decision not to authorize BTS shows at the National Stadium: \u201cThe sports infrastructure has to be centralized in sport\u201d",
@@ -312,34 +347,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/01/cronica-de-un-resultado-anunciado-la-estrategia-del-fa-de-no-provocar-la-comentada-performance-de-zapata-y-las-recriminaciones-tras-el-fracaso-del-libelo/",
         "published_date": "2026-07-01 13:09:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The paradox of software and fat: The new profile of technical training in heavy transportation",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/formacion-tecnica-transporte-pesado-chile/",
-        "published_date": "2026-06-30 23:27:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Goodbye to visual noise: the \u201cClean Look\u201d phenomenon that transforms Chilean living rooms",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/fenomeno-clean-look-living-chileno/",
-        "published_date": "2026-06-30 22:32:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Soser files a complaint against the director of Junaeb for \u201cslanderous denunciation\u201d and \u201cadministrative prevarication\u201d after the food ration case",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/soser-se-querella-contra-el-director-de-junaeb-por-denuncia-calumniosa-y-prevaricacion-administrativa-tras-caso-de-raciones-de-comida/",
-        "published_date": "2026-06-30 22:20:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cecilia Cifuentes, member of the Labor Reactivation Table: \u201cWhen one hinders dismissal a lot, what it does is hinder hiring\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/cecilia-cifuentes-integrante-de-mesa-de-reactivacion-laboral-cuando-uno-traba-mucho-el-despido-lo-que-hace-es-trabar-la-contratacion/",
-        "published_date": "2026-06-30 21:52:30",
         "category": "Local Events"
     }
 ]
