@@ -35,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government highlights its intention to restore relations with Venezuela after sending brigades: \u201cWe are open to that, but today what is important is the people\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/25/gobierno-remarca-su-intencion-de-reponer-relaciones-con-venezuela-tras-envio-de-brigadistas-estamos-abiertos-a-eso-pero-hoy-lo-importante-son-las-personas/",
-        "published_date": "2026-06-26 01:20:34",
-        "category": "Diplomacy"
-    },
-    {
         "title": "\u201cI did not get involved in any discussion\u201d: Kast faces the blows of his controversial exchange with a child and his mother in Villarrica",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/06/26/yo-no-me-enfrasque-en-ninguna-discusion-kast-enfrenta-los-coletazos-de-su-polemico-intercambio-con-un-nino-y-su-madre-en-villarrica/",
@@ -112,11 +105,11 @@
         "category": "Energy"
     },
     {
-        "title": "BancoEstado's 'digital highway': the technological infrastructure for the implementation of the Liquefied Gas Coupon",
+        "title": "How a viral TikTok video ended up with 7,000 normal people accused of fraud: the story behind the largest case for \u201cself-theft\u201d from BancoEstado",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/25/bancoestado-cupon-gas-licuado-tecnologia/",
-        "published_date": "2026-06-26 00:32:30",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/04/como-un-video-viral-de-tiktok-termino-con-7-000-personas-normales-acusadas-de-estafa-la-historia-detras-de-la-mayor-causa-por-autorobos-del-bancoestado/",
+        "published_date": "2026-07-04 12:01:00",
+        "category": "Economy"
     },
     {
         "title": "CMF surprises with an avalanche of sanctions involving sports clubs, banking entities and Larra\u00edn Vial",
@@ -215,6 +208,20 @@
         "url": "https://www.theclinic.cl/2026/06/26/banco-central-e-industria-coinciden-en-regular-las-stablecoins-pero-poniendo-sobre-la-mesa-los-riesgos-e-interrelacion-con-otras-leyes/",
         "published_date": "2026-06-26 22:19:11",
         "category": "Economy"
+    },
+    {
+        "title": "Power Newsletter: Quiroz opens his heart",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/04/newsletter-poder-quiroz-abre-su-corazon/",
+        "published_date": "2026-07-04 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The political networks of DG Medios, the production company in charge of BTS: the profile of the lobbyists and the meetings they have held with the State",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/las-redes-politicas-de-dg-medios-la-productora-a-cargo-de-bts-el-perfil-de-los-lobbistas-y-las-reuniones-que-han-sostenido-con-el-estado/",
+        "published_date": "2026-07-04 02:44:02",
+        "category": "Local Events"
     },
     {
         "title": "Ducray presented its Kelual line of shampoos at the Nerd Night of Consciousness",
@@ -340,20 +347,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/02/gobierno-por-rechazo-del-ind-al-uso-del-nacional-para-show-de-bts-se-han-ofrecido-locaciones-alternativas-dentro-del-radio-del-estadio/",
         "published_date": "2026-07-02 21:10:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Investigation into the tragedy in El Teniente: Court accepts Codelco's guarantees and limits information requirements from the Prosecutor's Office",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/investigacion-por-la-tragedia-en-el-teniente-tribunal-acoge-cautela-de-garantias-de-codelco-y-limita-requerimientos-de-informacion-de-fiscalia/",
-        "published_date": "2026-07-01 23:32:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Buinzoo begins a campaign through a signature meeting to bring a giant panda bear to Chile: \u201cWe know that the road can be long\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/buinzoo-inicia-campana-mediante-junta-de-firmas-para-traer-un-oso-panda-gigante-a-chile-sabemos-que-el-camino-puede-ser-largo/",
-        "published_date": "2026-07-01 22:34:15",
         "category": "Local Events"
     }
 ]
