@@ -49,6 +49,13 @@
         "category": "Military"
     },
     {
+        "title": "Duco announces \u201ctwo new solutions\u201d that were proposed to DG Medios for the BTS concerts to take place in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/duco-da-a-conocer-dos-nuevas-soluciones-que-se-le-plantearon-a-dg-medios-para-que-se-realicen-los-conciertos-de-bts-en-chile/",
+        "published_date": "2026-07-03 23:21:59",
+        "category": "Energy"
+    },
+    {
         "title": "Son of a Republican deputy stars in controversial advertising video for a nightclub in Antofagasta: local erased the record",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/02/hijo-de-diputado-republicano-protagoniza-polemico-video-publicitario-de-club-nocturno-en-antofagasta-local-borro-el-registro/",
@@ -110,6 +117,13 @@
         "url": "https://www.theclinic.cl/2026/06/25/bancoestado-cupon-gas-licuado-tecnologia/",
         "published_date": "2026-06-26 00:32:30",
         "category": "Energy"
+    },
+    {
+        "title": "CMF surprises with an avalanche of sanctions involving sports clubs, banking entities and Larra\u00edn Vial",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/cmf-sorprende-con-avalancha-de-sanciones-que-involucran-a-clubes-deportivos-a-entidades-bancarias-y-a-larrain-vial/",
+        "published_date": "2026-07-03 22:35:33",
+        "category": "Economy"
     },
     {
         "title": "Alejandro Weber: \u201cOf course Chile is not falling apart, but we are in a situation that is very complex\u201d",
@@ -203,11 +217,60 @@
         "category": "Economy"
     },
     {
-        "title": "Evelyn Matthei opposition leader?Unfulfilled government promises and anarchy on the left",
+        "title": "Ducray presented its Kelual line of shampoos at the Nerd Night of Consciousness",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/25/evelyn-matthei-lider-de-oposicion-promesas-incumplidas-de-gobierno-y-la-anarquia-en-la-izquierda/",
-        "published_date": "2026-06-25 20:02:29",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/03/shampoo-kelual-noche-nerd-caspa/",
+        "published_date": "2026-07-03 22:48:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mental wandering would not be a distraction: study reveals that the brain uses it as a cleaning mechanism",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/divagacion-mental-no-seria-una-distraccion-estudio-revela-que-el-cerebro-la-usa-como-mecanismo-de-limpieza/",
+        "published_date": "2026-07-03 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Almost a month after the bankruptcy of Energy Fitness, there are 5,300 claims against the gym chain before Sernac",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/a-casi-un-mes-de-la-quiebra-de-energy-fitness-ascienden-a-5-300-los-reclamos-contra-la-cadena-de-gimnasios-ante-el-sernac/",
+        "published_date": "2026-07-03 22:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "GAC in Chile under Gildemeister: the commitment to recover lost ground",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/gac-en-chile-bajo-gildemeister/",
+        "published_date": "2026-07-03 21:55:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government completes its sixth expulsion flight with 45 foreign citizens and 1,100 migrants are expelled in 2026",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/gobierno-concreta-su-sexto-vuelo-de-expulsion-con-45-ciudadanos-extranjeros-y-se-concretan-1-100-migrantes-expulsados-en-2026/",
+        "published_date": "2026-07-03 21:52:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ten police officers were found guilty of a corruption network in Meiggs: one was convicted of illegitimate coercion against a Chinese merchant",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/diez-carabineros-fueron-encontrados-culpables-por-red-de-corrupcion-en-meiggs-uno-fue-condenado-por-apremios-ilegitimos-contra-comerciante-chino/",
+        "published_date": "2026-07-03 21:51:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chile performs the first bariatric surgeries with artificial intelligence, augmented reality and 3D",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/chile-realiza-las-primeras-cirugias-bariatricas-con-inteligencia-artificial-realidad-aumentada-y-3d/",
+        "published_date": "2026-07-03 21:19:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Professor has been waiting for more than a year to process payment of his historical debt: Court ordered Mineduc to resolve the request in five days",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/03/profesor-lleva-mas-de-un-ano-esperando-tramitacion-del-pago-de-su-deuda-historica-corte-ordeno-al-mineduc-solucionar-la-solicitud-en-cinco-dias/",
+        "published_date": "2026-07-03 21:17:21",
+        "category": "Local Events"
     },
     {
         "title": "The battle for the brain of the car of the future",
@@ -291,62 +354,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/01/buinzoo-inicia-campana-mediante-junta-de-firmas-para-traer-un-oso-panda-gigante-a-chile-sabemos-que-el-camino-puede-ser-largo/",
         "published_date": "2026-07-01 22:34:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paulina Urrutia's reflections on life and grief: \u201cDeath is a process that accompanies us throughout life\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/las-reflexiones-de-paulina-urrutia-sobre-la-vida-y-el-duelo-la-muerte-es-un-proceso-que-nos-acompana-durante-toda-la-vida/",
-        "published_date": "2026-07-01 22:24:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why did black humor take over social networks?Report from the Central University analyzes the phenomenon that marks the digital conversation",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/informe-ucen-humor-negro/",
-        "published_date": "2026-07-01 22:21:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ANFP's commitment for the League Cup final: \u201cAll people who enter will enter with biometric control\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/el-compromiso-de-la-anfp-para-la-final-de-la-copa-de-la-liga-todas-las-personas-que-ingresen-van-a-entrar-con-control-biometrico/",
-        "published_date": "2026-07-01 22:13:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The FA's mea culpa for the constitutional accusations it promoted in the past and why it is now agreeing to reform the mechanism",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/el-mea-culpa-del-fa-por-las-acusaciones-constitucionales-que-impulso-en-el-pasado-y-por-que-ahora-se-allana-a-reformar-el-mecanismo/",
-        "published_date": "2026-07-01 22:05:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chilean academic studies antibacterial properties of honey from the Atacama Desert that could replace antibiotics",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/academica-chilena-estudia-propiedades-antibacterianas-de-las-mieles-del-desierto-de-atacama-que-podrian-reemplazar-a-los-antibioticos/",
-        "published_date": "2026-07-01 21:50:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The disorder of the Chilean Post Office in Lo Barnechea: legal action is initiated due to the accumulation of more than 700 shipments, among which there were old Treasury checks",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/el-desorden-de-correos-de-chile-en-lo-barnechea-inician-acciones-legales-por-acumulacion-de-mas-de-700-envios-entre-los-que-habia-antiguos-cheques-de-tesoreria/",
-        "published_date": "2026-07-01 21:42:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "ISP issues alert for viral challenge that consists of mixing flu medicines with alcohol: they warn of the risk of serious liver damage",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/isp-emite-alerta-por-desafio-viral-que-consiste-en-mezclar-antigripales-con-alcohol-advierten-riesgo-de-dano-hepatico-grave/",
-        "published_date": "2026-07-01 21:33:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicle of an announced result: the FA's strategy of not provoking, Zapata's commented performance and the recriminations after the failure of the libel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/cronica-de-un-resultado-anunciado-la-estrategia-del-fa-de-no-provocar-la-comentada-performance-de-zapata-y-las-recriminaciones-tras-el-fracaso-del-libelo/",
-        "published_date": "2026-07-01 13:09:59",
         "category": "Local Events"
     }
 ]
