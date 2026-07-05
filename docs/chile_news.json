@@ -91,6 +91,13 @@
         "category": "Energy"
     },
     {
+        "title": "Chief Economist of Ita\u00fa: \u201cThere is a contrast between the short-term weakness, looking in the rearview mirror, with the horizon that continues to show a recovery\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/economista-jefe-de-itau-hay-un-contraste-entre-la-debilidad-de-corto-plazo-mirando-por-el-retrovisor-con-el-horizonte-que-sigue-mostrando-una-recuperacion/",
+        "published_date": "2026-07-05 12:08:00",
+        "category": "Economy"
+    },
+    {
         "title": "How a viral TikTok video ended up with 7,000 normal people accused of fraud: the story behind the largest case for \u201cself-theft\u201d from BancoEstado",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/04/como-un-video-viral-de-tiktok-termino-con-7-000-personas-normales-acusadas-de-estafa-la-historia-detras-de-la-mayor-causa-por-autorobos-del-bancoestado/",
@@ -180,6 +187,27 @@
         "url": "https://www.theclinic.cl/2026/06/28/jaime-bellolio-udi-veo-a-figuras-del-partido-republicano-que-insisten-en-la-tesis-de-la-superioridad-moral-esa-logica-solo-hace-dano/",
         "published_date": "2026-06-28 12:00:00",
         "category": "Economy"
+    },
+    {
+        "title": "Editorial: It's cold in the city",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/editorial-hace-frio-en-la-ciudad/",
+        "published_date": "2026-07-05 12:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beatriz S\u00e1nchez, senator of the Frente Amplio: \u201cMinister Quiroz sits with his gun on the table to negotiate the mega-reform\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/beatriz-sanchez-en-el-frente-amplio-estamos-buscando-hacer-una-politica-de-mejor-manera/",
+        "published_date": "2026-07-05 12:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Catalina San Mart\u00edn: \"Some Republicans seem to live in a constant trench. These are the characters who, sorry, must be isolated\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/catalina-san-martin-algunos-republicanos-parecen-vivir-en-una-trinchera-constante-son-esos-los-personajes-que-perdon-hay-que-aislar/",
+        "published_date": "2026-07-05 12:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Gonzalo Reyna, the winger that Fernando Gago had been following \u201cfor a long time\u201d becomes a reinforcement of the U through a free loan",
@@ -298,27 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/03/diez-carabineros-fueron-encontrados-culpables-por-red-de-corrupcion-en-meiggs-uno-fue-condenado-por-apremios-ilegitimos-contra-comerciante-chino/",
         "published_date": "2026-07-03 21:51:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chile performs the first bariatric surgeries with artificial intelligence, augmented reality and 3D",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/chile-realiza-las-primeras-cirugias-bariatricas-con-inteligencia-artificial-realidad-aumentada-y-3d/",
-        "published_date": "2026-07-03 21:19:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Professor has been waiting for more than a year to process payment of his historical debt: Court ordered Mineduc to resolve the request in five days",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/profesor-lleva-mas-de-un-ano-esperando-tramitacion-del-pago-de-su-deuda-historica-corte-ordeno-al-mineduc-solucionar-la-solicitud-en-cinco-dias/",
-        "published_date": "2026-07-03 21:17:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The battle for the brain of the car of the future",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/sistemas-de-conduccion-autonoma-avanzada/",
-        "published_date": "2026-07-03 12:00:00",
         "category": "Local Events"
     }
 ]
