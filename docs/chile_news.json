@@ -21,13 +21,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Pavez provides details of Chilean aid in Venezuela: \u201cOur firefighters are fine, but working in very difficult conditions\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/27/pavez-entrega-detalles-de-la-ayuda-chilena-en-venezuela-nuestros-bomberos-estan-bien-pero-trabajando-en-condiciones-muy-dificiles/",
-        "published_date": "2026-06-27 20:20:13",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The third humanitarian aid flight from Chile to Venezuela: 35 thousand vaccines, medicines, food, hygiene kits and tents",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/04/el-tercer-vuelo-de-ayuda-humanitaria-de-chile-a-venezuela-35-mil-vacunas-medicamentos-alimentos-kits-de-higiene-y-carpas/",
@@ -89,6 +82,13 @@
         "url": "https://www.theclinic.cl/2026/06/28/60-vinilos-en-una-noche-300-negronis-en-un-mes-y-filas-de-hasta-40-minutos-por-que-ri-co-hifi-se-convirtio-en-la-joya-analoga-de-providencia/",
         "published_date": "2026-06-28 12:09:00",
         "category": "Energy"
+    },
+    {
+        "title": "The story of the Italian migrant who arrived in Chile 96 years ago and founded Emporio Zunino, the most traditional empanada factory in the Mercado Central sector.",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/la-historia-del-migrante-italiano-que-hace-96-anos-llego-a-chile-y-fundo-el-emporio-zunino-la-fabrica-de-empanadas-mas-tradicional-del-sector-mercado-central/",
+        "published_date": "2026-07-05 12:28:00",
+        "category": "Economy"
     },
     {
         "title": "Chief Economist of Ita\u00fa: \u201cThere is a contrast between the short-term weakness, looking in the rearview mirror, with the horizon that continues to show a recovery\u201d",
@@ -189,6 +189,55 @@
         "category": "Economy"
     },
     {
+        "title": "Cruz-Coke proposes that the PNL should join the Government and libertarians respond: \u201cWe are not going to give up our identity\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/cruz-coke-plantea-que-el-pnl-debe-integrarse-al-gobierno-y-libertarios-le-responden-no-vamos-a-renunciar-a-nuestra-identidad/",
+        "published_date": "2026-07-05 23:47:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The scandal that takes over the World Cup: FIFA lifts suspension of the United States scorer, Trump celebrates and the Belgian Federation studies actions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/el-escandalo-que-se-toma-el-mundial-fifa-levanta-suspension-al-goleador-de-estados-unidos-trump-celebra-y-la-federacion-de-belgica-estudia-acciones/",
+        "published_date": "2026-07-05 21:31:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cNow yes\u201d: Mindep declares itself open to receiving BTS concerts at the National Stadium after a new proposal from DG Media",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/mindep-se-declara-abierto-a-recibir-los-conciertos-de-bts-en-el-estadio-nacional-tras-nueva-propuesta-de-dg-medios/",
+        "published_date": "2026-07-05 19:24:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are leaving the house in order\u201d: Milad defends his management and maintains that the lack of players with international experience is the main factor that explains the failure of La Roja",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/estamos-dejando-ordenada-la-casa-milad-defiende-su-gestion-y-sostiene-que-la-falta-de-jugadores-con-roce-internacional-es-el-factor-principal-que-explica-el-fracaso-de-la-roja/",
+        "published_date": "2026-07-05 18:13:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI overstepped my bounds\u201d: failed seremi who posed as a police officer is free after paying bail of $2 million and providing an unusual explanation about what happened",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/me-extralimite-fallido-seremi-que-se-hizo-pasar-por-carabinero-queda-libre-tras-pagar-fianza-de-2-millones-y-entrega-insolita-explicacion/",
+        "published_date": "2026-07-05 17:04:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The crisis unleashed in the Tennis Federation after the election of Milovan Kegevic as president and the onslaught of his opponents who seek to challenge him in different ways",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/la-crisis-desatada-en-la-federacion-de-tenis-tras-la-eleccion-de-milovan-kegevic-como-presidente-y-la-arremetida-de-sus-opositores-que-buscan-impugnarlo-por-diferentes-vias/",
+        "published_date": "2026-07-05 15:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Kike Mujica/ Pablo Milad: Is the culprit why we watch it on TV?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/05/columna-de-kike-mujica-pablo-milad-el-culpable-de-que-lo-miremos-por-tv/",
+        "published_date": "2026-07-05 12:35:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Editorial: It's cold in the city",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/05/editorial-hace-frio-en-la-ciudad/",
@@ -277,55 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/04/newsletter-poder-quiroz-abre-su-corazon/",
         "published_date": "2026-07-04 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The political networks of DG Medios, the production company in charge of BTS: the profile of the lobbyists and the meetings they have held with the State",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/las-redes-politicas-de-dg-medios-la-productora-a-cargo-de-bts-el-perfil-de-los-lobbistas-y-las-reuniones-que-han-sostenido-con-el-estado/",
-        "published_date": "2026-07-04 02:44:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ducray presented its Kelual line of shampoos at the Nerd Night of Consciousness",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/shampoo-kelual-noche-nerd-caspa/",
-        "published_date": "2026-07-03 22:48:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mental wandering would not be a distraction: study reveals that the brain uses it as a cleaning mechanism",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/divagacion-mental-no-seria-una-distraccion-estudio-revela-que-el-cerebro-la-usa-como-mecanismo-de-limpieza/",
-        "published_date": "2026-07-03 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Almost a month after the bankruptcy of Energy Fitness, there are 5,300 claims against the gym chain before Sernac",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/a-casi-un-mes-de-la-quiebra-de-energy-fitness-ascienden-a-5-300-los-reclamos-contra-la-cadena-de-gimnasios-ante-el-sernac/",
-        "published_date": "2026-07-03 22:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "GAC in Chile under Gildemeister: the commitment to recover lost ground",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/gac-en-chile-bajo-gildemeister/",
-        "published_date": "2026-07-03 21:55:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government completes its sixth expulsion flight with 45 foreign citizens and 1,100 migrants are expelled in 2026",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/gobierno-concreta-su-sexto-vuelo-de-expulsion-con-45-ciudadanos-extranjeros-y-se-concretan-1-100-migrantes-expulsados-en-2026/",
-        "published_date": "2026-07-03 21:52:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ten police officers were found guilty of a corruption network in Meiggs: one was convicted of illegitimate coercion against a Chinese merchant",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/03/diez-carabineros-fueron-encontrados-culpables-por-red-de-corrupcion-en-meiggs-uno-fue-condenado-por-apremios-ilegitimos-contra-comerciante-chino/",
-        "published_date": "2026-07-03 21:51:29",
         "category": "Local Events"
     }
 ]
