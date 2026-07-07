@@ -14,13 +14,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Latest report from the Foreign Ministry: the number of Chileans who died after the earthquakes in Venezuela rises to three",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/28/ultimo-reporte-de-cancilleria-numero-de-chilenos-fallecidos-tras-los-terremotos-en-venezuela-asciende-a-tres/",
-        "published_date": "2026-06-28 17:05:37",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Jorge Alessandri (UDI): \u201cCarabineros and members of the Armed Forces who are currently serving sentences for events related to the social outbreak are unjustly imprisoned\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/06/jorge-alessandri-indultos-uniformados-estallido-social/",
@@ -82,6 +75,20 @@
         "url": "https://www.theclinic.cl/2026/06/29/adelanto-del-libro-impunidad-sobre-el-escandalo-penta-sqm-y-su-visita-a-la-moneda-mire-companero-dijo-con-voz-ronca-y-profunda-el-problema-central-de-este-pais-no-es/",
         "published_date": "2026-06-29 12:20:00",
         "category": "Energy"
+    },
+    {
+        "title": "From sinks to irrigation: Remote Waters, the Chilean startup that reuses wastewater in malls and aims to expand outside the country",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/del-lavamanos-al-riego-remote-waters-la-startup-chilena-que-reutiliza-aguas-residuales-en-malls-y-apunta-a-expandirse-fuera-del-pais/",
+        "published_date": "2026-07-06 21:46:59",
+        "category": "Economy"
+    },
+    {
+        "title": "Chilean companies project an increase in costs and hope to increase sales prices in another year",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/empresas-chilenas-proyectan-un-aumento-en-los-costos-y-esperan-subir-los-precios-de-venta-en-un-ano-mas/",
+        "published_date": "2026-07-06 21:24:52",
+        "category": "Economy"
     },
     {
         "title": "The story of the Italian migrant who arrived in Chile 96 years ago and founded Emporio Zunino, the most traditional empanada factory in the Mercado Central sector.",
@@ -175,11 +182,60 @@
         "category": "Economy"
     },
     {
-        "title": "Vlado Mirosevic declines to attend the state trip with Kast to be able to vote in the AC against Grau: \u201cIt is my responsibility to be in the Senate\u201d",
+        "title": "Deputy Achurra accused that \u201cthe entire right\u201d voted against asking Mindep to hold the BTS concert at the National",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/28/vlado-mirosevic-declina-asistir-a-viaje-de-estado-con-kast-para-poder-votar-en-la-ac-contra-grau-es-mi-responsabilidad-estar-en-el-senado/",
-        "published_date": "2026-06-28 22:09:24",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/06/diputado-achurra-acuso-que-toda-la-derecha-voto-contra-pedir-al-mindep-que-se-realice-el-concierto-de-bts-en-el-nacional/",
+        "published_date": "2026-07-06 23:04:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new dynamic that the ruling party launched to overcome tensions after President Kast's call for order",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/la-nueva-dinamica-que-estreno-el-oficialismo-para-superar-las-tensiones-tras-el-llamado-al-orden-del-presidente-kast/",
+        "published_date": "2026-07-06 22:31:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Countdown in the Frente Amplio: consensus list becomes complicated and a duel between Mart\u00ednez and Yeomans looms",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/cuenta-regresiva-en-el-frente-amplio-lista-de-consenso-se-complica-y-asoma-un-duelo-entre-martinez-y-yeomans/",
+        "published_date": "2026-07-06 22:14:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The intersections with the most traffic accidents in the RM: Vespucio concentrates the majority and the intersection with Gran Avenida had 59 accidents in one year",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/las-intersecciones-con-mas-accidentes-de-transito-en-la-rm-vespucio-concentra-la-mayoria-y-cruce-con-gran-avenida-tuvo-59-siniestros-en-un-ano/",
+        "published_date": "2026-07-06 22:11:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latam Airlines accelerates its fleet renewal: it will add more than 40 aircraft in 2026",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/latam-airlines-acelera-su-renovacion-de-flota-sumara-mas-de-40-aviones-en-2026/",
+        "published_date": "2026-07-06 22:07:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "X-ray of surnames in Greater Santiago: study reveals the social bubble of the elite and urban segregation due to family networks",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/radiografia-de-los-apellidos-en-el-gran-santiago-estudio-revela-la-burbuja-social-de-la-elite-y-la-segregacion-urbana-por-redes-familiares/",
+        "published_date": "2026-07-06 22:00:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Martin White after the success of Pollypoket, his hit on Spotify Chile: \u201cI don't need all my songs to be number one\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/martin-white-gira-europa-estados-unidos-coachella-polypoket/",
+        "published_date": "2026-07-06 21:56:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "PS deputies go ahead and appeal to the TC for the mega-reform: \u201cA majority today wants to put a lock on the majorities of tomorrow\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/06/diputados-ps-se-adelantan-y-recurren-al-tc-por-la-megarreforma-una-mayoria-de-hoy-quiere-ponerle-candado-a-las-mayorias-de-manana/",
+        "published_date": "2026-07-06 21:13:53",
+        "category": "Local Events"
     },
     {
         "title": "Cruz-Coke proposes that the PNL should join the Government and libertarians respond: \u201cWe are not going to give up our identity\u201d",
@@ -263,62 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/04/dg-medios-muestra-apertura-y-se-acerca-a-aceptar-los-terminos-del-mindep-para-que-los-conciertos-de-bts-se-lleven-a-cabo-en-el-estadio-nacional/",
         "published_date": "2026-07-04 20:41:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moreira questions the closeness of Republicans with the National Libertarian Party and once again strains the relationship between right-wing parties",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/moreira-cuestiona-la-cercania-de-republicanos-con-el-partido-nacional-libertario-y-vuelve-a-tensionar-la-relacion-entre-los-partidos-de-derecha/",
-        "published_date": "2026-07-04 19:55:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00edn and the complaints about irregular salary increases in the Ministry of Women: \u201cI have instructed to initiate a summary investigation\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/marin-y-las-denuncias-por-aumentos-de-sueldos-irregulares-en-el-ministerio-de-la-mujer-he-instruido-iniciar-una-investigacion-sumaria/",
-        "published_date": "2026-07-04 17:30:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mat\u00edas Letelier, the failed seremi of the second Pi\u00f1era administration who was arrested for posing as a police officer in La Serena",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/matias-letelier-el-fallido-seremi-de-la-segunda-administracion-pinera-que-fue-detenido-por-hacerse-pasar-de-carabinero-en-la-serena/",
-        "published_date": "2026-07-04 14:38:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Farewell to Sylvia Gonz\u00e1lez Markman: the last daughter of Gabriel Gonz\u00e1lez Videla, who accompanied the former president on his iconic trip to Antarctica, dies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/el-adios-a-sylvia-gonzalez-markman-muere-la-ultima-hija-de-gabriel-gonzalez-videla-que-acompano-al-expresidente-en-su-iconico-viaje-a-la-antartica/",
-        "published_date": "2026-07-04 14:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column of Juan Francisco Galli/ Gendarmerie: an imminent danger",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/columna-de-juan-francisco-galli-gendarmeria-un-peligro-inminente/",
-        "published_date": "2026-07-04 12:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Jaime Ma\u00f1alich: For the memory of a policy that was possible",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/columna-de-jaime-manalich-por-la-memoria-de-una-politica-que-si-fue-posible/",
-        "published_date": "2026-07-04 12:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Learning in nature: Chilean schools that replace the classroom with forests, hills and wetlands",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/cambiar-las-salas-de-clases-por-el-bosque-nativo-las-iniciativas-de-algunos-colegios-de-acercar-la-educacion-a-la-naturaleza/",
-        "published_date": "2026-07-04 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power Newsletter: Quiroz opens his heart",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/04/newsletter-poder-quiroz-abre-su-corazon/",
-        "published_date": "2026-07-04 12:00:00",
         "category": "Local Events"
     }
 ]
