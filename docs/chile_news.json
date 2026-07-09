@@ -7,13 +7,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President of CNTV met with the Russian ambassador and addressed RT's agenda in the country in the midst of the conflict with Telecanal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/reunion-cntv-embajador-rusia-rt/",
-        "published_date": "2026-06-30 22:39:18",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Jorge Alessandri (UDI): \u201cCarabineros and members of the Armed Forces who are currently serving sentences for events related to the social outbreak are unjustly imprisoned\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/06/jorge-alessandri-indultos-uniformados-estallido-social/",
@@ -26,6 +19,13 @@
         "url": "https://www.theclinic.cl/2026/07/04/el-tercer-vuelo-de-ayuda-humanitaria-de-chile-a-venezuela-35-mil-vacunas-medicamentos-alimentos-kits-de-higiene-y-carpas/",
         "published_date": "2026-07-04 16:19:09",
         "category": "Military"
+    },
+    {
+        "title": "The bleak panorama of the ski centers in Santiago in the face of a winter without snow: more than 90% of the slopes remain unavailable in the middle of the high season",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/el-desolador-panorama-de-los-centros-de-esqui-en-santiago-ante-un-invierno-sin-nieve-mas-del-90-de-las-pistas-permanecen-inhabilitadas-en-plena-temporada-alta/",
+        "published_date": "2026-07-08 21:08:31",
+        "category": "Energy"
     },
     {
         "title": "\u201cIt is a bread like no other\u201d: Bolivian bakers seek to have marraqueta declared a World Heritage Site",
@@ -60,20 +60,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/01/codelco-demanda-certeza-juridica-y-acude-a-tribunales-contra-la-contraloria-por-control-a-sus-actuaciones-empresariales/",
         "published_date": "2026-07-01 21:43:12",
-        "category": "Energy"
-    },
-    {
-        "title": "Committee of Ministers supports electric megaproject and maintains favorable environmental rating of two initiatives for US$1,510 million",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/comite-de-ministros-respalda-megaproyecto-electrico-y-mantiene-calificacion-ambiental-favorable-de-dos-iniciativas-por-us1-510-millones/",
-        "published_date": "2026-06-30 23:09:08",
-        "category": "Energy"
-    },
-    {
-        "title": "Today is the last day to activate the Liquefied Gas Coupon and 2.6 million households have not done so: check how to access the $27,000 benefit",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/hoy-es-el-ultimo-dia-para-activar-el-cupon-de-gas-licuado-y-26-millones-de-hogares-no-lo-han-hecho-revisa-como-acceder-al-beneficio-de-27-000/",
-        "published_date": "2026-06-30 21:28:01",
         "category": "Energy"
     },
     {
@@ -182,18 +168,67 @@
         "category": "Economy"
     },
     {
-        "title": "BancoEstado and CuentaRUT stand out in citizen assessment due to national presence, lower costs and support for MiPymes",
+        "title": "Tension escalates in the PS: Vodanovic and Cicardini star in a harsh confrontation in the Senate Chamber",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/bancoestado-cuentarut-marcas-ciudadanas-cadem/",
-        "published_date": "2026-06-30 22:38:31",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/08/escala-la-tension-en-el-ps-vodanovic-y-cicardini-protagonizan-aspero-cruce-en-plena-sala-del-senado/",
+        "published_date": "2026-07-09 00:00:11",
+        "category": "Local Events"
     },
     {
-        "title": "With a divided right and three disqualifications: Senate rejects constitutional accusation against Grau",
+        "title": "Hyundai's bet with the new generation of the Venue",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/con-una-derecha-dividida-y-con-tres-inhabilitaciones-senado-rechaza-acusacion-constitucional-en-contra-de-grau/",
-        "published_date": "2026-06-30 22:19:44",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/08/nuevo-hyundai-venue-en-chile/",
+        "published_date": "2026-07-08 22:53:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt presents an extraordinary characteristic\u201d: How the \u201cChilean chorito\u201d reveals unpublished keys to the evolution of animal reproduction",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/presenta-una-caracteristica-extraordinaria-como-el-chorito-chileno-revela-claves-ineditas-sobre-la-evolucion-de-la-reproduccion-animal/",
+        "published_date": "2026-07-08 22:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Enap confirms significant drop in the price of gasoline and diesel starting July 9",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/enap-confirma-importante-caida-en-el-precio-de-las-bencinas-y-el-diesel-a-partir-del-9-de-julio/",
+        "published_date": "2026-07-08 22:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The resignation of the presidential pastry chef who played a key role in Kast's questioned lunch with his former colleagues at La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/la-renuncia-de-la-repostera-presidencial-que-jugo-un-rol-clave-en-el-cuestionado-almuerzo-de-kast-con-sus-excompaneros-en-la-moneda/",
+        "published_date": "2026-07-08 22:02:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cA valuable opportunity\u201d: This is how Conmebol justified the decision to take the Under 20 Intercontinental to Spain between Wanderers and Real Madrid",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/una-valiosa-oportunidad-asi-justifico-conmebol-la-decision-de-llevar-a-espana-la-intercontinental-sub-20-entre-wanderers-y-real-madrid/",
+        "published_date": "2026-07-08 21:35:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parque Portales del Barrio Yungay adds 209 new trees and will increase its trees by 40% with a mega renovation project",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/parque-portales-del-barrio-yungay-suma-209-nuevos-arboles-y-aumentara-en-un-40-su-arbolado-con-megaproyecto-de-renovacion/",
+        "published_date": "2026-07-08 21:14:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "M\u00f3nica Godoy returns to the TV series on Mega 30 years after \u201cSucupira\u201d: \"When I see those videos I feel nostalgic. They were other times for dramatic areas\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/monica-godoy-regresa-a-las-teleseries-en-mega-a-30-anos-de-sucupiracuando-veo-esos-videos-siento-nostalgia-eran-otros-tiempos-para-las-areas-dramaticas/",
+        "published_date": "2026-07-08 21:12:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reappearance of Vallejo: compares the Kast Government with those of Milei and Trump and unleashes a response from La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/la-reaparicion-de-vallejo-compara-al-gobierno-de-kast-con-los-de-milei-y-trump-y-desata-replica-de-la-moneda/",
+        "published_date": "2026-07-08 21:00:44",
+        "category": "Local Events"
     },
     {
         "title": "Toyota and Joby Aviation: when the car factory points to the sky",
@@ -270,69 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/07/apuntaran-al-segundo-piso-oposicion-se-inclina-por-una-comision-investigadora-por-caso-steinert-y-prepara-su-listado-de-invitados-a-declarar/",
         "published_date": "2026-07-07 21:28:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "John Denton, the 16-year-old British musician who conquered Chile thanks to \u00c1lvaro Henr\u00edquez: \u201cMy city with the most listeners by far is Santiago\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/el-musico-britanico-de-16-anos-que-conquisto-chile-gracias-a-alvaro-henriquez-mi-ciudad-con-mas-oyentes-es-santiago/",
-        "published_date": "2026-07-07 21:17:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arturo Squella pushes constitutional reform after the TC ruling for Protected Schools: \u201cAn ideological bias is confirmed\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/arturo-squella-fallo-tc-escuelas-protegidas-sesgo-ideologico-reforma/",
-        "published_date": "2026-07-07 12:56:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Behind the wheel of the Smart #5 BRABUS: when Smart leaves the small behind",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/al-volante-del-smart-5-brabus/",
-        "published_date": "2026-07-07 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Sports responded to Sernac about BTS concerts: they reiterate that the National Stadium was never requested for the shows",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/06/ministerio-del-deporte-contesto-al-sernac-por-conciertos-de-bts-reiteran-que-nunca-se-solicito-el-estadio-nacional-para-los-shows/",
-        "published_date": "2026-07-07 00:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "APRIMIN Mining Club addresses critical issues and strategic challenges for the sustainable and competitive future of the sector",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/06/club-de-la-mineria-aprimin-2026/",
-        "published_date": "2026-07-07 00:16:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputy Achurra accused that \u201cthe entire right\u201d voted against asking Mindep to hold the BTS concert at the National",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/06/diputado-achurra-acuso-que-toda-la-derecha-voto-contra-pedir-al-mindep-que-se-realice-el-concierto-de-bts-en-el-nacional/",
-        "published_date": "2026-07-06 23:04:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new dynamic that the ruling party launched to overcome tensions after President Kast's call for order",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/06/la-nueva-dinamica-que-estreno-el-oficialismo-para-superar-las-tensiones-tras-el-llamado-al-orden-del-presidente-kast/",
-        "published_date": "2026-07-06 22:31:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Countdown in the Frente Amplio: consensus list becomes complicated and a duel between Mart\u00ednez and Yeomans looms",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/06/cuenta-regresiva-en-el-frente-amplio-lista-de-consenso-se-complica-y-asoma-un-duelo-entre-martinez-y-yeomans/",
-        "published_date": "2026-07-06 22:14:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The intersections with the most traffic accidents in the RM: Vespucio concentrates the majority and the intersection with Gran Avenida had 59 accidents in one year",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/06/las-intersecciones-con-mas-accidentes-de-transito-en-la-rm-vespucio-concentra-la-mayoria-y-cruce-con-gran-avenida-tuvo-59-siniestros-en-un-ano/",
-        "published_date": "2026-07-06 22:11:02",
         "category": "Local Events"
     }
 ]
