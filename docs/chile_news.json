@@ -21,6 +21,13 @@
         "category": "Military"
     },
     {
+        "title": "The Kia Niro 2027 gives up the electric version to bet everything on the hybrid",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/kia-niro-2027-sin-electrico/",
+        "published_date": "2026-07-09 11:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "The bleak panorama of the ski centers in Santiago in the face of a winter without snow: more than 90% of the slopes remain unavailable in the middle of the high season",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/08/el-desolador-panorama-de-los-centros-de-esqui-en-santiago-ante-un-invierno-sin-nieve-mas-del-90-de-las-pistas-permanecen-inhabilitadas-en-plena-temporada-alta/",
@@ -61,6 +68,20 @@
         "url": "https://www.theclinic.cl/2026/07/01/codelco-demanda-certeza-juridica-y-acude-a-tribunales-contra-la-contraloria-por-control-a-sus-actuaciones-empresariales/",
         "published_date": "2026-07-01 21:43:12",
         "category": "Energy"
+    },
+    {
+        "title": "Fewer banks and more restaurants: the change in the face of downtown Santiago in the last ten years with the departure of financial services",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/menos-bancos-y-mas-restaurantes-el-cambio-de-cara-del-centro-de-santiago-en-los-ultimos-diez-anos-con-la-salida-de-servicios-financieros/",
+        "published_date": "2026-07-09 11:30:00",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cThe Government has collected 90% of our proposal\u201d: PPD reaches agreement with the Executive for tax invariability",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/el-gobierno-ha-recogido-el-90-de-nuestra-propuesta-ppd-alcanza-acuerdo-con-el-ejecutivo-por-la-invariabilidad-tributaria/",
+        "published_date": "2026-07-09 01:01:42",
+        "category": "Economy"
     },
     {
         "title": "CircularTec launches the first interactive platform to map and integrate public circular economy initiatives in Latin America",
@@ -154,18 +175,39 @@
         "category": "Economy"
     },
     {
-        "title": "Central Bank reports a 0.9% drop in the Imacec in May due to mining and adds five months of setbacks",
+        "title": "The innovative bet for the treatment of hematological cancers in Chile: Cl\u00ednica Alemana prepares laboratory and clinical trial to implement CAR-T therapies",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/imacec-mayo-2026-cae-09-produccion-minera-banco-central/",
-        "published_date": "2026-07-01 12:55:57",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/09/la-apuesta-que-busca-revolucionar-el-tratamiento-de-canceres-hematologicos-en-chile-clinica-alemana-prepara-laboratorio-y-ensayo-clinico-para-implementar-terapias-car-t/",
+        "published_date": "2026-07-09 13:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "Grau after rejection of constitutional accusation: \u201cIt is not true that Chile is in a catastrophic situation in fiscal terms\u201d",
+        "title": "Daniel N\u00fa\u00f1ez (PC): \u201cThere are opposition parties, especially the PPD, that do not understand what is happening in Chile\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/06/30/nicolas-grau-rechazo-acusacion-constitucional-defiende-situacion-fiscal-chile/",
-        "published_date": "2026-07-01 02:09:39",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/09/daniel-nunez-critica-acuerdo-gobierno-ppd-megarreforma/",
+        "published_date": "2026-07-09 12:53:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "SUCHAI-4, the Chilean nanosatellite manufactured by the University of Chile that will carry out nearly 60 experiments in space",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/suchai-4-el-nanosatelite-chileno-fabricado-por-la-universidad-de-chile-que-realizara-cerca-de-60-experimentos-en-el-espacio/",
+        "published_date": "2026-07-09 12:29:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "How Russia turned BMW abandonment into its own pirate brand",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/bmw-piratas-en-rusia/",
+        "published_date": "2026-07-09 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The attack by the opposition parties over the recent PPD-Government agreement: \u201cWe do not know what the price of the PPD was for having sold itself\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/08/la-arremetida-de-los-partidos-de-oposicion-por-el-reciente-acuerdo-ppd-gobierno-no-sabemos-cual-fue-el-precio-del-ppd-por-haberse-vendido/",
+        "published_date": "2026-07-09 02:46:58",
+        "category": "Local Events"
     },
     {
         "title": "Tension escalates in the PS: Vodanovic and Cicardini star in a harsh confrontation in the Senate Chamber",
@@ -270,41 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/07/reduccion-en-el-uso-de-licencias-medicas-lleva-a-las-isapres-a-registrar-utilidades-conjuntas-por-mas-de-34-mil-millones-en-el-primer-trimestre/",
         "published_date": "2026-07-07 23:08:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The unusual request from a Frente Amplio deputy to the ANFP to comment on Trump's call to the president of FIFA",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/la-inusual-peticion-de-diputado-del-frente-amplio-a-la-anfp-para-que-se-pronuncie-por-el-llamado-de-trump-al-presidente-de-la-fifa/",
-        "published_date": "2026-07-07 22:31:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "With Kast, ministers and undersecretaries: Republicans summon the council to discuss their roadmap as the anchor party of the Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/con-kast-ministros-y-subsecretarios-republicanos-cita-a-consejo-para-discutir-su-hoja-de-ruta-como-partido-ancla-del-gobierno/",
-        "published_date": "2026-07-07 22:13:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Jeep born in China wants to conquer the world without losing its American soul",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/jeep-fabricado-en-china-dongfeng/",
-        "published_date": "2026-07-07 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emergency in Corral: frontal system in Los R\u00edos generates river overflow and leaves homes in the area flooded",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/emergencia-en-corral-sistema-frontal-en-los-rios-genera-desborde-del-rio-y-deja-viviendas-de-la-zona-inundadas/",
-        "published_date": "2026-07-07 21:36:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will target the Second Floor: opposition leans towards an investigative commission into the Steinert case and prepares its list of those invited to testify",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/apuntaran-al-segundo-piso-oposicion-se-inclina-por-una-comision-investigadora-por-caso-steinert-y-prepara-su-listado-de-invitados-a-declarar/",
-        "published_date": "2026-07-07 21:28:15",
         "category": "Local Events"
     }
 ]
