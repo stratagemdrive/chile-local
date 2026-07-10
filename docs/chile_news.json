@@ -1,12 +1,5 @@
 [
     {
-        "title": "PDI arrested in Lo Barnechea a suspect of threats against Brandon Judd, United States ambassador to Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/pdi-detuvo-en-lo-barnechea-a-sospechoso-de-amenazas-en-contra-de-brandon-judd-embajador-de-estados-unidos-en-chile/",
-        "published_date": "2026-07-02 02:49:38",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Jorge Alessandri (UDI): \u201cCarabineros and members of the Armed Forces who are currently serving sentences for events related to the social outbreak are unjustly imprisoned\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/06/jorge-alessandri-indultos-uniformados-estallido-social/",
@@ -75,6 +68,20 @@
         "url": "https://www.theclinic.cl/2026/07/02/cuanto-pagas-por-un-dato-certero-el-carabinero-que-uso-su-clave-institucional-para-entregar-una-direccion-a-su-primo-y-facilitar-una-golpiza/",
         "published_date": "2026-07-02 21:31:51",
         "category": "Energy"
+    },
+    {
+        "title": "The Chilean automotive market grows hand in hand with used cars and a closing of the semester with surprises",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/10/el-mercado-automotor-chileno-crece-de-la-mano-de-los-usados-y-un-cierre-de-semestre-con-sorpresas/",
+        "published_date": "2026-07-10 11:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Layoffs are once again an issue in the Ministry of Science: this Thursday five officials were dismissed",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/los-despidos-vuelven-a-ser-tema-en-el-ministerio-de-ciencia-este-jueves-fueron-desvinculados-cinco-funcionarios/",
+        "published_date": "2026-07-10 00:18:39",
+        "category": "Economy"
     },
     {
         "title": "PriceSmart arrives in Chile: The membership shopping supermarket will have its first branch in the Mallplaza Los Dominicos",
@@ -182,11 +189,25 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cLet's see if we can reach a consensus on some points\u201d: Quiroz attends the political table of the Senate for the mega-reform and says he is open to reaching agreements",
+        "title": "What is Murdoku, the literary phenomenon that challenges readers to solve murders using logic",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/01/vamos-a-ver-si-logramos-consensuar-algunos-puntos-quiroz-asiste-a-la-mesa-politica-del-senado-por-la-megarreforma-y-dice-estar-abierto-a-lograr-acuerdos/",
-        "published_date": "2026-07-02 01:13:13",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/10/que-es-murdoku-el-fenomeno-literario-que-desafia-a-los-lectores-a-resolver-asesinatos-usando-la-logica/",
+        "published_date": "2026-07-10 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minvu gives in and announces a protocol to make the financing and maintenance of the Cerro Chena Park viable",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/minvu-cede-y-anuncia-un-protocolo-para-viabilizar-el-financiamiento-y-la-mantencion-del-parque-cerro-chena/",
+        "published_date": "2026-07-10 02:53:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Juanes premieres a new collaboration with Mon Laferte in advance of his return to Chile for the Bamba Festival",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/09/juanes-estrena-una-nueva-colaboracion-junto-a-mon-laferte-en-la-previa-de-su-regreso-a-chile-por-el-festival-bamba/",
+        "published_date": "2026-07-10 01:55:56",
+        "category": "Local Events"
     },
     {
         "title": "Jetour G700 PHEV: forest and beach to test your 4\u00d74 reflexes in Los Lagos",
@@ -305,27 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/08/la-renuncia-de-la-repostera-presidencial-que-jugo-un-rol-clave-en-el-cuestionado-almuerzo-de-kast-con-sus-excompaneros-en-la-moneda/",
         "published_date": "2026-07-08 22:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cA valuable opportunity\u201d: This is how Conmebol justified the decision to take the Under 20 Intercontinental to Spain between Wanderers and Real Madrid",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/08/una-valiosa-oportunidad-asi-justifico-conmebol-la-decision-de-llevar-a-espana-la-intercontinental-sub-20-entre-wanderers-y-real-madrid/",
-        "published_date": "2026-07-08 21:35:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parque Portales del Barrio Yungay adds 209 new trees and will increase its trees by 40% with a mega renovation project",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/08/parque-portales-del-barrio-yungay-suma-209-nuevos-arboles-y-aumentara-en-un-40-su-arbolado-con-megaproyecto-de-renovacion/",
-        "published_date": "2026-07-08 21:14:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "M\u00f3nica Godoy returns to the TV series on Mega 30 years after \u201cSucupira\u201d: \"When I see those videos I feel nostalgic. They were other times for dramatic areas\"",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/08/monica-godoy-regresa-a-las-teleseries-en-mega-a-30-anos-de-sucupiracuando-veo-esos-videos-siento-nostalgia-eran-otros-tiempos-para-las-areas-dramaticas/",
-        "published_date": "2026-07-08 21:12:16",
         "category": "Local Events"
     }
 ]
