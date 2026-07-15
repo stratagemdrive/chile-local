@@ -28,6 +28,13 @@
         "category": "Military"
     },
     {
+        "title": "\u201cThere is a lack of a spokesperson\u201d: RN's message to Kast in the Cerro Castillo conclave to reinforce the Government's communication deployment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/falta-un-vocero-el-mensaje-de-rn-a-kast-en-conclave-de-cerro-castillo-para-reforzar-el-despliegue-comunicacional-del-gobierno/",
+        "published_date": "2026-07-15 22:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "Honor's new bet in Chile is a phone with a giant battery and an AI that transforms still photos into video",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/14/honor-600-chile-bateria-ia-fotos-precio/",
@@ -82,6 +89,13 @@
         "url": "https://www.theclinic.cl/2026/07/08/el-desolador-panorama-de-los-centros-de-esqui-en-santiago-ante-un-invierno-sin-nieve-mas-del-90-de-las-pistas-permanecen-inhabilitadas-en-plena-temporada-alta/",
         "published_date": "2026-07-08 21:08:31",
         "category": "Energy"
+    },
+    {
+        "title": "\u201cIn this country we are more afraid of water than of an earthquake\u201d: Demand grows for water canisters, candles and flashlights before the frontal system",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/en-este-pais-le-tenemos-mas-miedo-al-agua-que-a-un-terremoto-crece-la-demanda-por-bidones-de-agua-velas-y-linternas-ante-sistema-frontal/",
+        "published_date": "2026-07-15 21:46:32",
+        "category": "Economy"
     },
     {
         "title": "Are you ready for the front system?This is the emergency kit that an expert recommends and the main mistake that many make",
@@ -182,18 +196,60 @@
         "category": "Economy"
     },
     {
-        "title": "Megareforma advances in the Environment Commission with changes to invalidations and aquaculture relocations",
+        "title": "What time do the rains start in Santiago and what does the weather alarm issued by the DMC imply?",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/megarreforma-avanza-en-la-comision-de-medio-ambiente-con-cambios-a-invalidaciones-y-relocalizaciones-acuicolas/",
-        "published_date": "2026-07-07 23:25:41",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/15/a-que-hora-comienzan-las-lluvias-en-santiago-y-que-implica-la-alarma-meteorologica-emitida-por-la-dmc/",
+        "published_date": "2026-07-15 23:45:45",
+        "category": "Local Events"
     },
     {
-        "title": "Vittorio Corbo agrees with Quiroz: \u201cThe probability of a technical recession occurring does not go beyond 30%\u201d",
+        "title": "The unknown rule that was sneaked into the mega-reform so that companies finance high-cost diseases and can deduct taxes",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/07/vittorio-corbo-coincide-con-quiroz-la-probabilidad-de-que-ocurra-una-recesion-tecnica-no-va-mas-alla-del-30/",
-        "published_date": "2026-07-07 20:35:24",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/15/la-desconocida-norma-que-se-colo-en-la-megarreforma-para-que-las-empresas-financien-enfermedades-de-alto-costo-y-puedan-descontar-impuestos/",
+        "published_date": "2026-07-15 22:41:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Estefan\u00eda Banini: the return of the star forged in Colo Colo who became the best soccer player in the history of Argentina",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/estefania-banini-el-regreso-de-la-estrella-forjada-en-colo-colo-que-se-convirtio-en-la-mejor-futbolista-en-la-historia-de-argentina/",
+        "published_date": "2026-07-15 22:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government announces fund call for $5 billion to support businesses and the unemployed through Sercotec Seed Capital",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/gobierno-anuncia-convocatoria-a-fondo-de-5-mil-millones-para-apoyar-a-emprendimientos-y-desempleados-a-traves-de-capital-semilla-de-sercotec/",
+        "published_date": "2026-07-15 22:31:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maite Alberdi premieres on Netflix \u201cA son of my own\u201d, the documentary about the shocking real case of a woman who faked pregnancy and shocked Mexico",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/maite-alberdi-estrena-en-netflix-un-hijo-propio-el-documental-sobre-el-impactante-caso-real-de-mujer-que-fingio-embarazo-y-conmociono-a-mexico/",
+        "published_date": "2026-07-15 22:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cClearly there are going to be floods and power outages\u201d: Marcelo Mena addresses the frontal system and asks for \u201creasonable\u201d criticism of the country's response",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/claramente-va-a-haber-inundaciones-y-cortes-de-luz-marcelo-mena-aborda-el-sistema-frontal-y-pide-criticas-razonables-ante-la-respuesta-del-pais/",
+        "published_date": "2026-07-15 21:47:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do I breathe in the PS?Camilo Escalona leads the party's new attempt to overcome crisis and close ranks after Paulina Vodanovic",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/respiro-en-el-ps-camilo-escalona-encabeza-nuevo-intento-del-partido-por-superar-crisis-y-cerrar-filas-tras-paulina-vodanovic/",
+        "published_date": "2026-07-15 21:44:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina did it again: they turn it around in the final minutes against England and reach the 2026 World Cup final",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/15/argentina-lo-hizo-otra-vez-lo-da-vuelta-en-los-minutos-finales-sobre-inglaterra-y-se-instala-en-la-final-del-mundial-2026/",
+        "published_date": "2026-07-15 21:32:01",
+        "category": "Local Events"
     },
     {
         "title": "INE Survey: Labor income in 2025 grew 7.3% and averaged $962,945",
@@ -277,62 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/13/por-un-sistema-frontal-de-gran-intensidad-y-multiamenaza-gobierno-decreta-emergencia-preventiva-en-10-regiones-del-pais/",
         "published_date": "2026-07-14 02:08:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Independencia will work with Harvard and Bloomberg on a plan to recover the Las Telas neighborhood after being selected in an international program",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/independencia-trabajara-con-harvard-y-bloomberg-en-un-plan-para-recuperar-el-barrio-las-telas-tras-ser-seleccionado-en-un-programa-internacional/",
-        "published_date": "2026-07-14 01:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is James Cox Chambers Jr., the heir to one of the largest fortunes in the US who was arrested in Ibiza by an international warrant",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/quien-es-james-cox-chambers-jr-el-heredero-de-una-de-las-mayores-fortunas-de-ee-uu-que-fue-detenido-en-ibiza-por-una-orden-internacional/",
-        "published_date": "2026-07-13 22:46:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amazon opens offers to work in Chile in AI: check the available positions and how to apply",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/amazon-abre-ofertas-para-trabajar-en-chile-en-ia-revisa-los-cargos-disponibles-y-como-postular/",
-        "published_date": "2026-07-13 22:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announces project to modify the calculation cycle of the 40-hour day and a labor statute for tourism",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/gobierno-anuncia-proyecto-para-modificar-el-ciclo-de-calculo-de-la-jornada-de-40-horas-y-un-estatuto-laboral-para-el-turismo/",
-        "published_date": "2026-07-13 22:24:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Cienfuegos, former president of the Pharmaceutical College and irregularities in the sale of medicines at Farmacias Ahumada: \u201cIt is a structure that comes from above\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/jorge-cienfuegos-expresidente-del-colegio-farmaceutico-e-irregularidades-en-venta-de-medicamentos-en-farmacias-ahumada-es-una-estructura-que-viene-desde-arriba/",
-        "published_date": "2026-07-13 22:08:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new destination of La Birra Bar: its burgers are now on the menu of domestic flights of Latam Airlines",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/el-nuevo-destino-de-la-birra-bar-sus-hamburguesas-ahora-se-encuentran-en-el-menu-de-vuelos-nacionales-de-latam-airlines/",
-        "published_date": "2026-07-13 21:53:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Almost unrecognizable: Tom Cruise surprises with radical transformation for 'Digger'",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/casi-irreconocible-tom-cruise-sorprende-con-radical-transformacion-para-digger/",
-        "published_date": "2026-07-13 21:51:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Birth of Action: the forgotten musical project in which Jorge Gonz\u00e1lez sang reggaeton years before the global boom",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/13/the-birth-of-aciton-el-olvidado-proyecto-musical-en-el-que-jorge-gonzalez-canto-reggaeton-anos-antes-del-boom-mundial/",
-        "published_date": "2026-07-13 21:48:27",
         "category": "Local Events"
     }
 ]
