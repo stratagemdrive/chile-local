@@ -28,6 +28,13 @@
         "category": "Military"
     },
     {
+        "title": "\u201cWe ask people for patience\u201d: The complex scenario of the more than 400 thousand homes without electricity in the country",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/le-pedimos-a-las-personas-paciencia-el-complejo-escenario-de-los-mas-de-400-mil-hogares-sin-luz-en-el-pais/",
+        "published_date": "2026-07-17 21:06:36",
+        "category": "Energy"
+    },
+    {
         "title": "SKY flight could not land in Concepci\u00f3n due to strong gusts of wind: passengers recorded moments of tension on the plane",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/16/vuelo-de-sky-no-pudo-aterrizar-en-concepcion-por-fuertes-rafagas-de-viento-pasajeros-registraron-momentos-de-tension-en-el-avion/",
@@ -70,18 +77,11 @@
         "category": "Energy"
     },
     {
-        "title": "International operation seizes drug manufacturing merchandise valued at US$10 million in the port of San Antonio",
+        "title": "When will airless tires hit the mass automotive market?",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/09/operativo-internacional-incauta-mercancia-para-fabricar-drogas-avaluada-en-us-10-millones-en-el-puerto-de-san-antonio/",
-        "published_date": "2026-07-09 22:19:09",
-        "category": "Energy"
-    },
-    {
-        "title": "The funny theory of two Scottish women who went viral imitating the Chilean cuico accent: \u201cIt's like a gasp, a sigh\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/09/la-divertida-teoria-de-dos-escocesas-que-se-viralizaron-imitando-el-acento-cuico-chileno-es-como-un-jadeo-un-suspiro/",
-        "published_date": "2026-07-09 22:04:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/17/neumaticos-sin-aire-de-bridgestone/",
+        "published_date": "2026-07-17 20:14:32",
+        "category": "Economy"
     },
     {
         "title": "The silent engine that is changing Chilean roads",
@@ -175,11 +175,60 @@
         "category": "Economy"
     },
     {
-        "title": "PriceSmart arrives in Chile: The membership shopping supermarket will have its first branch in the Mallplaza Los Dominicos",
+        "title": "Ripamonti calls for calm after SAE alert due to flooding of the Marga Marga estuary and addresses possible closure of bridges",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/09/llega-pricesmart-a-chile-el-supermercado-de-compras-por-membresia-tendra-su-primera-sucursal-en-el-mallplaza-los-dominicos/",
-        "published_date": "2026-07-09 21:45:50",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/17/ripamonti-llama-a-la-calma-tras-alerta-sae-por-crecida-del-estero-marga-marga-y-aborda-posible-cierre-de-puentes/",
+        "published_date": "2026-07-17 23:11:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presidential delegate of Valpara\u00edso: \"The rivers are on the edge, the estuaries too. If this level of water continues, we are going to have problems\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/delegado-presidencial-de-valparaiso-los-rios-estan-al-borde-los-esteros-tambien-si-continua-este-nivel-de-agua-vamos-a-estar-con-problemas/",
+        "published_date": "2026-07-17 22:59:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supreme Court condemns the Municipality of La Pintana to pay more than $16.8 million to a former worker hired on a fee basis for 8 years",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/corte-suprema-condena-a-municipalidad-de-la-pintana-a-pagar-mas-de-168-millones-a-extrabajadora-contratada-a-honorarios-por-8-anos/",
+        "published_date": "2026-07-17 22:06:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Business associations activate contingency plans through the front system and warn that it is still early to measure the impact",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/gremios-empresariales-activan-planes-de-contingencia-por-sistema-frontal-y-advierten-que-aun-es-temprano-para-medir-el-impacto/",
+        "published_date": "2026-07-17 21:59:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The deadline set by the left to appeal to the TC for the mega-reform and what are the matters to be challenged",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/el-plazo-que-fijo-la-izquierda-para-recurrir-al-tc-por-la-megarreforma-y-cuales-son-las-materias-a-impugnar/",
+        "published_date": "2026-07-17 21:50:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Green patent in Chile: the law already applies, but few know how to request it",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/patente-verde-chile-electricos/",
+        "published_date": "2026-07-17 21:15:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIs it necessary to torture women in this way?\u201d: The viral reflection of a nun regarding a project that conditions abortion on listening to the fetal heartbeat",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/es-necesario-torturar-a-las-mujeres-de-esta-manera-la-reflexion-viral-de-una-religiosa-ante-proyecto-que-condiciona-el-aborto-a-escuchar-el-latido-fetal/",
+        "published_date": "2026-07-17 21:01:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reappearance of former undersecretary Daniela Castro in a column in which she warns of the advance of ultra ideas against women's rights",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/la-reaparicion-de-la-exsubsecretaria-daniela-castro-en-columna-en-la-que-advierte-el-avance-de-ideas-ultras-contra-los-derechos-de-las-mujeres/",
+        "published_date": "2026-07-17 20:55:58",
+        "category": "Local Events"
     },
     {
         "title": "\u201cYou have nothing to do here\u201d: the meeting between Poduje and the lawyer of the San Sebasti\u00e1n construction company and the accusations exchanged for failures in housing in El Olivar",
@@ -263,62 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/15/gobierno-anuncia-convocatoria-a-fondo-de-5-mil-millones-para-apoyar-a-emprendimientos-y-desempleados-a-traves-de-capital-semilla-de-sercotec/",
         "published_date": "2026-07-15 22:31:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maite Alberdi premieres on Netflix \u201cA son of my own\u201d, the documentary about the shocking real case of a woman who faked pregnancy and shocked Mexico",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/maite-alberdi-estrena-en-netflix-un-hijo-propio-el-documental-sobre-el-impactante-caso-real-de-mujer-que-fingio-embarazo-y-conmociono-a-mexico/",
-        "published_date": "2026-07-15 22:14:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cClearly there are going to be floods and power outages\u201d: Marcelo Mena addresses the frontal system and asks for \u201creasonable\u201d criticism of the country's response",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/claramente-va-a-haber-inundaciones-y-cortes-de-luz-marcelo-mena-aborda-el-sistema-frontal-y-pide-criticas-razonables-ante-la-respuesta-del-pais/",
-        "published_date": "2026-07-15 21:47:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do I breathe in the PS?Camilo Escalona leads the party's new attempt to overcome crisis and close ranks after Paulina Vodanovic",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/respiro-en-el-ps-camilo-escalona-encabeza-nuevo-intento-del-partido-por-superar-crisis-y-cerrar-filas-tras-paulina-vodanovic/",
-        "published_date": "2026-07-15 21:44:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina did it again: they turn it around in the final minutes against England and reach the 2026 World Cup final",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/argentina-lo-hizo-otra-vez-lo-da-vuelta-en-los-minutos-finales-sobre-inglaterra-y-se-instala-en-la-final-del-mundial-2026/",
-        "published_date": "2026-07-15 21:32:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "INE Survey: Labor income in 2025 grew 7.3% and averaged $962,945",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/encuesta-del-ine-ingreso-laboral-en-2025-crecio-73-y-promedio-962-945/",
-        "published_date": "2026-07-15 12:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Toyota or Lexus?The new world map of automotive reliability in 2026",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/autos-mas-confiables-del-mundo-2026/",
-        "published_date": "2026-07-15 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor is perceived in the central area of \u200b\u200bthe country",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/14/temblor-se-percibe-en-la-zona-central-del-pais/",
-        "published_date": "2026-07-15 01:13:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Evelyn Matthei blamed the government for Steinert's failed tenure as minister: \u201cThey liquidated her career\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/14/evelyn-matthei-culpo-al-gobierno-por-fallido-paso-de-steinert-como-ministra-le-liquidaron-la-carrera/",
-        "published_date": "2026-07-15 00:43:04",
         "category": "Local Events"
     }
 ]
