@@ -28,6 +28,13 @@
         "category": "Military"
     },
     {
+        "title": "In the face of bad weather: Entel provides recommendations to prepare before an emergency",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/entel-recomendaciones-emergencia-primera-respuesta/",
+        "published_date": "2026-07-18 01:26:23",
+        "category": "Energy"
+    },
+    {
         "title": "\u201cWe ask people for patience\u201d: The complex scenario of the more than 400 thousand homes without electricity in the country",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/17/le-pedimos-a-las-personas-paciencia-el-complejo-escenario-de-los-mas-de-400-mil-hogares-sin-luz-en-el-pais/",
@@ -161,18 +168,25 @@
         "category": "Economy"
     },
     {
-        "title": "The Chilean automotive market grows hand in hand with used cars and a closing of the semester with surprises",
+        "title": "\u201cWe will still face especially demanding hours\u201d: Government emphasizes call to avoid travel after latest assessment of the frontal system",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/10/el-mercado-automotor-chileno-crece-de-la-mano-de-los-usados-y-un-cierre-de-semestre-con-sorpresas/",
-        "published_date": "2026-07-10 11:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/17/todavia-enfrentaremos-horas-especialmente-exigentes-gobierno-remarca-llamado-a-evitar-desplazamientos-tras-ultimo-balance-del-sistema-frontal/",
+        "published_date": "2026-07-18 02:54:07",
+        "category": "Local Events"
     },
     {
-        "title": "Layoffs are once again an issue in the Ministry of Science: this Thursday five officials were dismissed",
+        "title": "Aguas Andinas reports an unusual discovery in the Puente Alto sewer: \u201cOur teams found bags with horse heads inside\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/09/los-despidos-vuelven-a-ser-tema-en-el-ministerio-de-ciencia-este-jueves-fueron-desvinculados-cinco-funcionarios/",
-        "published_date": "2026-07-10 00:18:39",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/17/aguas-andinas-reporta-insolito-hallazgo-en-alcantarillado-de-puente-alto-nuestros-equipos-se-encontraron-con-sacos-con-cabezas-de-caballo-en-su-interior/",
+        "published_date": "2026-07-18 01:32:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThis is a complete scam\u201d: Poduje attacks the San Sebasti\u00e1n construction company again after detecting a new wall detachment in El Olivar",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/17/esto-es-una-estafa-completa-poduje-vuelve-a-cargar-contra-la-constructora-san-sebastian-tras-detectar-un-nuevo-desprendimiento-de-muro-en-el-olivar/",
+        "published_date": "2026-07-18 00:45:27",
+        "category": "Local Events"
     },
     {
         "title": "Ripamonti calls for calm after SAE alert due to flooding of the Marga Marga estuary and addresses possible closure of bridges",
@@ -291,27 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/15/a-que-hora-comienzan-las-lluvias-en-santiago-y-que-implica-la-alarma-meteorologica-emitida-por-la-dmc/",
         "published_date": "2026-07-15 23:45:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The unknown rule that was sneaked into the mega-reform so that companies finance high-cost diseases and can deduct taxes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/la-desconocida-norma-que-se-colo-en-la-megarreforma-para-que-las-empresas-financien-enfermedades-de-alto-costo-y-puedan-descontar-impuestos/",
-        "published_date": "2026-07-15 22:41:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Estefan\u00eda Banini: the return of the star forged in Colo Colo who became the best soccer player in the history of Argentina",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/estefania-banini-el-regreso-de-la-estrella-forjada-en-colo-colo-que-se-convirtio-en-la-mejor-futbolista-en-la-historia-de-argentina/",
-        "published_date": "2026-07-15 22:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announces fund call for $5 billion to support businesses and the unemployed through Sercotec Seed Capital",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/gobierno-anuncia-convocatoria-a-fondo-de-5-mil-millones-para-apoyar-a-emprendimientos-y-desempleados-a-traves-de-capital-semilla-de-sercotec/",
-        "published_date": "2026-07-15 22:31:48",
         "category": "Local Events"
     }
 ]
