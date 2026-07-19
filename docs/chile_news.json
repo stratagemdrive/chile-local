@@ -1,19 +1,5 @@
 [
     {
-        "title": "Bachelet continues her international deployment and arrives in Bahrain, one of the 15 member states of the UN Security Council",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/11/bachelet-continua-con-su-despliegue-internacional-y-llega-a-bahrein-uno-de-los-15-estados-miembros-del-consejo-de-seguridad-de-la-onu/",
-        "published_date": "2026-07-11 22:28:55",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ambassador of Norway for his participation in the World Cup: \u201cIt's crazy, my whole country is in a moment of celebration and it is a shared moment\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/11/embajador-de-noruega-por-su-participacion-en-el-mundial-es-una-locura-todo-mi-pais-esta-en-un-momento-de-fiesta-y-es-un-momento-compartido/",
-        "published_date": "2026-07-11 12:11:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "He is a Navy official and tested 0.0 in an alcohol test: what is known about the driver who killed six people at the Vi\u00f1a del Mar fair",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/12/es-un-funcionario-de-la-armada-y-arrojo-00-en-alcotest-que-se-sabe-del-conductor-que-mato-a-seis-personas-en-feria-de-vina-del-mar/",
@@ -133,11 +119,74 @@
         "category": "Economy"
     },
     {
-        "title": "Isabel Plant Column: I love you, but with separation of property",
+        "title": "Spain wins its second World Cup after one of the most boring finals of the last World Cups: Argentina did not have a single shot on goal",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/11/columna-de-isabel-plant-te-amo-pero-con-separacion-de-bienes/",
-        "published_date": "2026-07-11 12:30:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/19/espana-logra-su-segunda-copa-del-mundo-tras-una-de-las-finales-mas-aburridas-de-los-ultimos-mundiales-argentina-no-tuvo-un-solo-remate-al-arco/",
+        "published_date": "2026-07-19 22:20:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Criticism of the halftime show |\u201cI don't understand soccer\u201d: Justin Bieber, the Muppets and the day FIFA stopped trusting soccer",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/critica-al-show-de-medio-tiempo-me-no-comprendo-soccer-justin-bieber-los-muppets-y-el-dia-que-la-fifa-dejo-de-confiar-en-el-futbol/",
+        "published_date": "2026-07-19 20:42:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Joaqu\u00edn Sabina kills his legend as an incorrigible bohemian: \u201cI regret having wasted so many nights being an idiot in the bars\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/joaquin-sabina-mata-su-leyenda-de-bohemio-incorregible-me-arrepiento-de-haber-perdido-tantas-noches-haciendo-el-idiota-por-los-bares/",
+        "published_date": "2026-07-19 19:59:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The world of communications surrenders to the halftime show: the turn of the BBC and ITV, which will finally broadcast the show with Shakira and Justin Bieber",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/el-mundo-de-las-comunicaciones-se-rinde-ante-el-show-de-medio-tiempo-el-giro-de-la-bbc-e-itv-que-finalmente-transmitiran-el-espectaculo-con-shakira-y-justin-bieber/",
+        "published_date": "2026-07-19 19:41:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Entel enables free SMS via Starlink for customers between Atacama and Los Lagos due to climate emergency",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/entel-habilita-sms-gratis-via-starlink-para-clientes-entre-atacama-y-los-lagos-por-emergencia-climatica/",
+        "published_date": "2026-07-19 16:55:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman disappears due to avalanche in Alto del Carmen while mayors ask Kast to declare a State of Disaster",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/desaparece-mujer-por-avalancha-en-alto-del-carmen-mientras-alcaldes-piden-a-kast-declarar-estado-de-catastrofe/",
+        "published_date": "2026-07-19 16:27:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Preventive detention for four police officers who stole ketamine, silver chains and intimidated with firearms",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/prision-preventiva-para-cuatro-carabineros-que-sustrajeron-ketamina-cadenas-de-plata-e-intimidaron-con-armas-de-fuego/",
+        "published_date": "2026-07-19 15:31:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Senapred increases the number of injuries caused by the frontal system to fourteen and accounts for 1,652 victims between Atacama and La Araucan\u00eda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/senapred-eleva-a-catorce-los-lesionados-por-el-sistema-frontal-y-contabiliza-1-652-damnificados-entre-atacama-y-la-araucania/",
+        "published_date": "2026-07-19 14:30:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amaya Forch reveals that she was a victim of rape 30 years ago and questions a project that requires listening to the heart of the fetus before aborting: \u201cAn act of contempt for women\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/amaya-forch-revela-que-fue-victima-de-violacion-hace-30-anos-y-cuestiona-proyecto-que-obliga-a-escuchar-el-corazon-del-feto-antes-de-abortar-un-acto-de-desprecio-a-la-mujer/",
+        "published_date": "2026-07-19 13:16:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "At the closing of Cieplan after 50 years, Jos\u00e9 Pablo Arellano reviews its history: \u201cWe defined ourselves as contrary to what existed, which was a dictatorship\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/19/al-cierre-de-cieplan-tras-50-anos-jose-pablo-arellano-repasa-su-historia-nos-definiamos-como-contrarios-a-lo-que-existia-que-era-una-dictadura/",
+        "published_date": "2026-07-19 12:15:00",
+        "category": "Local Events"
     },
     {
         "title": "Treats: the collaborative dinners with which Rayuela de la Vi\u00f1a Viu Manent invites the most renowned chefs in the country to taste their cuisine",
@@ -207,76 +256,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/18/columna-de-rita-cox-rayados-el-riesgo-de-tapar-el-sol-con-un-dedo/",
         "published_date": "2026-07-18 12:08:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe will still face especially demanding hours\u201d: Government emphasizes call to avoid travel after latest assessment of the frontal system",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/todavia-enfrentaremos-horas-especialmente-exigentes-gobierno-remarca-llamado-a-evitar-desplazamientos-tras-ultimo-balance-del-sistema-frontal/",
-        "published_date": "2026-07-18 02:54:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aguas Andinas reports an unusual discovery in the Puente Alto sewer: \u201cOur teams found bags with horse heads inside\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/aguas-andinas-reporta-insolito-hallazgo-en-alcantarillado-de-puente-alto-nuestros-equipos-se-encontraron-con-sacos-con-cabezas-de-caballo-en-su-interior/",
-        "published_date": "2026-07-18 01:32:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThis is a complete scam\u201d: Poduje attacks the San Sebasti\u00e1n construction company again after detecting a new wall detachment in El Olivar",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/esto-es-una-estafa-completa-poduje-vuelve-a-cargar-contra-la-constructora-san-sebastian-tras-detectar-un-nuevo-desprendimiento-de-muro-en-el-olivar/",
-        "published_date": "2026-07-18 00:45:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ripamonti calls for calm after SAE alert due to flooding of the Marga Marga estuary and addresses possible closure of bridges",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/ripamonti-llama-a-la-calma-tras-alerta-sae-por-crecida-del-estero-marga-marga-y-aborda-posible-cierre-de-puentes/",
-        "published_date": "2026-07-17 23:11:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential delegate of Valpara\u00edso: \"The rivers are on the edge, the estuaries too. If this level of water continues, we are going to have problems\"",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/delegado-presidencial-de-valparaiso-los-rios-estan-al-borde-los-esteros-tambien-si-continua-este-nivel-de-agua-vamos-a-estar-con-problemas/",
-        "published_date": "2026-07-17 22:59:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court condemns the Municipality of La Pintana to pay more than $16.8 million to a former worker hired on a fee basis for 8 years",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/corte-suprema-condena-a-municipalidad-de-la-pintana-a-pagar-mas-de-168-millones-a-extrabajadora-contratada-a-honorarios-por-8-anos/",
-        "published_date": "2026-07-17 22:06:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business associations activate contingency plans through the front system and warn that it is still early to measure the impact",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/gremios-empresariales-activan-planes-de-contingencia-por-sistema-frontal-y-advierten-que-aun-es-temprano-para-medir-el-impacto/",
-        "published_date": "2026-07-17 21:59:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The deadline set by the left to appeal to the TC for the mega-reform and what are the matters to be challenged",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/el-plazo-que-fijo-la-izquierda-para-recurrir-al-tc-por-la-megarreforma-y-cuales-son-las-materias-a-impugnar/",
-        "published_date": "2026-07-17 21:50:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Green patent in Chile: the law already applies, but few know how to request it",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/patente-verde-chile-electricos/",
-        "published_date": "2026-07-17 21:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIs it necessary to torture women in this way?\u201d: The viral reflection of a nun regarding a project that conditions abortion on listening to the fetal heartbeat",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/es-necesario-torturar-a-las-mujeres-de-esta-manera-la-reflexion-viral-de-una-religiosa-ante-proyecto-que-condiciona-el-aborto-a-escuchar-el-latido-fetal/",
-        "published_date": "2026-07-17 21:01:08",
         "category": "Local Events"
     }
 ]
