@@ -1,10 +1,24 @@
 [
     {
-        "title": "He is a Navy official and tested 0.0 in an alcohol test: what is known about the driver who killed six people at the Vi\u00f1a del Mar fair",
+        "title": "JP Morgan estimates 1.2% growth for Chile this year and warns that the government will not meet structural deficit goals",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/12/es-un-funcionario-de-la-armada-y-arrojo-00-en-alcotest-que-se-sabe-del-conductor-que-mato-a-seis-personas-en-feria-de-vina-del-mar/",
-        "published_date": "2026-07-12 15:42:54",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/07/20/jp-morgan-estima-crecimiento-de-12-para-chile-este-ano-y-advierte-que-gobierno-no-cumplira-metas-de-deficit-estructural/",
+        "published_date": "2026-07-20 22:48:32",
+        "category": "Energy"
+    },
+    {
+        "title": "The lettuce of discord: what is behind the crisis that hits the Taco Bell menu after thousands of cases of poisoning",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/la-lechuga-de-la-discordia-que-hay-detras-de-la-crisis-que-golpea-al-menu-de-taco-bell-tras-miles-de-casos-de-intoxicacion/",
+        "published_date": "2026-07-20 22:37:13",
+        "category": "Energy"
+    },
+    {
+        "title": "Lightning Alarm: this is how the free app works that allows you to see the next storms that arrive in Chile in real time",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/alarma-rayo-asi-funciona-la-app-gratuita-que-permite-ver-las-proximas-tormentas-que-llegan-a-chile-en-tiempo-real/",
+        "published_date": "2026-07-20 21:40:27",
+        "category": "Energy"
     },
     {
         "title": "In the face of bad weather: Entel provides recommendations to prepare before an emergency",
@@ -47,6 +61,20 @@
         "url": "https://www.theclinic.cl/2026/07/13/fiat-grizzly-grizzly-fastback-nuevos-suv/",
         "published_date": "2026-07-13 22:21:46",
         "category": "Energy"
+    },
+    {
+        "title": "The UDI's call to the Government to resume the values \u200b\u200bagenda and open the discussion on ways to mitigate abortion",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/el-llamado-de-la-udi-al-gobierno-a-retomar-la-agenda-valorica-y-abrir-la-discusion-sobre-los-alcances-del-aborto/",
+        "published_date": "2026-07-20 21:50:01",
+        "category": "Economy"
+    },
+    {
+        "title": "BancoEstado joined the criticism against the elimination of the \u201cpayment of interest on interest\u201d approved in the mega-reform: \u201cIt would affect savings\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/bancoestado-se-sumo-a-las-criticas-contra-la-eliminacion-del-pago-de-intereses-sobre-intereses-aprobado-en-la-megarreforma-afectaria-el-ahorro/",
+        "published_date": "2026-07-20 21:05:04",
+        "category": "Economy"
     },
     {
         "title": "When will airless tires hit the mass automotive market?",
@@ -103,6 +131,41 @@
         "url": "https://www.theclinic.cl/2026/07/13/tomas-arrau-defiende-flexibilizacion-calculo-40-horas/",
         "published_date": "2026-07-13 13:07:26",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cThe lack of information has generated emotional damage in thousands of fans\u201d: Armys present in the Lower House due to the uncertainty of the BTS concert",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/la-falta-de-informacion-ha-generado-un-dano-emocional-en-miles-de-fans-armys-exponen-en-la-camara-baja-ante-incertidumbre-del-concierto-bts/",
+        "published_date": "2026-07-20 23:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThese people lack a street\u201d: The harsh response of the Coquimbo Fire Superintendent to Iv\u00e1n Poduje, after the minister's controversial video",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/le-falta-calle-a-esta-gente-la-dura-respuesta-del-superintendente-de-bomberos-de-coquimbo-a-ivan-poduje-tras-polemico-video-del-ministro/",
+        "published_date": "2026-07-20 22:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ais\u00e9n Etcheverry's new international crusade: reappears on an international panel in Canada and addresses AI regulatory policies",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/la-nueva-cruzada-internacional-de-aisen-etcheverry-reaparece-en-panel-internacional-en-canada-y-aborda-politicas-reguladoras-de-i/",
+        "published_date": "2026-07-20 21:29:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThere is homophobia here\u201d: The harsh accusation of the scriptwriter of Papi Ricky against the Republican deputy Juan Irarr\u00e1zaval",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/aca-hay-homofobia-la-dura-acusacion-del-guionista-de-papi-ricky-contra-el-diputado-republicano-juan-irarrazaval/",
+        "published_date": "2026-07-20 21:19:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least five dead and more than a dozen missing: the ravages of one of the worst emergencies that the northern small region has faced in decades",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/al-menos-cinco-muertos-y-mas-de-una-decena-de-desaparecidos-los-estragos-de-una-de-las-peores-emergencias-que-ha-enfrentado-el-norte-chico-en-decadas/",
+        "published_date": "2026-07-20 21:01:51",
+        "category": "Local Events"
     },
     {
         "title": "Spain wins its second World Cup after one of the most boring finals of the last World Cups: Argentina did not have a single shot on goal",
@@ -207,41 +270,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/18/la-historia-del-rescate-de-nueve-cachorros-de-menos-de-un-mes-que-quedaron-atrapados-en-la-ribera-del-maipo-durante-desalojo-preventivo-por-crecida-del-rio/",
         "published_date": "2026-07-18 14:45:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not just a medal: the millions at stake between England and France for third place in the World Cup",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/no-solo-una-medalla-los-millones-que-estan-en-juego-entre-inglaterra-y-francia-por-el-tercer-lugar-del-mundial/",
-        "published_date": "2026-07-18 13:44:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The harsh balance of the rains: senapred reports four deaths and more than 500 victims while declaring a red alert in Valpara\u00edso and evacuating sectors of Atacama",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/el-duro-balance-de-las-lluvias-senapred-reporta-cuatro-fallecidos-y-mas-de-500-damnificados-mientras-declara-alerta-roja-en-valparaiso-y-evacua-sectores-de-atacama/",
-        "published_date": "2026-07-18 13:14:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Enlightened illiteracy: why university students can no longer read complex texts and the collapse of reading comprehension in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/analfabetismo-ilustrado-por-que-los-universitarios-ya-no-pueden-leer-textos-complejos-y-el-colapso-de-la-comprension-de-lectura-en-chile/",
-        "published_date": "2026-07-18 12:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Synergy 25 years after the album that brought them to fame: \u201cWe are not diagnosed, but I feel that we are a very neurodivergent band\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/sinergia-a-25-anos-del-album-que-los-llevo-a-la-fama-no-estamos-diagnosticados-pero-siento-que-somos-una-banda-bien-neurodivergente/",
-        "published_date": "2026-07-18 12:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Rita Cox / Rayados: the risk of covering the sun with a finger",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/columna-de-rita-cox-rayados-el-riesgo-de-tapar-el-sol-con-un-dedo/",
-        "published_date": "2026-07-18 12:08:00",
         "category": "Local Events"
     }
 ]
