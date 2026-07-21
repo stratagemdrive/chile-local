@@ -1,5 +1,12 @@
 [
     {
+        "title": "Deaths rise to 10 as a result of intense rainfall that affects the country",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/suben-a-10-los-fallecidos-producto-de-intensas-precipitaciones-que-afectan-al-pais/",
+        "published_date": "2026-07-21 01:09:03",
+        "category": "Energy"
+    },
+    {
         "title": "JP Morgan estimates 1.2% growth for Chile this year and warns that the government will not meet structural deficit goals",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/20/jp-morgan-estima-crecimiento-de-12-para-chile-este-ano-y-advierte-que-gobierno-no-cumplira-metas-de-deficit-estructural/",
@@ -133,6 +140,20 @@
         "category": "Economy"
     },
     {
+        "title": "Is the Caixun 50\u2033 4K Roku TV worth it?We tried it during the World Cup and this was our experience",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/21/review-caixun-50-4k-roku-tv-vale-la-pena/",
+        "published_date": "2026-07-21 12:13:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI'm flooding\u201d: Streamer 'Canal de Pancho' showed how the rain caused the roof of his house to come off",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/20/me-estoy-inundando-streamer-canal-de-pancho-mostro-como-la-lluvia-provoco-que-se-desprendiera-el-techo-de-su-casa/",
+        "published_date": "2026-07-21 00:29:23",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cThe lack of information has generated emotional damage in thousands of fans\u201d: Armys present in the Lower House due to the uncertainty of the BTS concert",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/20/la-falta-de-informacion-ha-generado-un-dano-emocional-en-miles-de-fans-armys-exponen-en-la-camara-baja-ante-incertidumbre-del-concierto-bts/",
@@ -256,20 +277,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/18/la-incomoda-visita-del-indh-a-el-rana-detenido-por-crimen-del-cabo-nain-y-balear-a-otros-dos-carabineros-hombre-no-pudo-hablar-por-incapacidad-medica/",
         "published_date": "2026-07-18 18:18:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe Odyssey\u201d achieves the best global premiere of Christopher Nolan's career. What makes it so desirable?",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/la-odisea-logra-el-mejor-estreno-global-de-la-carrera-de-christopher-nolan-que-la-hace-tan-deseable/",
-        "published_date": "2026-07-18 17:29:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "The story of the rescue of nine puppies less than a month old that were trapped on the banks of the Maipo during a preventive eviction due to flooding of the river",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/18/la-historia-del-rescate-de-nueve-cachorros-de-menos-de-un-mes-que-quedaron-atrapados-en-la-ribera-del-maipo-durante-desalojo-preventivo-por-crecida-del-rio/",
-        "published_date": "2026-07-18 14:45:18",
         "category": "Local Events"
     }
 ]
