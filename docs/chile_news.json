@@ -7,6 +7,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "\u201cWe never went to take photos\u201d: Poduje comes to his defense after Agorechi's accusations of an emergency in Coquimbo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/nunca-nos-fuimos-a-sacar-fotos-poduje-sale-en-su-defensa-tras-acusaciones-de-agorechi-por-emergencia-en-coquimbo/",
+        "published_date": "2026-07-22 21:27:44",
+        "category": "Military"
+    },
+    {
+        "title": "Minister Quiroz's warning about gasoline after the sharp increase in the price of oil: \u201cWe are going to have to study the situation\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/el-aviso-del-ministro-quiroz-por-las-bencinas-tras-el-fuerte-aumento-del-precio-del-petroleo-vamos-a-tener-que-estudiar-la-situacion/",
+        "published_date": "2026-07-22 22:27:19",
+        "category": "Energy"
+    },
+    {
         "title": "SEC files charges against the Municipality of Cerro Navia for the death of a person during the frontal system",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/21/sec-formula-cargos-contra-municipalidad-de-cerro-navia-por-muerte-de-una-persona-durante-el-sistema-frontal/",
@@ -84,11 +98,18 @@
         "category": "Energy"
     },
     {
-        "title": "Honor's new bet in Chile is a phone with a giant battery and an AI that transforms still photos into video",
+        "title": "\u201cI am not going to pay a single peso\u201d: Gabriel Osorio denounces that Banco de Chile is charging him $6.5 million for an account that he has not used for 15 years",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/14/honor-600-chile-bateria-ia-fotos-precio/",
-        "published_date": "2026-07-14 21:27:05",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/22/no-voy-a-pagar-ni-un-peso-gabriel-osorio-denuncia-que-banco-de-chile-le-esta-cobrando-65-millones-por-cuenta-que-no-usa-hace-15-anos/",
+        "published_date": "2026-07-22 22:11:07",
+        "category": "Economy"
+    },
+    {
+        "title": "Treasury expands the advisory committees for Budget 2027 and eliminates gender parity: recruits 15 men and no women",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/hacienda-amplia-los-comites-consultivos-para-presupuesto-2027-y-elimina-la-paridad-de-genero-recluta-a-15-hombres-y-ninguna-mujer/",
+        "published_date": "2026-07-22 21:35:43",
+        "category": "Economy"
     },
     {
         "title": "Megareform: Central Bank leads crusade against anatocism and sends letter to the Chamber of Deputies",
@@ -140,18 +161,46 @@
         "category": "Economy"
     },
     {
-        "title": "Are you ready for the front system?This is the emergency kit that an expert recommends and the main mistake that many make",
+        "title": "Who is Juan Pablo Salgado, the journalist who will take over as the new deputy director of the IND after the departure of Lorena Castillo",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/14/estas-preparado-para-el-sistema-frontal-este-es-el-kit-de-emergencia-que-recomienda-un-experto-y-el-principal-error-que-muchos-cometen/",
-        "published_date": "2026-07-14 23:20:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/22/quien-es-juan-pablo-salgado-el-periodista-que-asumira-como-nuevo-director-subrogante-del-ind-tras-la-salida-de-lorena-castillo/",
+        "published_date": "2026-07-22 23:52:21",
+        "category": "Local Events"
     },
     {
-        "title": "Fintech Map 2026: Chile has 557 companies and 85% plan to continue expanding their presence in other countries",
+        "title": "These are the clothes that Rosal\u00eda's stylist chose in a store in Providencia to dress the singer on her visit to Chile",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/14/mapa-fintech-2026-chile-suma-557-empresas-y-85-proyecta-seguir-ampliando-su-presencia-en-otros-paises/",
-        "published_date": "2026-07-14 22:04:54",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/22/estas-son-las-prendas-que-eligio-el-estilista-de-rosalia-en-una-tienda-de-providencia-para-vestir-a-la-cantante-en-su-visita-a-chile/",
+        "published_date": "2026-07-22 22:36:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Calling yourself \u201cfomes\u201d and ignoring statements: La Moneda's damage control after Mara Sedini's attack",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/autodenominarse-fomes-y-desconocer-las-declaraciones-el-control-de-danos-de-la-moneda-tras-la-embestida-de-mara-sedini/",
+        "published_date": "2026-07-22 22:31:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The error with article 22 that cost Sodexo a million-dollar fine: ruling proved that the worker exceeded a 44-hour week",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/el-error-con-el-articulo-22-que-le-costo-una-millonaria-multa-a-sodexo-fallo-acredito-que-trabajadora-excedio-jornada-de-44-horas-semanales/",
+        "published_date": "2026-07-22 22:23:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "AFA-gate, the judicial plot that shakes Argentina after the World Cup final",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/afa-gate-la-trama-judicial-que-sacude-a-argentina-tras-la-final-del-mundial/",
+        "published_date": "2026-07-22 22:06:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gendarmerie transfers 21 prisoners to former Punta Peuco: All are convicted of crimes against humanity and one of them would be the author of Caravan of Death",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/gendarmeria-traslada-21-reos-a-ex-punta-peuco-todos-estan-condenados-por-lesa-humanidad-y-uno-de-ellos-seria-autor-de-caravana-de-la-muerte/",
+        "published_date": "2026-07-22 21:15:18",
+        "category": "Local Events"
     },
     {
         "title": "Behind the wheel of the Avatr 11: an electric SUV trapped between the future and the screen",
@@ -249,48 +298,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/20/la-falta-de-informacion-ha-generado-un-dano-emocional-en-miles-de-fans-armys-exponen-en-la-camara-baja-ante-incertidumbre-del-concierto-bts/",
         "published_date": "2026-07-20 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThese people lack a street\u201d: The harsh response of the Coquimbo Fire Superintendent to Iv\u00e1n Poduje, after the minister's controversial video",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/le-falta-calle-a-esta-gente-la-dura-respuesta-del-superintendente-de-bomberos-de-coquimbo-a-ivan-poduje-tras-polemico-video-del-ministro/",
-        "published_date": "2026-07-20 22:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ais\u00e9n Etcheverry's new international crusade: reappears on an international panel in Canada and addresses AI regulatory policies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/la-nueva-cruzada-internacional-de-aisen-etcheverry-reaparece-en-panel-internacional-en-canada-y-aborda-politicas-reguladoras-de-i/",
-        "published_date": "2026-07-20 21:29:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is homophobia here\u201d: The harsh accusation of the scriptwriter of Papi Ricky against the Republican deputy Juan Irarr\u00e1zaval",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/aca-hay-homofobia-la-dura-acusacion-del-guionista-de-papi-ricky-contra-el-diputado-republicano-juan-irarrazaval/",
-        "published_date": "2026-07-20 21:19:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least five dead and more than a dozen missing: the ravages of one of the worst emergencies that the northern small region has faced in decades",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/al-menos-cinco-muertos-y-mas-de-una-decena-de-desaparecidos-los-estragos-de-una-de-las-peores-emergencias-que-ha-enfrentado-el-norte-chico-en-decadas/",
-        "published_date": "2026-07-20 21:01:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain wins its second World Cup after one of the most boring finals of the last World Cups: Argentina did not have a single shot on goal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/19/espana-logra-su-segunda-copa-del-mundo-tras-una-de-las-finales-mas-aburridas-de-los-ultimos-mundiales-argentina-no-tuvo-un-solo-remate-al-arco/",
-        "published_date": "2026-07-19 22:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Criticism of the halftime show |\u201cI don't understand soccer\u201d: Justin Bieber, the Muppets and the day FIFA stopped trusting soccer",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/19/critica-al-show-de-medio-tiempo-me-no-comprendo-soccer-justin-bieber-los-muppets-y-el-dia-que-la-fifa-dejo-de-confiar-en-el-futbol/",
-        "published_date": "2026-07-19 20:42:28",
         "category": "Local Events"
     }
 ]
