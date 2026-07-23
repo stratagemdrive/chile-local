@@ -14,6 +14,13 @@
         "category": "Military"
     },
     {
+        "title": "Before the Model T, there was a first car that saved Ford from bankruptcy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/primer-ford-model-a-1903/",
+        "published_date": "2026-07-23 12:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "Minister Quiroz's warning about gasoline after the sharp increase in the price of oil: \u201cWe are going to have to study the situation\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/22/el-aviso-del-ministro-quiroz-por-las-bencinas-tras-el-fuerte-aumento-del-precio-del-petroleo-vamos-a-tener-que-estudiar-la-situacion/",
@@ -161,6 +168,20 @@
         "category": "Economy"
     },
     {
+        "title": "Congress passes into law a Government bill that resolves how consumers will settle the debt of US$900 million with distributors",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/congreso-despacha-a-ley-proyecto-del-gobierno-que-resuelve-como-los-consumidores-saldaran-la-deuda-de-us900-millones-con-las-distribuidoras/",
+        "published_date": "2026-07-23 02:50:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unexpected turn for the mega-reform: Government withdraws the urgency and Senate suspends the vote on the joint commission report",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/22/giro-inesperado-para-la-megarreforma-gobierno-retira-la-urgencia-y-senado-suspende-la-votacion-del-informe-de-la-comision-mixta/",
+        "published_date": "2026-07-23 01:14:24",
+        "category": "Local Events"
+    },
+    {
         "title": "Who is Juan Pablo Salgado, the journalist who will take over as the new deputy director of the IND after the departure of Lorena Castillo",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/22/quien-es-juan-pablo-salgado-el-periodista-que-asumira-como-nuevo-director-subrogante-del-ind-tras-la-salida-de-lorena-castillo/",
@@ -284,20 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/21/review-caixun-50-4k-roku-tv-vale-la-pena/",
         "published_date": "2026-07-21 12:13:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI'm flooding\u201d: Streamer 'Canal de Pancho' showed how the rain caused the roof of his house to come off",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/me-estoy-inundando-streamer-canal-de-pancho-mostro-como-la-lluvia-provoco-que-se-desprendiera-el-techo-de-su-casa/",
-        "published_date": "2026-07-21 00:29:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe lack of information has generated emotional damage in thousands of fans\u201d: Armys present in the Lower House due to the uncertainty of the BTS concert",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/la-falta-de-informacion-ha-generado-un-dano-emocional-en-miles-de-fans-armys-exponen-en-la-camara-baja-ante-incertidumbre-del-concierto-bts/",
-        "published_date": "2026-07-20 23:00:00",
         "category": "Local Events"
     }
 ]
