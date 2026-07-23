@@ -1,5 +1,12 @@
 [
     {
+        "title": "The United States decided to apply an additional tariff of 12.5% \u200b\u200bto Chilean products after an investigation for \u201cforced labor\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/estados-unidos-decidio-aplicar-un-arancel-adicional-de-125-a-productos-chilenos-tras-investigacion-por-trabajo-forzoso/",
+        "published_date": "2026-07-23 22:20:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Bachelet faces key week at the UN: prepares debate between candidates and calls to strengthen diplomacy in the face of war conflicts",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/21/bachelet-enfrenta-semana-clave-por-la-onu-prepara-debate-entre-candidatos-y-llama-a-fortalecer-la-diplomacia-ante-conflictos-belicos/",
@@ -12,6 +19,13 @@
         "url": "https://www.theclinic.cl/2026/07/22/nunca-nos-fuimos-a-sacar-fotos-poduje-sale-en-su-defensa-tras-acusaciones-de-agorechi-por-emergencia-en-coquimbo/",
         "published_date": "2026-07-22 21:27:44",
         "category": "Military"
+    },
+    {
+        "title": "The extensive criminal record of \u201cEl Chino del Caj\u00f3n del Maipo\u201d: He has more than 20 cases for drugs, domestic violence, theft and using a cell phone in prison",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/el-extenso-prontuario-de-el-chino-del-cajon-del-maipo-tiene-mas-de-20-causas-por-drogas-violencia-intrafamiliar-hurtos-y-usar-celular-en-la-carcel/",
+        "published_date": "2026-07-23 20:54:44",
+        "category": "Energy"
     },
     {
         "title": "Before the Model T, there was a first car that saved Ford from bankruptcy",
@@ -98,11 +112,11 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cThere is a lack of a spokesperson\u201d: RN's message to Kast in the Cerro Castillo conclave to reinforce the Government's communication deployment",
+        "title": "Minister of Finance announces veto against rule that prohibits anatocism",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/falta-un-vocero-el-mensaje-de-rn-a-kast-en-conclave-de-cerro-castillo-para-reforzar-el-despliegue-comunicacional-del-gobierno/",
-        "published_date": "2026-07-15 22:00:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/23/ministro-de-hacienda-anuncia-veto-contra-norma-que-prohibe-el-anatocismo/",
+        "published_date": "2026-07-23 21:16:18",
+        "category": "Economy"
     },
     {
         "title": "\u201cI am not going to pay a single peso\u201d: Gabriel Osorio denounces that Banco de Chile is charging him $6.5 million for an account that he has not used for 15 years",
@@ -161,11 +175,53 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cIn this country we are more afraid of water than of an earthquake\u201d: Demand grows for water canisters, candles and flashlights before the frontal system",
+        "title": "\u201cI am a proven leader\u201d: How was the first debate that Michelle Bachelet faced along with all the candidates for the UN Secretary General",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/en-este-pais-le-tenemos-mas-miedo-al-agua-que-a-un-terremoto-crece-la-demanda-por-bidones-de-agua-velas-y-linternas-ante-sistema-frontal/",
-        "published_date": "2026-07-15 21:46:32",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/23/soy-una-lider-probada-michelle-bachelet-enfrenta-su-primer-debate-con-los-cinco-contendores-para-la-secretaria-general-de-la-onu/",
+        "published_date": "2026-07-23 23:06:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chile, the gateway to the seventh generation of the Outback",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/subaru-all-new-outback-en-chile/",
+        "published_date": "2026-07-23 22:59:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The observations made by the UN on the Kast mega-reform and that caused the rejection of Senator Vanessa Kaiser",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/las-observaciones-que-realizo-la-onu-a-la-megarreforma-de-kast-y-que-provocaron-el-rechazo-de-la-senadora-vanessa-kaiser/",
+        "published_date": "2026-07-23 22:21:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI missed the World Cup final\u201d: Codina reveals new details about how the rescue of the lost people in the Caj\u00f3n del Maipo was organized",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/me-perdi-la-final-del-mundial-codina-revela-como-se-organizo-el-rescate-de-los-extraviados-en-el-cajon-del-maipo/",
+        "published_date": "2026-07-23 21:33:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWhat need is there to give an animal a hard time to generate content?\u201d: The wave of criticism against a Chilean influencer for feeding wasabi to her dog",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/que-necesidad-hay-de-hacer-pasar-un-mal-rato-a-un-animal-para-generar-contenido-la-ola-de-criticas-contra-influencer-chilena-por-alimentar-con-wasabi-a-su-perro/",
+        "published_date": "2026-07-23 21:16:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outside Fest: the libertarian summit in Germany that will bring together Johannes Kaiser, youtubers, bitcoin fans and AfD politicians at a campsite",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/afuera-fest-la-cumbre-libertaria-en-alemania-que-reunira-a-johannes-kaiser-youtubers-fanaticos-del-bitcoin-y-politicos-de-afd-en-un-camping/",
+        "published_date": "2026-07-23 21:12:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "A new star milestone: Pedro Pascal will have his own star on the Hollywood Walk of Fame",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/un-nuevo-hito-estelar-pedro-pascal-tendra-su-propia-estrella-en-el-paseo-de-la-fama-en-hollywood/",
+        "published_date": "2026-07-23 20:52:14",
+        "category": "Local Events"
     },
     {
         "title": "Congress passes into law a Government bill that resolves how consumers will settle the debt of US$900 million with distributors",
@@ -256,55 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/21/de-vicio-silencioso-a-objeto-de-culto-este-fin-de-semana-se-realizara-la-nueva-expocafe-en-espacio-riesco/",
         "published_date": "2026-07-21 23:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court upholds expulsion of UNAB student who published AI images amid shooting threat",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/corte-avala-expulsion-de-estudiante-de-la-unab-que-publico-imagenes-con-ia-en-medio-de-amenaza-de-tiroteo/",
-        "published_date": "2026-07-21 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The team of ten opposition lawyers to challenge Minister Quiroz's mega-reform in the TC",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/el-equipo-de-diez-abogados-de-la-oposicion-para-impugnar-la-megarreforma-del-ministro-quiroz-en-el-tc/",
-        "published_date": "2026-07-21 22:19:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power outages through the front system: La Reina and Sernac call to demand compensation from affected customers",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/cortes-de-luz-por-el-sistema-frontal-la-reina-y-sernac-llaman-a-exigir-compensaciones-a-clientes-afectados/",
-        "published_date": "2026-07-21 22:05:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The shocking accident on the subway that ended with a car inside the Vi\u00f1a del Mar station, one person dead and four injured",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/el-impactante-accidente-en-el-metro-que-termino-con-un-auto-dentro-de-la-estacion-vina-del-mar-una-persona-fallecida-y-cuatro-lesionados/",
-        "published_date": "2026-07-21 22:01:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The details of Rosal\u00eda's visit to Naoki, the exclusive Japanese restaurant in Vitacura: she invited one of the workers to her concert",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/los-detalles-de-la-visita-de-rosalia-a-naoki-el-exclusivo-restaurante-japones-de-vitacura-invito-a-uno-de-los-trabajadores-a-su-concierto/",
-        "published_date": "2026-07-21 21:30:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The key question that Natalia Duco refuses to answer in the BTS plot: Sports Minister avoids referring to a possible meeting before taking office",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/la-pregunta-clave-que-natalia-duco-se-niega-a-responder-en-la-trama-bts-ministra-del-deporte-evita-referirse-a-eventual-reunion-antes-de-asumir/",
-        "published_date": "2026-07-21 21:28:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is the Caixun 50\u2033 4K Roku TV worth it?We tried it during the World Cup and this was our experience",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/review-caixun-50-4k-roku-tv-vale-la-pena/",
-        "published_date": "2026-07-21 12:13:01",
         "category": "Local Events"
     }
 ]
