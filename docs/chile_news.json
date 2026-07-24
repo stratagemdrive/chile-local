@@ -1,5 +1,12 @@
 [
     {
+        "title": "Unions react after application of new tariffs by the United States: \u201cIt is a setback that generates economic damage and greater uncertainty\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/gremios-reaccionan-tras-aplicacion-de-nuevos-aranceles-por-parte-de-estados-unidos-es-un-retroceso-que-genera-perjuicios-economicos-y-mayor-incertidumbre/",
+        "published_date": "2026-07-24 01:10:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The United States decided to apply an additional tariff of 12.5% \u200b\u200bto Chilean products after an investigation for \u201cforced labor\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/23/estados-unidos-decidio-aplicar-un-arancel-adicional-de-125-a-productos-chilenos-tras-investigacion-por-trabajo-forzoso/",
@@ -19,6 +26,20 @@
         "url": "https://www.theclinic.cl/2026/07/22/nunca-nos-fuimos-a-sacar-fotos-poduje-sale-en-su-defensa-tras-acusaciones-de-agorechi-por-emergencia-en-coquimbo/",
         "published_date": "2026-07-22 21:27:44",
         "category": "Military"
+    },
+    {
+        "title": "Former Undersecretary of the Treasury after testing positive for drugs: \u201cI will take new tests to clear up any doubts\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/24/exsubsecretario-de-hacienda-tras-el-positivo-en-test-de-drogas-me-realizare-nuevos-examenes-para-despejar-cualquier-duda/",
+        "published_date": "2026-07-24 04:17:36",
+        "category": "Energy"
+    },
+    {
+        "title": "Government reports that the departure of the Undersecretary of the Treasury occurs after testing positive for drugs",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/gobierno-informa-que-salida-del-subsecretario-de-hacienda-se-da-tras-dar-positivo-en-test-de-drogas/",
+        "published_date": "2026-07-24 02:37:44",
+        "category": "Energy"
     },
     {
         "title": "The extensive criminal record of \u201cEl Chino del Caj\u00f3n del Maipo\u201d: He has more than 20 cases for drugs, domestic violence, theft and using a cell phone in prison",
@@ -112,6 +133,20 @@
         "category": "Energy"
     },
     {
+        "title": "Mere, the Russian supermarket that succeeds with a low-cost model, seeks to establish itself in Santiago",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/24/mere-el-supermercado-ruso-que-triunfa-con-un-modelo-de-bajo-costo-busca-instalarse-en-santiago/",
+        "published_date": "2026-07-24 12:15:00",
+        "category": "Economy"
+    },
+    {
+        "title": "A new loss in the Government: Undersecretary of the Treasury, Juan Pablo Rodr\u00edguez, resigns",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/23/una-nueva-baja-en-el-gobierno-renuncia-el-subsecretario-de-hacienda-juan-pablo-rodriguez/",
+        "published_date": "2026-07-24 02:03:02",
+        "category": "Economy"
+    },
+    {
         "title": "Minister of Finance announces veto against rule that prohibits anatocism",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/23/ministro-de-hacienda-anuncia-veto-contra-norma-que-prohibe-el-anatocismo/",
@@ -168,11 +203,11 @@
         "category": "Economy"
     },
     {
-        "title": "Megareform: Quiroz assures that he reached an agreement with mayors for the exemption of contributions and is questioned by Delfino",
+        "title": "The Mercedes-Maybach GLS 680 and the arithmetic of luxury",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/15/megarreforma-quiroz-asegura-que-alcanzo-acuerdo-con-alcaldes-por-la-exencion-de-contribuciones-y-es-cuestionado-por-delfino/",
-        "published_date": "2026-07-16 01:41:58",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/24/mercedes-maybach-gls-680/",
+        "published_date": "2026-07-24 12:00:00",
+        "category": "Local Events"
     },
     {
         "title": "\u201cI am a proven leader\u201d: How was the first debate that Michelle Bachelet faced along with all the candidates for the UN Secretary General",
@@ -305,13 +340,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/21/eres-actriz-entonces-actua-mara-sedini-rompe-el-silencio-y-acusa-permanentes-presiones-de-una-de-las-tres-personas-mas-poderosas-dentro-del-gobierno/",
         "published_date": "2026-07-21 23:58:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "From silent vice to object of worship: this weekend the new ExpoCaf\u00e9 will be held at Espacio Riesco",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/de-vicio-silencioso-a-objeto-de-culto-este-fin-de-semana-se-realizara-la-nueva-expocafe-en-espacio-riesco/",
-        "published_date": "2026-07-21 23:32:00",
         "category": "Local Events"
     }
 ]
