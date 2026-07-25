@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chile becomes the first Latin American country to reach a trade agreement with the Philippines and begins negotiations to achieve an FTA with Bangladesh",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/chile-se-convierte-en-el-primer-pais-de-latinoamerica-en-alcanzar-un-acuerdo-comercial-con-filipinas-e-inicia-negociaciones-para-lograr-un-tlc-con-bangladesh/",
+        "published_date": "2026-07-25 18:26:32",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Unions react after application of new tariffs by the United States: \u201cIt is a setback that generates economic damage and greater uncertainty\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/23/gremios-reaccionan-tras-aplicacion-de-nuevos-aranceles-por-parte-de-estados-unidos-es-un-retroceso-que-genera-perjuicios-economicos-y-mayor-incertidumbre/",
@@ -33,6 +40,20 @@
         "url": "https://www.theclinic.cl/2026/07/22/nunca-nos-fuimos-a-sacar-fotos-poduje-sale-en-su-defensa-tras-acusaciones-de-agorechi-por-emergencia-en-coquimbo/",
         "published_date": "2026-07-22 21:27:44",
         "category": "Military"
+    },
+    {
+        "title": "Manouchehri questions the Government after the former Undersecretary of the Treasury tested positive: \u201cUntil today it has not published the results of all its authorities\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/manouchehri-cuestiona-al-gobierno-tras-positivo-del-exsubsecretario-de-hacienda-hasta-hoy-no-publica-los-resultados-de-todas-sus-autoridades/",
+        "published_date": "2026-07-25 14:49:45",
+        "category": "Energy"
+    },
+    {
+        "title": "\u201cI deserve it and that's what I work for\u201d: The dopamine behind self-gifts and its impact on personal finances",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/me-lo-merezco-y-para-eso-trabajo-la-dopamina-detras-de-los-autoregalos-y-su-impacto-en-la-economia-personal/",
+        "published_date": "2026-07-25 12:04:00",
+        "category": "Energy"
     },
     {
         "title": "\u201cThe political trenches affect municipalism\u201d: the break between the mayors over the formula to compensate the municipalities of the mega-reform",
@@ -147,11 +168,11 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cWe ask people for patience\u201d: The complex scenario of the more than 400 thousand homes without electricity in the country",
+        "title": "Loreto Valenzuela, protagonist of Mega's \u201cLa Baronesa\u201d at 72 years old: \u201cEvery age has value and beauty and if I'm not good for TV, I'm not good and how good?\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/le-pedimos-a-las-personas-paciencia-el-complejo-escenario-de-los-mas-de-400-mil-hogares-sin-luz-en-el-pais/",
-        "published_date": "2026-07-17 21:06:36",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/25/loreto-valenzuela-protagonista-de-la-baronesa-de-mega-a-los-72-anos-cada-edad-tiene-valor-y-belleza-y-si-no-sirvo-para-la-tele-no-sirvo-y-que-tanto/",
+        "published_date": "2026-07-25 12:15:00",
+        "category": "Economy"
     },
     {
         "title": "Colo Colo world coup: An\u00edbal Mosa confirms agreement for the arrival of Vozinha",
@@ -224,11 +245,46 @@
         "category": "Economy"
     },
     {
-        "title": "When will airless tires hit the mass automotive market?",
+        "title": "Minsal asks the Seremi of Magallanes to resign due to the existence of an ongoing judicial investigation",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/17/neumaticos-sin-aire-de-bridgestone/",
-        "published_date": "2026-07-17 20:14:32",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/25/minsal-le-pide-la-renuncia-al-seremi-de-magallanes-debido-a-la-existencia-de-una-investigacion-judicial-en-curso/",
+        "published_date": "2026-07-25 21:57:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nelson Haase Mazzei, the last of those convicted of the murder and kidnapping of V\u00edctor Jara, is arrested",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/detienen-a-nelson-haase-mazzei-el-ultimo-de-los-condenados-por-el-homicidio-y-secuestro-de-victor-jara/",
+        "published_date": "2026-07-25 21:06:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Technical problem causes fire in a lift at La Parva ski center",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/problema-tecnico-provoca-incendio-en-un-andarivel-en-centro-de-esqui-la-parva/",
+        "published_date": "2026-07-25 19:46:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The PNL attack against Kast for the legislative agenda: \u201cIt would be very incoherent if the President did not support the pardon project and the 'Listen to his heart'\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/la-arremetida-del-pnl-contra-kast-por-la-agenda-legislativa-seria-muy-incoherente-que-el-presidente-no-apoyara-el-proyecto-de-indultos-y-el-escucha-su-corazon/",
+        "published_date": "2026-07-25 16:40:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diego Maquieira, the unclassifiable of Chilean poetry, at 75 years old: \u201cI maintain a very high capacity for wonder, what I sometimes lose is conviction\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/diego-maquieira-el-inclasificable-de-la-poesia-chilena-a-los-75-anos-mantengo-una-capacidad-de-asombro-muy-alta-lo-que-a-veces-pierdo-es-la-conviccion/",
+        "published_date": "2026-07-25 12:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The local journey of Daniela Norambuena: the profile of the mayor of La Serena who became one of the faces of the storm",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/25/el-recorrido-local-de-daniela-norambuena-el-perfil-de-la-alcaldesa-de-la-serena-que-se-convirtio-en-uno-de-los-rostros-del-temporal/",
+        "published_date": "2026-07-25 12:01:00",
+        "category": "Local Events"
     },
     {
         "title": "Chilean father has been detained in Argentina for two weeks amid an international dispute over the custody of his two-year-old daughter",
@@ -326,48 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/22/congreso-despacha-a-ley-proyecto-del-gobierno-que-resuelve-como-los-consumidores-saldaran-la-deuda-de-us900-millones-con-las-distribuidoras/",
         "published_date": "2026-07-23 02:50:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unexpected turn for the mega-reform: Government withdraws the urgency and Senate suspends the vote on the joint commission report",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/22/giro-inesperado-para-la-megarreforma-gobierno-retira-la-urgencia-y-senado-suspende-la-votacion-del-informe-de-la-comision-mixta/",
-        "published_date": "2026-07-23 01:14:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Juan Pablo Salgado, the journalist who will take over as the new deputy director of the IND after the departure of Lorena Castillo",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/22/quien-es-juan-pablo-salgado-el-periodista-que-asumira-como-nuevo-director-subrogante-del-ind-tras-la-salida-de-lorena-castillo/",
-        "published_date": "2026-07-22 23:52:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the clothes that Rosal\u00eda's stylist chose in a store in Providencia to dress the singer on her visit to Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/22/estas-son-las-prendas-que-eligio-el-estilista-de-rosalia-en-una-tienda-de-providencia-para-vestir-a-la-cantante-en-su-visita-a-chile/",
-        "published_date": "2026-07-22 22:36:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Calling yourself \u201cfomes\u201d and ignoring statements: La Moneda's damage control after Mara Sedini's attack",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/22/autodenominarse-fomes-y-desconocer-las-declaraciones-el-control-de-danos-de-la-moneda-tras-la-embestida-de-mara-sedini/",
-        "published_date": "2026-07-22 22:31:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The error with article 22 that cost Sodexo a million-dollar fine: ruling proved that the worker exceeded a 44-hour week",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/22/el-error-con-el-articulo-22-que-le-costo-una-millonaria-multa-a-sodexo-fallo-acredito-que-trabajadora-excedio-jornada-de-44-horas-semanales/",
-        "published_date": "2026-07-22 22:23:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "AFA-gate, the judicial plot that shakes Argentina after the World Cup final",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/22/afa-gate-la-trama-judicial-que-sacude-a-argentina-tras-la-final-del-mundial/",
-        "published_date": "2026-07-22 22:06:39",
         "category": "Local Events"
     }
 ]
