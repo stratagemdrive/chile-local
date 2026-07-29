@@ -35,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Bachelet faces key week at the UN: prepares debate between candidates and calls to strengthen diplomacy in the face of war conflicts",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/bachelet-enfrenta-semana-clave-por-la-onu-prepara-debate-entre-candidatos-y-llama-a-fortalecer-la-diplomacia-ante-conflictos-belicos/",
-        "published_date": "2026-07-21 21:52:39",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Minister Barros defends his management during the emergency in the face of criticism: \u201cThe only thing that could have been missed was the photo above of a tank with a helmet\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/27/ministro-barros-defiende-su-gestion-durante-la-emergencia-ante-criticas-lo-unico-que-se-pudo-haber-echado-de-menos-fue-la-foto-arriba-de-un-tanque-con-casco/",
@@ -175,13 +168,6 @@
         "category": "Energy"
     },
     {
-        "title": "Chinese company will operate the new VIP lounges at the Santiago airport: this is how the five new themed spaces will be",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/empresa-china-operara-los-nuevos-salones-vip-del-aeropuerto-de-santiago-asi-seran-los-cinco-nuevos-espacios-tematicos/",
-        "published_date": "2026-07-21 21:55:00",
-        "category": "Energy"
-    },
-    {
         "title": "The brands that gave up: when China stops being the gold mine",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/29/marcas-automotrices-que-abandonan-china/",
@@ -273,11 +259,74 @@
         "category": "Economy"
     },
     {
-        "title": "Megareform: Central Bank leads crusade against anatocism and sends letter to the Chamber of Deputies",
+        "title": "The Council of Presidents must decide whether Vozinha can wear his nickname on the Colo Colo shirt: An\u00edbal Mosa says it would be \u201ca good thing for the country\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/21/megarreforma-banco-central-lidera-cruzada-contra-anatocismo-y-envia-oficio-a-la-camara-de-diputados/",
-        "published_date": "2026-07-21 21:51:02",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/29/el-consejo-de-presidentes-debe-resolver-si-vozinha-puede-lucir-su-apodo-en-la-camiseta-de-colo-colo-anibal-mosa-dice-que-seria-un-bien-para-el-pais/",
+        "published_date": "2026-07-29 23:17:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "With Carlos Heller, Jos\u00e9 Antonio Neme and both casts: the Mega event in which he presented his new teleseries for the second semester",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/con-carlos-heller-jose-antonio-neme-y-ambos-elencos-el-evento-de-mega-en-el-que-presento-sus-nuevas-teleseries-para-el-segundo-semestre/",
+        "published_date": "2026-07-29 22:59:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Luis Daza defended the direction of Chile and supported Minister Quiroz: \u201cHe is the ideal economist to direct the Chilean economic program\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/jose-luis-daza-defendio-el-rumbo-de-chile-y-respaldo-a-ministro-quiroz-es-el-economista-ideal-para-dirigir-el-programa-economico-chileno/",
+        "published_date": "2026-07-29 22:47:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Budget Law 2027: the Government's latest offer to secure key votes for the only pending article of the mega-reform in the Senate",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/ley-de-presupuestos-2027-la-ultima-oferta-del-gobierno-por-abrochar-votos-clave-para-el-ultimo-articulo-pendiente-de-la-megarreforma-en-el-senado/",
+        "published_date": "2026-07-29 22:37:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cCodelco is not for sale\u201d: The harsh response of officials to the Republican proposal to privatize the state company",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/codelco-no-se-vende-la-dura-respuesta-de-funcionarios-a-la-propuesta-de-republicanos-de-privatizar-la-estatal/",
+        "published_date": "2026-07-29 22:04:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paula Assler's path to transforming pain into life",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/el-camino-de-paula-assler-para-transformar-el-dolor-en-vida/",
+        "published_date": "2026-07-29 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Work adaptability and 40 hours: the new battle between the Government and the opposition that is being prepared in Congress",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/adaptabilidad-laboral-y-40-horas-la-nueva-batalla-entre-gobierno-y-oposicion-que-se-prepara-en-el-congreso/",
+        "published_date": "2026-07-29 21:53:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Can the shingles vaccine prevent dementia?What an infectious disease specialist says about this finding",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/puede-la-vacuna-del-herpes-zoster-prevenir-la-demencia-lo-que-dice-una-infectologa-sobre-este-hallazgo/",
+        "published_date": "2026-07-29 21:50:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "How The Brotherhood became a headache for Johannes Kaiser",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/como-la-cofradia-se-convirtio-en-un-dolor-de-cabeza-para-johannes-kaiser/",
+        "published_date": "2026-07-29 21:29:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "It's official: the emblematic Movistar Arena in Parque O'Higgins will be renamed Santander Arena",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/es-oficial-el-emblematico-movistar-arena-en-el-parque-ohiggins-pasara-a-llamarse-santander-arena/",
+        "published_date": "2026-07-29 21:26:38",
+        "category": "Local Events"
     },
     {
         "title": "Russia calls for the capture of the founder of Telegram and he responds with a defiant gesture",
@@ -347,76 +396,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/27/el-reservado-apoyo-del-alcalde-de-maipu-a-constanza-martinez-en-medio-de-la-eleccion-por-la-presidencia-del-frente-amplio/",
         "published_date": "2026-07-27 22:47:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Parva will invest US$1.3 million in a new lift to connect with Valle Nevado",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/la-parva-invertira-us13-millones-en-un-nuevo-andarivel-para-conectar-con-valle-nevado/",
-        "published_date": "2026-07-27 22:44:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "How a DNA test in Argentina managed to clarify the mystery of Bernarda Vera after more than 50 years of uncertainty",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/como-un-test-de-adn-en-argentina-logro-esclarecer-el-misterio-de-bernarda-vera-tras-mas-de-50-anos-de-incertidumbre/",
-        "published_date": "2026-07-27 22:44:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The madness for Rosal\u00eda continues in Chile: fans waited for her for more than 6 hours outside her hotel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/continua-la-locura-por-rosalia-en-chile-fanaticos-la-esperaron-mas-de-6-horas-afuera-de-su-hotel/",
-        "published_date": "2026-07-27 22:23:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bias in AI: Study reveals that predictive models discriminate against women in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/sesgo-en-la-ia-estudio-revela-que-modelos-predictivos-discriminan-a-las-mujeres-en-chile/",
-        "published_date": "2026-07-27 22:21:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in a Metro car interrupts service on Line 5",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/fuego-en-vagon-del-metro-interrumpe-servicio-en-linea-5/",
-        "published_date": "2026-07-27 21:56:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI could support\u201d, \u201cI advise against\u201d and \u201cno opinion\u201d: Why Bachelet entered a decisive week for her candidacy for the UN Secretary General",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/podria-apoyar-desaconsejo-y-sin-opinion-por-que-bachelet-entro-en-una-semana-decisiva-para-su-candidatura-a-la-secretaria-general-de-la-onu/",
-        "published_date": "2026-07-27 21:48:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "C\u00f3ndor was rescued on the side of the International Route: he was alone and injured",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/27/condor-fue-rescatado-a-un-costado-de-la-ruta-internacional-estaba-solo-y-herido/",
-        "published_date": "2026-07-27 21:46:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reflection of the V\u00edctor Jara Foundation after the arrest of Nelson Haase Mazzei: \u201cAfter half a century, it is difficult to consider this as justice\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/26/fundacion-victor-jara-tras-detencion-de-nelson-haase-mazzei-despues-de-medio-siglo-es-dificil-considerar-esto-como-justicia/",
-        "published_date": "2026-07-26 23:54:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "They close the Paseo Wheelwright in Valpara\u00edso until further notice: \u201cEntering the sector represents a safety risk\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/26/cierran-el-paseo-wheelwright-de-valparaiso-hasta-nuevo-aviso-ingresar-al-sector-representa-un-riesgo-para-la-seguridad/",
-        "published_date": "2026-07-26 21:42:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The detention of former Health Minister of Magallanes is extended: he is being investigated for an alleged crime of a sexual nature",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/26/amplian-detencion-de-exseremi-de-salud-de-magallanes-lo-investigan-por-presunto-delito-de-indole-sexual/",
-        "published_date": "2026-07-26 20:20:05",
         "category": "Local Events"
     }
 ]
