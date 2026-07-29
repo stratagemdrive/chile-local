@@ -182,11 +182,11 @@
         "category": "Energy"
     },
     {
-        "title": "Deaths rise to 10 as a result of intense rainfall that affects the country",
+        "title": "The brands that gave up: when China stops being the gold mine",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/20/suben-a-10-los-fallecidos-producto-de-intensas-precipitaciones-que-afectan-al-pais/",
-        "published_date": "2026-07-21 01:09:03",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/29/marcas-automotrices-que-abandonan-china/",
+        "published_date": "2026-07-29 12:00:00",
+        "category": "Economy"
     },
     {
         "title": "BancoEstado dismisses 50 workers due to company restructuring and union announces mobilizations",
@@ -278,6 +278,13 @@
         "url": "https://www.theclinic.cl/2026/07/21/megarreforma-banco-central-lidera-cruzada-contra-anatocismo-y-envia-oficio-a-la-camara-de-diputados/",
         "published_date": "2026-07-21 21:51:02",
         "category": "Economy"
+    },
+    {
+        "title": "Russia calls for the capture of the founder of Telegram and he responds with a defiant gesture",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/29/rusia-captura-fundador-telegram-respuesta/",
+        "published_date": "2026-07-29 12:31:03",
+        "category": "Local Events"
     },
     {
         "title": "After a complaint of xenophobia, Valle Nevado suspends a worker and announces an internal investigation to clarify the facts",
@@ -410,13 +417,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/26/amplian-detencion-de-exseremi-de-salud-de-magallanes-lo-investigan-por-presunto-delito-de-indole-sexual/",
         "published_date": "2026-07-26 20:20:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe damage is gigantic\u201d: De Grange estimates that the total cost of reconstruction in Coquimbo and Huasco can reach US$700 million",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/26/el-dano-es-gigantesco-de-grange-estima-que-el-costo-total-de-la-reconstruccion-en-coquimbo-y-huasco-puede-llegar-a-los-us700-millones/",
-        "published_date": "2026-07-26 16:53:23",
         "category": "Local Events"
     }
 ]
