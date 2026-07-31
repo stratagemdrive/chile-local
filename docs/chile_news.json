@@ -147,11 +147,11 @@
         "category": "Energy"
     },
     {
-        "title": "Before the Model T, there was a first car that saved Ford from bankruptcy",
+        "title": "Manouchehri announces the cancellation of La Pampilla and expresses criticism of the Government for the lack of immediate resources for reconstruction in Coquimbo",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/23/primer-ford-model-a-1903/",
-        "published_date": "2026-07-23 12:00:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/07/30/alcalde-manouchehri-anuncia-la-cancelacion-de-la-pampilla-2026-y-manifiesta-criticas-al-gobierno-por-la-falta-de-recursos-inmediatos-para-la-reconstruccion-en-coquimbo/",
+        "published_date": "2026-07-31 00:30:58",
+        "category": "Economy"
     },
     {
         "title": "The CMF warns of gaps in women's credit and savings amounts, but not in access",
@@ -243,6 +243,27 @@
         "url": "https://www.theclinic.cl/2026/07/23/ministro-de-hacienda-anuncia-veto-contra-norma-que-prohibe-el-anatocismo/",
         "published_date": "2026-07-23 21:16:18",
         "category": "Economy"
+    },
+    {
+        "title": "The first car on the Moon: the day Apollo 15 wrote automotive history outside of Earth",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/31/el-primer-auto-en-la-luna/",
+        "published_date": "2026-07-31 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cStop lying\u201d: Catalina San Mart\u00edn's attack against Tom\u00e1s Vodanovic in the midst of the break between the mayors over the mega-reform",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/30/deja-de-mentir-la-arremetida-de-catalina-san-martin-contra-tomas-vodanovic-en-medio-del-quiebre-entre-los-alcaldes-por-la-megarreforma/",
+        "published_date": "2026-07-31 02:47:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt is a situation of personal problems\u201d: Jaime Pizarro speaks out in Colo Colo due to Vozinha's delay and assures that the agreement still stands",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/30/es-una-situacion-de-problematicas-personales-jaime-pizarro-saca-la-voz-en-colo-colo-por-retraso-de-vozinha-y-asegura-que-el-acuerdo-sigue-en-pie/",
+        "published_date": "2026-07-31 01:30:32",
+        "category": "Local Events"
     },
     {
         "title": "Less algorithm, more conversation: Congreso Futuro invites young people to a free event at Matucana 100",
@@ -361,27 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/29/puede-la-vacuna-del-herpes-zoster-prevenir-la-demencia-lo-que-dice-una-infectologa-sobre-este-hallazgo/",
         "published_date": "2026-07-29 21:50:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "How The Brotherhood became a headache for Johannes Kaiser",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/como-la-cofradia-se-convirtio-en-un-dolor-de-cabeza-para-johannes-kaiser/",
-        "published_date": "2026-07-29 21:29:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's official: the emblematic Movistar Arena in Parque O'Higgins will be renamed Santander Arena",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/es-oficial-el-emblematico-movistar-arena-en-el-parque-ohiggins-pasara-a-llamarse-santander-arena/",
-        "published_date": "2026-07-29 21:26:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia calls for the capture of the founder of Telegram and he responds with a defiant gesture",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/rusia-captura-fundador-telegram-respuesta/",
-        "published_date": "2026-07-29 12:31:03",
         "category": "Local Events"
     }
 ]
