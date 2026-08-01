@@ -35,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Unions react after application of new tariffs by the United States: \u201cIt is a setback that generates economic damage and greater uncertainty\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/23/gremios-reaccionan-tras-aplicacion-de-nuevos-aranceles-por-parte-de-estados-unidos-es-un-retroceso-que-genera-perjuicios-economicos-y-mayor-incertidumbre/",
-        "published_date": "2026-07-24 01:10:13",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Minister Barros defends his management during the emergency in the face of criticism: \u201cThe only thing that could have been missed was the photo above of a tank with a helmet\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/27/ministro-barros-defiende-su-gestion-durante-la-emergencia-ante-criticas-lo-unico-que-se-pudo-haber-echado-de-menos-fue-la-foto-arriba-de-un-tanque-con-casco/",
@@ -140,20 +133,6 @@
         "category": "Energy"
     },
     {
-        "title": "Former Undersecretary of the Treasury after testing positive for drugs: \u201cI will take new tests to clear up any doubts\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/24/exsubsecretario-de-hacienda-tras-el-positivo-en-test-de-drogas-me-realizare-nuevos-examenes-para-despejar-cualquier-duda/",
-        "published_date": "2026-07-24 04:17:36",
-        "category": "Energy"
-    },
-    {
-        "title": "Government reports that the departure of the Undersecretary of the Treasury occurs after testing positive for drugs",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/23/gobierno-informa-que-salida-del-subsecretario-de-hacienda-se-da-tras-dar-positivo-en-test-de-drogas/",
-        "published_date": "2026-07-24 02:37:44",
-        "category": "Energy"
-    },
-    {
         "title": "Manouchehri announces the cancellation of La Pampilla and expresses criticism of the Government for the lack of immediate resources for reconstruction in Coquimbo",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/30/alcalde-manouchehri-anuncia-la-cancelacion-de-la-pampilla-2026-y-manifiesta-criticas-al-gobierno-por-la-falta-de-recursos-inmediatos-para-la-reconstruccion-en-coquimbo/",
@@ -238,11 +217,18 @@
         "category": "Economy"
     },
     {
-        "title": "A new loss in the Government: Undersecretary of the Treasury, Juan Pablo Rodr\u00edguez, resigns",
+        "title": "\u201cThis proposal will not go ahead\u201d: FIFA cancels the project that sought the privatization of the World Cups",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/23/una-nueva-baja-en-el-gobierno-renuncia-el-subsecretario-de-hacienda-juan-pablo-rodriguez/",
-        "published_date": "2026-07-24 02:03:02",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/07/31/esta-propuesta-no-seguira-adelante-fifa-da-de-baja-el-proyecto-que-buscaba-la-privatizacion-de-los-mundiales/",
+        "published_date": "2026-08-01 00:59:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conmebol is available to study Infantino's proposal and distances itself from the categorical rejection of UEFA, Concacaf and the AFC",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/07/31/conmebol-se-muestra-disponible-a-estudiar-la-propuesta-de-infantino-y-marca-distancia-con-el-rechazo-categorico-de-la-uefa-la-concacaf-y-la-afc/",
+        "published_date": "2026-08-01 00:06:50",
+        "category": "Local Events"
     },
     {
         "title": "Mallplaza continues to bet on Colombia: it agrees to purchase eight malls for more than US$370 million",
@@ -368,20 +354,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/07/30/revelacion-del-k-pop-xlov-regresa-a-chile-con-show-agendado-en-el-teatro-caupolican/",
         "published_date": "2026-07-30 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Servel is positioned on the world podium of electoral organizations and stands out as the best in Latin America",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/el-servel-se-posiciona-en-el-podio-mundial-de-los-organismos-electorales-y-sobresale-como-el-mejor-de-america-latina/",
-        "published_date": "2026-07-30 02:07:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Council of Presidents must decide whether Vozinha can wear his nickname on the Colo Colo shirt: An\u00edbal Mosa says it would be \u201ca good thing for the country\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/el-consejo-de-presidentes-debe-resolver-si-vozinha-puede-lucir-su-apodo-en-la-camiseta-de-colo-colo-anibal-mosa-dice-que-seria-un-bien-para-el-pais/",
-        "published_date": "2026-07-29 23:17:32",
         "category": "Local Events"
     }
 ]
