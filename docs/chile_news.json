@@ -28,6 +28,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Government evaluates a new constitutional state of exception focused on neighborhoods, under the command of Carabineros and with \u201ccollaboration\u201d of the Armed Forces",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/05/gobierno-evalua-un-nuevo-estado-de-excepcion-constitucional-focalizado-en-barrios-al-mando-de-carabineros-y-con-colaboracion-de-las-fuerzas-armadas/",
+        "published_date": "2026-08-06 02:50:54",
+        "category": "Military"
+    },
+    {
         "title": "Military ritual in the FACh ends with two students expelled for brutal beating: they used torture techniques",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/05/rito-militar-en-la-fach-termina-con-dos-estudiantes-expulsados-por-brutal-golpiza-usaron-tecnicas-de-tortura/",
@@ -168,11 +175,25 @@
         "category": "Economy"
     },
     {
-        "title": "The brands that gave up: when China stops being the gold mine",
+        "title": "Audi A2 e-tron: the old obsession with efficiency returns in the form of an electric crossover",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/marcas-automotrices-que-abandonan-china/",
-        "published_date": "2026-07-29 12:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/06/audi-a2-e-tron-la-vieja-obsesion-por-la-eficiencia-vuelve-en-forma-de-crossover-electrico/",
+        "published_date": "2026-08-06 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kast announces the \u201cAgenda against Organized Crime and Terrorism\u201d: more than 30 bills that it intends to approve before the end of the year",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/05/kast-anuncia-la-agenda-contra-el-crimen-organizado-y-el-terrorismo-mas-de-30-proyectos-de-ley-que-pretende-aprobar-antes-de-fin-de-ano/",
+        "published_date": "2026-08-06 01:17:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carabineros arrested the alleged perpetrator of the murder of a student in San Bernardo: he is the cousin of the driver of the car in the shootout that ended with the death of a 12-year-old boy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/05/carabineros-detuvo-a-presunto-autor-del-homicidio-de-estudiante-en-san-bernardo-es-primo-del-conductor-del-auto-en-la-encerrona-que-termino-con-la-muerte-de-un-nino-de-12-anos/",
+        "published_date": "2026-08-06 00:02:59",
+        "category": "Local Events"
     },
     {
         "title": "Infantino after the frustrated plan to privatize the World Cup: accused of blackmail and not paying millionaire commitments",
@@ -291,27 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/04/mega-refuerza-prime-fin-de-semana-regreso-coliseo-maria-jose-quintanilla/",
         "published_date": "2026-08-04 21:02:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAssistance kiosks\u201d, Huechuraba's particular strategy to combat school absenteeism that includes prizes such as breakfast at La Moneda",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/kioscos-de-asistencia-la-particular-estrategia-de-huechuraba-para-combatir-el-ausentismo-escolar-que-incluye-premios-como-desayunos-en-la-moneda/",
-        "published_date": "2026-08-04 21:00:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dark side of street icons: the cult cars in Chile and the friends that no one wanted to tell",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/autos-de-culto-en-chile-fallas/",
-        "published_date": "2026-08-04 21:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tata and Mahindra beat Tesla and BYD in their own battle: efficiency",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/eficiencia-energetica-de-vehiculos-electricos/",
-        "published_date": "2026-08-04 12:00:00",
         "category": "Local Events"
     }
 ]
