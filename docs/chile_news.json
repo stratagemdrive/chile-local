@@ -49,6 +49,13 @@
         "category": "Military"
     },
     {
+        "title": "The meeting between Squella and Pavez that sought to overcome the attack of the Republican helmsman against the Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/la-reunion-entre-squella-y-pavez-que-busco-dar-por-superada-la-embestida-del-timonel-republicano-contra-el-gobierno/",
+        "published_date": "2026-08-06 22:04:34",
+        "category": "Energy"
+    },
+    {
         "title": "Alleged forged signatures, rejected balance sheets and a former deputy as a complainant: the administrative crisis of the PDG that the party tries to de-dramatize",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/05/presuntas-firmas-falsificadas-balances-rechazados-y-una-exdiputada-como-denunciante-la-crisis-administrativa-del-pdg-que-el-partido-intenta-desdramatizar/",
@@ -119,6 +126,13 @@
         "category": "Energy"
     },
     {
+        "title": "Central Bank report reveals that companies do not plan to hire more workers in the coming months",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/informe-del-banco-central-revela-que-empresas-no-contemplan-contratar-mas-trabajadores-en-los-proximos-meses/",
+        "published_date": "2026-08-06 22:48:51",
+        "category": "Economy"
+    },
+    {
         "title": "Imacec growth in June anticipates positive results for the second semester",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/03/crecimiento-del-imacec-en-junio-anticipa-resultados-positivos-para-el-segundo-semestre/",
@@ -168,11 +182,53 @@
         "category": "Economy"
     },
     {
-        "title": "The purchase of shares that had allowed Michael Clark to become the controller of Azul Azul is reversed",
+        "title": "\u201cDear President\u201d: the letter from \u201cChiqui\u201d Tapia and the AFA in support of Infantino in the midst of the FIFA crisis",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/07/29/se-revierte-la-compra-de-acciones-que-le-habia-permitido-a-michael-clark-convertirse-en-el-controlador-de-azul-azul/",
-        "published_date": "2026-07-30 00:19:30",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/06/querido-presidente-la-carta-de-chiqui-tapia-y-la-afa-en-respaldo-de-infantino-en-medio-de-la-crisis-de-la-fifa/",
+        "published_date": "2026-08-07 00:26:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supreme Court orders Maip\u00fa to remove gates installed by neighbors without authorization that prevented a dialysis patient from getting home",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/corte-suprema-ordena-a-maipu-retirar-portones-instalados-por-vecinos-sin-autorizacion-que-impedian-que-paciente-de-dialisis-llegara-a-su-casa/",
+        "published_date": "2026-08-07 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The demonstration against Latam that promised $10,000 gift cards to attract participants: they ask that the airline use free-range chicken eggs",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/la-manifestacion-contra-latam-que-prometia-gift-cards-de-10-mil-para-atraer-participantes-piden-que-la-aerolinea-use-huevos-de-gallinas-libres/",
+        "published_date": "2026-08-06 23:14:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cInsurmountable differences\u201d: The harsh departure of Carmen Soza from Ideas Republicanas, the think tank of the main party of the Kast Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/diferencias-insalvables-la-dura-salida-de-carmen-soza-de-ideas-republicanas-el-think-tank-del-principal-partido-del-gobierno-de-kast/",
+        "published_date": "2026-08-06 23:14:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey told me that he must attack me to stop him\u201d: The nightmare of a veterinarian from \u00d1u\u00f1oa harassed a year ago by a 60-year-old client",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/me-dijeron-que-debe-agredirme-para-detenerlo-la-pesadilla-de-una-veterinaria-de-nunoa-acosada-hace-un-ano-por-un-cliente-de-60-anos/",
+        "published_date": "2026-08-06 22:48:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "From \u201cThe 80s\u201d to \u201c31 Minutes\u201d as heritage: CNTV and Cineteca Nacional sign agreement to preserve iconic Chilean television productions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/desde-los-80-a-31-minutos-como-patrimonio-cntv-y-cineteca-nacional-firman-acuerdo-para-preservar-iconicas-producciones-de-television-chilena/",
+        "published_date": "2026-08-06 22:11:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the walk next to the GAM will change: the project will move the UC metro fence, add green areas and a cafe along the way",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/06/asi-cambiara-el-paseo-junto-al-gam-proyecto-movera-la-reja-del-metro-uc-sumara-areas-verdes-y-un-cafe-al-paso/",
+        "published_date": "2026-08-06 22:07:19",
+        "category": "Local Events"
     },
     {
         "title": "Audi A2 e-tron: the old obsession with efficiency returns in the form of an electric crossover",
@@ -263,55 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/04/un-oasis-urbano-para-el-picaflor-chico-el-fenomeno-natural-que-cada-invierno-invade-a-la-universidad-de-concepcion/",
         "published_date": "2026-08-05 01:21:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ambush ended with one detainee: group intercepted Gendarmerie bus to try to free prisoners in La Cisterna",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/emboscada-termino-con-un-detenido-grupo-intercepto-bus-de-gendarmeria-para-intentar-liberar-a-reos-en-la-cisterna/",
-        "published_date": "2026-08-05 00:49:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Congress completes processing and submits the megareform to law by approving controversial indication on municipal compensation mechanism",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/congreso-termina-tramitacion-de-megarreforma-al-aprobar-polemica-indicacion-sobre-mecanismo-de-compensacion-municipal/",
-        "published_date": "2026-08-04 23:25:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Financial habits: Older adults prefer personalized attention in branches and low-risk products",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/habitos-financieros-adultos-mayores-prefieren-atencion-personalizada-en-sucursales-y-productos-de-bajo-riesgo/",
-        "published_date": "2026-08-04 22:31:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "August starts with rain, snow and frost: check the weather forecast by region for this week",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/agosto-parte-con-lluvias-nieve-y-heladas-revisa-el-pronostico-del-tiempo-por-region-para-esta-semana/",
-        "published_date": "2026-08-04 22:25:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will broadcast on social networks: Iberia will carry out an exclusive flight to contemplate the total solar eclipse from the air",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/transmitiran-por-redes-sociales-iberia-realizara-vuelo-exclusivo-para-contemplar-el-eclipse-total-de-sol-desde-el-aire/",
-        "published_date": "2026-08-04 21:33:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jobs without experience: these are the vacancies that offer average salaries of $580 thousand per month",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/empleos-sin-experiencia-estas-son-las-vacantes-que-ofrecen-sueldos-promedio-de-580-mil-al-mes/",
-        "published_date": "2026-08-04 21:22:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mega bet on entertainment with the return of Coliseo and Mar\u00eda Jos\u00e9 Quintanilla as the great face of the weekend prime",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/mega-refuerza-prime-fin-de-semana-regreso-coliseo-maria-jose-quintanilla/",
-        "published_date": "2026-08-04 21:02:36",
         "category": "Local Events"
     }
 ]
