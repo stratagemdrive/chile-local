@@ -21,6 +21,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Mon Laferte will receive an important award in the United States for her defense and visibility of human rights: \u201cI feel incredibly honored\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/mon-laferte-recibira-importante-premio-en-estados-unidos-por-su-defensa-y-visibilizacion-de-los-derechos-humanos-me-siento-increiblemente-honrada/",
+        "published_date": "2026-08-09 22:44:06",
+        "category": "Military"
+    },
+    {
         "title": "Jos\u00e9 Antonio Neme was involved in a traffic accident in Las Condes: he was warned and will be summoned by the Prosecutor's Office",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/08/jose-antonio-neme-se-vio-involucrado-en-un-accidente-de-transito-en-las-condes-quedo-apercibido-y-sera-citado-por-la-fiscalia/",
@@ -119,18 +126,11 @@
         "category": "Energy"
     },
     {
-        "title": "Manouchehri after the test with a less demanding standard that the former undersecretary of the Treasury took: \u201cThis exam does not allow us to seriously talk about reintegration\u201d",
+        "title": "Quiroz announces transversal commission to reform the administrative statute: it will be directed by an independent economist and will include technicians from different sectors",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/01/manouchehri-tras-el-test-con-estandar-menos-exigente-que-se-realizo-el-exsubsecretario-de-hacienda-ese-examen-no-permite-hablar-seriamente-de-una-reintegracion/",
-        "published_date": "2026-08-01 18:32:48",
-        "category": "Energy"
-    },
-    {
-        "title": "The true story of addiction and redemption of \u201cPA$$$TA(YO)BA$$$E!!!!\u201d, the applauded revelation work of independent theater",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/01/la-historia-real-de-adiccion-y-redencion-de-patayobae-la-aplaudida-obra-revelacion-del-teatro-independiente/",
-        "published_date": "2026-08-01 12:15:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/08/09/quiroz-anuncia-comision-transversal-para-reformar-el-estatuto-administrativo-estara-dirigida-por-un-economista-independiente-y-contara-con-tecnicos-de-distintos-sectores/",
+        "published_date": "2026-08-09 17:53:16",
+        "category": "Economy"
     },
     {
         "title": "Chery in the US market: the warning that Detroit cannot ignore",
@@ -189,11 +189,60 @@
         "category": "Economy"
     },
     {
-        "title": "The crossed paths of Pedro Pablo Larra\u00edn: from the face of the financial market to one of the main defendants in the Sartor and Azul Azul case",
+        "title": "After statements against Fabiola Campillai in the Senate: RN Valpara\u00edso takes Camila Flores to the party's Supreme Court",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/01/los-caminos-cruzados-de-pedro-pablo-larrain-de-rostro-del-mercado-financiero-a-uno-de-los-principales-imputados-por-caso-sartor-y-arista-azul-azul/",
-        "published_date": "2026-08-01 12:08:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/09/tras-dichos-contra-fabiola-campillai-en-el-senado-rn-valparaiso-lleva-a-camila-flores-al-tribunal-supremo-del-partido/",
+        "published_date": "2026-08-09 19:51:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cHe manages to repel the robbery by using his service weapon\u201d: what is known about the attempted assault on former Minister Cordero's bodyguard",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/logra-repeler-el-robo-mediante-el-uso-de-su-arma-de-servicio-lo-que-se-sabe-del-intento-de-asalto-al-escolta-del-exministro-cordero/",
+        "published_date": "2026-08-09 15:58:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deployment in regions and programmatic meetings with militancy: Gael Yeomans' strategy to achieve the presidency of the Frente Amplio",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/despliegue-en-regiones-y-encuentros-programaticos-con-la-militancia-la-estrategia-de-gael-yeomans-para-alcanzar-la-presidencia-del-frente-amplio/",
+        "published_date": "2026-08-09 14:29:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The long road of the young man from Conchal\u00ed who started selling t-shirts in the Metro and who opened a clothing store in Parque Arauco with WhatUp",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/el-largo-camino-del-joven-de-conchali-que-partio-vendiendo-poleras-en-el-metro-y-que-abrio-una-tienda-de-ropa-en-el-parque-arauco-con-whatup/",
+        "published_date": "2026-08-09 13:07:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 55 years of El Cumbi\u00f3n: the story of the airport official who left everything to make his cognac chicken famous in Lo Prado",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/los-55-anos-de-el-cumbion-la-historia-del-funcionario-de-aeropuerto-que-dejo-todo-para-hacer-famoso-su-pollo-al-conac-en-lo-prado/",
+        "published_date": "2026-08-09 12:27:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Kike Mujica: Squella's honeymoon",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/columna-de-kike-mujica-la-luna-de-miel-de-squella/",
+        "published_date": "2026-08-09 12:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Luis Cordero, former Minister of Security: The risk of starting again",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/columna-de-luis-cordero-exministro-de-seguridad-el-riesgo-de-comenzar-de-nuevo/",
+        "published_date": "2026-08-09 12:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Gatica: \u201cI still have the feeling that my country denied me justice\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/09/gustavo-gatica-sigo-con-la-sensacion-de-que-mi-pais-me-nego-la-justicia/",
+        "published_date": "2026-08-09 12:01:00",
+        "category": "Local Events"
     },
     {
         "title": "The tragedy that mourns Deportes Temuco: crash between a bus transporting youth players and a van ends with the death of a former club player and his wife",
@@ -277,62 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/07/la-trama-azul-azul-el-rol-de-kiblisky-segun-clark-el-posible-conflicto-de-interes-del-liquidador-y-el-proceso-que-definira-el-destino-del-63-de-las-acciones/",
         "published_date": "2026-08-07 21:34:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Child restraint systems in Chile: the gap between the law and real safety on the streets",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/07/sistemas-de-retencion-infantil-en-chile-seguridad/",
-        "published_date": "2026-08-07 21:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lawyer manages to stop administrative collection of CAE by the Treasury: \u201cIt is an important precedent for people who find themselves in the same situation\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/07/abogada-logra-frenar-cobro-administrativo-del-cae-por-parte-de-tesoreria-es-un-precedente-importante-para-la-gente-que-se-encuentra-en-la-misma-situacion/",
-        "published_date": "2026-08-07 21:25:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Holidays 2026: they present a project that seeks to declare a holiday on September 17",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/06/fiestas-patrias-2026-presentan-proyecto-que-busca-declarar-feriado-el-proximo-17-de-septiembre/",
-        "published_date": "2026-08-07 02:14:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cDear President\u201d: the letter from \u201cChiqui\u201d Tapia and the AFA in support of Infantino in the midst of the FIFA crisis",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/06/querido-presidente-la-carta-de-chiqui-tapia-y-la-afa-en-respaldo-de-infantino-en-medio-de-la-crisis-de-la-fifa/",
-        "published_date": "2026-08-07 00:26:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court orders Maip\u00fa to remove gates installed by neighbors without authorization that prevented a dialysis patient from getting home",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/06/corte-suprema-ordena-a-maipu-retirar-portones-instalados-por-vecinos-sin-autorizacion-que-impedian-que-paciente-de-dialisis-llegara-a-su-casa/",
-        "published_date": "2026-08-07 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The demonstration against Latam that promised $10,000 gift cards to attract participants: they ask that the airline use free-range chicken eggs",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/06/la-manifestacion-contra-latam-que-prometia-gift-cards-de-10-mil-para-atraer-participantes-piden-que-la-aerolinea-use-huevos-de-gallinas-libres/",
-        "published_date": "2026-08-06 23:14:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cInsurmountable differences\u201d: The harsh departure of Carmen Soza from Ideas Republicanas, the think tank of the main party of the Kast Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/06/diferencias-insalvables-la-dura-salida-de-carmen-soza-de-ideas-republicanas-el-think-tank-del-principal-partido-del-gobierno-de-kast/",
-        "published_date": "2026-08-06 23:14:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey told me that he must attack me to stop him\u201d: The nightmare of a veterinarian from \u00d1u\u00f1oa harassed a year ago by a 60-year-old client",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/06/me-dijeron-que-debe-agredirme-para-detenerlo-la-pesadilla-de-una-veterinaria-de-nunoa-acosada-hace-un-ano-por-un-cliente-de-60-anos/",
-        "published_date": "2026-08-06 22:48:14",
         "category": "Local Events"
     }
 ]
