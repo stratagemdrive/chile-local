@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Foreign Ministry's turn towards career ambassadors after criticism of Kast for privileging political appointments",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/el-giro-de-cancilleria-hacia-los-embajadores-de-carrera-tras-las-criticas-a-kast-por-privilegiar-nombramientos-politicos/",
+        "published_date": "2026-08-11 20:36:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Appointment with Agust\u00edn Laje, pastors and congressmen: the agenda for the \u201ccultural battle\u201d of deputy Lorca in the middle of Kast's tour in Colombia",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/07/cita-con-agustin-laje-pastores-y-congresistas-la-agenda-por-la-batalla-cultural-del-diputado-lorca-en-medio-de-la-gira-de-kast-en-colombia/",
@@ -12,6 +19,13 @@
         "url": "https://www.theclinic.cl/2026/08/05/es-una-torpeza-excancilleres-cuestionan-decision-de-cancilleria-de-abandonar-el-movimiento-de-paises-no-alineados/",
         "published_date": "2026-08-05 21:40:53",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Sartor Case: Defense of Sergio Y\u00e1\u00f1ez accuses \u201ca true pilgrimage to the Public Ministry by various co-defendants\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/caso-sartor-defensa-de-sergio-yanez-acusa-una-verdadera-peregrinacion-al-ministerio-publico-por-parte-de-diversos-coimputados/",
+        "published_date": "2026-08-11 22:35:14",
+        "category": "Military"
     },
     {
         "title": "Biblical-style Michael Clark, defense denied any link with the Sartor group three times: \u201cI have never acted with the purpose of defrauding anyone\u201d",
@@ -182,18 +196,60 @@
         "category": "Economy"
     },
     {
-        "title": "Imacec growth in June anticipates positive results for the second semester",
+        "title": "Carlos Pe\u00f1a is renewed as rector of the Diego Portales University by the Board of Directors",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/03/crecimiento-del-imacec-en-junio-anticipa-resultados-positivos-para-el-segundo-semestre/",
-        "published_date": "2026-08-03 22:47:03",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/11/carlos-pena-es-renovado-como-rector-de-la-universidad-diego-portales-por-el-consejo-directivo/",
+        "published_date": "2026-08-11 23:27:08",
+        "category": "Local Events"
     },
     {
-        "title": "Nicol\u00e1s Grau reappears as director of Rumbo Colectivo after a failed constitutional accusation against him with criticism of the mega-reform",
+        "title": "Supreme Court supports the CMF in two new rulings for actions in the Sartor case",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/03/nicolas-grau-vuelve-al-debate-publico-como-director-de-rumbo-colectivo-y-critica-la-megarreforma-tributaria-del-gobierno/",
-        "published_date": "2026-08-03 13:25:02",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/11/suprema-respalda-a-la-cmf-en-dos-nuevos-fallos-por-actuaciones-en-el-caso-sartor/",
+        "published_date": "2026-08-11 23:12:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leaks, sewage and ICU closed for months: the relentless crisis that hits the San Borja Arriar\u00e1n Hospital",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/filtraciones-aguas-servidas-y-uci-cerradas-por-meses-la-crisis-sin-tregua-que-golpea-al-hospital-san-borja-arriaran/",
+        "published_date": "2026-08-11 22:56:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than a working day: Chilean teenagers spend 45 hours a week on social networks and lead the OECD ranking",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/mas-que-una-jornada-laboral-adolescentes-chilenos-pasan-45-horas-semanales-en-redes-sociales-y-lideran-ranking-ocde/",
+        "published_date": "2026-08-11 22:50:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chilevisi\u00f3n's keys to facing \u201cVolver\u00edas con tu Ex\u201d with \u201cFiebre de Canto\u201d: \u201cGoing live is a fundamental attribute to be competitive\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/las-claves-de-chilevision-para-hacerle-frente-a-volverias-con-tu-ex-con-fiebre-de-canto-el-ir-en-vivo-es-un-atributo-fundamental-para-ser-competitivos/",
+        "published_date": "2026-08-11 22:48:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "At $1,000 million: Salvador Allende's house is sold to a company after the end of the investigation into a failed sale in the Boric government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/en-1-mil-millones-casa-de-salvador-allende-es-vendida-a-empresa-tras-fin-de-investigacion-por-fallida-compraventa-en-el-gobierno-de-boric/",
+        "published_date": "2026-08-11 22:26:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The crisis of the German automotive industry: when survival is the goal",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/crisis-industria-automotriz-alemana/",
+        "published_date": "2026-08-11 21:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The expansion of Jara's academic facet: former candidate arrives at UTEM as a teacher in Public Administration",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/la-expansion-de-la-faceta-academica-de-jara-excandidata-llega-a-la-utem-como-docente-en-administracion-publica/",
+        "published_date": "2026-08-11 21:04:18",
+        "category": "Local Events"
     },
     {
         "title": "47 victims and 66 crimes: The conviction that leaves the \u201cFacebook Psychopath\u201d behind bars",
@@ -277,62 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/09/despliegue-en-regiones-y-encuentros-programaticos-con-la-militancia-la-estrategia-de-gael-yeomans-para-alcanzar-la-presidencia-del-frente-amplio/",
         "published_date": "2026-08-09 14:29:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The long road of the young man from Conchal\u00ed who started selling t-shirts in the Metro and who opened a clothing store in Parque Arauco with WhatUp",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/el-largo-camino-del-joven-de-conchali-que-partio-vendiendo-poleras-en-el-metro-y-que-abrio-una-tienda-de-ropa-en-el-parque-arauco-con-whatup/",
-        "published_date": "2026-08-09 13:07:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 55 years of El Cumbi\u00f3n: the story of the airport official who left everything to make his cognac chicken famous in Lo Prado",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/los-55-anos-de-el-cumbion-la-historia-del-funcionario-de-aeropuerto-que-dejo-todo-para-hacer-famoso-su-pollo-al-conac-en-lo-prado/",
-        "published_date": "2026-08-09 12:27:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Kike Mujica: Squella's honeymoon",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/columna-de-kike-mujica-la-luna-de-miel-de-squella/",
-        "published_date": "2026-08-09 12:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Luis Cordero, former Minister of Security: The risk of starting again",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/columna-de-luis-cordero-exministro-de-seguridad-el-riesgo-de-comenzar-de-nuevo/",
-        "published_date": "2026-08-09 12:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gustavo Gatica: \u201cI still have the feeling that my country denied me justice\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/gustavo-gatica-sigo-con-la-sensacion-de-que-mi-pais-me-nego-la-justicia/",
-        "published_date": "2026-08-09 12:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The tragedy that mourns Deportes Temuco: crash between a bus transporting youth players and a van ends with the death of a former club player and his wife",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/08/la-tragedia-que-enluta-a-deportes-temuco-choque-entre-un-bus-que-trasladaba-a-juveniles-y-un-furgon-termina-con-la-muerte-de-un-exjugador-del-club-y-su-esposa/",
-        "published_date": "2026-08-08 19:55:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lincolao and the changes to Becas Chile: \u201cGuiding investment towards the needs of a country is part of a responsible scientific policy\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/08/lincolao-y-los-cambios-a-becas-chile-orientar-la-inversion-hacia-las-necesidades-de-un-pais-forma-parte-de-una-politica-cientifica-responsable/",
-        "published_date": "2026-08-08 18:39:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "From a worker to a representative of the best footballer of all time: the story of the late Jorge Messi",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/08/de-obrero-a-representante-del-mejor-futbolista-de-todos-los-tiempos-la-historia-del-fallecido-jorge-messi/",
-        "published_date": "2026-08-08 16:34:16",
         "category": "Local Events"
     }
 ]
