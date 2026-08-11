@@ -147,13 +147,6 @@
         "category": "Energy"
     },
     {
-        "title": "How inflation is changing the habits of Chileans: Almost 90% tried to reduce food waste during the last year",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/02/como-la-inflacion-esta-cambiando-los-habitos-de-los-chilenos-casi-un-90-intento-reducir-desperdicios-de-alimentos-durante-el-ultimo-ano/",
-        "published_date": "2026-08-03 00:05:20",
-        "category": "Energy"
-    },
-    {
         "title": "Quiroz announces transversal commission to reform the administrative statute: it will be directed by an independent economist and will include technicians from different sectors",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/09/quiroz-anuncia-comision-transversal-para-reformar-el-estatuto-administrativo-estara-dirigida-por-un-economista-independiente-y-contara-con-tecnicos-de-distintos-sectores/",
@@ -201,6 +194,34 @@
         "url": "https://www.theclinic.cl/2026/08/03/nicolas-grau-vuelve-al-debate-publico-como-director-de-rumbo-colectivo-y-critica-la-megarreforma-tributaria-del-gobierno/",
         "published_date": "2026-08-03 13:25:02",
         "category": "Economy"
+    },
+    {
+        "title": "47 victims and 66 crimes: The conviction that leaves the \u201cFacebook Psychopath\u201d behind bars",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/10/47-victimas-y-66-delitos-la-condena-que-deja-tras-las-rejas-al-psicopata-de-facebook/",
+        "published_date": "2026-08-11 01:23:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe must sustain and deepen existing policies\u201d: study projects that Chile could eliminate cervical cancer before 2040",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/10/debemos-sostener-y-profundizar-las-politicas-existentes-estudio-proyecta-que-chile-podria-eliminar-el-cancer-cervicouterino-antes-de-2040/",
+        "published_date": "2026-08-11 00:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Procedure passed to the Senate: Chamber of Deputies approved presidential vetoes of the mega-reform project",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/10/tramite-paso-al-senado-camara-de-diputados-aprobo-vetos-presidenciales-a-proyecto-de-megarreforma/",
+        "published_date": "2026-08-11 00:07:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The details of the colloquium in which the Chilean PC participates in Cuba for the 100 years of the birth of Fidel Castro and Carmona's intense agenda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/10/los-detalles-del-coloquio-del-que-participa-el-pc-chileno-en-cuba-por-los-100-anos-del-natalicio-de-fidel-castro-y-la-intensa-agenda-de-carmona/",
+        "published_date": "2026-08-10 23:35:49",
+        "category": "Local Events"
     },
     {
         "title": "GWM ORA 5: the second electric of the Chinese brand that aspires to climb positions in Chile",
@@ -312,34 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/08/de-obrero-a-representante-del-mejor-futbolista-de-todos-los-tiempos-la-historia-del-fallecido-jorge-messi/",
         "published_date": "2026-08-08 16:34:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power Newsletter: The vibrant government of President Kast",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/08/newsletter-poder-el-vibrante-gobierno-del-presidente-kast/",
-        "published_date": "2026-08-08 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Museum of former presidents: the initiative promoted by the Pi\u00f1era family that already has the support of those close to Aylwin, Frei, Lagos, Bachelet and Boric",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/08/museo-de-los-expresidentes-la-iniciativa-que-se-impulsa-desde-la-familia-pinera-que-ya-cuenta-con-el-apoyo-de-los-cercanos-a-aylwin-frei-lagos-bachelet-y-boric/",
-        "published_date": "2026-08-08 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The arguments that would lead the MTT to reject the project that seeks to reactivate the railway connection between Chile and Argentina",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/07/los-argumentos-que-llevarian-al-mtt-a-desestimar-el-proyecto-que-busca-reactivar-la-conexion-ferroviaria-entre-chile-y-argentina/",
-        "published_date": "2026-08-08 02:15:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trails, viewpoints and accessibility: the million-dollar plan that seeks to transform the Vicente P\u00e9rez Rosales Park",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/07/senderos-miradores-y-accesibilidad-el-millonario-plan-con-que-se-busca-transformar-el-parque-vicente-perez-rosales/",
-        "published_date": "2026-08-08 01:35:00",
         "category": "Local Events"
     }
 ]
