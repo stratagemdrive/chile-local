@@ -161,6 +161,13 @@
         "category": "Energy"
     },
     {
+        "title": "Economists project a better 2027 with 2.8% growth, but cut expected investment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/economistas-proyectan-un-mejor-2027-con-un-crecimiento-de-28-pero-recortan-la-inversion-esperada/",
+        "published_date": "2026-08-12 01:00:00",
+        "category": "Economy"
+    },
+    {
         "title": "Quiroz announces transversal commission to reform the administrative statute: it will be directed by an independent economist and will include technicians from different sectors",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/09/quiroz-anuncia-comision-transversal-para-reformar-el-estatuto-administrativo-estara-dirigida-por-un-economista-independiente-y-contara-con-tecnicos-de-distintos-sectores/",
@@ -194,6 +201,34 @@
         "url": "https://www.theclinic.cl/2026/08/06/informe-del-banco-central-revela-que-empresas-no-contemplan-contratar-mas-trabajadores-en-los-proximos-meses/",
         "published_date": "2026-08-06 22:48:51",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cWe hope to be able to meet again\u201d: Yein Fonda announces the cancellation of its 2026 edition",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/esperamos-poder-reencontrarnos-yein-fonda-anuncia-la-cancelacion-de-su-edicion-2026/",
+        "published_date": "2026-08-12 01:34:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Boric declassifies the triumvirate with Vallejo and Toh\u00e1 during his government and assumes harsh self-criticism: \u201cWe were not credible\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/boric-desclasifica-el-triunvirato-con-vallejo-y-toha-durante-su-gobierno-y-asume-dura-autocritica-no-fuimos-creibles/",
+        "published_date": "2026-08-12 01:32:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spending August beyond popular belief: the medical explanation of why it is a critical month for health",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/pasar-agosto-mas-alla-de-la-creencia-popular-la-explicacion-medica-de-por-que-es-un-mes-critico-para-la-salud/",
+        "published_date": "2026-08-12 01:12:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "From your food containers to your stomach: the simple habits that will save you from eating microplastics",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/11/desde-tus-recipientes-de-comida-hacia-tu-estomago-los-simples-habitos-que-te-salvaran-de-comer-microplasticos/",
+        "published_date": "2026-08-12 00:48:00",
+        "category": "Local Events"
     },
     {
         "title": "Carlos Pe\u00f1a is renewed as rector of the Diego Portales University by the Board of Directors",
@@ -305,34 +340,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/10/el-comunicado-de-yonggun-huang-presidente-de-australis-de-cara-a-la-audiencia-que-definira-el-futuro-de-la-investigacion-el-proximo-14-de-agosto/",
         "published_date": "2026-08-10 21:36:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The historic Chilean company that went bankrupt after 118 years and will now auction off more than 70 thousand products to pay debts",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/10/la-historica-empresa-chilena-que-quebro-despues-de-118-anos-y-ahora-rematara-mas-de-70-mil-productos/",
-        "published_date": "2026-08-10 20:52:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "After statements against Fabiola Campillai in the Senate: RN Valpara\u00edso takes Camila Flores to the party's Supreme Court",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/tras-dichos-contra-fabiola-campillai-en-el-senado-rn-valparaiso-lleva-a-camila-flores-al-tribunal-supremo-del-partido/",
-        "published_date": "2026-08-09 19:51:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cHe manages to repel the robbery by using his service weapon\u201d: what is known about the attempted assault on former Minister Cordero's bodyguard",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/logra-repeler-el-robo-mediante-el-uso-de-su-arma-de-servicio-lo-que-se-sabe-del-intento-de-asalto-al-escolta-del-exministro-cordero/",
-        "published_date": "2026-08-09 15:58:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deployment in regions and programmatic meetings with militancy: Gael Yeomans' strategy to achieve the presidency of the Frente Amplio",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/09/despliegue-en-regiones-y-encuentros-programaticos-con-la-militancia-la-estrategia-de-gael-yeomans-para-alcanzar-la-presidencia-del-frente-amplio/",
-        "published_date": "2026-08-09 14:29:37",
         "category": "Local Events"
     }
 ]
