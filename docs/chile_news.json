@@ -140,13 +140,6 @@
         "category": "Energy"
     },
     {
-        "title": "AI and decentralization: Talent and technology summit expands to regions for the first time",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/04/ia-y-descentralizacion-cumbre-sobre-talento-y-tecnologia-se-expande-a-regiones-por-primera-vez/",
-        "published_date": "2026-08-05 00:00:00",
-        "category": "Energy"
-    },
-    {
         "title": "General Manager of the Association of Mutual Funds regarding capital market reform: \u201cWe see a tremendous opportunity for Voluntary Pension Savings\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/12/gerenta-general-de-asociacion-de-fondos-mutuos-ante-reforma-al-mercado-de-capitales-vemos-una-tremenda-oportunidad-para-el-ahorro-previsional-voluntario/",
@@ -194,6 +187,20 @@
         "url": "https://www.theclinic.cl/2026/08/06/informe-del-banco-central-revela-que-empresas-no-contemplan-contratar-mas-trabajadores-en-los-proximos-meses/",
         "published_date": "2026-08-06 22:48:51",
         "category": "Economy"
+    },
+    {
+        "title": "The mind behind the wheel: what dirty cars mean according to psychology",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/13/la-mente-al-volante-que-significan-los-autos-sucios-segun-la-psicologia/",
+        "published_date": "2026-08-13 11:41:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beyond the extreme cold: the pioneering measurement that records how the night weather behaves in the Altiplano",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/12/mas-alla-del-frio-extremo-la-medicion-pionera-que-registra-como-se-comporta-el-clima-nocturno-en-el-altiplano/",
+        "published_date": "2026-08-13 00:56:00",
+        "category": "Local Events"
     },
     {
         "title": "\u201cSomeone forgot to pick up the phone and notify us\u201d: the explanation of bi-minister Alvarado in the face of lack of coordination as requested by the TC",
@@ -319,20 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/11/las-claves-de-chilevision-para-hacerle-frente-a-volverias-con-tu-ex-con-fiebre-de-canto-el-ir-en-vivo-es-un-atributo-fundamental-para-ser-competitivos/",
         "published_date": "2026-08-11 22:48:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "At $1,000 million: Salvador Allende's house is sold to a company after the end of the investigation into a failed sale in the Boric government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/11/en-1-mil-millones-casa-de-salvador-allende-es-vendida-a-empresa-tras-fin-de-investigacion-por-fallida-compraventa-en-el-gobierno-de-boric/",
-        "published_date": "2026-08-11 22:26:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The crisis of the German automotive industry: when survival is the goal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/11/crisis-industria-automotriz-alemana/",
-        "published_date": "2026-08-11 21:30:00",
         "category": "Local Events"
     }
 ]
