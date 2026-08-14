@@ -56,13 +56,6 @@
         "category": "Military"
     },
     {
-        "title": "Government evaluates a new constitutional state of exception focused on neighborhoods, under the command of Carabineros and with \u201ccollaboration\u201d of the Armed Forces",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/05/gobierno-evalua-un-nuevo-estado-de-excepcion-constitucional-focalizado-en-barrios-al-mando-de-carabineros-y-con-colaboracion-de-las-fuerzas-armadas/",
-        "published_date": "2026-08-06 02:50:54",
-        "category": "Military"
-    },
-    {
         "title": "Green light for the lithium megaproject: FNE approves the alliance between Codelco and Rio Tinto in the Maricunga Salt Flats",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/10/luz-verde-al-megaproyecto-del-litio-fne-aprueba-la-alianza-entre-codelco-y-rio-tinto-en-el-salar-de-maricunga/",
@@ -166,6 +159,20 @@
         "url": "https://www.theclinic.cl/2026/08/06/informe-del-banco-central-revela-que-empresas-no-contemplan-contratar-mas-trabajadores-en-los-proximos-meses/",
         "published_date": "2026-08-06 22:48:51",
         "category": "Economy"
+    },
+    {
+        "title": "TC partially accepts the left's requests for the mega-reform and deals a new setback to the Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/13/tc-recoge-parcialmenre-requerimientos-de-la-izquierda-en-la-megarreforma-y-propina-nuevo-reves-al-gobierno/",
+        "published_date": "2026-08-14 02:54:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Khristian Briones, the ex-convict who founded a company to reintegrate ex-convicts: \u201cReintegration is not just about giving a job\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/13/khristian-briones-el-expresidiario-que-fundo-una-empresa-para-reinsertar-a-exconvictos-la-reinsercion-no-es-solamente-dar-un-trabajo/",
+        "published_date": "2026-08-14 01:00:00",
+        "category": "Local Events"
     },
     {
         "title": "\u201cLife expectancy is over 80 years but there is a ten year difference between Vitacura and La Pintana\u201d: Father Pepe on death and poverty",
@@ -291,20 +298,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/12/de-sede-vecinal-a-templo-del-indie-chileno-la-historia-del-centro-cultural-rojas-magallanes-y-como-se-transformo-en-un-trampolin-de-bandas/",
         "published_date": "2026-08-12 22:03:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI want them to leave!\u201d: Video of Mayor Sichel provokes a wave of reactions on social networks",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/12/quiero-que-se-vayan-video-de-alcalde-sichel-causa-ola-de-reacciones-en-redes-sociales/",
-        "published_date": "2026-08-12 22:02:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Koenigsegg: 32 years turning the impossible into cars",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/12/aniversario-koenigsegg-32-anos/",
-        "published_date": "2026-08-12 22:00:00",
         "category": "Local Events"
     }
 ]
