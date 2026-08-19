@@ -7,13 +7,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Foreign Ministry's turn towards career ambassadors after criticism of Kast for privileging political appointments",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/11/el-giro-de-cancilleria-hacia-los-embajadores-de-carrera-tras-las-criticas-a-kast-por-privilegiar-nombramientos-politicos/",
-        "published_date": "2026-08-11 20:36:20",
-        "category": "Diplomacy"
-    },
-    {
         "title": "\u201cChino\u201d R\u00edos responds for the first time for millionaire debt in an exclusive condominium in Lo Barnechea: he points to the tenant and assures that he found out from the press",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/17/chino-rios-responde-por-primera-vez-por-millonaria-deuda-en-exclusivo-condominio-de-lo-barnechea-apunta-al-arrendatario-y-asegura-que-se-entero-por-la-prensa/",
@@ -35,11 +28,18 @@
         "category": "Military"
     },
     {
-        "title": "Sartor Case: Defense of Sergio Y\u00e1\u00f1ez accuses \u201ca true pilgrimage to the Public Ministry by various co-defendants\u201d",
+        "title": "Within the framework of its \u201cFirst Response\u201d Program: Entel announces measures and enables satellite SMS in response to the rain emergency in the northern area",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/11/caso-sartor-defensa-de-sergio-yanez-acusa-una-verdadera-peregrinacion-al-ministerio-publico-por-parte-de-diversos-coimputados/",
-        "published_date": "2026-08-11 22:35:14",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/08/19/entel-medidas-emergencia-aluviones-norte/",
+        "published_date": "2026-08-19 23:06:06",
+        "category": "Energy"
+    },
+    {
+        "title": "Fuel prices rise again: Enap reports an increase in gasoline and diesel from this Wednesday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/precio-de-los-combustibles-vuelve-a-subir-enap-informa-alza-en-gasolinas-y-diesel-desde-este-miercoles/",
+        "published_date": "2026-08-19 22:08:17",
+        "category": "Energy"
     },
     {
         "title": "TC declares the Government's requirement admissible against the mega-reform norm that requires free reconnection of basic services in emergencies",
@@ -75,6 +75,13 @@
         "url": "https://www.theclinic.cl/2026/08/15/investigacion-chilena-creo-extracto-de-algas-para-reducir-el-impacto-del-azucar-en-las-pastas/",
         "published_date": "2026-08-15 20:06:00",
         "category": "Energy"
+    },
+    {
+        "title": "In the new supermarket battle with more price-sensitive customers, Tottus has the advantage",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/en-la-nueva-batalla-de-los-supermercados-con-clientes-mas-sensibles-al-precio-tottus-corre-con-ventaja/",
+        "published_date": "2026-08-19 22:55:00",
+        "category": "Economy"
     },
     {
         "title": "BancoEstado, CuentaRUT and CajaVecina are consolidated as leading brands due to their innovation and relevance",
@@ -124,6 +131,55 @@
         "url": "https://www.theclinic.cl/2026/08/11/economistas-proyectan-un-mejor-2027-con-un-crecimiento-de-28-pero-recortan-la-inversion-esperada/",
         "published_date": "2026-08-12 01:00:00",
         "category": "Economy"
+    },
+    {
+        "title": "Supercl\u00e1sico will be played without Colo Colo fans: Delegation maintains that the decision seeks to guarantee \u201cthe safety of attendees and neighbors\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/superclasico-se-jugara-sin-hinchas-de-colo-colo-delegacion-sostiene-que-la-decision-busca-garantizar-la-seguridad-de-asistentes-y-vecinos/",
+        "published_date": "2026-08-19 22:53:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three businessmen from BordeR\u00edo: who make up the \u201cdome\u201d behind the alleged cannabis trafficking network led by the National Dispensary",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/tres-empresarios-de-borderio-quienes-conforman-la-cupula-tras-la-supuesta-red-de-trafico-de-cannabis-liderada-por-el-dispensario-nacional/",
+        "published_date": "2026-08-19 22:43:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt is surprising that this resolution was issued without WOM being heard\u201d: Company responds to Subtel after questions about the Fiber Optic project",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/sorprende-que-esta-resolucion-se-haya-dictado-sin-que-fuera-oido-wom-empresa-responde-a-subtel-tras-exposicion-en-comision-del-senado-por-proyecto-de-fibra-optica/",
+        "published_date": "2026-08-19 22:33:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Left conclave in Montevideo: the large Chilean delegation that will coincide with Boric at the Pan American Congress",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/conclave-de-izquierda-en-montevideo-la-amplia-comitiva-chilena-que-coincidira-con-boric-en-el-congreso-panamericano/",
+        "published_date": "2026-08-19 22:31:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new sports space for 2,600 Puente Alto schoolchildren: they recover four fields for students who waited years for financing",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/el-nuevo-espacio-deportivo-para-2-600-escolares-de-puente-alto-recuperan-cuatro-canchas-para-estudiantes-que-esperaron-anos-por-financiamiento/",
+        "published_date": "2026-08-19 22:29:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Starlink in the Cybercab: Tesla's commitment to a robotaxi that never loses the signal",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/starlink-en-el-cybercab/",
+        "published_date": "2026-08-19 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camera trap captures two puma cubs playing in Chilean Patagonia",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/19/camara-trampa-capta-a-dos-cachorros-de-puma-jugando-en-la-patagonia-chilena/",
+        "published_date": "2026-08-19 21:57:32",
+        "category": "Local Events"
     },
     {
         "title": "The sad end of UC's international dream: it was overwhelmed at home by Estudiantes and says goodbye to the Copa Libertadores",
@@ -214,55 +270,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/17/elegir-seguro-chile/",
         "published_date": "2026-08-18 03:05:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cShe made a mistake, she recognizes it\u201d \u2013 Fernando Solabarrieta's first statement about the arrest of his wife, Ivette Vergara",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/ella-cometio-un-error-lo-reconoce-la-primera-declaracion-de-fernando-solabarrieta-sobre-la-detencion-de-su-esposa-ivette-vergara/",
-        "published_date": "2026-08-18 01:58:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "100% of the profits will go to the Telethon: the story behind the clothing line adapted for children and young people with disabilities",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/el-100-de-las-ganancias-iran-a-la-teleton-la-historia-tras-la-linea-de-ropa-adaptada-para-ninos-y-jovenes-con-discapacidad/",
-        "published_date": "2026-08-18 00:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government introduced constitutional security reform: creates a State of Exception for Organized Crime and perpetual disqualification of criminals",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/gobierno-ingreso-reforma-constitucional-de-seguridad-crea-estado-de-excepcion-por-crimen-organizado-e-inhabilitacion-perpetua-a-delincuentes/",
-        "published_date": "2026-08-17 23:34:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "What would it be like to talk to Vicente Huidobro?An exhibition makes it possible with AI",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/como-seria-conversar-con-vicente-huidobro-una-exposicion-lo-hace-posible-con-ia/",
-        "published_date": "2026-08-17 22:47:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "After official disorder: Democratic Socialism seeks to build bridges with Chile Vamos and Democrats to prevent advancement of constitutional reforms in security",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/tras-desorden-oficialista-socialismo-democratico-busca-tender-puentes-con-chile-vamos-y-democratas-para-evitar-avance-de-reformas-constitucionales-en-seguridad/",
-        "published_date": "2026-08-17 22:06:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Airbnb to Booking: short rentals are no longer only linked to tourism and are consolidating in Chile as an alternative to live",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/de-airbnb-a-booking-la-renta-corta-ya-no-solo-esta-ligada-al-turismo-y-se-consolida-en-chile-como-alternativa-para-vivir/",
-        "published_date": "2026-08-17 22:02:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "She was homeless in the center of Santiago: they find alive a former councilor of Graneros who disappeared more than ten days ago",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/estaba-en-situacion-de-calle-en-el-centro-de-santiago-encuentran-con-vida-a-exconcejala-de-graneros-desaparecida-hace-mas-de-diez-dias/",
-        "published_date": "2026-08-17 21:20:36",
         "category": "Local Events"
     }
 ]
