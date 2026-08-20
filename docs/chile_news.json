@@ -1,5 +1,12 @@
 [
     {
+        "title": "Column of Pablo Paredes / Address: La Moneda.Political domicile: the extreme right",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/columna-de-pablo-paredes-domicilio-la-moneda-domicilio-politico-la-ultraderecha/",
+        "published_date": "2026-08-20 21:49:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The million-dollar lawsuit by former ambassador Pakarati against the Foreign Ministry: she accuses discrimination, asks to return to her position and make public apologies",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/18/la-millonaria-demanda-de-la-exembajadora-pakarati-contra-cancilleria-acusa-discriminacion-pide-volver-a-su-cargo-y-disculpas-publicas/",
@@ -26,6 +33,13 @@
         "url": "https://www.theclinic.cl/2026/08/14/carabineros-detiene-en-quinta-normal-a-motosierra-nacomilitar-colombiano-requerido-por-interpol/",
         "published_date": "2026-08-15 02:54:31",
         "category": "Military"
+    },
+    {
+        "title": "Greater sales of electric vehicles caused gasoline savings equivalent to $14.8 billion between 2023 and 2025",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/mayor-venta-de-vehiculos-electricos-provoco-un-ahorro-de-gasolina-equivalente-a-14-800-millones-entre-2023-y-2025/",
+        "published_date": "2026-08-20 22:26:27",
+        "category": "Energy"
     },
     {
         "title": "Within the framework of its \u201cFirst Response\u201d Program: Entel announces measures and enables satellite SMS in response to the rain emergency in the northern area",
@@ -119,11 +133,60 @@
         "category": "Economy"
     },
     {
-        "title": "General Manager of the Association of Mutual Funds regarding capital market reform: \u201cWe see a tremendous opportunity for Voluntary Pension Savings\u201d",
+        "title": "The unusual departure of the director of Polla Chilena: he missed three meetings in a row without making excuses and was fired",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/12/gerenta-general-de-asociacion-de-fondos-mutuos-ante-reforma-al-mercado-de-capitales-vemos-una-tremenda-oportunidad-para-el-ahorro-previsional-voluntario/",
-        "published_date": "2026-08-12 22:30:26",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/20/la-insolita-salida-de-director-de-polla-chilena-falto-a-tres-reuniones-seguidas-sin-presentar-excusas-y-fue-despedido/",
+        "published_date": "2026-08-20 22:43:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cFla**tes are not accepted\u201d: The controversial party in Las Condes and its strict dress code that generates criticism on social networks",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/no-se-aceptan-flates-la-polemica-fiesta-en-las-condes-y-su-estricto-codigo-de-vestimenta-que-genera-criticas-en-redes-sociales/",
+        "published_date": "2026-08-20 22:35:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The activation of Boric and his former ministers against Kast's constitutional reform and the new attempt to install the idea of \u200b\u200ba \u201cfar-right\u201d government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/la-activacion-de-boric-y-sus-exministros-contra-la-reforma-constitucional-de-kast-y-el-nuevo-intento-por-instalar-la-idea-de-un-gobierno-de-ultraderecha/",
+        "published_date": "2026-08-20 22:33:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "One night \u201cWithout crying\u201d: Axel Call\u00eds and Juan Diego Montalva celebrated the 50 chapters of the podcast with a live meeting with their followers",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/una-noche-sin-llorar-axel-callis-y-juan-diego-celebraron-los-50-capitulos-del-podcast-con-un-encuentro-en-vivo-con-sus-seguidores/",
+        "published_date": "2026-08-20 22:30:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Milei attacks feminists for low birth rate: \u201cWe are paying dearly for the madness of green handkerchiefs\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/milei-arremete-contra-feministas-por-baja-tasa-de-natalidad-estamos-pagando-muy-caro-la-locura-de-los-panuelitos-verdes/",
+        "published_date": "2026-08-20 22:04:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Geely solid-state battery: the race to 1,000 kilometers",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/bateria-estado-solido-geely-1000-km/",
+        "published_date": "2026-08-20 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The rise and fall of the idea of \u200b\u200bcalling a plebiscite in case of rejection of Kast's security reform",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/el-auge-y-caida-de-la-idea-de-llamar-a-plebiscito-en-caso-de-rechazo-a-la-reforma-de-seguridad-de-kast/",
+        "published_date": "2026-08-20 21:55:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "It took a mother and her son two years to create a film with almost no budget: the public hated it, but they have raised more than two million dollars",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/20/una-madre-y-su-hijo-tardaron-dos-anos-en-crear-una-pelicula-casi-sin-presupuesto-el-publico-la-odio-pero-han-recaudado-mas-de-dos-millones-de-dolares/",
+        "published_date": "2026-08-20 21:46:51",
+        "category": "Local Events"
     },
     {
         "title": "Kast and aid to those affected by the rains in the north: \u201cIt is not an unlimited fund, we do not want to raise citizens' expectations\u201d",
@@ -207,62 +270,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/18/camara-aprueba-proyecto-que-prohibe-las-carreras-de-perros-y-rechaza-propuesta-que-buscaba-regularlas/",
         "published_date": "2026-08-19 02:02:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The disparate balance of the Meiggs tenants one year after Santiago's intervention: \u201cIt's safe inside here, but not outside the bars\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/el-dispar-balance-de-los-locatarios-de-meiggs-a-un-ano-de-la-intervencion-de-santiago-aqui-adentro-esta-seguro-pero-de-las-rejas-para-afuera-no/",
-        "published_date": "2026-08-19 01:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "AB InBev Manager: \u201cYou could say that beer is the most resilient category within the spirits industry\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/gerente-de-ab-inbev-se-podria-decir-que-la-cerveza-es-la-categoria-mas-resiliente-dentro-de-la-industria-de-destilados/",
-        "published_date": "2026-08-18 23:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The plan that seeks to shake up the massive events industry in Chile: Renca advances the project to build the largest arena in South America",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/el-plan-que-busca-remecer-la-industria-de-los-eventos-masivos-en-chile-renca-aprueba-anteproyecto-para-construir-la-arena-mas-grande-de-sudamerica/",
-        "published_date": "2026-08-18 22:49:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The collection of the Solidarity Loan begins: check if you are part of the million delinquent people and the SII deadlines to regularize your situation",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/comienza-el-cobro-del-prestamo-solidario-revisa-si-eres-parte-del-millon-de-personas-morosas-y-los-plazos-del-sii-para-regularizar-tu-situacion/",
-        "published_date": "2026-08-18 22:41:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The doubts that Yeomans left about a new Boric candidacy and the presidential debate that he seeks to advance in the Frente Amplio",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/las-dudas-que-dejo-yeomans-sobre-una-nueva-candidatura-de-boric-y-el-debate-presidencial-que-busca-adelantar-en-el-frente-amplio/",
-        "published_date": "2026-08-18 22:21:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sartor's precautionary measures: Michael Clark will join Capit\u00e1n Y\u00e1ber and the Larra\u00edn brothers Mery and Sergio Y\u00e1\u00f1ez will join Santiago 1",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/las-cautelares-de-sartor-michael-clark-ingresara-a-capitan-yaber-y-los-hermanos-larrain-mery-y-sergio-yanez-a-santiago-1/",
-        "published_date": "2026-08-18 22:19:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drone show at Parquemet: the free show that Nissan presented this Monday to start its new stage",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/show-drones-parquemet-nissan-nueva-etapa/",
-        "published_date": "2026-08-18 21:58:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nissan KAIT: the compact SUV with which the Japanese brand is once again playing strong in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/nissan-kait-en-chile/",
-        "published_date": "2026-08-18 21:57:12",
         "category": "Local Events"
     }
 ]
