@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chile closes its embassy in Iran: Foreign Ministry points to an \u201coperational reorganization\u201d and preventive considerations due to the situation in the Middle East",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/chile-cierra-su-embajada-en-iran-cancilleria-apunta-a-un-reordenamiento-operativo-y-consideraciones-preventivas-por-la-situacion-en-medio-oriente/",
+        "published_date": "2026-08-22 19:54:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The second poll that sowed unease in Bachelet's entourage and opened the debate about her continuity in the race for the UN",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/21/el-segundo-sondeo-que-sembro-desazon-en-el-entorno-de-bachelet-y-abrio-el-debate-sobre-su-continuidad-en-la-carrera-por-la-onu/",
@@ -26,6 +33,13 @@
         "url": "https://www.theclinic.cl/2026/08/18/la-millonaria-demanda-de-la-exembajadora-pakarati-contra-cancilleria-acusa-discriminacion-pide-volver-a-su-cargo-y-disculpas-publicas/",
         "published_date": "2026-08-18 23:28:25",
         "category": "Diplomacy"
+    },
+    {
+        "title": "PDI arrests in La Granja a man who sold weapons with engravings of the Argentine Armed Forces",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/pdi-detiene-en-la-granja-a-hombre-que-comercializaba-armas-con-grabados-de-las-fuerzas-armadas-de-argentina/",
+        "published_date": "2026-08-22 14:46:41",
+        "category": "Military"
     },
     {
         "title": "\u201cChino\u201d R\u00edos responds for the first time for millionaire debt in an exclusive condominium in Lo Barnechea: he points to the tenant and assures that he found out from the press",
@@ -112,6 +126,13 @@
         "category": "Energy"
     },
     {
+        "title": "Sernac served Mercado Libre, Falabella, Paris, L\u00edder and Swiss Nature Labs for the sale of products that promise weight loss without scientific support",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/sernac-oficio-a-mercado-libre-falabella-paris-lider-y-swiss-nature-labs-por-la-venta-de-productos-que-prometen-la-perdida-de-peso-sin-respaldo-cientifico/",
+        "published_date": "2026-08-22 16:11:20",
+        "category": "Economy"
+    },
+    {
         "title": "In the new supermarket battle with more price-sensitive customers, Tottus has the advantage",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/19/en-la-nueva-batalla-de-los-supermercados-con-clientes-mas-sensibles-al-precio-tottus-corre-con-ventaja/",
@@ -140,18 +161,53 @@
         "category": "Economy"
     },
     {
-        "title": "Worse weather conditions raise the world price of sugar: expert warns that the rise \u201cwill be transferred to the country directly\u201d",
+        "title": "\u201cIt was the children who sacrificed their field for the benefit of this family\u201d: the pride of Mejillones after the birth of the hummingbird chicks",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/14/peores-condiciones-meteorologicas-elevan-el-precio-mundial-del-azucar-experto-advierte-que-el-alza-se-trasladara-al-pais-de-forma-directa/",
-        "published_date": "2026-08-14 22:19:22",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/22/fueron-los-ninos-los-que-sacrificaron-su-cancha-en-beneficio-de-esta-familia-el-orgullo-de-mejillones-tras-el-nacimiento-de-los-polluelos-de-colibri/",
+        "published_date": "2026-08-22 22:23:37",
+        "category": "Local Events"
     },
     {
-        "title": "Quiroz's bet: that Chile Day is the great international showcase of capital market reform",
+        "title": "The massive protest at the Haitian embassy: protesters accuse irregularities in obtaining documents",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/14/la-apuesta-de-quiroz-que-chile-day-sea-la-gran-vitrina-internacional-de-la-reforma-al-mercado-de-capitales/",
-        "published_date": "2026-08-14 21:11:22",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/22/la-masiva-y-convulsionada-protesta-en-la-embajada-de-haiti-manifestantes-acusan-irregularidades-en-la-obtencion-de-documentos/",
+        "published_date": "2026-08-22 20:59:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \u201cAmermelao\u201d remains with national roots, monthly signature and prohibition of approaching universities",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/el-amermelao-queda-con-arraigo-nacional-firma-mensual-y-prohibicion-de-acercamiento-a-las-universidades/",
+        "published_date": "2026-08-22 18:03:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Isabel Plant: We only want to give our opinion on other people's bodies",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/columna-de-isabel-plant-queremos-puro-opinar-de-cuerpos-ajenos/",
+        "published_date": "2026-08-22 12:23:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paulo Londra, on his return to Chile and his new music: \u201cI really like the reggaeton they do here, it's good\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/paulo-londra-sobre-su-regreso-a-chile-y-su-nueva-musica-me-gusta-mucho-el-regueton-que-hacen-aca-esta-bueno/",
+        "published_date": "2026-08-22 12:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The world of work after 50, the most difficult age to be unemployed: \u201cI didn't have a problem with young bosses, but they seemed uncomfortable\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/el-mundo-laboral-despues-de-los-50-la-edad-mas-dificil-para-quedar-sin-trabajo-no-me-hacia-problema-con-jefes-jovenes-pero-se-notaban-incomodos/",
+        "published_date": "2026-08-22 12:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From losing your hands to building furniture: the story of Hern\u00e1n Sep\u00falveda, the Cerro Navia teacher who turned a tragedy into a new family trade",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/22/de-perder-las-manos-a-construir-muebles-la-historia-de-hernan-sepulveda-el-maestro-de-cerro-navia-que-convirtio-una-tragedia-en-un-nuevo-oficio-familiar/",
+        "published_date": "2026-08-22 12:12:00",
+        "category": "Local Events"
     },
     {
         "title": "Chilean startup Vambe continues its accelerated growth and projects to exceed US$2 million in new monthly sales during the third quarter",
@@ -242,55 +298,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/20/la-insolita-salida-de-director-de-polla-chilena-falto-a-tres-reuniones-seguidas-sin-presentar-excusas-y-fue-despedido/",
         "published_date": "2026-08-20 22:43:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cFla**tes are not accepted\u201d: The controversial party in Las Condes and its strict dress code that generates criticism on social networks",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/no-se-aceptan-flates-la-polemica-fiesta-en-las-condes-y-su-estricto-codigo-de-vestimenta-que-genera-criticas-en-redes-sociales/",
-        "published_date": "2026-08-20 22:35:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The activation of Boric and his former ministers against Kast's constitutional reform and the new attempt to install the idea of \u200b\u200ba \u201cfar-right\u201d government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/la-activacion-de-boric-y-sus-exministros-contra-la-reforma-constitucional-de-kast-y-el-nuevo-intento-por-instalar-la-idea-de-un-gobierno-de-ultraderecha/",
-        "published_date": "2026-08-20 22:33:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "One night \u201cWithout crying\u201d: Axel Call\u00eds and Juan Diego Montalva celebrated the 50 chapters of the podcast with a live meeting with their followers",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/una-noche-sin-llorar-axel-callis-y-juan-diego-celebraron-los-50-capitulos-del-podcast-con-un-encuentro-en-vivo-con-sus-seguidores/",
-        "published_date": "2026-08-20 22:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milei attacks feminists for low birth rate: \u201cWe are paying dearly for the madness of green handkerchiefs\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/milei-arremete-contra-feministas-por-baja-tasa-de-natalidad-estamos-pagando-muy-caro-la-locura-de-los-panuelitos-verdes/",
-        "published_date": "2026-08-20 22:04:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Geely solid-state battery: the race to 1,000 kilometers",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/bateria-estado-solido-geely-1000-km/",
-        "published_date": "2026-08-20 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The rise and fall of the idea of \u200b\u200bcalling a plebiscite in case of rejection of Kast's security reform",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/el-auge-y-caida-de-la-idea-de-llamar-a-plebiscito-en-caso-de-rechazo-a-la-reforma-de-seguridad-de-kast/",
-        "published_date": "2026-08-20 21:55:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "It took a mother and her son two years to create a film with almost no budget: the public hated it, but they have raised more than two million dollars",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/una-madre-y-su-hijo-tardaron-dos-anos-en-crear-una-pelicula-casi-sin-presupuesto-el-publico-la-odio-pero-han-recaudado-mas-de-dos-millones-de-dolares/",
-        "published_date": "2026-08-20 21:46:51",
         "category": "Local Events"
     }
 ]
