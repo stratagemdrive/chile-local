@@ -35,6 +35,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Biministro Alvarado defends the proposal for constitutional reform in security and rejects abandoning ILO Convention 169",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/biministro-alvarado-defiende-propuesta-de-reforma-constitucional-en-seguridad-y-rechaza-abandonar-el-convenio-169-de-la-oit/",
+        "published_date": "2026-08-23 19:19:31",
+        "category": "Military"
+    },
+    {
+        "title": "Who is Juan Pablo Rojas, the \u201cCAE Joker\u201d, the defender of student loan defaulters who led 15 thousand people to his \u201cMoratorium Plan\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/quien-es-juan-pablo-rojas-el-joker-del-cae-el-defensor-de-morosos-del-credito-estudiantil-que-llevo-a-15-mil-personas-a-su-plan-moratorio/",
+        "published_date": "2026-08-23 17:16:14",
+        "category": "Military"
+    },
+    {
         "title": "PDI arrests in La Granja a man who sold weapons with engravings of the Argentine Armed Forces",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/22/pdi-detiene-en-la-granja-a-hombre-que-comercializaba-armas-con-grabados-de-las-fuerzas-armadas-de-argentina/",
@@ -54,6 +68,13 @@
         "url": "https://www.theclinic.cl/2026/08/16/la-peor-jugada-de-mauro-valdes-como-un-alto-ejecutivo-de-la-elite-paso-de-dirigir-tvn-y-la-gran-mineria-a-estar-formalizado-por-el-caso-sartor-y-perder-un-millon-de-dolares/",
         "published_date": "2026-08-16 12:09:00",
         "category": "Military"
+    },
+    {
+        "title": "The Argentine chef who reinvented Rayuela, the restaurant that put Colchagua on the gastronomic map of Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/la-chef-argentina-que-reinvento-rayuela-el-restaurante-que-puso-a-colchagua-en-el-mapa-gastronomico-de-chile/",
+        "published_date": "2026-08-23 12:17:00",
+        "category": "Energy"
     },
     {
         "title": "The unusual mistake of the Ministry of Housing: it spent hundreds of millions on rental subsidies for deceased people",
@@ -112,11 +133,18 @@
         "category": "Energy"
     },
     {
-        "title": "Chilean research created algae extract to reduce the impact of sugar in pasta",
+        "title": "\u201cMercado de Colores\u201d brought together more than 100 exhibitors and 70 businesses in the Yungay neighborhood this Saturday.",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/15/investigacion-chilena-creo-extracto-de-algas-para-reducir-el-impacto-del-azucar-en-las-pastas/",
-        "published_date": "2026-08-15 20:06:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/08/23/mercado-de-colores-de-yungay-reunio-este-sabado-a-mas-de-100-expositores-y-70-emprendimientos-en-el-barrio-yungay/",
+        "published_date": "2026-08-23 22:21:56",
+        "category": "Economy"
+    },
+    {
+        "title": "The appetite for the south: the commitment of the big retail brands between Osorno and Punta Arenas",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/el-apetito-por-el-sur-la-apuesta-de-las-grandes-marcas-del-retail-entre-osorno-y-punta-arenas/",
+        "published_date": "2026-08-23 13:08:52",
+        "category": "Economy"
     },
     {
         "title": "Sernac served Mercado Libre, Falabella, Paris, L\u00edder and Swiss Nature Labs for the sale of products that promise weight loss without scientific support",
@@ -152,6 +180,41 @@
         "url": "https://www.theclinic.cl/2026/08/16/siento-que-logre-hacer-una-diferencia-mario-marcel-aseguro-que-no-se-arrepiente-de-haber-integrado-el-gobierno-de-boric/",
         "published_date": "2026-08-16 13:29:35",
         "category": "Economy"
+    },
+    {
+        "title": "Colo Colo wins the Supercl\u00e1sico 200 2-1 and stretches its lead at the top of the First League",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/colo-colo-gana-2-1-el-superclasico-200-y-estira-su-ventaja-en-la-cima-de-la-liga-de-primera/",
+        "published_date": "2026-08-23 21:29:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "What buildings should change in the management of resident information with the entry into force of the Data Protection Law",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/lo-que-deberan-cambiar-los-edificios-en-el-manejo-de-informacion-de-residentes-con-la-entrada-en-vigencia-de-la-ley-de-proteccion-de-datos/",
+        "published_date": "2026-08-23 20:30:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mara Sedini for sayings in Sin Filtros: \"In that interview, at no time did I say a falsehood. I simply told my story\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/mara-sedini-por-dichos-en-sin-filtros-yo-en-esa-entrevista-en-ningun-minuto-dije-una-falsedad-simplemente-conte-mi-historia/",
+        "published_date": "2026-08-23 16:09:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carolina Torrealba, former undersecretary of Science for Lincolao: \u201cIf the agenda behind it is to close the ministry, I prefer that we open that agenda\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/carolina-torrealba-exsubsecretaria-de-ciencia-por-lincolao-si-la-agenda-detras-es-cerrar-el-ministerio-prefiero-que-abramos-esa-agenda/",
+        "published_date": "2026-08-23 15:09:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Kike Mujica |Gael Yeomans: without Gabriel without Tom\u00e1s",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/23/columna-de-kike-mujica-gael-yeomans-sin-gabriel-sin-tomas/",
+        "published_date": "2026-08-23 13:09:29",
+        "category": "Local Events"
     },
     {
         "title": "\u201cIt was the children who sacrificed their field for the benefit of this family\u201d: the pride of Mejillones after the birth of the hummingbird chicks",
@@ -256,41 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/21/el-amermelao-detienen-a-sospechoso-de-amenazar-con-concretar-masacres-en-universidades-de-santiago/",
         "published_date": "2026-08-21 21:56:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Letter to the director: Tandem's response to Codelco",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/21/carta-a-la-directora-la-respuesta-de-tandem-a-codelco/",
-        "published_date": "2026-08-21 21:51:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 50 bakeries, bakeries and discussions: Pan Comido returns to the MUT",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/mas-de-50-panaderias-bakeries-yconversatorios-vuelve-pan-comido-mut/",
-        "published_date": "2026-08-21 01:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colo Colo schedules massive tests in the commune of Santiago: they will be carried out during September and October in facilities provided by the municipality",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/colo-colo-agenda-pruebas-masivas-en-la-comuna-de-santiago-se-realizaran-durante-septiembre-y-octubre-en-recintos-facilitados-por-el-municipio/",
-        "published_date": "2026-08-21 00:24:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camilo Palape, geologist: \u201cJust because an earthquake has occurred in Peru or Venezuela does not mean that one will now occur in Chile\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/camilo-palape-geologo-que-se-haya-producido-un-terremoto-en-peru-o-venezuela-no-implica-que-ahora-se-vaya-a-generar-uno-en-chile/",
-        "published_date": "2026-08-21 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The unusual departure of the director of Polla Chilena: he missed three meetings in a row without making excuses and was fired",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/20/la-insolita-salida-de-director-de-polla-chilena-falto-a-tres-reuniones-seguidas-sin-presentar-excusas-y-fue-despedido/",
-        "published_date": "2026-08-20 22:43:03",
         "category": "Local Events"
     }
 ]
