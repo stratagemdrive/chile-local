@@ -91,11 +91,18 @@
         "category": "Military"
     },
     {
-        "title": "\u201cChino\u201d R\u00edos responds for the first time for millionaire debt in an exclusive condominium in Lo Barnechea: he points to the tenant and assures that he found out from the press",
+        "title": "Codelco's first move with private companies: it forms a new partnership with Pucobre to develop the Tovaku project in Antofagasta",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/chino-rios-responde-por-primera-vez-por-millonaria-deuda-en-exclusivo-condominio-de-lo-barnechea-apunta-al-arrendatario-y-asegura-que-se-entero-por-la-prensa/",
-        "published_date": "2026-08-17 22:13:00",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/08/25/primera-jugada-de-codelco-con-privados-constituye-con-pucobre-nueva-sociedad-para-desarrollar-el-proyecto-tovaku-en-antofagasta/",
+        "published_date": "2026-08-25 23:01:40",
+        "category": "Energy"
+    },
+    {
+        "title": "First lithium contract with a private company: Government and Quiborax seal agreement for US$70 million",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/25/primer-contrato-de-litio-con-una-empresa-privada-gobierno-y-quiborax-sellan-acuerdo-por-us70-millones/",
+        "published_date": "2026-08-25 22:01:01",
+        "category": "Energy"
     },
     {
         "title": "Without allegations from civil society, TC will see a request from the Government against the article that requires the replacement of basic services",
@@ -147,18 +154,18 @@
         "category": "Energy"
     },
     {
-        "title": "Parliamentarians demand that the Treasury accelerate the investment budget for Public Works and concessions",
+        "title": "The dilemma of the modern cabin: more screens do not mean a better experience",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/parlamentarios-exigen-a-hacienda-acelerar-presupuesto-de-inversion-en-obras-publicas-y-concesiones/",
-        "published_date": "2026-08-17 22:32:21",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/08/25/tecnologia-en-autos-nuevos-jd-power-2026/",
+        "published_date": "2026-08-25 21:30:00",
+        "category": "Economy"
     },
     {
-        "title": "\u201cFind an honest problem\u201d: Kaiser responds to criticism for controversial proposal to eliminate the Ministry of Sports",
+        "title": "The new setback of the Government before the TC that ended up agreeing with Claudio Alvarado in his dispute with Jorge Quiroz",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/busquense-un-problema-honesto-kaiser-responde-ante-criticas-por-polemica-propuesta-de-eliminar-el-ministerio-del-deporte/",
-        "published_date": "2026-08-17 21:49:04",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/08/25/el-nuevo-reves-del-gobierno-ante-el-tc-que-termino-dandole-la-razon-a-claudio-alvarado-en-su-disputa-con-jorge-quiroz/",
+        "published_date": "2026-08-25 21:28:01",
+        "category": "Economy"
     },
     {
         "title": "Dual clutch gearbox: the one that promises the best of both worlds",
@@ -203,11 +210,46 @@
         "category": "Economy"
     },
     {
-        "title": "The leap that multiplied the autonomy of electric cars sevenfold in three decades",
+        "title": "A gray MG, three pending fines and a route captured by cameras to Plaza Italia: the clues after the fatal hit by Paz Ram\u00edrez",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/17/autonomia-autos-electricos-evolucion-historica/",
-        "published_date": "2026-08-17 21:15:07",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/25/un-mg-gris-tres-multas-pendientes-y-una-ruta-captada-por-camaras-hasta-plaza-italia-las-pistas-tras-el-fatal-atropello-de-paz-ramirez/",
+        "published_date": "2026-08-25 22:47:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Great goal from midfield included: Marcelino N\u00fa\u00f1ez scores a double and lives one of his brightest days in England",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/25/golazo-de-mitad-de-cancha-incluido-marcelino-nunez-marca-un-doblete-y-vive-una-de-sus-jornadas-mas-brillantes-en-inglaterra/",
+        "published_date": "2026-08-25 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The millionaire fine from the CNTV to TV+ for denigrating statements by Daniela Ar\u00e1nguiz against Cony Capelli",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/25/la-millonaria-multa-del-cntv-a-tv-por-fuertes-dichos-de-daniela-aranguiz-en-contra-de-cony-capelli/",
+        "published_date": "2026-08-25 22:12:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Buljubasich's defenses in his farewell to the UC: \u201cThey told people something that was not real and that an expectation was created that we could not fulfill\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/25/los-descargos-de-buljubasich-en-su-adios-de-la-uc-algo-le-comentaron-a-la-gente-que-no-era-real-y-que-se-creo-una-expectativa-que-nosotros-no-pudimos-cumplir/",
+        "published_date": "2026-08-25 22:04:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazilian tourists suffered a violent assault while walking through Valpara\u00edso",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/25/turistas-brasilenos-sufrieron-violento-asalto-mientras-paseaban-por-valparaiso/",
+        "published_date": "2026-08-25 22:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cA few millimeters are enough\u201d: geologist explains why the world's driest desert is extremely vulnerable to landslides",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/25/basta-con-unos-pocos-milimetros-geologo-explica-por-que-el-desierto-mas-arido-del-mundo-es-extremadamente-vulnerable-a-los-aluviones/",
+        "published_date": "2026-08-25 21:54:42",
+        "category": "Local Events"
     },
     {
         "title": "Ana de Armas in Chile: accompanies the Rawayana vocalist on his tour of Latin America and is captured dancing at the Movistar Arena",
@@ -305,48 +347,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/23/columna-de-kike-mujica-gael-yeomans-sin-gabriel-sin-tomas/",
         "published_date": "2026-08-23 13:09:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt was the children who sacrificed their field for the benefit of this family\u201d: the pride of Mejillones after the birth of the hummingbird chicks",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/fueron-los-ninos-los-que-sacrificaron-su-cancha-en-beneficio-de-esta-familia-el-orgullo-de-mejillones-tras-el-nacimiento-de-los-polluelos-de-colibri/",
-        "published_date": "2026-08-22 22:23:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The massive protest at the Haitian embassy: protesters accuse irregularities in obtaining documents",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/la-masiva-y-convulsionada-protesta-en-la-embajada-de-haiti-manifestantes-acusan-irregularidades-en-la-obtencion-de-documentos/",
-        "published_date": "2026-08-22 20:59:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cAmermelao\u201d remains with national roots, monthly signature and prohibition of approaching universities",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/el-amermelao-queda-con-arraigo-nacional-firma-mensual-y-prohibicion-de-acercamiento-a-las-universidades/",
-        "published_date": "2026-08-22 18:03:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Isabel Plant: We only want to give our opinion on other people's bodies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/columna-de-isabel-plant-queremos-puro-opinar-de-cuerpos-ajenos/",
-        "published_date": "2026-08-22 12:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paulo Londra, on his return to Chile and his new music: \u201cI really like the reggaeton they do here, it's good\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/paulo-londra-sobre-su-regreso-a-chile-y-su-nueva-musica-me-gusta-mucho-el-regueton-que-hacen-aca-esta-bueno/",
-        "published_date": "2026-08-22 12:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world of work after 50, the most difficult age to be unemployed: \u201cI didn't have a problem with young bosses, but they seemed uncomfortable\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/el-mundo-laboral-despues-de-los-50-la-edad-mas-dificil-para-quedar-sin-trabajo-no-me-hacia-problema-con-jefes-jovenes-pero-se-notaban-incomodos/",
-        "published_date": "2026-08-22 12:16:00",
         "category": "Local Events"
     }
 ]
