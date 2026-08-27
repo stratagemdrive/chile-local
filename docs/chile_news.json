@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cI don't see that it is feasible\u201d: The complex scenario of the residents of Providencia who ask for the transfer of the Venezuelan embassy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/26/no-veo-que-sea-factible-el-complejo-escenario-de-los-vecinos-de-providencia-que-piden-el-traslado-de-la-embajada-de-venezuela/",
+        "published_date": "2026-08-27 00:05:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cThe Strait of Magellan is Chilean\u201d: Government will send a note of protest to Argentina after the military chief's statements",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/24/el-estrecho-de-magallanes-es-chileno-la-respuesta-del-gobierno-de-chile-tras-las-declaraciones-de-jefe-militar-argentino/",
@@ -42,11 +49,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The million-dollar lawsuit by former ambassador Pakarati against the Foreign Ministry: she accuses discrimination, asks to return to her position and make public apologies",
+        "title": "\u201cConfusion and sloppiness\u201d: the explanations of the Minister of Defense of Argentina to the Government of Chile for the controversy over the Strait of Magellan",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/la-millonaria-demanda-de-la-exembajadora-pakarati-contra-cancilleria-acusa-discriminacion-pide-volver-a-su-cargo-y-disculpas-publicas/",
-        "published_date": "2026-08-18 23:28:25",
-        "category": "Diplomacy"
+        "url": "https://www.theclinic.cl/2026/08/26/confusion-y-desprolijidad-las-explicaciones-del-ministro-de-defensa-de-argentina-al-gobierno-de-chile-por-la-polemica-del-estrecho-de-magallanes/",
+        "published_date": "2026-08-27 02:29:38",
+        "category": "Military"
     },
     {
         "title": "Who is Gustavo Javier Valverde: the Argentine military chief who ignited controversy by questioning Chile's sovereignty in Magallanes",
@@ -89,6 +96,13 @@
         "url": "https://www.theclinic.cl/2026/08/22/pdi-detiene-en-la-granja-a-hombre-que-comercializaba-armas-con-grabados-de-las-fuerzas-armadas-de-argentina/",
         "published_date": "2026-08-22 14:46:41",
         "category": "Military"
+    },
+    {
+        "title": "Why electricity and gas companies say the deadlines for the new reconnection rule in the middle of a catastrophe are impossible to meet",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/26/por-que-las-empresas-de-electricidad-y-gas-dicen-que-plazos-de-nueva-norma-de-reconexion-en-medio-de-una-catastrofe-son-imposibles-de-cumplir/",
+        "published_date": "2026-08-26 22:09:45",
+        "category": "Energy"
     },
     {
         "title": "How much do Chileans spend on medicines?: seven out of ten households spend more than $30,000 a month",
@@ -154,13 +168,6 @@
         "category": "Energy"
     },
     {
-        "title": "TC declares the Government's requirement admissible against the mega-reform norm that requires free reconnection of basic services in emergencies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/tc-declara-admisible-requerimiento-del-gobierno-contra-norma-de-la-megarreforma-que-obliga-a-reconectar-gratis-los-servicios-basicos-en-emergencias/",
-        "published_date": "2026-08-19 00:16:03",
-        "category": "Energy"
-    },
-    {
         "title": "Who is Javier Furwasser, the former technical manager of O'Higgins who arrived at UC a few weeks ago and what role will he play after the departure of Buljubasich",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/25/quien-es-javier-furwasser-el-exgerente-tecnico-de-ohiggins-que-hace-pocas-semanas-llego-a-la-uc-y-que-rol-cumplira-tras-la-salida-de-buljubasich/",
@@ -217,11 +224,39 @@
         "category": "Economy"
     },
     {
-        "title": "BancoEstado, CuentaRUT and CajaVecina are consolidated as leading brands due to their innovation and relevance",
+        "title": "\u201cI didn't believe him at all and I still don't believe him at all\u201d: Matthei attacks Kast regarding the Cerimedo case and remembers the troll attacks against him",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/18/cuentarut-cajavecina-marcas-lideres/",
-        "published_date": "2026-08-18 21:33:41",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/26/no-le-crei-nada-y-sigo-no-creyendole-nada-matthei-arremete-contra-kast-a-proposito-del-caso-cerimedo-y-recuerda-los-ataques-de-trolls-en-su-contra/",
+        "published_date": "2026-08-27 01:40:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Despite being one of the most accepted materials at green points, only one in five Chileans recycles milk and juice boxes.",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/26/pese-a-ser-de-los-materiales-mas-aceptados-en-puntos-de-reciclaje-solo-uno-de-cada-cinco-chilenos-recicla-cajas-de-leche-y-jugos/",
+        "published_date": "2026-08-27 01:39:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe have been living with bad odors for months\u201d: Lo Barnechea denounces contamination by sewage in Estero El Gabino and they investigate negligence",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/26/llevamos-meses-conviviendo-con-malos-olores-lo-barnechea-denuncia-contaminacion-por-aguas-servidas-en-estero-el-gabino-e-investigan-negligencias/",
+        "published_date": "2026-08-27 01:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawyer and national record holder in javelin throwing: Mar\u00eda Paz R\u00edos is appointed as the new Undersecretary of Sports",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/26/abogada-y-record-nacional-en-lanzamiento-de-jabalina-maria-paz-rios-es-designada-como-nueva-subsecretaria-del-deporte/",
+        "published_date": "2026-08-27 00:05:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "From $71 thousand to $2.3 million: the average default of young people multiplies 33 times between 22 and 29 years old",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/26/desde-71-mil-a-23-millones-la-mora-promedio-de-los-jovenes-se-multiplica-33-veces-entre-los-22-y-29-anos/",
+        "published_date": "2026-08-26 23:22:00",
+        "category": "Local Events"
     },
     {
         "title": "CPC and ratification of article 31: \u201cThe cost of a public policy ends up being assumed by companies that operate under previously established tariff and regulatory frameworks\u201d",
@@ -326,41 +361,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/24/de-consultorio-abandonado-a-laboratorio-de-ideas-cecrea-la-apuesta-cultural-con-que-renca-busca-combatir-a-la-violencia/",
         "published_date": "2026-08-24 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legal Director of Valpara\u00edso resigns after sanction by the Comptroller's Office and one day after the absence of the municipality in a hearing for the 'luminaries case'",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/24/directora-juridica-de-valparaiso-renuncia-tras-sancion-de-contraloria-y-un-dia-despues-de-la-ausencia-del-municipio-en-audiencia-por-caso-luminarias/",
-        "published_date": "2026-08-24 22:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe have to turn the page\u201d: The tough face to face between La Moneda and the official helmsmen for the security reform",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/24/hay-que-dar-vuelta-la-pagina-el-duro-cara-a-cara-entre-la-moneda-y-los-timoneles-oficialistas-por-la-reforma-de-seguridad/",
-        "published_date": "2026-08-24 22:51:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chile and the US open negotiations on tariffs and unions ask to expand exclusions",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/24/chile-y-eeuu-abren-negociacion-por-aranceles-y-gremios-piden-ampliar-exclusiones/",
-        "published_date": "2026-08-24 22:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Care, heritage and wildlife: the backroom and care after the birth of a litter of swans at the UdeC",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/24/cuidado-patrimonio-y-vida-silvestre-la-trastienda-y-cuidados-tras-el-nacimiento-de-una-camada-de-cisnes-en-la-udec/",
-        "published_date": "2026-08-24 22:06:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colo Colo wins the Supercl\u00e1sico 200 2-1 and stretches its lead at the top of the First League",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/23/colo-colo-gana-2-1-el-superclasico-200-y-estira-su-ventaja-en-la-cima-de-la-liga-de-primera/",
-        "published_date": "2026-08-23 21:29:39",
         "category": "Local Events"
     }
 ]
