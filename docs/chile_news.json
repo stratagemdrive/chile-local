@@ -168,6 +168,13 @@
         "category": "Energy"
     },
     {
+        "title": "The gray that everyone chooses: the paradox behind car colors in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/colores-autos-chile-tendencias/",
+        "published_date": "2026-08-28 20:49:09",
+        "category": "Economy"
+    },
+    {
         "title": "\u201cOn the telephone, the staging is very convincing\u201d: How the RUT becomes the gateway to a banking scam that is becoming widespread in Chile",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/27/telefonicamente-la-puesta-en-escena-es-muy-convincente-como-el-rut-se-convierte-en-la-puerta-de-entrada-a-una-estafa-bancaria-que-se-masifica-en-chile/",
@@ -222,6 +229,69 @@
         "url": "https://www.theclinic.cl/2026/08/22/sernac-oficio-a-mercado-libre-falabella-paris-lider-y-swiss-nature-labs-por-la-venta-de-productos-que-prometen-la-perdida-de-peso-sin-respaldo-cientifico/",
         "published_date": "2026-08-22 16:11:20",
         "category": "Economy"
+    },
+    {
+        "title": "Possible driving with alcohol and did not provide help: the man who ran over Paz Ram\u00edrez remained in preventive detention",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/eventual-conduccion-con-alcohol-y-no-presto-ayuda-en-prision-preventiva-quedo-hombre-que-atropello-a-paz-ramirez/",
+        "published_date": "2026-08-28 21:06:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Losses from the purchase of dollars, unsupported travel expenses and excess payments: details of the Mindep complaint for possible financial crimes in Santiago 2023 are revealed",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/perdidas-por-compra-de-dolares-viaticos-sin-respaldos-y-pagos-en-exceso-revelan-detalles-de-la-denuncia-del-mindep-por-posibles-delitos-financieros-en-santiago-2023/",
+        "published_date": "2026-08-28 20:46:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "The fight over a plot of almost three hectares in Lo Barnechea that pits the Hiller Group against Enaco",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/la-pelea-por-un-pano-de-casi-tres-hectareas-en-la-dehesa-que-enfrenta-al-grupo-hiller-con-enaco/",
+        "published_date": "2026-08-28 20:39:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unemployment rises to 9.5%: Chile approaches one million unemployed and the number of people seeking employment doubles for 12 months",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/desempleo-sube-a-95-chile-se-acerca-al-millon-de-desocupados-y-se-duplica-el-numero-de-personas-que-buscan-empleo-por-12-meses/",
+        "published_date": "2026-08-28 20:37:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Can it happen in Chile?Expert explains how the deadly flood that affected Nepal could be replicated in the high Chilean mountains",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/puede-pasar-en-chile-experto-explica-como-el-mortal-aluvion-que-afecto-a-nepal-podria-ocurrir-en-la-alta-montana-chilena/",
+        "published_date": "2026-08-28 20:33:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Director of Demre addresses the challenges of higher education and proposes changes to the NEM: \u201cWe want it to be a contribution and not to encourage grade inflation\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/directora-del-demre-aborda-los-desafios-de-la-educacion-superior-y-plantea-cambios-al-nem-queremos-que-sea-un-aporte-y-no-que-incentive-a-la-inflacion-de-notas/",
+        "published_date": "2026-08-28 20:18:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Damage control of the right to mark distance from Fernando Cerimedo, the \u201cking of the trolls\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/el-control-de-danos-de-la-derecha-para-marcar-distancia-de-fernando-cerimedo-el-rey-de-los-trolls/",
+        "published_date": "2026-08-28 19:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI would like to have seen you naked\u201d: The complaints by Karin Law against former police officer when he was patrol chief of the Huechuraba Security Center",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/me-gustaria-haberte-visto-desnuda-las-denuncias-por-ley-karin-contra-excarabinero-cuando-era-jefe-de-central-de-seguridad-de-huechuraba/",
+        "published_date": "2026-08-28 18:46:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jetsmart responds to the embargo of the National Immigration Service and denies illegal transportation of passengers",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/28/jetsmart-responde-al-embargo-del-servico-nacional-de-migraciones-y-niega-transporte-ilegal-de-pasajeros/",
+        "published_date": "2026-08-28 18:37:01",
+        "category": "Local Events"
     },
     {
         "title": "Arrau insists on a Na\u00edn Retamal 2.0 law for Franco officials after the death of a police officer in Renca",
@@ -298,69 +368,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/27/achs-claro-chile-avances-laborales-salud/",
         "published_date": "2026-08-27 20:30:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe level of confinement was shocking\u201d: Clandestine dog kennel dismantled in Barrio Yungay with Yorkshire, Pug and Boxer puppies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/27/era-impactante-el-nivel-de-encierro-desmantelan-criadero-clandestino-de-perros-en-barrio-yungay-con-cachorros-yorkshire-pug-y-boxer/",
-        "published_date": "2026-08-27 19:55:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The growing annoyance of the UDI with Matthei after his new attack against Kast by linking him with Fernando Cerimedo and \u201cthe bot farm\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/27/la-creciente-molestia-de-la-udi-con-matthei-tras-su-nueva-embestida-contra-kast-al-vincularlo-con-fernando-cerimedo-y-la-granja-de-bots/",
-        "published_date": "2026-08-27 19:48:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The exclusive images of the future Renca Arena, the ambitious project that aims to revolutionize the entertainment industry in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/27/las-imagenes-exclusivas-del-futuro-renca-arena-el-ambicioso-proyecto-que-pretende-revolucionar-la-industria-del-espectaculo-en-chile/",
-        "published_date": "2026-08-27 19:38:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The resignation of RN with the nomination of the new Undersecretary of Sports and the frustrated attempts to add presence in the Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/27/la-resignacion-de-rn-con-la-nominacion-de-la-nueva-subsecretaria-del-deporte-y-los-frustrados-intentos-por-sumar-presencia-en-el-gobierno/",
-        "published_date": "2026-08-27 18:39:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government clarifies: tender for Pajaritos tenure works fell but modernization of the Cardenal Samor\u00e9 border crossing continues",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/27/gobierno-aclara-se-cayo-licitacion-para-obras-de-tenencia-de-pajaritos-pero-modernizacion-de-paso-fronterizo-cardenal-samore-sigue-adelante/",
-        "published_date": "2026-08-27 17:55:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Study measures the reputation of Chilean brands in artificial intelligence: Cl\u00ednica Alemana, Col\u00fan and Metro lead the ranking",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/27/estudio-mide-la-reputacion-de-las-marcas-chilenas-en-la-inteligencia-artificial-clinica-alemana-colun-y-metro-lideran-ranking/",
-        "published_date": "2026-08-27 17:54:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI didn't believe him at all and I still don't believe him at all\u201d: Matthei attacks Kast regarding the Cerimedo case and remembers the troll attacks against him",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/26/no-le-crei-nada-y-sigo-no-creyendole-nada-matthei-arremete-contra-kast-a-proposito-del-caso-cerimedo-y-recuerda-los-ataques-de-trolls-en-su-contra/",
-        "published_date": "2026-08-27 01:40:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite being one of the most accepted materials at green points, only one in five Chileans recycles milk and juice boxes.",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/26/pese-a-ser-de-los-materiales-mas-aceptados-en-puntos-de-reciclaje-solo-uno-de-cada-cinco-chilenos-recicla-cajas-de-leche-y-jugos/",
-        "published_date": "2026-08-27 01:39:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe have been living with bad odors for months\u201d: Lo Barnechea denounces contamination by sewage in Estero El Gabino and they investigate negligence",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/26/llevamos-meses-conviviendo-con-malos-olores-lo-barnechea-denuncia-contaminacion-por-aguas-servidas-en-estero-el-gabino-e-investigan-negligencias/",
-        "published_date": "2026-08-27 01:00:00",
         "category": "Local Events"
     }
 ]
