@@ -21,13 +21,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Chile closes its embassy in Iran: Foreign Ministry points to an \u201coperational reorganization\u201d and preventive considerations due to the situation in the Middle East",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/chile-cierra-su-embajada-en-iran-cancilleria-apunta-a-un-reordenamiento-operativo-y-consideraciones-preventivas-por-la-situacion-en-medio-oriente/",
-        "published_date": "2026-08-22 19:54:21",
-        "category": "Diplomacy"
-    },
-    {
         "title": "\u201cMapuche Loco\u201d: the story of Jos\u00e9 Calfucura, the chef who rescued an abandoned house in Cerrillos and created a restaurant that rescues the flavors of his roots",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/30/mapuche-loco-la-historia-de-jose-calfucura-el-chef-que-rescato-una-casa-abandonada-en-cerrillos-y-creo-un-restaurante-que-rescata-los-sabores-de-sus-raices/",
@@ -147,6 +140,13 @@
         "category": "Energy"
     },
     {
+        "title": "\u201cI began to understand it very early\u201d: Jorge Quiroz explains his transition to the right coming from a left-wing family",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/30/lo-empece-a-comprender-muy-temprano-jorge-quiroz-explica-su-transito-hacia-la-derecha-viniendo-de-una-familia-de-izquierda/",
+        "published_date": "2026-08-30 23:29:25",
+        "category": "Economy"
+    },
+    {
         "title": "Four new cars a day: the model factory that China can no longer sustain",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/28/cuatro-autos-nuevos-por-dia-la-fabrica-de-modelos-que-china-ya-no-puede-sostener/",
@@ -210,11 +210,39 @@
         "category": "Economy"
     },
     {
-        "title": "Sernac served Mercado Libre, Falabella, Paris, L\u00edder and Swiss Nature Labs for the sale of products that promise weight loss without scientific support",
+        "title": "Ignacia Michelson wins Miss Grand Chile 2026 and will represent the country in an international pageant to be held in India",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/22/sernac-oficio-a-mercado-libre-falabella-paris-lider-y-swiss-nature-labs-por-la-venta-de-productos-que-prometen-la-perdida-de-peso-sin-respaldo-cientifico/",
-        "published_date": "2026-08-22 16:11:20",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/30/ignacia-michelson-gana-el-miss-grand-chile-2026-y-representara-al-pais-en-certamen-internacional-que-se-realizara-en-india/",
+        "published_date": "2026-08-30 22:05:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Adolescents choosing careers under pressure: 75% present symptoms of anxiety or depression and 65% consider it a \u201clife or death\u201d decision",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/30/adolescentes-eligiendo-carreras-bajo-presion-un-75-presenta-sintomas-de-ansiedad-o-depresion-y-un-65-considera-que-es-una-decision-de-vida-o-muerte/",
+        "published_date": "2026-08-30 21:33:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jorge Sampaoli leaves Talleres after just seven dates: he will only be paid until his last day worked",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/30/jorge-sampaoli-deja-talleres-tras-apenas-siete-fechas-cobrara-solo-hasta-su-ultimo-dia-trabajado/",
+        "published_date": "2026-08-30 19:09:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cMy performance is absolutely correct\u201d: Pedro Araya says that he has \u201cnothing to evaluate\u201d after the PPD called to reflect on his permanence in the party",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/30/mi-actuacion-es-absolutamente-correcta-pedro-araya-dice-que-no-tiene-nada-que-evaluar-tras-llamado-del-ppd-a-reflexionar-sobre-su-permanencia-en-el-partido/",
+        "published_date": "2026-08-30 18:15:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is \u201cR15\u201d, the Venezuelan detained in Peru and who would be the leader of the Aragua Train in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/30/quien-es-r15-el-venezolano-detenido-en-peru-y-que-seria-el-cabecilla-del-tren-de-aragua-en-chile/",
+        "published_date": "2026-08-30 16:00:07",
+        "category": "Local Events"
     },
     {
         "title": "Minister Rau regarding changes to working hours: \u201cThe willingness for dialogue is there, but to reach good agreements that do not affect the heart of the changes we want to make\u201d",
@@ -319,41 +347,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/29/columna-de-jaime-manalich-es-el-regreso-del-sarampion-una-politica/",
         "published_date": "2026-08-29 12:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andr\u00e9s Bello, the cursed avenue: accidents, cars up to 200km/h and a tragic death that put the spotlight on one of the most critical axes of Providencia",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/29/andres-bello-la-avenida-maldita-accidentes-autos-hasta-a-200km-h-y-una-tragica-muerte-que-puso-el-foco-en-uno-de-los-ejes-mas-criticos-de-providencia/",
-        "published_date": "2026-08-29 12:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emilio de la Cerda, undersecretary: \u201cA lot of management does not mean approving projects at random, unprotecting cultural heritage\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/29/emilio-de-la-cerda-subsecretario-mucha-gestion-no-significa-aprobar-proyectos-a-tontas-y-a-locas-desprotegiendo-el-patrimonio-cultural/",
-        "published_date": "2026-08-29 12:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rita Cox's column: Barrio Victoria: half-death jumping",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/29/columna-de-rita-cox-barrio-victoria-a-medio-morir-saltando/",
-        "published_date": "2026-08-29 12:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The chiaroscuro of Mat\u00edas Claro: profile of the president of the UC in the week in which he had to carry out the most painful dismissal of the century in the club",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/29/los-claroscuros-de-matias-claro-perfil-al-presidente-de-cruzados-en-la-semana-marcada-por-la-salida-de-jose-maria-buljubasich/",
-        "published_date": "2026-08-29 12:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The difficult path of Mar\u00eda Ignacia Fuentes to becoming the first Deaf psychologist in Chile: \u201cIf you want to study, you have to fight and not give up\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/29/el-dificil-camino-de-maria-ignacia-fuentes-para-convertirse-en-la-primera-psicologa-sorda-de-chile-si-tu-quieres-estudiar-tienes-que-luchar-y-no-rendirte/",
-        "published_date": "2026-08-29 12:03:00",
         "category": "Local Events"
     }
 ]
