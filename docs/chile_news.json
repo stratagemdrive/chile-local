@@ -63,13 +63,6 @@
         "category": "Military"
     },
     {
-        "title": "Biministro Alvarado defends the proposal for constitutional reform in security and rejects abandoning ILO Convention 169",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/23/biministro-alvarado-defiende-propuesta-de-reforma-constitucional-en-seguridad-y-rechaza-abandonar-el-convenio-169-de-la-oit/",
-        "published_date": "2026-08-23 19:19:31",
-        "category": "Military"
-    },
-    {
         "title": "The best pine empanada in Santiago is in La Florida: Gastronomic chroniclers announce their verdict",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/30/la-mejor-empanada-de-pino-de-santiago-esta-en-la-florida-cronistas-gastronomicos-dan-a-conocer-su-veredicto/",
@@ -124,6 +117,13 @@
         "url": "https://www.theclinic.cl/2026/08/24/sin-alegatos-de-la-sociedad-civil-tc-vera-requerimiento-del-gobierno-contra-el-articulo-que-obliga-a-reposicion-de-servicios-basicos/",
         "published_date": "2026-08-24 22:02:20",
         "category": "Energy"
+    },
+    {
+        "title": "Electromobility in Chile: sales are growing, but the transition has not yet reached the workshop",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/electromovilidad-en-chile/",
+        "published_date": "2026-08-31 21:59:51",
+        "category": "Economy"
     },
     {
         "title": "\u201cI began to understand it very early\u201d: Jorge Quiroz explains his transition to the right coming from a left-wing family",
@@ -182,11 +182,67 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cMercado de Colores\u201d brought together more than 100 exhibitors and 70 businesses in the Yungay neighborhood this Saturday.",
+        "title": "\u201cIt's good that it is a new alternative apart from the Movistar Arena\u201d: The positive reactions of the neighbors to the announcement of the Renca Arena",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/23/mercado-de-colores-de-yungay-reunio-este-sabado-a-mas-de-100-expositores-y-70-emprendimientos-en-el-barrio-yungay/",
-        "published_date": "2026-08-23 22:21:56",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/08/31/esta-bueno-que-sea-una-nueva-alternativa-aparte-del-movistar-arena-las-positivas-reacciones-de-los-vecinos-ante-el-anuncio-del-renca-arena/",
+        "published_date": "2026-09-01 01:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three out of four professionals have difficulties reconciling work and family: the main reason is not being able to disconnect",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/tres-de-cada-cuatro-profesionales-tienen-dificultades-para-conciliar-trabajo-y-familia-la-principal-razon-es-no-lograr-desconectarse/",
+        "published_date": "2026-09-01 00:34:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cerimedo bot farm promotes investigative commission in the Chamber to clarify its eventual participation in electoral processes in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/granja-de-bots-de-cerimedo-impulsa-comision-investigadora-en-la-camara-para-esclarecer-su-eventual-participacion-en-procesos-electorales-en-chile/",
+        "published_date": "2026-08-31 23:23:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "They break bars and set up real \u201cbars\u201d: how the street vendors that Santiago cannot eradicate from the Movistar Arena operate",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/rompen-rejas-y-montan-verdaderos-bares-como-operan-los-ambulantes-que-santiago-no-logra-erradicar-del-movistar-arena/",
+        "published_date": "2026-08-31 23:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The million-dollar transformation that Mall Curic\u00f3 is preparing: more than 70 new stores and a projected opening for 2028",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/la-millonaria-transformacion-que-prepara-mall-curico-mas-de-70-nuevos-locales-y-una-apertura-proyectada-para-2028/",
+        "published_date": "2026-08-31 22:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venice Festival 2026: Mariana di Girolamo and the other Chilean representatives arriving at the event",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/festival-de-venecia-2026-mariana-di-girolamo-y-los-otros-representantes-chilenos-que-llegan-al-certamen/",
+        "published_date": "2026-08-31 22:36:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "He went to buy wood at an Easy store and a metal strap hit him in the eye: the company must pay him millionaire compensation",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/fue-a-comprar-madera-a-un-easy-y-un-zuncho-metalico-le-golpeo-el-ojo-empresa-debera-pagarle-millonaria-indemnizacion/",
+        "published_date": "2026-08-31 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where are they?: Minvu escalates dispute with Culture over archaeological findings and assures that they have cost $13 billion to social housing projects",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/donde-estan-poduje-escala-disputa-con-cultura-por-hallazgos-arqueologicos-y-asegura-que-han-costado-13-mil-millones-a-proyectos-de-vivienda-sociales/",
+        "published_date": "2026-08-31 22:11:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe thread was cut at the thinnest point\u201d: Lautaro Carmona's new criticism of the Boric government due to the departure of one of his PC ministers",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/08/31/se-corto-el-hilo-por-lo-mas-delgado-las-nuevas-criticas-de-lautaro-carmona-al-gobierno-de-boric-por-la-salida-de-uno-de-sus-ministros-pc/",
+        "published_date": "2026-08-31 22:10:00",
+        "category": "Local Events"
     },
     {
         "title": "The meeting at Garc\u00eda's (RN) house with ministers and party presidents to order the ruling party in the face of the Government's criticized security reform",
@@ -263,69 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/08/30/ignacia-michelson-gana-el-miss-grand-chile-2026-y-representara-al-pais-en-certamen-internacional-que-se-realizara-en-india/",
         "published_date": "2026-08-30 22:05:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Adolescents choosing careers under pressure: 75% present symptoms of anxiety or depression and 65% consider it a \u201clife or death\u201d decision",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/adolescentes-eligiendo-carreras-bajo-presion-un-75-presenta-sintomas-de-ansiedad-o-depresion-y-un-65-considera-que-es-una-decision-de-vida-o-muerte/",
-        "published_date": "2026-08-30 21:33:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Sampaoli leaves Talleres after just seven dates: he will only be paid until his last day worked",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/jorge-sampaoli-deja-talleres-tras-apenas-siete-fechas-cobrara-solo-hasta-su-ultimo-dia-trabajado/",
-        "published_date": "2026-08-30 19:09:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cMy performance is absolutely correct\u201d: Pedro Araya says that he has \u201cnothing to evaluate\u201d after the PPD called to reflect on his permanence in the party",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/mi-actuacion-es-absolutamente-correcta-pedro-araya-dice-que-no-tiene-nada-que-evaluar-tras-llamado-del-ppd-a-reflexionar-sobre-su-permanencia-en-el-partido/",
-        "published_date": "2026-08-30 18:15:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is \u201cR15\u201d, the Venezuelan detained in Peru and who would be the leader of the Aragua Train in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/quien-es-r15-el-venezolano-detenido-en-peru-y-que-seria-el-cabecilla-del-tren-de-aragua-en-chile/",
-        "published_date": "2026-08-30 16:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister Rau regarding changes to working hours: \u201cThe willingness for dialogue is there, but to reach good agreements that do not affect the heart of the changes we want to make\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/ministro-rau-ante-cambios-a-jornada-laboral-la-disposicion-de-dialogo-esta-pero-para-llegar-a-buenos-acuerdos-que-no-afecten-el-corazon-de-los-cambios-que-queremos-hacer/",
-        "published_date": "2026-08-30 12:59:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Alessandri (UDI), president of the Chamber: \u201cThe constitutional reform is not life or death for the security agenda\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/jorge-alessandri-udi-presidente-de-la-camara-la-reforma-constitucional-no-es-de-vida-o-muerte-para-la-agenda-de-seguridad/",
-        "published_date": "2026-08-30 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paulina Vodanovic, president of the PS: \u201cI'm tired of labels, I'm not a hinge or any other adjective\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/paulina-vodanovic-presidenta-del-ps-me-canse-de-los-rotulos-yo-no-soy-bisagra-ni-ningun-otro-adjetivo/",
-        "published_date": "2026-08-30 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Editorial: Embrace the difference",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/editorial-abrazar-la-diferencia/",
-        "published_date": "2026-08-30 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Juan Francisco Galli, former Undersecretary of the Interior / The Meta agreement and the bots: the addiction that also damages democracy",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/columna-de-juan-francisco-galli-exsubsecretario-del-interior-el-acuerdo-de-meta-y-los-bots-la-adiccion-que-tambien-dana-la-democracia/",
-        "published_date": "2026-08-30 12:00:00",
         "category": "Local Events"
     }
 ]
