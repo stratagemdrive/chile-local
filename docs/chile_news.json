@@ -112,6 +112,13 @@
         "category": "Energy"
     },
     {
+        "title": "Power Newsletter: The economy does not wake up La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/newsletter-poder-la-economia-no-despierta-a-la-moneda/",
+        "published_date": "2026-09-05 12:00:00",
+        "category": "Economy"
+    },
+    {
         "title": "The unusual reaction of a driver who occupied a parking lot reserved for people with disabilities: \u201cThen I will park properly, on the chair\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/04/la-insolita-reaccion-de-conductora-que-ocupo-estacionamiento-reservado-para-personas-con-discapacidad-entonces-me-estacionare-bien-sobre-la-silla/",
@@ -196,6 +203,69 @@
         "category": "Economy"
     },
     {
+        "title": "Josefina Montan\u00e9 becomes Marilyn Monroe: \u201cMy first character was also a sexy bomb and I couldn't get that off of me\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/josefina-montane-se-convierte-en-marilyn-monroe-mi-primer-personaje-tambien-era-una-bomba-sexy-y-eso-no-me-lo-he-podido-sacar/",
+        "published_date": "2026-09-05 12:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The fog that does not clear in Curilemu: the seven-year crusade of the Chilean video game that seeks to turn the mythology of Chilo\u00e9 into an adventure",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/la-niebla-que-no-despeja-en-curilemu-la-obstinada-cruzada-del-videojuego-chileno-que-busca-convertir-la-mitologia-de-chiloe-en-una-aventura/",
+        "published_date": "2026-09-05 12:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pablo Larra\u00edn returns with Netflix, ghosts and Mariana Enr\u00edquez: \u201cI have been able to continue working on the things I like\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/pablo-larrain-vuelve-con-netflix-fantasmas-y-mariana-enriquez-he-podido-seguir-trabajando-las-cosas-que-me-gustan/",
+        "published_date": "2026-09-05 12:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI'm 28 years old and I lost my bladder\u201d: the stories behind the shocking increase of more than 2,700% in ketamine poisonings in six years",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/tengo-28-anos-y-perdi-mi-vejiga-las-historias-detras-del-impactante-aumento-de-mas-de-2-700-de-intoxicaciones-por-ketamina-en-seis-anos/",
+        "published_date": "2026-09-05 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marco Moreno's column: Kast before his own",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/kast-ante-los-suyos/",
+        "published_date": "2026-09-05 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four years after the triumph of the Rejection, what do you think and what happened to the members of the controversial People's List?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/05/a-cuatro-anos-del-triunfo-del-rechazo-que-piensan-y-que-fue-de-los-integrantes-de-la-controvertida-lista-del-pueblo/",
+        "published_date": "2026-09-05 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Lautaro Carmona to Evelyn Matthei: Chilean politics fires Camilo Escalona and highlights his role as a formator and precursor of agreements",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/04/de-lautaro-carmona-a-evelyn-matthei-la-politica-chilena-despide-a-camilo-escalona-y-destaca-su-rol-como-formador-y-precursor-de-acuerdos/",
+        "published_date": "2026-09-05 02:55:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Boric remembers Camilo Escalona firmly supporting his government \u201cwhen it would have been easier to take the stage\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/04/boric-recuerda-a-camilo-escalona-apoyando-firmemente-a-su-gobierno-cuando-hubiese-sido-mas-facil-tomar-palco/",
+        "published_date": "2026-09-05 02:10:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kast highlights the career of Camilo Escalona: \u201cHe dedicated his life to defending his convictions\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/04/kast-destaca-la-trayectoria-de-camilo-escalona-dedico-su-vida-a-defender-sus-convicciones/",
+        "published_date": "2026-09-05 01:47:33",
+        "category": "Local Events"
+    },
+    {
         "title": "What \u201cEqual Earth\u201d is about, the new world map approved by the UN and why the United States was the only country that voted against",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/04/de-que-se-trata-equal-earth-el-nuevo-mapamundi-aprobado-por-la-onu-y-por-que-estados-unidos-fue-el-unico-pais-que-voto-en-contra/",
@@ -270,69 +340,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/04/de-cara-a-fiestas-patrias-dos-de-cada-diez-chilenos-creen-que-es-socialmente-aceptable-conducir-bajo-efectos-del-alcohol/",
         "published_date": "2026-09-04 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Director of the Migration Policy Center questions Government measures against irregular migration: \u201cIf it is only sanctioning and controlling, we are making the problem worse\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/04/director-del-centro-de-politicas-migratorias-cuestiona-medidas-del-gobierno-contra-la-migracion-irregular-si-solo-es-sancionar-y-controlar-estamos-empeorando-el-problema/",
-        "published_date": "2026-09-04 12:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zoom on electromobility in the city of the future: The gap between the desire for electrification and urban reality in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/04/electromovilidad-chile-estudio-volvo-cadem-2026/",
-        "published_date": "2026-09-04 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicol\u00e1s Glisser, project leader of the new AFP Multiplica, evaluates the system's investment regime and reaffirms: \u201cIn a scheme like this, competing is possible\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/04/nicolas-glisser-de-proyecto-de-nueva-afp-multiplica-valora-regimen-de-inversion-al-sistema-en-un-esquema-asi-competir-es-posible/",
-        "published_date": "2026-09-04 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kast at the Madrid Forum: \"In these three years, if we don't do things properly, they are going to pay us the bill. And the left could come back\"",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/03/kast-en-el-foro-madrid-en-estos-tres-anos-si-no-hacemos-las-cosas-como-corresponde-nos-van-a-pasar-la-cuenta-y-la-izquierda-podria-volver/",
-        "published_date": "2026-09-03 23:17:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sebasti\u00e1n Sichel, mayor of \u00d1u\u00f1oa: \u201cI openly declare myself an opponent of the Frente Amplio because I believe they do not want to build agreements\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/03/sebastian-sichel-alcalde-de-nunoa-yo-me-declaro-abiertamente-opositor-del-frente-amplio-porque-creo-que-no-quieren-construir-acuerdos/",
-        "published_date": "2026-09-03 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students return to the streets: schoolchildren and university students will mobilize this Thursday in rejection of the measures of the Kast Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/03/estudiantes-vuelven-a-la-calle-escolares-y-universitarios-se-movilizaran-este-jueves-en-rechazo-a-medidas-del-gobierno-de-kast/",
-        "published_date": "2026-09-03 14:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cadem study: 78% of Chileans have used generative AI and almost half discover new brands with it",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/03/estudio-de-cadem-el-78-de-los-chilenos-ha-usado-ia-generativa-y-casi-la-mitad-descubre-nuevas-marcas-con-ella/",
-        "published_date": "2026-09-03 14:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI think she is going to be part of the revolution\u201d: Mariana Di Girolamo returns to Venice and unravels her character in Wild Horse Nine",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/03/creo-que-ella-va-a-ser-parte-de-la-revolucion-mariana-di-girolamo-vuelve-a-venecia-y-desentrana-su-personaje-en-pelicula-sobre-la-cia-en-el-chile-de-allende/",
-        "published_date": "2026-09-03 14:06:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Triumph's strategic leap in Chile: More power and equipment for the mid-segment",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/03/triumph-tiger-900-alpine-desert-chile/",
-        "published_date": "2026-09-03 13:59:34",
         "category": "Local Events"
     }
 ]
