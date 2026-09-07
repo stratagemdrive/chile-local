@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kast shields Chancellor P\u00e9rez Mackenna in the midst of widespread criticism of his management",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/kast-blinda-a-canciller-perez-mackenna-en-medio-de-auge-de-criticas-transversales-a-su-gestion/",
+        "published_date": "2026-09-07 15:14:02",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Former Defense Ministers warn of risks of postponing Armed Forces financing in the face of Peru's military advance and Argentina's statements about Magellan",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/06/exministros-de-defensa-advierten-riesgos-de-postergar-financiamiento-de-ffaa-ante-avance-militar-de-peru-y-dichos-de-argentina-sobre-magallanes/",
@@ -98,13 +105,6 @@
         "category": "Military"
     },
     {
-        "title": "\u201cMapuche Loco\u201d: the story of Jos\u00e9 Calfucura, the chef who rescued an abandoned house in Cerrillos and created a restaurant that rescues the flavors of his roots",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/mapuche-loco-la-historia-de-jose-calfucura-el-chef-que-rescato-una-casa-abandonada-en-cerrillos-y-creo-un-restaurante-que-rescata-los-sabores-de-sus-raices/",
-        "published_date": "2026-08-30 13:02:11",
-        "category": "Military"
-    },
-    {
         "title": "From $600 million in Providencia to $70 million in Maip\u00fa: how much do municipalities spend on inns to celebrate the 2026 National Holidays",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/03/de-600-millones-en-providencia-a-70-millones-en-maipu-cuanto-gastan-los-municipios-en-fondas-para-celebrar-las-fiestas-patrias-2026/",
@@ -119,11 +119,11 @@
         "category": "Energy"
     },
     {
-        "title": "The best pine empanada in Santiago is in La Florida: Gastronomic chroniclers announce their verdict",
+        "title": "Kast affirms that it has met safety expectations in its first six months: \u201cYou see this reflected in objective figures\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/08/30/la-mejor-empanada-de-pino-de-santiago-esta-en-la-florida-cronistas-gastronomicos-dan-a-conocer-su-veredicto/",
-        "published_date": "2026-08-30 13:59:45",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/09/07/kast-afirma-que-ha-cumplido-con-la-expectativas-de-seguridad-en-sus-primeros-seis-meses-uno-eso-lo-ve-reflejado-en-cifras-objetivas/",
+        "published_date": "2026-09-07 12:46:16",
+        "category": "Economy"
     },
     {
         "title": "Scotiabank chief economist: \u201cWe project to close 2026 with a growth of 0.3%, well below the base scenario of the Treasury and the Central Bank\u201d",
@@ -217,6 +217,62 @@
         "category": "Economy"
     },
     {
+        "title": "INE: real salaries grow 4.1% in July, with a variation of 2.8% so far this year",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/ine-remuneraciones-reales-crecen-41-en-julio-con-una-variacion-de-28-en-lo-que-va-del-ano/",
+        "published_date": "2026-09-07 16:03:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lack of signage, poor hydration and 21km that ended up being 17km: first version of \u201cLa Serena Marathon\u201d leaves its attendees annoyed",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/falta-de-senaletica-hidratacion-deficiente-y-21km-que-terminaron-siendo-17km-primera-version-de-maraton-la-serena-deja-molesto-a-sus-asistentes/",
+        "published_date": "2026-09-07 15:46:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Less than a month after her departure from the cabinet: Natalia Duco joins the Second Floor of La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/a-menos-de-un-mes-de-su-salida-del-gabinete-natalia-duco-se-incorpora-al-segundo-piso-de-la-moneda/",
+        "published_date": "2026-09-07 14:43:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pe\u00f1alol\u00e9n closes \u201cclandestine\u201d medialuna in the run-up to National Holidays: they carried out rodeos without authorization and operated without a license",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/penalolen-clausura-medialuna-clandestina-en-la-previa-de-fiestas-patrias-realizaban-rodeos-sin-autorizacion-y-operaba-sin-patente/",
+        "published_date": "2026-09-07 14:22:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cLook what we get out of your bladder\u201d: Doctor warns about the dangers of ketamine consumption",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/miren-lo-que-sacamos-de-su-vejiga-doctor-advierte-sobre-los-peligros-del-consumo-de-ketamina/",
+        "published_date": "2026-09-07 13:33:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why the SML keeps about 80 bodies in two containers in the patio of its headquarters in Recoleta: the long waiting list that affects the service",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/por-que-el-sml-mantiene-cerca-de-80-cuerpos-en-dos-containers-en-el-patio-de-su-sede-de-recoleta-la-larga-lista-de-espera-que-afecta-al-servicio/",
+        "published_date": "2026-09-07 13:16:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Audi A2 e-tron: Audi's commitment to squeezing every electric kilometer",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/audi-a2-e-tron-electrico-compacto/",
+        "published_date": "2026-09-07 13:11:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the classroom to the Valdivian forest: the \u201cExplorer's Path\u201d that invites children to recover free play and nature",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/07/del-aula-al-bosque-valdiviano-el-sendero-del-explorador-que-invita-a-los-ninos-a-recuperar-el-juego-libre-y-la-naturaleza/",
+        "published_date": "2026-09-07 11:39:00",
+        "category": "Local Events"
+    },
+    {
         "title": "The green miracle of the Atacama Desert: the decade of trials that managed to plant thousands of cacti in the driest soil in the country",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/06/el-milagro-verde-del-desierto-de-atacama-la-decada-de-ensayos-que-logro-plantar-miles-de-cactaceas-en-el-suelo-mas-seco-del-pais/",
@@ -298,62 +354,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/06/columna-de-luis-cordero-exministro-de-seguridad-el-riesgo-de-terminar-en-un-simbolo/",
         "published_date": "2026-09-06 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last hours of Camilo Escalona and the day after the death of the historic leader of the PS",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/06/las-ultimas-horas-de-camilo-escalona-y-el-dia-despues-de-la-muerte-del-historico-dirigente-del-ps/",
-        "published_date": "2026-09-06 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver of the minibus that was embedded in a house in Playa Ancha tested positive for cocaine",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/chofer-del-microbus-que-quedo-incrustado-en-una-casa-en-playa-ancha-dio-positivo-por-cocaina/",
-        "published_date": "2026-09-05 21:59:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Allamand and his political life intertwined with Escalona: \u201cI always had the greatest respect for him, fundamentally because of his commitment\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/allamand-y-su-vida-politica-entrelazada-con-escalona-siempre-le-tuve-el-mayor-respeto-fundamentalmente-por-su-compromiso/",
-        "published_date": "2026-09-05 16:45:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two days of official mourning for the death of Camilo Escalona: this implies the measure decreed by the Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/dos-dias-de-duelo-oficial-por-la-muerte-de-camilo-escalona-esto-implica-la-medida-decretada-por-el-gobierno/",
-        "published_date": "2026-09-05 15:44:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Kike Mujica: The long return of Camilo and Gabriel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/columna-de-kike-mujica-la-vuelta-larga-de-camilo-y-gabriel/",
-        "published_date": "2026-09-05 15:04:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 73-year-old man was arrested in Florida: he is accused of participating in at least 1,482 issuances of false medical licenses",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/hombre-de-73-anos-fue-detenido-en-la-florida-es-acusado-de-participar-en-al-menos-1-482-emisiones-de-licencias-medicas-falsas/",
-        "published_date": "2026-09-05 14:13:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Josefina Montan\u00e9 becomes Marilyn Monroe: \u201cMy first character was also a sexy bomb and I couldn't get that off of me\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/josefina-montane-se-convierte-en-marilyn-monroe-mi-primer-personaje-tambien-era-una-bomba-sexy-y-eso-no-me-lo-he-podido-sacar/",
-        "published_date": "2026-09-05 12:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fog that does not clear in Curilemu: the seven-year crusade of the Chilean video game that seeks to turn the mythology of Chilo\u00e9 into an adventure",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/la-niebla-que-no-despeja-en-curilemu-la-obstinada-cruzada-del-videojuego-chileno-que-busca-convertir-la-mitologia-de-chiloe-en-una-aventura/",
-        "published_date": "2026-09-05 12:15:00",
         "category": "Local Events"
     }
 ]
