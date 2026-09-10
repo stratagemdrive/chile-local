@@ -70,27 +70,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cIt is nothing more than summoning the minister to answer\u201d: Deputy Venegas announces an interpellation against Chancellor P\u00e9rez",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/01/no-es-mas-que-citar-al-ministro-para-que-conteste-diputado-venegas-anuncia-interpelacion-contra-canciller-perez/",
-        "published_date": "2026-09-01 23:23:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "\u201cWe will see if he is as patriotic as he has indicated\u201d: PS calls on Kast for sovereignty of the Strait of Magellan",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/01/veremos-si-es-tan-patriota-como-lo-ha-senalado-ps-emplaza-a-kast-por-soberania-del-estrecho-de-magallanes/",
-        "published_date": "2026-09-01 22:09:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Boric's visit to Germany at a forum of intellectuals and his private meeting with Angela Merkel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/01/el-paso-de-boric-por-alemania-en-foro-de-intelectuales-y-su-reunion-privada-con-angela-merkel/",
-        "published_date": "2026-09-01 15:19:21",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Paulina N\u00fa\u00f1ez, president of the Senate (RN): \u201cWhen the President has to go out to correct a minister, this becomes a problem\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/08/paulina-nunez-presidenta-del-senado-rn-cuando-el-presidente-tiene-que-salir-a-corregir-a-un-ministro-este-se-transforma-en-un-problema/",
@@ -126,11 +105,11 @@
         "category": "Military"
     },
     {
-        "title": "Embargo on the Santiago 2023 Corporation: they order to retain more than $135 million and a lawyer denounces that the accounts were previously emptied",
+        "title": "Fuels rise this week: gasoline and diesel lead the rise",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/01/embargo-a-la-corporacion-santiago-2023-ordenan-retener-mas-de-135-millones-y-abogado-denuncia-que-las-cuentas-fueron-vaciadas-previamente/",
-        "published_date": "2026-09-01 21:55:00",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/09/09/combustibles-suben-esta-semana-gasolinas-y-diesel-lideran-el-alza/",
+        "published_date": "2026-09-09 20:39:07",
+        "category": "Energy"
     },
     {
         "title": "Antofagasta wants to have its own Metro: they want the state company to study and operate a train to Mejillones",
@@ -159,6 +138,27 @@
         "url": "https://www.theclinic.cl/2026/09/02/nuevo-motor-rotativo-de-mazda-patente-deportivo/",
         "published_date": "2026-09-02 12:30:00",
         "category": "Energy"
+    },
+    {
+        "title": "Mar\u00eda Paz Lagos, Undersecretary of Tourism: \u201cWe project between 1.1 and 1.3 million trips\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/maria-paz-lagos-subsecretaria-de-turismo-proyectamos-entre-11-y-13-millones-de-viajes/",
+        "published_date": "2026-09-09 22:45:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Tesla's dimensional leap: the six-passenger variant that seeks to solve long trips in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/tesla-model-y-l-chile-suv-seis-pasajeros/",
+        "published_date": "2026-09-09 20:30:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Plugged in daily, half charged: the habits that decide how long a plug-in hybrid battery lasts",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/extender-vida-util-bateria-phev/",
+        "published_date": "2026-09-09 20:00:00",
+        "category": "Economy"
     },
     {
         "title": "Kast on the scenario facing the country: \u201cWe are in a critical situation, but we have hope that we will get ahead\u201d",
@@ -259,11 +259,46 @@
         "category": "Economy"
     },
     {
-        "title": "From a cheaper banking system for SMEs and homes to a new statute for startups, it includes the reform of the Treasury capital market",
+        "title": "A paradise for readers: the bookstore that saves new books from oblivion and sells them at unbeatable prices",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/01/desde-un-sistema-bancario-mas-barato-para-pymes-y-viviendas-hasta-un-nuevo-estatuto-startups-incluye-la-reforma-al-mercado-de-capitales-de-hacienda/",
-        "published_date": "2026-09-01 22:36:24",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/09/un-paraiso-para-los-lectores-la-libreria-que-salva-libros-nuevos-del-olvido-y-los-vende-a-precios-imbatibles/",
+        "published_date": "2026-09-09 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The discreet visit of the leaders of VOX from Spain to La Moneda to meet with President Kast",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/la-discreta-visita-de-los-dirigentes-de-vox-de-espana-a-la-moneda-para-reunirse-con-el-presidente-kast/",
+        "published_date": "2026-09-09 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Memory, heritage and social networks: The premieres and returns of the Chilean classics that take over the Teatro Mori billboard in September",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/memoria-patrimonio-y-redes-sociales-los-estrenos-y-regresos-de-los-clasicos-chilenos-que-se-toman-la-cartelera-de-teatro-mori-en-septiembre/",
+        "published_date": "2026-09-09 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The end of an era in Plaza Italia: iconic Claro sign in the Torres San Borja building is replaced by Ita\u00fa advertising after 17 years",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/el-fin-de-una-era-en-plaza-italia-iconico-cartel-de-claro-en-edificio-de-las-torres-san-borja-es-reemplazado-por-publicidad-itau-tras-17-anos/",
+        "published_date": "2026-09-09 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Return before the end of the year: Chilevisi\u00f3n announced the return of \u201cBig Brother\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/regresa-antes-de-que-termine-el-ano-chilevision-anuncio-el-retorno-de-gran-hermano/",
+        "published_date": "2026-09-09 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Water intelligence in the field: RiegaBien, the app that helps farmers adapt to climate change",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/09/inteligencia-hidrica-en-el-campo-riegabien-la-app-que-ayuda-a-los-agricultores-a-adaptarse-al-cambio-climatico/",
+        "published_date": "2026-09-09 19:45:00",
+        "category": "Local Events"
     },
     {
         "title": "The painful end of Ximena Aguilera's mother: she died seven months after questionable surgery and those close to her defend the speed of care due to its severity",
@@ -361,48 +396,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/08/pudahuel-planta-su-primer-bosque-comestible-se-trata-de-100-arboles-frutales-para-beneficio-de-sus-vecinos/",
         "published_date": "2026-09-08 13:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jere Klein confirms show at the Santander Arena with a surprise appearance by Sergio Lagos and a nod to Daddy Yankee",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/jere-klein-anuncia-el-llamado-su-nuevo-gran-show-en-el-santander-arena-esto-no-fue-casualidad-me-la-busque/",
-        "published_date": "2026-09-08 13:41:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Costanera Center could grow again: Cencosud resumes efforts for the two towers of the original project that were never built",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/costanera-center-podria-volver-a-crecer-cencosud-retoma-gestiones-por-las-dos-torres-del-proyecto-original-que-nunca-se-construyeron/",
-        "published_date": "2026-09-08 13:38:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The most exclusive school in Chile opened scholarships that cover tuition, monthly fees, food, computers and even study trips: check how to apply",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/el-colegio-mas-exclusivo-de-chile-abrio-becas-que-cubren-matricula-mensualidad-alimentacion-computador-y-hasta-viajes-de-estudio-revisa-como-postular/",
-        "published_date": "2026-09-08 13:36:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cTotal inspection\u201d of the Boric government: Kast administration will send information from 4 ministries to the Prosecutor's Office for alleged irregularities",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/inspeccion-total-al-gobierno-de-boric-administracion-de-kast-enviara-informacion-de-4-ministerios-a-fiscalia-por-presuntas-irregularidades/",
-        "published_date": "2026-09-08 13:11:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Letter to the director: 45 hours a week on social networks",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/carta-a-la-directora-45-horas-semanales-en-redes-sociales/",
-        "published_date": "2026-09-08 13:11:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Astrophysics in three dimensions: how science managed to capture the wedding dance of massive stars for the first time",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/astrofisica-en-tres-dimensiones-como-la-ciencia-logro-captar-la-danza-nupcial-de-estrellas-masivas-por-primera-vez/",
-        "published_date": "2026-09-08 11:42:00",
         "category": "Local Events"
     }
 ]
