@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ossand\u00f3n's criticism of Brandon Judd after sayings about the social outbreak: \u201cIt is clear that his expertise in diplomacy is not very deep\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/las-criticas-de-ossandon-a-brandon-judd-tras-dichos-sobre-el-estallido-social-se-nota-que-su-expertise-en-diplomacia-no-es-muy-profundo/",
+        "published_date": "2026-09-10 12:19:03",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cIt came from left-wing organizations\u201d: Foreign Ministry summons Ambassador Brandon Judd to provide background information after statements about the origin of the social outbreak",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/09/provino-de-organizaciones-de-izquierda-cancilleria-cita-al-embajador-brandon-judd-a-entregar-antecedentes-tras-dichos-sobre-el-origen-del-estallido-social/",
@@ -60,13 +67,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/03/tras-bilateral-milei-reconoce-soberania-chilena-sobre-el-estrecho-de-magallanes-y-kast-pide-a-reino-unido-retomar-dialogo-por-las-malvinas/",
         "published_date": "2026-09-03 22:08:03",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Minister P\u00e9rez Mackena by decree of the Strait of Magellan with Argentina: \u201cThey have to comply with what they promised us and sign it\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/02/canciller-perez-mackena-por-decreto-del-estrecho-de-magallanes-con-argentina-tienen-que-cumplir-con-lo-que-nos-prometieron-y-firmarlo/",
-        "published_date": "2026-09-02 13:21:58",
         "category": "Diplomacy"
     },
     {
@@ -133,11 +133,11 @@
         "category": "Energy"
     },
     {
-        "title": "The return of the Wankel engine: The technical obsession with which Mazda challenges the electric era",
+        "title": "Chery restructures the HIMLA range in Chile: new suspension and three versions for work and adventure",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/02/nuevo-motor-rotativo-de-mazda-patente-deportivo/",
-        "published_date": "2026-09-02 12:30:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/09/10/chery-himla-chile-versiones-precios-renovacion/",
+        "published_date": "2026-09-10 11:00:00",
+        "category": "Economy"
     },
     {
         "title": "Mar\u00eda Paz Lagos, Undersecretary of Tourism: \u201cWe project between 1.1 and 1.3 million trips\u201d",
@@ -259,6 +259,48 @@
         "category": "Economy"
     },
     {
+        "title": "Government opens to reactivate the urban park project on the Central Highway in Santiago after an official notice due to its paralysis",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/gobierno-se-abre-a-reactivar-el-proyecto-del-parque-urbano-sobre-la-autopista-central-en-santiago-tras-oficio-por-su-paralizacion/",
+        "published_date": "2026-09-10 14:32:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "From suspicion to hegemony: the Chinese car safety offensive in Euro NCAP and ANCAP",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/autos-chinos-5-estrellas-seguridad-protocolos-ncap-geely-ex2/",
+        "published_date": "2026-09-10 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without traditional employment and refugees in the networks: 90% of new female jobs are on digital platforms",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/sin-empleo-tradicional-y-refugiadas-en-las-redes-el-90-de-los-nuevos-trabajos-femeninos-esta-en-plataformas-digitales/",
+        "published_date": "2026-09-10 13:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A drone to monitor between mausoleums and dark sectors: the new measure of the Catholic Cemetery after the theft of a 50 kilo Christ",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/un-dron-para-vigilar-entre-mausoleos-y-sectores-oscuros-la-nueva-medida-del-cementerio-catolico-tras-robo-de-cristo-de-50-kilos/",
+        "published_date": "2026-09-10 13:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of Ricardo Pincheira, Allende's advisor and medical student who disappeared during the dictatorship who will receive a posthumous degree 53 years after his death",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/la-historia-de-ricardo-pincheira-asesor-de-allende-y-estudiante-de-medicina-desaparecido-en-dictadura-que-recibira-titulo-postumo-a-53-anos-de-su-muerte/",
+        "published_date": "2026-09-10 13:13:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to $4 million pesos: know the value of the new iPhone 18 Pro, Pro Max and iPhone Duo in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/10/hasta-4-millones-de-pesos-conoce-el-valor-de-los-nuevos-iphone-18-pro-pro-max-y-iphone-duo-en-chile/",
+        "published_date": "2026-09-10 12:10:38",
+        "category": "Local Events"
+    },
+    {
         "title": "A paradise for readers: the bookstore that saves new books from oblivion and sells them at unbeatable prices",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/09/un-paraiso-para-los-lectores-la-libreria-que-salva-libros-nuevos-del-olvido-y-los-vende-a-precios-imbatibles/",
@@ -354,48 +396,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/08/vuelve-la-lluvias-a-santiago-cuando-comenzaran-las-precipitaciones-y-cuantos-milimetros-podrian-caer/",
         "published_date": "2026-09-08 22:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They used fake signatures from Mayor Vodanovic: they closed irregular daycare in Maip\u00fa",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/usaban-firmas-falsas-del-alcalde-vodanovic-clausuran-guarderia-irregular-en-maipu/",
-        "published_date": "2026-09-08 21:56:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who replaces Escalona on the board?The imminent discussion that is looming in the PS to assume the position that the historic leader left vacant",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/quien-reemplaza-a-escalona-en-la-directiva-la-inminente-discusion-que-se-avecina-en-el-ps-para-asumir-el-cargo-que-el-historico-dirigente-dejo-vacante/",
-        "published_date": "2026-09-08 21:24:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New report from the Fontaine era points to the association with private companies in El Abra as the successful model to replicate in the future",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/nuevo-reporte-de-la-era-de-fontaine-apunta-a-la-asociacion-con-privados-en-el-abra-como-el-modelo-de-exito-para-replicar-en-el-futuro/",
-        "published_date": "2026-09-08 21:12:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rolando Jim\u00e9nez, founder of Movilh, was hit by a truck in Providencia and remains hospitalized: driver fled and was arrested",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/rolando-jimenez-fue-atropellado-por-un-camion-en-providenica-y-permanece-hospitalizado-conductor-se-dio-a-la-fuga-y-fue-detenido/",
-        "published_date": "2026-09-08 21:09:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "What the results of the PISA test say about Chilean education and the challenge of enchanting students with learning again",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/que-dicen-los-malos-resultados-de-la-prueba-pisa-sobre-la-educacion-chilena-y-el-desafio-de-volver-a-encantar-a-los-estudiantes-con-el-aprendizaje/",
-        "published_date": "2026-09-08 21:03:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pudahuel plants its first Edible Forest: it involves 100 fruit trees for the benefit of its neighbors",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/pudahuel-planta-su-primer-bosque-comestible-se-trata-de-100-arboles-frutales-para-beneficio-de-sus-vecinos/",
-        "published_date": "2026-09-08 13:50:00",
         "category": "Local Events"
     }
 ]
