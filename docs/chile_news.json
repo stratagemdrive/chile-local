@@ -1,5 +1,12 @@
 [
     {
+        "title": "Brandon Judd, US ambassador: \u201cIf people get upset by my answers, the problem is theirs\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/brandon-judd-embajador-de-ee-uu-si-las-personas-se-molestan-por-mis-respuestas-el-problema-es-de-ellos/",
+        "published_date": "2026-09-13 14:43:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ossand\u00f3n's criticism of Brandon Judd after sayings about the social outbreak: \u201cIt is clear that his expertise in diplomacy is not very deep\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/10/las-criticas-de-ossandon-a-brandon-judd-tras-dichos-sobre-el-estallido-social-se-nota-que-su-expertise-en-diplomacia-no-es-muy-profundo/",
@@ -126,6 +133,27 @@
         "category": "Energy"
     },
     {
+        "title": "Claudio Agostini, economist: \"Why is being an owner better than being a tenant and why does the State prefer an option for you? From an economic point of view, it makes no sense\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/claudio-agostini-economista-por-que-ser-propietario-es-mejor-que-ser-arrendatario-y-por-que-el-estado-prefiere-una-opcion-para-ti-del-punto-de-vista-economico-no-tiene-sentido/",
+        "published_date": "2026-09-13 11:15:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Goodbye to two-thirds: the capital market reform that reconfigures power between controllers and minorities",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/adios-a-los-dos-tercios-la-reforma-al-mercado-de-capitales-que-reconfigura-el-poder-entre-controladores-y-minoritarios/",
+        "published_date": "2026-09-13 11:05:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Column by Juan Francisco Galli: The economy of the social outbreak",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/columna-de-juan-francisco-galli-la-economia-del-estallido-social/",
+        "published_date": "2026-09-13 11:00:00",
+        "category": "Economy"
+    },
+    {
         "title": "Minister of Health, May Chomali: \u201cIt doesn't suit me at all to be the wayward or rebellious one\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/12/ministra-de-salud-may-chomali-no-me-acomoda-nada-ser-la-discola-o-la-rebelde/",
@@ -224,11 +252,46 @@
         "category": "Economy"
     },
     {
-        "title": "Power Newsletter: The economy does not wake up La Moneda",
+        "title": "C\u00e9line Dion sings again after six years away from the stage: tears and emotion on her return in Paris",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/05/newsletter-poder-la-economia-no-despierta-a-la-moneda/",
-        "published_date": "2026-09-05 12:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/13/celine-dion-vuelve-a-cantar-tras-seis-anos-alejada-de-los-escenarios-lagrimas-y-emocion-en-su-regreso-en-paris/",
+        "published_date": "2026-09-13 13:18:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Rancho Cunaquino: the former boarding house for teachers that became a cult hotspot for chefs and winegrowers from Colchagua",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/el-rancho-cunaquino-la-antigua-pension-para-profesores-que-se-convirtio-en-una-picada-de-culto-para-chefs-y-vinateros-de-colchagua/",
+        "published_date": "2026-09-13 11:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe important thing is to organize and not be silent\u201d: The documentary about Bachelet being prepared in the US that addresses the footprint of the dictatorship and its role in the UN",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/la-huella-de-la-dictadura-su-trabajo-en-ddhh-y-las-advertencias-sobre-la-democracia-el-documental-sobre-bachelet-que-preparan-en-estados-unidos/",
+        "published_date": "2026-09-13 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Editorial: Is the future of employment unemployment?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/editorial-el-futuro-del-empleo-es-el-desempleo/",
+        "published_date": "2026-09-13 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the shadow of the father: Kast Junior's first six months in Congress and the construction of his own political profile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/a-la-sombra-del-padre-los-primeros-seis-meses-de-kast-junior-en-el-congreso-y-la-construccion-de-su-propio-perfil-politico/",
+        "published_date": "2026-09-13 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kike Mujica Profile: Vinko Fodich's Chinese Shoe",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/13/perfil-de-kike-mujica-el-zapato-chino-de-vinko-fodich/",
+        "published_date": "2026-09-13 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "CEO of Anthropic calls for stopping the development of AI and warns of a \u201crace to the bottom\u201d",
@@ -326,48 +389,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/11/falabella-dice-adios-a-los-cmr-puntos-asi-funcionaran-los-nuevos-fpuntos-que-prometen-mas-beneficios/",
         "published_date": "2026-09-11 21:37:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcelo Schilling's (PS) criticism of Kast after the first September 11 without GAP in La Moneda: \u201cIt is painful that they try to forget these things\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/las-criticas-de-marcelo-schilling-ps-a-kast-tras-primer-11-de-septiembre-sin-gap-en-la-moneda-es-doloroso-que-se-trate-de-olvidar-estas-cosas/",
-        "published_date": "2026-09-11 21:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "3 years in prison and $10 million for damage to honor: what does the complaint that Franco Parisi filed against Gino Lorenzini say?",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/3-anos-de-carcel-y-10-millones-por-dano-a-la-honra-que-dice-la-querella-que-franco-parisi-interpuso-contra-gino-lorenzini/",
-        "published_date": "2026-09-11 21:22:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US$10 million project to restore the Carrasco Palace: this will be the art school that the historic Vi\u00f1a del Mar building will have",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/el-proyecto-de-us10-millones-para-restaurar-el-palacio-carrasco-asi-sera-la-escuela-de-arte-que-tendra-el-historico-edificio-de-vina-del-mar/",
-        "published_date": "2026-09-11 20:55:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emprende tu Mente started the countdown to EtMday 2026 and announced the news of its next edition",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/cuenta-regresiva-etmday-2026/",
-        "published_date": "2026-09-11 20:53:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Team building for remote teams: 3 ideas to reconnect in person",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/team-building-equipos-remotos-volver-conectar/",
-        "published_date": "2026-09-11 20:27:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government delivers Gift card of up to $1.6 million to fix your house: check who can apply for the Minvu benefit",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/gobierno-entrega-gift-card-de-hasta-16-millones-para-arreglar-tu-casa-revisa-quienes-pueden-postular-al-beneficio-del-minvu/",
-        "published_date": "2026-09-11 14:26:59",
         "category": "Local Events"
     }
 ]
