@@ -35,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Kast shields Chancellor P\u00e9rez Mackenna in the midst of widespread criticism of his management",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/07/kast-blinda-a-canciller-perez-mackenna-en-medio-de-auge-de-criticas-transversales-a-su-gestion/",
-        "published_date": "2026-09-07 15:14:02",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Kast's defense of his questioned new state of exception and the interception of telecommunications",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/14/la-defensa-de-kast-a-su-cuestionado-nuevo-estado-de-excepcion-y-la-interceptacion-de-las-telecomunicaciones/",
@@ -61,6 +54,13 @@
         "url": "https://www.theclinic.cl/2026/09/08/paulina-nunez-presidenta-del-senado-rn-cuando-el-presidente-tiene-que-salir-a-corregir-a-un-ministro-este-se-transforma-en-un-problema/",
         "published_date": "2026-09-08 11:00:00",
         "category": "Military"
+    },
+    {
+        "title": "There are already 46 departures of Government authorities in six months: the reasons behind the resignation of the Antofagasta Housing Seremi",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/ya-son-46-salidas-de-autoridades-de-gobierno-en-seis-meses-los-motivos-tras-la-renuncia-del-seremi-de-vivienda-de-antofagasta/",
+        "published_date": "2026-09-15 13:56:33",
+        "category": "Energy"
     },
     {
         "title": "With Louis de Grange, Daniel Mas, Jorge Quiroz and Ximena Rinc\u00f3n: the deployment of the economic cabinet at Chile Day in Madrid",
@@ -259,11 +259,67 @@
         "category": "Economy"
     },
     {
-        "title": "Kast affirms that it has met safety expectations in its first six months: \u201cYou see this reflected in objective figures\u201d",
+        "title": "The Metropolitan Region prepares for the 18th: these are the free restaurants that the capital will have these National Holidays",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/07/kast-afirma-que-ha-cumplido-con-la-expectativas-de-seguridad-en-sus-primeros-seis-meses-uno-eso-lo-ve-reflejado-en-cifras-objetivas/",
-        "published_date": "2026-09-07 12:46:16",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/15/la-region-metropolitana-se-prepara-para-el-18-estas-son-las-fondas-gratuitas-que-tendra-la-capital-estas-fiestas-patrias/",
+        "published_date": "2026-09-15 14:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The hidden dispute that arose in the PS over the vacant seat left by Camilo Escalona in the general secretary",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/la-soterrada-disputa-que-se-armo-en-el-ps-por-el-cupo-vacante-que-dejo-camilo-escalona-en-la-secretaria-general/",
+        "published_date": "2026-09-15 14:30:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Up to 28\u00b0C: the heat returns this week in the Metropolitan Region ahead of the National Holidays but rains could reappear on the 19th",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/hasta-28c-vuelve-el-calor-esta-semana-en-la-region-metropolitana-de-cara-a-las-fiestas-patrias-pero-lluvias-podrian-reaparecer-el-19/",
+        "published_date": "2026-09-15 14:21:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump interrupts Nvidia CEO and calls fears about the advancement of AI a \u201cfarce\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/trump-irrumpe-a-ceo-de-nvidia-y-tilda-de-farsa-los-temores-por-el-avance-de-la-ia/",
+        "published_date": "2026-09-15 14:04:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The sad paradox of youth well-being: Chile is among the best countries to be young, but they do not feel it that way",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/la-triste-paradoja-del-bienestar-juvenil-chile-esta-entre-los-mejores-paises-para-ser-joven-pero-ellos-no-lo-sienten-asi/",
+        "published_date": "2026-09-15 13:53:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey are just dead flies\u201d: Influencer Otakin denounces a restaurant for poor hygiene conditions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/son-puras-moscas-muertas-influencer-otakin-denuncia-a-restaurante-por-malas-condiciones-de-higiene/",
+        "published_date": "2026-09-15 13:45:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are not going to accept that inequality\u201d: Mayor Castro opposes the project of high voltage towers in Cerros de Renca and accuses risks in the Metropolitan Park",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/esa-desigualdad-no-la-vamos-a-aceptar-alcalde-castro-se-opone-a-proyecto-de-torres-de-alta-tension-en-cerros-de-renca-y-acusa-riesgos-en-el-parque-metropolitano/",
+        "published_date": "2026-09-15 13:26:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The art of speed: The indelible legacy of Ettore Bugatti 145 years after his birth",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/legado-de-ettore-bugatti-historia-e-innovaciones/",
+        "published_date": "2026-09-15 12:37:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stomach injuries and lack of nutrients: The impact of abusing omeprazole for several days in a row",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/lesiones-estomacales-y-falta-de-nutrientes-el-impacto-de-abusar-del-omeprazol-durante-varios-dias-seguidos/",
+        "published_date": "2026-09-15 12:36:21",
+        "category": "Local Events"
     },
     {
         "title": "MUBI FEST returns to Santiago with Cannes premieres, Chilean cinema and a program that includes Koreeda, Refn and Kristen Stewart",
@@ -340,69 +396,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/14/el-ajuste-tras-la-fusion-de-la-polar-y-abcdin-tiendas-abc-redujo-su-dotacion-en-711-personas-en-medio-de-proceso-de-reestructuracion/",
         "published_date": "2026-09-14 14:34:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe just cut off the parts of their wings\u201d: Representative Olivares causes reactions after showing a peacock as a pet on his networks",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/les-acabamos-de-cortar-las-partes-de-sus-alas-diputado-olivares-causa-reacciones-tras-mostrar-como-mascota-a-un-pavo-real-en-sus-redes/",
-        "published_date": "2026-09-14 14:22:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "TVN confirms premiere date of \u201cMasterChef\u201d: it will debut on October 4 in prime time",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/tvn-confirma-fecha-de-estreno-de-masterchef-debutara-el-4-de-octubre-en-horario-prime/",
-        "published_date": "2026-09-13 21:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Zabaleta explains why he has not returned to the soap operas: \u201cWhat I needed was not there\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/jorge-zabaleta-explica-por-que-no-ha-vuelto-a-las-teleseries-no-estaba-ahi-lo-que-necesitaba/",
-        "published_date": "2026-09-13 20:14:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mon Laferte and Melissa Aldana will represent Chile in NPR's Latin Music Month Tiny Desk",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/mon-laferte-y-melissa-aldana-representaran-a-chile-en-el-mes-de-la-musica-latina-de-npr-tiny-desk/",
-        "published_date": "2026-09-13 19:14:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kast participates in his first Evangelical Te Deum and calls for \u201creconciliation\u201d and \u201creunion\u201d in the month of the homeland",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/kast-participa-en-su-primer-te-deum-evangelico-y-llama-a-la-reconciliacion-y-al-reencuentro-en-el-mes-de-la-patria/",
-        "published_date": "2026-09-13 17:37:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mara Sedini: \u201cI could have built a great spokesperson if I had had more time and had been absolutely authentic in the position\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/mara-sedini-podria-haber-construido-una-gran-voceria-si-hubiera-tenido-mas-tiempo-y-hubiera-sido-absolutamente-autentica-en-el-cargo/",
-        "published_date": "2026-09-13 15:57:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "C\u00e9line Dion sings again after six years away from the stage: tears and emotion on her return in Paris",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/celine-dion-vuelve-a-cantar-tras-seis-anos-alejada-de-los-escenarios-lagrimas-y-emocion-en-su-regreso-en-paris/",
-        "published_date": "2026-09-13 13:18:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Rancho Cunaquino: the former boarding house for teachers that became a cult hotspot for chefs and winegrowers from Colchagua",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/el-rancho-cunaquino-la-antigua-pension-para-profesores-que-se-convirtio-en-una-picada-de-culto-para-chefs-y-vinateros-de-colchagua/",
-        "published_date": "2026-09-13 11:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe important thing is to organize and not be silent\u201d: The documentary about Bachelet being prepared in the US that addresses the footprint of the dictatorship and its role in the UN",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/la-huella-de-la-dictadura-su-trabajo-en-ddhh-y-las-advertencias-sobre-la-democracia-el-documental-sobre-bachelet-que-preparan-en-estados-unidos/",
-        "published_date": "2026-09-13 11:00:00",
         "category": "Local Events"
     }
 ]
