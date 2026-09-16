@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chancellor P\u00e9rez Mackenna brings together his predecessors in the face of questioning in Congress and de-dramatizes the opposition offensive",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/canciller-perez-mackenna-reune-a-sus-antecesores-de-cara-a-interpelacion-en-el-congreso-y-desdramatiza-ofensiva-opositora/",
+        "published_date": "2026-09-15 21:27:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Brandon Judd, US ambassador: \u201cIf people get upset by my answers, the problem is theirs\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/13/brandon-judd-embajador-de-ee-uu-si-las-personas-se-molestan-por-mis-respuestas-el-problema-es-de-ellos/",
@@ -28,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cThis is an act that defends the higher interests of our country\u201d: opposition gathers signatures to challenge Chancellor P\u00e9rez Mackenna",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/07/bancadas-de-oposicion-oficializan-interpelacion-a-canciller-perez-mackenna/",
-        "published_date": "2026-09-08 00:05:10",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Kast's defense of his questioned new state of exception and the interception of telecommunications",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/14/la-defensa-de-kast-a-su-cuestionado-nuevo-estado-de-excepcion-y-la-interceptacion-de-las-telecomunicaciones/",
@@ -54,6 +54,13 @@
         "url": "https://www.theclinic.cl/2026/09/08/paulina-nunez-presidenta-del-senado-rn-cuando-el-presidente-tiene-que-salir-a-corregir-a-un-ministro-este-se-transforma-en-un-problema/",
         "published_date": "2026-09-08 11:00:00",
         "category": "Military"
+    },
+    {
+        "title": "The \u201cSuper Bicycles\u201d store that a Chilean opened in the heart of Berlin and his desire to expand throughout Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/la-tienda-de-super-bicycles-que-un-chileno-abrio-en-el-corazon-de-berlin-y-su-deseo-de-expandirse-por-chile/",
+        "published_date": "2026-09-16 00:16:30",
+        "category": "Energy"
     },
     {
         "title": "There are already 46 departures of Government authorities in six months: the reasons behind the resignation of the Antofagasta Housing Seremi",
@@ -152,6 +159,20 @@
         "url": "https://www.theclinic.cl/2026/09/09/se-acabaron-las-tarjetas-largas-filas-para-comprar-una-michi-bip-en-estaciones-de-metro-marcan-la-jornada/",
         "published_date": "2026-09-09 12:44:32",
         "category": "Energy"
+    },
+    {
+        "title": "President of FinteChile on the Capital Market project: \u201cLet it move forward, as quickly as possible, because today more than ever, we need a good reform\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/presidente-de-fintechile-sobre-proyecto-al-mercado-de-capitales-que-siga-adelante-lo-mas-rapido-posible-porque-hoy-mas-que-nunca-necesitamos-una-buena-reforma/",
+        "published_date": "2026-09-15 23:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "From selling chickens to his neighbors in Pe\u00f1alol\u00e9n to billing more than $500 million a month: the story behind the owner of Minimayorista",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/de-vender-pollos-a-sus-vecinos-de-penalolen-a-facturar-mas-de-500-millones-al-mes-la-historia-detras-del-dueno-de-minimayorista/",
+        "published_date": "2026-09-15 21:02:09",
+        "category": "Economy"
     },
     {
         "title": "Minister Quiroz \u201cFormer Minister Marcel does not have a very good record in terms of keeping accounts in order\u201d",
@@ -259,6 +280,48 @@
         "category": "Economy"
     },
     {
+        "title": "President of Colombia celebrates agreement with Chile to recognize labor skills: it will initially benefit 26 profiles",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/presidente-de-colombia-celebra-acuerdo-con-chile-para-reconocer-competencias-laborales-beneficiara-inicialmente-a-26-perfiles/",
+        "published_date": "2026-09-15 23:45:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Radio ADN confirms the departure of Rafael Cavada after more than a year in \u201cThe DNA Test\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/radio-adn-confirma-salida-de-rafael-cavada-tras-mas-de-un-ano-en-la-prueba-de-adn/",
+        "published_date": "2026-09-15 23:18:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without Juli\u00e1n Elfenbein and with Diana Bolocco: Pasapalabra announces its return to Chilevisi\u00f3n",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/sin-julian-elfenbein-y-con-diana-bolocco-pasapalabra-anuncia-su-regreso-a-chilevision/",
+        "published_date": "2026-09-15 22:03:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Compensation for sister of Salvador Allende GAP member detained, missing since 1973, reduced to $10 million",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/rebajan-a-10-millones-indemnizacion-a-hermana-de-miembro-del-gap-de-salvador-allende-detenido-desaparecido-desde-1973/",
+        "published_date": "2026-09-15 21:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The seal of quality when sending flowers to your home with Red Floral",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/enviar-flores-red-floral/",
+        "published_date": "2026-09-15 21:35:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parisi's efforts with Minister Rau for universal daycare and the key appointment of the PDG to define whether or not it supports the Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/15/las-gestiones-de-parisi-con-el-ministro-rau-por-sala-cuna-universal-y-la-cita-clave-del-pdg-para-definir-si-apoya-o-no-al-gobierno/",
+        "published_date": "2026-09-15 21:25:54",
+        "category": "Local Events"
+    },
+    {
         "title": "The Metropolitan Region prepares for the 18th: these are the free restaurants that the capital will have these National Holidays",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/15/la-region-metropolitana-se-prepara-para-el-18-estas-son-las-fondas-gratuitas-que-tendra-la-capital-estas-fiestas-patrias/",
@@ -354,48 +417,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/14/novedades-salon-iaa-transportation-hannover/",
         "published_date": "2026-09-14 21:27:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why the first lady gave her vehicle on loan to the Presidency and how it will be used",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/por-que-la-primera-dama-entrego-su-vehiculo-en-comodato-a-presidencia-y-como-sera-utilizado/",
-        "published_date": "2026-09-14 21:16:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santander announces investments for US$ 800 million in Chile: annuities and new corporate headquarters among its projects",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/santander-anuncia-inversiones-por-us-800-millones-en-chile-rentas-vitalicias-y-nueva-sede-corporativa-entre-sus-proyectos/",
-        "published_date": "2026-09-14 21:10:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "CMPC's Natureza Project adds a new step in Brazil with land for a port terminal in R\u00edo Grande do Sul",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/proyecto-natureza-de-cmpc-suma-un-nuevo-paso-en-brasil-con-terreno-para-terminal-portuario-en-rio-grande-do-sul/",
-        "published_date": "2026-09-14 16:17:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver's license, mandatory insurance and being over 18 years of age: the new requirements they seek to implement for the use of scooters",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/licencia-de-conducir-seguro-obligatorio-y-ser-mayor-de-18-anos-las-nuevas-exigencias-que-buscan-implementar-para-el-uso-de-scooters/",
-        "published_date": "2026-09-14 15:51:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reclaimed woods, stoves and flavors of Patagonia: the story behind the new restaurant prepared by the exclusive Las Torres hotel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/maderas-recuperadas-fogones-y-sabores-de-la-patagonia-la-historia-detras-del-nuevo-restaurante-que-prepara-el-exclusivo-hotel-las-torres/",
-        "published_date": "2026-09-14 14:56:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The adjustment after the merger of La Polar and Abcdin: Tiendas Abc reduced its staff by 711 people in the midst of the restructuring process",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/el-ajuste-tras-la-fusion-de-la-polar-y-abcdin-tiendas-abc-redujo-su-dotacion-en-711-personas-en-medio-de-proceso-de-reestructuracion/",
-        "published_date": "2026-09-14 14:34:20",
         "category": "Local Events"
     }
 ]
