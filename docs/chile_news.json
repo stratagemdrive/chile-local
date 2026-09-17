@@ -1,5 +1,12 @@
 [
     {
+        "title": "Behind the wheel of the Maxus T70 GLX: the truck that prefers hard work over urban diplomacy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/test-drive-maxus-t70-glx-chile/",
+        "published_date": "2026-09-16 20:30:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Chancellor P\u00e9rez Mackenna brings together his predecessors in the face of questioning in Congress and de-dramatizes the opposition offensive",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/15/canciller-perez-mackenna-reune-a-sus-antecesores-de-cara-a-interpelacion-en-el-congreso-y-desdramatiza-ofensiva-opositora/",
@@ -28,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u00c1lvaro Carter, Republican deputy: \u201cWhat the Foreign Ministry is going through today is explained by the lack of coordination by Minister Barros\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/alvaro-carter-diputado-republicano-lo-que-hoy-esta-atravesando-cancilleria-se-explica-por-las-descoordinaciones-del-ministro-barros/",
-        "published_date": "2026-09-08 21:20:08",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The return of the wolf: Land Rover bets on the Defender Wolf Series II to win back the British Army",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/16/el-regreso-del-lobo-land-rover-apuesta-por-el-defender-wolf-series-ii-para-reconquistar-al-ejercito-britanico/",
@@ -54,6 +54,13 @@
         "url": "https://www.theclinic.cl/2026/09/11/de-considerarlo-el-quiebre-de-la-democracia-a-chile-eligio-la-libertad-el-contraste-entre-la-derecha-sobre-el-11-de-septiembre/",
         "published_date": "2026-09-11 22:02:57",
         "category": "Military"
+    },
+    {
+        "title": "How much room does the Government have to increase public spending in 2027?Rumbo Colectivo calculates 1.5% while LyD demands that it be less than 1%",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/cuanto-espacio-tiene-el-gobierno-para-subir-el-gasto-publico-en-2027-rumbo-colectivo-calcula-15-mientras-que-lyd-demanda-que-sea-menor-a-1/",
+        "published_date": "2026-09-16 20:55:13",
+        "category": "Energy"
     },
     {
         "title": "\u201cOur historical criticism of the revolving door lends itself to us being judged\u201d: Reinvention of former Boric authorities as lobbyists sharpens debate in the Frente Amplio",
@@ -168,6 +175,20 @@
         "category": "Energy"
     },
     {
+        "title": "BeCycle's new leap: the indoor cycling chain that aims at the training experience, opened its third center in Cenco Malls",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/el-nuevo-salto-de-becycle-la-cadena-de-ciclismo-indoor-que-apunta-a-la-experiencia-al-entrenar-abrio-su-tercer-centro-en-cenco-malls/",
+        "published_date": "2026-09-16 22:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Fourth edition of Chita QUE\u2019Lindo in Laguna Zapallar Park: a 18th full of traditions, Chileanness and family entertainment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/cuarta-edicion-chita-qlindo-zapallar/",
+        "published_date": "2026-09-16 21:29:26",
+        "category": "Economy"
+    },
+    {
         "title": "President of FinteChile on the Capital Market project: \u201cLet it move forward, as quickly as possible, because today more than ever, we need a good reform\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/15/presidente-de-fintechile-sobre-proyecto-al-mercado-de-capitales-que-siga-adelante-lo-mas-rapido-posible-porque-hoy-mas-que-nunca-necesitamos-una-buena-reforma/",
@@ -273,11 +294,46 @@
         "category": "Economy"
     },
     {
-        "title": "Andr\u00e9s Velasco, former Minister of Finance: \u201cThe constitutional reform thing is nameless stupidity, it is a political own goal\u201d",
+        "title": "National Holidays on stage: classics of Chilean theater return to the stage during the 18th at Teatro Mori",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/08/andres-velasco-exministro-de-hacienda-lo-de-la-reforma-constitucional-es-una-estupidez-sin-nombre-es-un-autogol-politico/",
-        "published_date": "2026-09-08 22:45:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/16/fiestas-patrias-sobre-las-tablas-clasicos-del-teatro-chileno-vuelven-a-escena-durante-el-18-en-teatro-mori/",
+        "published_date": "2026-09-16 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first work on the new Santiago-Batuco train begins: EFE begins excavations at future Batuco and Las Industrias stations",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/comienzan-los-primeros-trabajos-del-nuevo-tren-santiago-batuco-efe-inicia-excavaciones-en-futuras-estaciones-batuco-y-las-industrias/",
+        "published_date": "2026-09-16 21:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They can operate, but without selling alcohol: Florida rejects permits for the Do\u00f1a Florinda and Florida Bier Fest 2026 inns",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/pueden-funcionar-pero-sin-vender-alcohol-la-florida-rechaza-permisos-para-las-fondas-dona-florinda-y-florida-bier-fest-2026/",
+        "published_date": "2026-09-16 21:32:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The links with Chile of Rodrigo Arenas, the French deputy who managed the delivery of a medal to H\u00e9ctor Llaitul",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/los-vinculos-con-chile-de-rodrigo-arenas-el-diputado-frances-que-gestiono-la-entrega-de-una-medalla-a-hector-llaitul/",
+        "published_date": "2026-09-16 20:58:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "From \u201cLa Negra Ester\u201d to a viral of the social outbreak: the works that six voices of culture believe best represent Chileanness",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/de-la-negra-ester-a-un-viral-del-estallido-social-las-obras-que-seis-voces-de-la-cultura-creen-que-mejor-representan-la-chilenidad/",
+        "published_date": "2026-09-16 20:51:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "From #ChileSoberanoSinONU to recognizing a change: Kast's turn on the United Nations prior to his debut at the General Assembly",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/16/del-chilesoberanosinonu-a-reconocer-un-cambio-el-giro-de-kast-sobre-naciones-unidas-previo-a-su-debut-en-la-asamblea-general/",
+        "published_date": "2026-09-16 20:27:10",
+        "category": "Local Events"
     },
     {
         "title": "Letter to the editor: Michelle Bachelet, the best candidate to prevent the dangers of AI",
@@ -375,48 +431,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/15/las-gestiones-de-parisi-con-el-ministro-rau-por-sala-cuna-universal-y-la-cita-clave-del-pdg-para-definir-si-apoya-o-no-al-gobierno/",
         "published_date": "2026-09-15 21:25:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Metropolitan Region prepares for the 18th: these are the free restaurants that the capital will have these National Holidays",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/15/la-region-metropolitana-se-prepara-para-el-18-estas-son-las-fondas-gratuitas-que-tendra-la-capital-estas-fiestas-patrias/",
-        "published_date": "2026-09-15 14:55:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hidden dispute that arose in the PS over the vacant seat left by Camilo Escalona in the general secretary",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/15/la-soterrada-disputa-que-se-armo-en-el-ps-por-el-cupo-vacante-que-dejo-camilo-escalona-en-la-secretaria-general/",
-        "published_date": "2026-09-15 14:30:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to 28\u00b0C: the heat returns this week in the Metropolitan Region ahead of the National Holidays but rains could reappear on the 19th",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/15/hasta-28c-vuelve-el-calor-esta-semana-en-la-region-metropolitana-de-cara-a-las-fiestas-patrias-pero-lluvias-podrian-reaparecer-el-19/",
-        "published_date": "2026-09-15 14:21:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump interrupts Nvidia CEO and calls fears about the advancement of AI a \u201cfarce\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/15/trump-irrumpe-a-ceo-de-nvidia-y-tilda-de-farsa-los-temores-por-el-avance-de-la-ia/",
-        "published_date": "2026-09-15 14:04:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The sad paradox of youth well-being: Chile is among the best countries to be young, but they do not feel it that way",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/15/la-triste-paradoja-del-bienestar-juvenil-chile-esta-entre-los-mejores-paises-para-ser-joven-pero-ellos-no-lo-sienten-asi/",
-        "published_date": "2026-09-15 13:53:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey are just dead flies\u201d: Influencer Otakin denounces a restaurant for poor hygiene conditions",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/15/son-puras-moscas-muertas-influencer-otakin-denuncia-a-restaurante-por-malas-condiciones-de-higiene/",
-        "published_date": "2026-09-15 13:45:25",
         "category": "Local Events"
     }
 ]
