@@ -28,13 +28,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Ossand\u00f3n's criticism of Brandon Judd after sayings about the social outbreak: \u201cIt is clear that his expertise in diplomacy is not very deep\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/10/las-criticas-de-ossandon-a-brandon-judd-tras-dichos-sobre-el-estallido-social-se-nota-que-su-expertise-en-diplomacia-no-es-muy-profundo/",
-        "published_date": "2026-09-10 12:19:03",
-        "category": "Diplomacy"
-    },
-    {
         "title": "At the request of his defense: Germ\u00e1n Naranjo, the Chilean executive accused of racism in Brazil, will enter a psychiatric clinic",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/17/a-pedido-de-su-defensa-german-naranjo-el-ejecutivo-chileno-acusado-de-racismo-en-brasil-ingresara-a-una-clinica-psiquiatrica/",
@@ -61,6 +54,13 @@
         "url": "https://www.theclinic.cl/2026/09/11/de-considerarlo-el-quiebre-de-la-democracia-a-chile-eligio-la-libertad-el-contraste-entre-la-derecha-sobre-el-11-de-septiembre/",
         "published_date": "2026-09-11 22:02:57",
         "category": "Military"
+    },
+    {
+        "title": "Sand storms in the north, isolated droplets and possible lightning in Santiago and winds of 80 km/h in the south: look at the meteorological scenario for this 18",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/18/tormentas-de-arena-en-el-norte-gotitas-aisladas-y-posibles-rayos-en-santiago-y-vientos-de-80-km-h-en-el-sur-mira-el-escenario-meteorologico-para-este-18/",
+        "published_date": "2026-09-18 12:22:26",
+        "category": "Energy"
     },
     {
         "title": "Seven months after the fatal accident: Gasco reaches compensatory agreements with 85% of the families of the victims after the truck overturned in Renca",
@@ -266,11 +266,18 @@
         "category": "Economy"
     },
     {
-        "title": "Chery restructures the HIMLA range in Chile: new suspension and three versions for work and adventure",
+        "title": "\u201cNumber one is boring, I feel like not existing\u201d: Bonvallet's intimate and premonitory program 16 days before his death",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/10/chery-himla-chile-versiones-precios-renovacion/",
-        "published_date": "2026-09-10 11:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/18/el-numero-uno-esta-aburrido-tengo-ganas-de-no-existir-el-intimo-y-premonitorio-programa-de-bonvallet-16-dias-antes-de-su-muerte/",
+        "published_date": "2026-09-18 13:01:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kast's first 18th in La Moneda: the photos with his cabinet and the Te Deum that the brother of his Minister of Health will lead",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/18/el-primer-18-de-kast-en-la-moneda-las-fotos-con-su-gabinete-y-el-te-deum-que-encabezara-el-hermano-de-su-ministra-de-salud/",
+        "published_date": "2026-09-18 11:59:49",
+        "category": "Local Events"
     },
     {
         "title": "Extinction on wheels: The car brands that succumbed in the 21st century and the emblems in danger of death",
@@ -284,6 +291,13 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/17/se-acaban-los-vuelos-sin-escala-a-londres-desde-el-proximo-ano-se-anadira-una-parada-por-buenos-aires/",
         "published_date": "2026-09-17 20:47:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Angelini Group and SalfaCorp target new business: residences for seniors",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/grupo-angelini-y-salfacorp-apuntan-a-nuevo-negocio-las-residencias-para-adultos-mayores/",
+        "published_date": "2026-09-17 20:31:39",
         "category": "Local Events"
     },
     {
@@ -389,27 +403,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/16/los-vinculos-con-chile-de-rodrigo-arenas-el-diputado-frances-que-gestiono-la-entrega-de-una-medalla-a-hector-llaitul/",
         "published_date": "2026-09-16 20:58:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "From \u201cLa Negra Ester\u201d to a viral of the social outbreak: the works that six voices of culture believe best represent Chileanness",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/de-la-negra-ester-a-un-viral-del-estallido-social-las-obras-que-seis-voces-de-la-cultura-creen-que-mejor-representan-la-chilenidad/",
-        "published_date": "2026-09-16 20:51:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "From #ChileSoberanoSinONU to recognizing a change: Kast's turn on the United Nations prior to his debut at the General Assembly",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/del-chilesoberanosinonu-a-reconocer-un-cambio-el-giro-de-kast-sobre-naciones-unidas-previo-a-su-debut-en-la-asamblea-general/",
-        "published_date": "2026-09-16 20:27:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Letter to the editor: Michelle Bachelet, the best candidate to prevent the dangers of AI",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/carta-a-la-directora-michelle-bachelet-la-mejor-candidata-para-prevenir-los-peligros-de-la-ia/",
-        "published_date": "2026-09-16 14:19:31",
         "category": "Local Events"
     }
 ]
