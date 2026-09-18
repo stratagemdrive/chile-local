@@ -1,5 +1,12 @@
 [
     {
+        "title": "Alfredo Moreno on the Strait of Magellan and the conditions of other maritime routes: \u201cWe are going to have important competition\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/alfredo-moreno-sobre-el-estrecho-de-magallanes-y-las-condiciones-de-otras-rutas-maritimas-vamos-a-tener-una-competencia-importante/",
+        "published_date": "2026-09-17 20:38:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Behind the wheel of the Maxus T70 GLX: the truck that prefers hard work over urban diplomacy",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/16/test-drive-maxus-t70-glx-chile/",
@@ -26,6 +33,13 @@
         "url": "https://www.theclinic.cl/2026/09/10/las-criticas-de-ossandon-a-brandon-judd-tras-dichos-sobre-el-estallido-social-se-nota-que-su-expertise-en-diplomacia-no-es-muy-profundo/",
         "published_date": "2026-09-10 12:19:03",
         "category": "Diplomacy"
+    },
+    {
+        "title": "At the request of his defense: Germ\u00e1n Naranjo, the Chilean executive accused of racism in Brazil, will enter a psychiatric clinic",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/a-pedido-de-su-defensa-german-naranjo-el-ejecutivo-chileno-acusado-de-racismo-en-brasil-ingresara-a-una-clinica-psiquiatrica/",
+        "published_date": "2026-09-17 20:14:02",
+        "category": "Military"
     },
     {
         "title": "The return of the wolf: Land Rover bets on the Defender Wolf Series II to win back the British Army",
@@ -161,13 +175,6 @@
         "category": "Energy"
     },
     {
-        "title": "Fuels rise this week: gasoline and diesel lead the rise",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/09/combustibles-suben-esta-semana-gasolinas-y-diesel-lideran-el-alza/",
-        "published_date": "2026-09-09 20:39:07",
-        "category": "Energy"
-    },
-    {
         "title": "McLaren's radical turn: an SUV to save margins and conquer the market",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/17/suv-de-mclaren-inversion-reino-unido/",
@@ -266,25 +273,53 @@
         "category": "Economy"
     },
     {
-        "title": "Mar\u00eda Paz Lagos, Undersecretary of Tourism: \u201cWe project between 1.1 and 1.3 million trips\u201d",
+        "title": "Extinction on wheels: The car brands that succumbed in the 21st century and the emblems in danger of death",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/09/maria-paz-lagos-subsecretaria-de-turismo-proyectamos-entre-11-y-13-millones-de-viajes/",
-        "published_date": "2026-09-09 22:45:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/17/marcas-de-autos-desaparecidas-siglo-xxi/",
+        "published_date": "2026-09-17 21:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "Tesla's dimensional leap: the six-passenger variant that seeks to solve long trips in Chile",
+        "title": "Non-stop flights from Santiago to London end: starting next year a stop in Buenos Aires will be added",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/09/tesla-model-y-l-chile-suv-seis-pasajeros/",
-        "published_date": "2026-09-09 20:30:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/17/se-acaban-los-vuelos-sin-escala-a-londres-desde-el-proximo-ano-se-anadira-una-parada-por-buenos-aires/",
+        "published_date": "2026-09-17 20:47:19",
+        "category": "Local Events"
     },
     {
-        "title": "Plugged in daily, half charged: the habits that decide how long a plug-in hybrid battery lasts",
+        "title": "End to the soap opera: after days of discussions and harsh criticism from the mayor, Fonda Do\u00f1a Florinda receives municipal permits and will operate normally",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/09/extender-vida-util-bateria-phev/",
-        "published_date": "2026-09-09 20:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/17/fin-a-la-teleserie-tras-dias-de-discusiones-y-duras-criticas-del-alcalde-fonda-dona-florinda-recibe-permisos-municipales-y-funcionara-con-normalidad/",
+        "published_date": "2026-09-17 20:18:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court of Santiago agrees with Miguel Crispi and revokes order of the CPLT to reveal his emails during his time as President",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/corte-de-santiago-da-la-razon-a-miguel-crispi-y-revoca-orden-del-cplt-para-revelar-sus-correos-durante-su-paso-por-presidencia/",
+        "published_date": "2026-09-17 20:17:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Registers more than 20 meetings, including ministers and undersecretaries: the lobbyist who comes to reinforce Garc\u00eda Ruminot's Segpres",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/registra-mas-de-20-reuniones-incluidos-ministros-y-subsecretarios-el-lobista-que-llega-a-reforzar-la-segpres-de-garcia-ruminot/",
+        "published_date": "2026-09-17 19:34:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reductions in tolls and TAG, Government negotiates with concessionaires: MOP expects first agreement this year",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/rebajas-en-peajes-y-tag-gobierno-negocia-con-concesionarias-mop-espera-primer-acuerdo-este-ano/",
+        "published_date": "2026-09-17 19:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coffee to counteract the effects of alcohol?Specialist explains why this popular myth can be risky",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/17/cafe-para-contrarrestar-los-efectos-del-alcohol-especialista-explica-por-que-este-popular-mito-puede-ser-riesgoso/",
+        "published_date": "2026-09-17 19:20:00",
+        "category": "Local Events"
     },
     {
         "title": "18 from the armchair: six Chilean films to stream these National Holidays",
@@ -375,55 +410,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/16/carta-a-la-directora-michelle-bachelet-la-mejor-candidata-para-prevenir-los-peligros-de-la-ia/",
         "published_date": "2026-09-16 14:19:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister Alvarado responds to Matthei after ensuring that in the Cabinet \u201cthey do not inflate it\u201d: \u201cShe has time to give her opinion, I have time to work\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/ministro-alvarado-responde-a-matthei-tras-asegurar-que-en-el-gabinete-no-lo-inflan-ella-tiene-tiempo-para-opinar-yo-tengo-tiempo-para-trabajar/",
-        "published_date": "2026-09-16 14:12:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Lizana: the story behind one of the oldest families of organ grinders and chinchineros that fight to keep the trade alive",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/los-lizana-la-historia-detras-de-una-de-las-familias-mas-antiguas-de-organilleros-y-chinchineros-que-lucha-por-mantener-vivo-el-oficio/",
-        "published_date": "2026-09-16 13:42:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The eventual coincidence between Bachelet and Kast in New York in the midst of UN activities and new measurement of candidates for the general secretary",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/la-eventual-coincidencia-entre-bachelet-y-kast-en-nueva-york-en-medio-de-actividades-de-la-onu-y-nueva-medicion-de-candidatos-a-la-secretaria-general/",
-        "published_date": "2026-09-16 13:40:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The controversy over airline security policy: passengers could not fly because they did not have the card with which they bought the ticket",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/la-polemica-por-politica-de-seguridad-de-las-aerolineas-pasajeros-no-pudieron-volar-por-no-contar-con-la-tarjeta-con-que-compraron-el-pasaje/",
-        "published_date": "2026-09-16 13:28:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dramatic record prior to the fatal impact of the news helicopter in Los Angeles",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/el-dramatico-registro-previo-al-fatal-impacto-del-helicoptero-de-noticias-en-los-angeles/",
-        "published_date": "2026-09-16 13:22:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gustavo Alessandri, president of the Association of Municipalities, regarding Municipal Security regulations: \u201cI am convinced that someone missed several towns\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/gustavo-alessandri-presidente-de-la-asociacion-de-municipalidades-por-reglamento-de-seguridad-municipal-estoy-convencido-que-alguien-se-paso-varios-pueblos/",
-        "published_date": "2026-09-16 12:32:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Otorhinolaryngologist explains why there are more and more people with allergies and assures that \u201cit is not an urban myth\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/otorrinolaringologa-explica-por-que-cada-vez-hay-mas-personas-alergicas-y-asegura-que-no-es-un-mito-urbano/",
-        "published_date": "2026-09-16 11:30:00",
         "category": "Local Events"
     }
 ]
