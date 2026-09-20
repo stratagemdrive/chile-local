@@ -35,6 +35,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "With an unprecedented participation of the Gendarmerie: Kast led his first Military Parade as President",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/19/con-una-inedita-participacion-de-gendarmeria-kast-encabezo-su-primera-parada-militar-como-presidente/",
+        "published_date": "2026-09-19 17:53:55",
+        "category": "Military"
+    },
+    {
         "title": "The origin of O\u2019Higgins Park: from La Pampilla and Campo de Marte to the Military Parade",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/19/el-origen-del-parque-ohiggins-de-la-pampilla-y-el-campo-de-marte-a-la-parada-militar/",
@@ -60,13 +67,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/14/la-defensa-de-kast-a-su-cuestionado-nuevo-estado-de-excepcion-y-la-interceptacion-de-las-telecomunicaciones/",
         "published_date": "2026-09-14 14:23:08",
-        "category": "Military"
-    },
-    {
-        "title": "From considering it the \u201cbreakdown of democracy\u201d to \u201cChile chose freedom\u201d: The contrast between the right on September 11",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/de-considerarlo-el-quiebre-de-la-democracia-a-chile-eligio-la-libertad-el-contraste-entre-la-derecha-sobre-el-11-de-septiembre/",
-        "published_date": "2026-09-11 22:02:57",
         "category": "Military"
     },
     {
@@ -175,13 +175,6 @@
         "category": "Energy"
     },
     {
-        "title": "The successes and mistakes of President Kast's first six months in La Moneda",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/los-aciertos-y-errores-de-los-primeros-seis-meses-del-presidente-kast-en-la-moneda/",
-        "published_date": "2026-09-11 14:29:02",
-        "category": "Energy"
-    },
-    {
         "title": "McLaren's radical turn: an SUV to save margins and conquer the market",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/17/suv-de-mclaren-inversion-reino-unido/",
@@ -259,11 +252,25 @@
         "category": "Economy"
     },
     {
-        "title": "Nouriel Roubini, the economist who predicted the 2008 crisis, will visit Chile in October",
+        "title": "\u201cChemistry TD\u201d: The video game created by students from the University of Talca to learn chemistry",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/11/nouriel-roubini-el-economista-que-predijo-la-crisis-de-2008-visitara-chile-en-octubre/",
-        "published_date": "2026-09-11 20:50:12",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/19/chemistry-td-el-videojuego-creado-por-estudiantes-de-la-universidad-de-talca-para-aprender-quimica/",
+        "published_date": "2026-09-19 20:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI have decided not to continue with the candidacy\u201d: Bachelet withdraws from the race for the UN Secretary General",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/19/he-decidido-no-continuar-con-la-candidatura-bachelet-se-baja-de-la-carrera-por-la-secretaria-general-de-la-onu/",
+        "published_date": "2026-09-19 18:18:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Double the number of cancer cases and a deficit in regions that would persist: why Chile must strengthen its oncological network beyond training new specialists",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/19/el-doble-de-casos-de-cancer-y-un-deficit-en-regiones-que-persistiria-por-que-chile-debe-fortalecer-su-red-oncologica-mas-alla-de-formar-nuevos-especialistas/",
+        "published_date": "2026-09-19 16:47:35",
+        "category": "Local Events"
     },
     {
         "title": "\u201cThere is no democracy where rudeness is shouted\u201d: Sichel faces the public at the \u00d1u\u00f1oa inn for insults against Kast",
@@ -382,27 +389,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/17/marcas-de-autos-desaparecidas-siglo-xxi/",
         "published_date": "2026-09-17 21:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Non-stop flights from Santiago to London end: starting next year a stop in Buenos Aires will be added",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/se-acaban-los-vuelos-sin-escala-a-londres-desde-el-proximo-ano-se-anadira-una-parada-por-buenos-aires/",
-        "published_date": "2026-09-17 20:47:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Angelini Group and SalfaCorp target new business: residences for seniors",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/grupo-angelini-y-salfacorp-apuntan-a-nuevo-negocio-las-residencias-para-adultos-mayores/",
-        "published_date": "2026-09-17 20:31:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "End to the soap opera: after days of discussions and harsh criticism from the mayor, Fonda Do\u00f1a Florinda receives municipal permits and will operate normally",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/fin-a-la-teleserie-tras-dias-de-discusiones-y-duras-criticas-del-alcalde-fonda-dona-florinda-recibe-permisos-municipales-y-funcionara-con-normalidad/",
-        "published_date": "2026-09-17 20:18:25",
         "category": "Local Events"
     }
 ]
