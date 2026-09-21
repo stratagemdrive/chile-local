@@ -28,13 +28,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Brandon Judd, US ambassador: \u201cIf people get upset by my answers, the problem is theirs\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/brandon-judd-embajador-de-ee-uu-si-las-personas-se-molestan-por-mis-respuestas-el-problema-es-de-ellos/",
-        "published_date": "2026-09-13 14:43:07",
-        "category": "Diplomacy"
-    },
-    {
         "title": "With an unprecedented participation of the Gendarmerie: Kast led his first Military Parade as President",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/19/con-una-inedita-participacion-de-gendarmeria-kast-encabezo-su-primera-parada-militar-como-presidente/",
@@ -68,6 +61,13 @@
         "url": "https://www.theclinic.cl/2026/09/14/la-defensa-de-kast-a-su-cuestionado-nuevo-estado-de-excepcion-y-la-interceptacion-de-las-telecomunicaciones/",
         "published_date": "2026-09-14 14:23:08",
         "category": "Military"
+    },
+    {
+        "title": "Diego Morand\u00e9 regarding the new Personal Data law: \u201cIt applies to anyone who processes data from the building janitor to a transnational company\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/diego-morande-ante-la-nueva-ley-de-datos-personales-aplica-a-todo-aquel-que-trate-datos-desde-el-conserje-del-edificio-hasta-una-transnacional/",
+        "published_date": "2026-09-21 15:19:06",
+        "category": "Energy"
     },
     {
         "title": "18 deaths and 144 detainees arrested for driving with alcohol and drugs: the harsh balance of Carabineros in National Holiday celebrations",
@@ -224,25 +224,67 @@
         "category": "Economy"
     },
     {
-        "title": "Claudio Agostini, economist: \"Why is being an owner better than being a tenant and why does the State prefer an option for you? From an economic point of view, it makes no sense\"",
+        "title": "The new life of the emblematic Pedro de Valdivia mansion: Alem\u00e1n Experto adds a new location where the Sara Moncada Clinic operated",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/claudio-agostini-economista-por-que-ser-propietario-es-mejor-que-ser-arrendatario-y-por-que-el-estado-prefiere-una-opcion-para-ti-del-punto-de-vista-economico-no-tiene-sentido/",
-        "published_date": "2026-09-13 11:15:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/21/la-nueva-vida-de-la-emblematica-casona-de-pedro-de-valdivia-aleman-experto-suma-un-nuevo-local-donde-funciono-la-clinica-sara-moncada/",
+        "published_date": "2026-09-21 16:25:23",
+        "category": "Local Events"
     },
     {
-        "title": "Goodbye to two-thirds: the capital market reform that reconfigures power between controllers and minorities",
+        "title": "Comptroller's Office detects hundreds of officials suspended for summary proceedings who continued to receive salaries",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/adios-a-los-dos-tercios-la-reforma-al-mercado-de-capitales-que-reconfigura-el-poder-entre-controladores-y-minoritarios/",
-        "published_date": "2026-09-13 11:05:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/21/contraloria-detecta-485-funcionarios-suspendidos-por-sumarios-que-continuaron-recibiendo-sueldo-30-de-los-casos-superan-los-tres-anos/",
+        "published_date": "2026-09-21 16:21:52",
+        "category": "Local Events"
     },
     {
-        "title": "Column by Juan Francisco Galli: The economy of the social outbreak",
+        "title": "Government supports regional holiday for Magallanes on September 21: \u201cDistances are overcome with will\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/13/columna-de-juan-francisco-galli-la-economia-del-estallido-social/",
-        "published_date": "2026-09-13 11:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/21/gobierno-respalda-feriado-regional-para-magallanes-el-21-de-septiembre-las-distancias-se-superan-con-voluntad/",
+        "published_date": "2026-09-21 16:16:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Libertarians join the official meeting in La Moneda and the Government advances in coordination with the right for a universal nursery",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/libertarios-se-suman-a-reunion-oficialista-en-la-moneda-y-gobierno-avanza-en-coordinaciones-con-la-derecha-para-sala-cuna-universal/",
+        "published_date": "2026-09-21 16:04:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago will have a brief break after the rains: temperatures will rise this Tuesday, but a new frontal system is approaching",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/santiago-tendra-una-breve-pausa-tras-las-lluvias-temperaturas-subiran-este-martes-pero-se-acerca-un-nuevo-sistema-frontal/",
+        "published_date": "2026-09-21 16:01:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new attack against the Punta Puertecillo project in Litueche: Committee of Ministers asks to reject the real estate company's appeal",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/la-nueva-arremetida-contra-proyecto-punta-puertecillo-en-litueche-comite-de-ministros-pide-rechazar-recurso-de-reclamacion-de-la-inmobiliaria/",
+        "published_date": "2026-09-21 15:47:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Pedro Piedra to Tiro de Gracia, Soulfia and Crist\u00f3bal Brice\u00f1o: Parquemet announces a series of concerts on Cerro San Crist\u00f3bal",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/desde-pedro-piedra-hasta-tiro-de-gracia-soulfia-y-cristobal-briceno-parquemet-anuncia-ciclo-de-conciertos-en-el-cerro-san-cristobal/",
+        "published_date": "2026-09-21 15:24:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Spanish, possible use of teleprompter and with national emphasis: this is how Kast prepares his first speech before the UN",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/en-espanol-posible-uso-de-telepronter-y-con-enfasis-nacional-asi-prepara-kast-su-primer-discurso-ante-la-onu/",
+        "published_date": "2026-09-21 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opposition closes ranks with Bachelet after withdrawing UN candidacy and targets Kast: \u201cThey are directly responsible\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/21/oposicion-cierra-filas-con-bachelet-tras-retiro-de-candidatura-a-la-onu-y-apunta-a-kast-son-directamente-responsables/",
+        "published_date": "2026-09-21 14:57:56",
+        "category": "Local Events"
     },
     {
         "title": "Bilateral with Zelensky and possible participation in Trump's Shield of the Americas: Kast's agenda for his UN debut",
@@ -319,69 +361,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/20/agustin-iglesias-vodanovic-desprecia-la-importancia-de-que-los-alcaldes-esten-en-lugares-complejos-y-si-hablamos-de-show-sacarse-la-polera-es-un-show/",
         "published_date": "2026-09-20 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Editorial: The country we celebrate and the country we inhabit",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/20/editorial-el-pais-que-celebramos-y-el-pais-que-habitamos/",
-        "published_date": "2026-09-20 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cChemistry TD\u201d: The video game created by students from the University of Talca to learn chemistry",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/chemistry-td-el-videojuego-creado-por-estudiantes-de-la-universidad-de-talca-para-aprender-quimica/",
-        "published_date": "2026-09-19 20:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI have decided not to continue with the candidacy\u201d: Bachelet withdraws from the race for the UN Secretary General",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/he-decidido-no-continuar-con-la-candidatura-bachelet-se-baja-de-la-carrera-por-la-secretaria-general-de-la-onu/",
-        "published_date": "2026-09-19 18:18:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Double the number of cancer cases and a deficit in regions that would persist: why Chile must strengthen its oncological network beyond training new specialists",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/el-doble-de-casos-de-cancer-y-un-deficit-en-regiones-que-persistiria-por-que-chile-debe-fortalecer-su-red-oncologica-mas-alla-de-formar-nuevos-especialistas/",
-        "published_date": "2026-09-19 16:47:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is no democracy where rudeness is shouted\u201d: Sichel faces the public at the \u00d1u\u00f1oa inn for insults against Kast",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/no-hay-democracia-donde-se-gritan-groserias-sichel-se-enfrenta-a-publico-de-fonda-de-nunoa-por-insultos-contra-kast/",
-        "published_date": "2026-09-19 13:37:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power Newsletter: Minister Arrau apologized",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/newsletter-poder-ministro-arrau-pidio-disculpas/",
-        "published_date": "2026-09-19 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Isabel Plant: We want more female ministers, but the good ones",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/columna-de-isabel-plant-queremos-mas-ministras-pero-de-las-buenas/",
-        "published_date": "2026-09-19 11:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The rhythms of Juanito Ayala and his new solo album: \u201cAt some point during the day it is good for all of us to listen to a cumbia\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/los-ritmos-de-juanito-ayala-y-su-nuevo-disco-solista-en-algun-minuto-del-dia-a-todos-nos-hace-bien-escuchar-una-cumbia/",
-        "published_date": "2026-09-19 11:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A consultation with stuffed animals and colors: the story of the Mike Clinic, which seeks to stop dental phobia",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/una-consulta-con-peluches-pantallas-y-colores-la-formula-de-la-clinica-mike-con-la-que-buscan-frenar-la-fobia-al-dentista-con-calidez-y-empatia/",
-        "published_date": "2026-09-19 11:13:00",
         "category": "Local Events"
     }
 ]
