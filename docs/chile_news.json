@@ -168,13 +168,6 @@
         "category": "Energy"
     },
     {
-        "title": "TVN records losses of more than $7 billion during the first half of 2026: results remain similar to the same period last year",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/12/tvn-registra-perdidas-por-mas-de-7-mil-millones-durante-el-primer-semestre-de-2026-resultados-se-mantienen-similares-al-mismo-periodo-del-ano-pasado/",
-        "published_date": "2026-09-12 20:49:25",
-        "category": "Energy"
-    },
-    {
         "title": "Fannie Mae Chilean style?The government's proposal, the history and the alerts behind one of the protagonists of the subprime crisis",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/20/fannie-mae-a-la-chilena-la-propuesta-del-gobierno-la-historia-y-las-alertas-detras-de-una-de-las-protagonistas-de-la-crisis-subprime/",
@@ -250,6 +243,34 @@
         "url": "https://www.theclinic.cl/2026/09/13/columna-de-juan-francisco-galli-la-economia-del-estallido-social/",
         "published_date": "2026-09-13 11:00:00",
         "category": "Economy"
+    },
+    {
+        "title": "Bilateral with Zelensky and possible participation in Trump's Shield of the Americas: Kast's agenda for his UN debut",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/20/bilateral-con-zelenski-y-posible-participacion-en-el-shield-of-the-americas-de-trump-la-agenda-de-kast-para-su-debut-en-la-onu/",
+        "published_date": "2026-09-20 22:44:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neither perfect 12-hour days nor magical mood swings: science dismantles the myths of the equinox",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/20/ni-dias-perfectos-de-12-horas-ni-magicos-cambios-de-animo-la-ciencia-desmantela-los-mitos-del-equinoccio/",
+        "published_date": "2026-09-20 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dogs addicted to detect drugs?Carabineros demystifies the popular belief about the training of specialized dogs",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/20/perros-adictos-para-detectar-droga-carabineros-desmitifica-la-creencia-popular-sobre-el-adiestramiento-de-canes-especializados/",
+        "published_date": "2026-09-20 15:37:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scientists grafted human brain tissue into mice to study diseases such as autism",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/20/cientificos-injertaron-tejido-cerebral-humano-en-ratones-para-estudiar-enfermedades-como-el-autismo/",
+        "published_date": "2026-09-20 15:22:00",
+        "category": "Local Events"
     },
     {
         "title": "Gabriel Boric after Bachelet's decision to leave the race to the UN: \u201cThank you President for your courage and dignity\u201d",
@@ -361,34 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/19/una-consulta-con-peluches-pantallas-y-colores-la-formula-de-la-clinica-mike-con-la-que-buscan-frenar-la-fobia-al-dentista-con-calidez-y-empatia/",
         "published_date": "2026-09-19 11:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Patricio Guzm\u00e1n's last battle: the backstage of his final film about the outbreak and an interrupted filming",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/la-ultima-batalla-de-patricio-guzman-la-trastienda-de-su-pelicula-final-sobre-el-estallido-y-un-rodaje-interrumpido/",
-        "published_date": "2026-09-19 11:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The sad stories behind the stolen meat fever in Chile: slaughtered pregnant mares, organized gangs and 1,450 cases of rustling in just six months",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/las-tristes-historias-detras-de-la-fiebre-de-la-carne-robada-en-chile-yeguas-prenadas-faenadas-bandas-organizadas-y-1-450-casos-de-abigeato-en-solo-seis-meses/",
-        "published_date": "2026-09-19 11:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Marco Moreno: 2028 begins in 2027 for La Moneda",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/el-2028-comienza-en-2027-para-la-moneda/",
-        "published_date": "2026-09-19 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kast will debut before the UN General Assembly on Tuesday morning: Delcy Rodr\u00edguez is on the list of speakers for Venezuela",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/18/kast-debutara-ante-la-asamblea-general-de-la-onu-el-martes-hablara-en-la-manana/",
-        "published_date": "2026-09-18 21:19:52",
         "category": "Local Events"
     }
 ]
