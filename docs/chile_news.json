@@ -28,6 +28,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The return of the atomic age to the battlefield: the Chinese nuclear tank megaproject and the race for unlimited energy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/tanque-nuclear-en-china-proyecto-canon-electromagnetico/",
+        "published_date": "2026-09-22 13:01:07",
+        "category": "Military"
+    },
+    {
         "title": "With an unprecedented participation of the Gendarmerie: Kast led his first Military Parade as President",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/19/con-una-inedita-participacion-de-gendarmeria-kast-encabezo-su-primera-parada-militar-como-presidente/",
@@ -53,13 +60,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/16/el-regreso-del-lobo-land-rover-apuesta-por-el-defender-wolf-series-ii-para-reconquistar-al-ejercito-britanico/",
         "published_date": "2026-09-16 15:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "Kast's defense of his questioned new state of exception and the interception of telecommunications",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/la-defensa-de-kast-a-su-cuestionado-nuevo-estado-de-excepcion-y-la-interceptacion-de-las-telecomunicaciones/",
-        "published_date": "2026-09-14 14:23:08",
         "category": "Military"
     },
     {
@@ -161,11 +161,11 @@
         "category": "Energy"
     },
     {
-        "title": "Fuel consumption myths: what you need to know before going on a trip",
+        "title": "The rise of senior suites in Chile: supply grew more than 60% in a decade and the eastern sector of Santiago concentrates a large part of the business",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/14/mitos-del-consumo-de-combustible-lo-que-hay-que-saber-antes-de-salir-de-viaje/",
-        "published_date": "2026-09-14 14:37:28",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/09/22/el-auge-de-las-senior-suites-en-chile-oferta-crecio-mas-de-60-en-una-decada-y-sector-oriente-de-santiago-concentra-gran-parte-del-negocio/",
+        "published_date": "2026-09-22 13:52:09",
+        "category": "Economy"
     },
     {
         "title": "Fannie Mae Chilean style?The government's proposal, the history and the alerts behind one of the protagonists of the subprime crisis",
@@ -222,6 +222,62 @@
         "url": "https://www.theclinic.cl/2026/09/14/ministro-quiroz-el-exministro-marcel-no-tiene-un-muy-buen-record-en-materia-de-mantener-las-cuentas-en-orden/",
         "published_date": "2026-09-14 22:28:27",
         "category": "Economy"
+    },
+    {
+        "title": "Missing pieces, a tomb to rebuild and plaques to restore: the pending work to complete Baquedano's return to Plaza Italia",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/piezas-faltantes-una-tumba-por-reconstruir-y-placas-que-restaurar-los-trabajos-pendientes-para-completar-el-regreso-de-baquedano-a-la-plaza-italia/",
+        "published_date": "2026-09-22 15:11:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Double three-cylinder renewal: Triumph presents Tiger Sport 660 and Daytona 660 in Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/motos-triumph-en-chile-tiger-daytona-660/",
+        "published_date": "2026-09-22 14:51:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ximena Lincolao: \u201cIn a transversal way we have seen the opportunity that AI offers us for economic development\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/ximena-lincolao-en-forma-transversal-hemos-visto-la-oportunidad-que-nos-ofrece-la-ia-para-el-desarrollo-economico/",
+        "published_date": "2026-09-22 14:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Nelson V\u00e1squez, rector of the Pontifical Catholic University of Valpara\u00edso/ The work of the future: learning throughout life",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/columna-de-nelson-vasquez-rector-de-la-pontificia-universidad-catolica-de-valparaiso-el-trabajo-del-futuro-aprender-durante-toda-la-vida/",
+        "published_date": "2026-09-22 13:52:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "George Lucas's \u201ceccentric personal project\u201d opens in Los Angeles: a gigantic museum with 40,000 works and a Star Wars gallery",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/el-excentrico-proyecto-personal-de-george-lucas-abre-en-los-angeles-un-gigantesco-museo-con-40-mil-obras-y-una-galeria-de-star-wars/",
+        "published_date": "2026-09-22 13:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ximena Ossand\u00f3n warns of Bachelet's possible role in the opposition: \u201cIt would have been better to have her working at the UN than to have her installed in Chile\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/ximena-ossandon-advierte-posible-protagonismo-de-bachelet-en-la-oposicion-hubiera-sido-mejor-trabajando-en-la-onu-que-tenerla-instalada-en-chile/",
+        "published_date": "2026-09-22 13:31:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The more than $12 million that AWTO must return to 748 users after their termination: review how to obtain the benefit",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/los-mas-de-12-millones-que-awto-debera-restituir-a-748-usuarios-tras-su-cese-revisa-como-obtener-el-beneficio/",
+        "published_date": "2026-09-22 13:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "From TV jury to director of a dance school more than 100 years old: Sergio Valero, historic dance master in Chile, dies",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/22/de-jurado-de-tv-a-director-de-una-escuela-de-danza-de-mas-de-100-anos-muere-sergio-valero-historico-maestro-del-baile-en-chile/",
+        "published_date": "2026-09-22 12:07:44",
+        "category": "Local Events"
     },
     {
         "title": "President Kast will raise his objections to the functioning of the UN before the General Assembly and propose reforms",
@@ -305,62 +361,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/21/contraloria-detecta-485-funcionarios-suspendidos-por-sumarios-que-continuaron-recibiendo-sueldo-30-de-los-casos-superan-los-tres-anos/",
         "published_date": "2026-09-21 16:21:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government supports regional holiday for Magallanes on September 21: \u201cDistances are overcome with will\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/gobierno-respalda-feriado-regional-para-magallanes-el-21-de-septiembre-las-distancias-se-superan-con-voluntad/",
-        "published_date": "2026-09-21 16:16:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Libertarians join the official meeting in La Moneda and the Government advances in coordination with the right for a universal nursery",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/libertarios-se-suman-a-reunion-oficialista-en-la-moneda-y-gobierno-avanza-en-coordinaciones-con-la-derecha-para-sala-cuna-universal/",
-        "published_date": "2026-09-21 16:04:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago will have a brief break after the rains: temperatures will rise this Tuesday, but a new frontal system is approaching",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/santiago-tendra-una-breve-pausa-tras-las-lluvias-temperaturas-subiran-este-martes-pero-se-acerca-un-nuevo-sistema-frontal/",
-        "published_date": "2026-09-21 16:01:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new attack against the Punta Puertecillo project in Litueche: Committee of Ministers asks to reject the real estate company's appeal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/la-nueva-arremetida-contra-proyecto-punta-puertecillo-en-litueche-comite-de-ministros-pide-rechazar-recurso-de-reclamacion-de-la-inmobiliaria/",
-        "published_date": "2026-09-21 15:47:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Pedro Piedra to Tiro de Gracia, Soulfia and Crist\u00f3bal Brice\u00f1o: Parquemet announces a series of concerts on Cerro San Crist\u00f3bal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/desde-pedro-piedra-hasta-tiro-de-gracia-soulfia-y-cristobal-briceno-parquemet-anuncia-ciclo-de-conciertos-en-el-cerro-san-cristobal/",
-        "published_date": "2026-09-21 15:24:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Spanish, possible use of teleprompter and with national emphasis: this is how Kast prepares his first speech before the UN",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/en-espanol-posible-uso-de-telepronter-y-con-enfasis-nacional-asi-prepara-kast-su-primer-discurso-ante-la-onu/",
-        "published_date": "2026-09-21 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opposition closes ranks with Bachelet after withdrawing UN candidacy and targets Kast: \u201cThey are directly responsible\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/oposicion-cierra-filas-con-bachelet-tras-retiro-de-candidatura-a-la-onu-y-apunta-a-kast-son-directamente-responsables/",
-        "published_date": "2026-09-21 14:57:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bilateral with Zelensky and possible participation in Trump's Shield of the Americas: Kast's agenda for his UN debut",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/20/bilateral-con-zelenski-y-posible-participacion-en-el-shield-of-the-americas-de-trump-la-agenda-de-kast-para-su-debut-en-la-onu/",
-        "published_date": "2026-09-20 22:44:55",
         "category": "Local Events"
     }
 ]
