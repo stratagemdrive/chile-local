@@ -42,6 +42,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Minister Barros' plan to strengthen Chile's strategic capabilities and presence in the southern zone: they will renew planes and tanks",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/el-plan-del-ministro-barros-para-fortalecer-las-capacidades-estrategicas-y-la-presencia-de-chile-en-la-zona-austral-renovaran-aviones-y-tanques/",
+        "published_date": "2026-09-25 12:21:18",
+        "category": "Military"
+    },
+    {
         "title": "The return of the atomic age to the battlefield: the Chinese nuclear tank megaproject and the race for unlimited energy",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/22/tanque-nuclear-en-china-proyecto-canon-electromagnetico/",
@@ -68,6 +75,13 @@
         "url": "https://www.theclinic.cl/2026/09/17/a-pedido-de-su-defensa-german-naranjo-el-ejecutivo-chileno-acusado-de-racismo-en-brasil-ingresara-a-una-clinica-psiquiatrica/",
         "published_date": "2026-09-17 20:14:02",
         "category": "Military"
+    },
+    {
+        "title": "Little Red Riding Hood and the Wolf: the Valpara\u00edso restaurant that opened in a family home and 14 years later is a benchmark of the port's gastronomy",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/la-caperucita-y-el-lobo-el-restaurante-de-valparaiso-que-abrio-en-una-casa-familiar-y-14-anos-despues-es-un-referente-de-la-gastronomia-del-puerto/",
+        "published_date": "2026-09-25 15:41:00",
+        "category": "Energy"
     },
     {
         "title": "Migrations spent $26 million on the expulsion of a Chinese citizen convicted of drug trafficking in Chile: he traveled with two escorts",
@@ -123,20 +137,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/18/tormentas-de-arena-en-el-norte-gotitas-aisladas-y-posibles-rayos-en-santiago-y-vientos-de-80-km-h-en-el-sur-mira-el-escenario-meteorologico-para-este-18/",
         "published_date": "2026-09-18 12:22:26",
-        "category": "Energy"
-    },
-    {
-        "title": "Seven months after the fatal accident: Gasco reaches compensatory agreements with 85% of the families of the victims after the truck overturned in Renca",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/a-siete-meses-del-fatal-accidente-gasco-alcanza-acuerdos-compensatorios-con-el-85-de-las-familias-de-las-victimas-tras-vuelco-de-camion-en-renca/",
-        "published_date": "2026-09-17 13:50:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Gasoline mixed with 10% ethanol: the new formula that the Government is evaluating to reduce gasoline costs",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/gasolina-mezclada-con-un-10-de-etanol-la-nueva-formula-que-evalua-el-gobierno-para-abaratar-costos-de-las-bencinas/",
-        "published_date": "2026-09-17 13:09:14",
         "category": "Energy"
     },
     {
@@ -203,18 +203,60 @@
         "category": "Economy"
     },
     {
-        "title": "McLaren's radical turn: an SUV to save margins and conquer the market",
+        "title": "Fernanda Castillo, director of the Biob\u00edo Theater: \u201cCulture is inherent to human beings, no matter how much artificial intelligence exists\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/suv-de-mclaren-inversion-reino-unido/",
-        "published_date": "2026-09-17 15:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/25/fernanda-castillo-directora-del-teatro-biobio-la-cultura-es-inherente-al-ser-humano-por-mucha-inteligencia-artificial-que-exista/",
+        "published_date": "2026-09-25 15:40:00",
+        "category": "Local Events"
     },
     {
-        "title": "National Holidays: these are the mall and supermarket hours for this long weekend",
+        "title": "National Holidays: Sales of neighborhood stores fell 2.4% although visits increased",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/fiestas-patrias-estos-son-los-horarios-de-malls-y-supermercados-para-este-fin-de-semana-largo/",
-        "published_date": "2026-09-17 13:53:49",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/25/fiestas-patrias-ventas-de-almacenes-de-barrio-cayeron-24-aunque-aumentaron-las-visitas/",
+        "published_date": "2026-09-25 15:22:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pressure from N\u00fa\u00f1ez (RN) to perform \u201cmajor surgery\u201d in Kast's cabinet revives criticism from Republicans towards the president of the Senate",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/presion-de-nunez-rn-a-realizar-cirugia-mayor-en-el-gabinete-de-kast-revive-criticas-de-republicanos-hacia-la-presidenta-del-senado/",
+        "published_date": "2026-09-25 14:28:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The alliance of Arauco and Malleco to reverse years of poverty and low investment: mayors will bring proposals to the Government",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/la-alianza-de-arauco-y-malleco-para-revertir-anos-de-pobreza-y-baja-inversion-alcaldes-llevaran-propuestas-al-gobierno/",
+        "published_date": "2026-09-25 14:19:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Audi is chasing its own Chinese son: why Ingolstadt doesn't want the AUDI E5 Sportback in Europe",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/audi-persigue-a-su-propio-hijo-chino-por-que-ingolstadt-no-quiere-el-audi-e5-sportback-en-europa/",
+        "published_date": "2026-09-25 13:23:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The options that Pablo Milad opened to resolve the key between Everton and the U after the suspension of the match in Sausalito",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/pablo-milad-plantea-dos-escenarios-para-resolver-la-llave-entre-everton-y-la-u-tras-suspension-del-partido-en-sausalito/",
+        "published_date": "2026-09-25 13:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The rescue of the 33 miners comes to streaming with a new documentary on Disney+: \u201cIt is good to remind us of the epics we are capable of creating\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/el-rescate-de-los-33-mineros-llega-al-streaming-con-nuevo-documental-en-disney-es-bueno-recordarnos-las-epopeyas-de-las-cuales-somos-capaces-de-realizar/",
+        "published_date": "2026-09-25 11:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Educational robotics: an antidote to the \u201csimple click\u201d of artificial intelligence",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/robotica-educativa-cambia-forma-aprender-estudiantes/",
+        "published_date": "2026-09-25 11:28:00",
+        "category": "Local Events"
     },
     {
         "title": "A series where ghosts are the protagonists: \u201cMy Sad Dead\u201d arrives on Netflix, the latest by Pablo Larra\u00edn based on the work of Mariana Enr\u00edquez",
@@ -298,62 +340,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/24/bentley-torcal-electrico/",
         "published_date": "2026-09-24 13:29:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "RN proposal to \u201cpi\u00f1erize\u201d the Kast Government revives tension between Chile Vamos and Republicans",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/23/propuesta-rn-de-pinerizar-el-gobierno-de-kast-revive-tension-entre-chile-vamos-y-republicanos/",
-        "published_date": "2026-09-23 21:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "PDI, SII and Pan American Games Santiago 2023 among the organizations under scrutiny: CPLT detects that 34 institutions did not comply with the order to deliver public information",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/23/pdi-sii-y-panamericanos-santiago-2023-entre-los-organismos-bajo-lupa-cplt-detecta-que-34-instituciones-no-cumplieron-con-orden-de-entregar-informacion-publica/",
-        "published_date": "2026-09-23 21:14:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Celine Reymond, from waitress in France to \u201cProhibida Obsesi\u00f3n\u201d, Mega's new nightlife: \u201cYou have to do everything you can to support yourself\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/23/celine-reymond-de-mesera-en-francia-a-prohibida-obsesion-la-nocturna-de-mega-hay-que-hacer-todo-lo-que-uno-pueda-para-mantenerse/",
-        "published_date": "2026-09-23 20:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The formula analyzed by the FA to regulate the lobby and the \u201cwitch hunt\u201d that sectors of the party accuse",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/23/la-formula-que-analiza-el-fa-para-regular-el-lobby-y-la-caza-de-brujas-que-acusan-sectores-del-partido/",
-        "published_date": "2026-09-23 20:39:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The terror of being conscious and unable to move: why sleep paralysis occurs and how to escape it",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/23/el-terror-de-estar-conscientes-y-sin-poder-movernos-por-que-ocurren-las-paralisis-del-sueno-y-como-escapar-de-ellas/",
-        "published_date": "2026-09-23 20:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI felt outraged\u201d: Singer denounces that production company offered him to open for Alex Ubago's show for free",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/23/me-senti-indignado-cantante-denuncia-que-productora-le-ofrecio-telonear-gratis-show-de-alex-ubago/",
-        "published_date": "2026-09-23 20:03:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is the \u201cShield of the Americas\u201d: the United States' commitment against transnational crime to which Chile adhered",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/que-es-el-escudo-de-las-americas-la-apuesta-de-estados-unidos-contra-el-crimen-transnacional-a-la-que-adhirio-chile/",
-        "published_date": "2026-09-22 23:50:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe President of Chile handing over our sovereignty without disgust\u201d: parliamentarians react to Chilean accession to the Shield of the Americas",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/el-presidente-de-chile-entregando-sin-asco-nuestra-soberania-parlamentarios-reaccionan-a-adhesion-chilena-al-escudo-de-las-americas/",
-        "published_date": "2026-09-22 23:24:55",
         "category": "Local Events"
     }
 ]
