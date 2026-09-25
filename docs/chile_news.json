@@ -1,5 +1,12 @@
 [
     {
+        "title": "Israeli Ambassador sends letter to UC rector and accuses academic Sebasti\u00e1n Gray of \u201cpublic insults\u201d and \u201cdegrading insults\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/24/embajador-de-israel-envia-carta-al-rector-de-la-uc-y-acusa-al-academico-sebatian-gray-de-injurias-publicas-e-insultos-denigrantes/",
+        "published_date": "2026-09-24 20:42:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Finger down: the gesture of Deputy Soto (PPD) when the chancellor highlighted Chile's entry into the Shield of the Americas",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/24/dedo-para-abajo-el-gesto-del-diputado-soto-ppd-cuando-canciller-destaco-ingreso-de-chile-al-escudo-de-las-americas/",
@@ -35,13 +42,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Behind the wheel of the Maxus T70 GLX: the truck that prefers hard work over urban diplomacy",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/test-drive-maxus-t70-glx-chile/",
-        "published_date": "2026-09-16 20:30:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The return of the atomic age to the battlefield: the Chinese nuclear tank megaproject and the race for unlimited energy",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/22/tanque-nuclear-en-china-proyecto-canon-electromagnetico/",
@@ -68,6 +68,13 @@
         "url": "https://www.theclinic.cl/2026/09/17/a-pedido-de-su-defensa-german-naranjo-el-ejecutivo-chileno-acusado-de-racismo-en-brasil-ingresara-a-una-clinica-psiquiatrica/",
         "published_date": "2026-09-17 20:14:02",
         "category": "Military"
+    },
+    {
+        "title": "Migrations spent $26 million on the expulsion of a Chinese citizen convicted of drug trafficking in Chile: he traveled with two escorts",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/24/migraciones-gasto-26-millones-en-la-expulsion-de-un-ciudadano-chino-condenado-por-trafico-de-drogas-en-chile-viajo-con-dos-escoltas/",
+        "published_date": "2026-09-24 21:35:24",
+        "category": "Energy"
     },
     {
         "title": "He arrived in Chile, missed the empanadas from Argentina and decided to make them himself: the story of Alfonsina, the business that today has a MasterChef jury as a partner",
@@ -133,11 +140,18 @@
         "category": "Energy"
     },
     {
-        "title": "How much room does the Government have to increase public spending in 2027?Rumbo Colectivo calculates 1.5% while LyD demands that it be less than 1%",
+        "title": "Grim outlook: Market operators reduce growth projection for this year and increase inflation forecast",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/cuanto-espacio-tiene-el-gobierno-para-subir-el-gasto-publico-en-2027-rumbo-colectivo-calcula-15-mientras-que-lyd-demanda-que-sea-menor-a-1/",
-        "published_date": "2026-09-16 20:55:13",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/09/24/sombrio-panorama-operadores-del-mercado-reducen-proyeccion-de-crecimiento-para-este-ano-y-aumentan-pronostico-de-inflacion/",
+        "published_date": "2026-09-24 22:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "BancoEstado and Real Estate Conservator of Santiago agree to expedite registration of properties and mortgage loans",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/24/bancoestado-y-conservador-de-bienes-raices-de-santiago-acuerdan-agilizar-inscripcion-de-propiedades-y-creditos-hipotecarios/",
+        "published_date": "2026-09-24 21:04:44",
+        "category": "Economy"
     },
     {
         "title": "Pension Superintendent: Fonavi bonuses could be an instrument \u201cquite desired\u201d by the AFPs",
@@ -203,18 +217,32 @@
         "category": "Economy"
     },
     {
-        "title": "BeCycle's new leap: the indoor cycling chain that aims at the training experience, opened its third center in Cenco Malls",
+        "title": "A series where ghosts are the protagonists: \u201cMy Sad Dead\u201d arrives on Netflix, the latest by Pablo Larra\u00edn based on the work of Mariana Enr\u00edquez",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/el-nuevo-salto-de-becycle-la-cadena-de-ciclismo-indoor-que-apunta-a-la-experiencia-al-entrenar-abrio-su-tercer-centro-en-cenco-malls/",
-        "published_date": "2026-09-16 22:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/24/una-serie-donde-los-fantasmas-son-protagonistas-llega-a-netflix-mis-muertos-tristes-lo-ultimo-de-pablo-larrain-basado-en-la-obra-de-mariana-enriquez/",
+        "published_date": "2026-09-24 23:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "Fourth edition of Chita QUE\u2019Lindo in Laguna Zapallar Park: a 18th full of traditions, Chileanness and family entertainment",
+        "title": "La Pintana becomes the first commune in Chile to seek the elimination of cervical cancer",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/16/cuarta-edicion-chita-qlindo-zapallar/",
-        "published_date": "2026-09-16 21:29:26",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/24/la-pintana-se-convierte-en-la-primera-comuna-de-chile-en-buscar-la-eliminacion-del-cancer-cervicouterino/",
+        "published_date": "2026-09-24 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bachelet and Boric's message for Shield of the Americas: \u201cWe call on the Government of President Kast to reconsider Chile's permanence in this instance\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/24/el-mensaje-de-bachelet-y-boric-por-escudo-de-las-americas-llamamos-al-gobierno-del-presidente-kast-a-reconsiderar-la-permanencia-de-chile-en-esta-instancia/",
+        "published_date": "2026-09-24 21:40:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chile faces new mining transparency challenges after joining the international EITI standard",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/24/desafios-transparencia-minera-chile-eiti/",
+        "published_date": "2026-09-24 20:42:26",
+        "category": "Local Events"
     },
     {
         "title": "Nissan X-Trail is renewed in Chile: they present the facelift of the family SUV that aims at versatility",
@@ -326,34 +354,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/22/el-presidente-de-chile-entregando-sin-asco-nuestra-soberania-parlamentarios-reaccionan-a-adhesion-chilena-al-escudo-de-las-americas/",
         "published_date": "2026-09-22 23:24:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cUntil you are 18 you cannot know absolutely anything\u201d: Isidora's crusade so that adopted people can access the medical history of their biological family",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/hasta-los-18-no-puedes-saber-absolutamente-nada-la-cruzada-de-isidora-por-que-la-gente-adoptada-pueda-acceder-a-los-antecedentes-medicos-de-su-familia-biologica/",
-        "published_date": "2026-09-22 23:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Project that seeks to prevent the seizure of CAE debts from people with salaries less than $2.3 million faces a key vote in the House",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/proyecto-que-busca-impedir-el-embargo-por-deudas-del-cae-a-personas-con-sueldos-inferiores-a-23-millones-enfrenta-votacion-clave-en-la-camara/",
-        "published_date": "2026-09-22 21:49:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The end of sit-ups and the danger of the suitcase: the habits that could be destroying your spine according to specialists",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/el-fin-de-los-abdominales-y-el-peligro-de-la-maleta-los-habitos-que-podrian-estar-destrozando-tu-columna-segun-especialistas/",
-        "published_date": "2026-09-22 21:17:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Missing pieces, a tomb to rebuild and plaques to restore: the pending work to complete Baquedano's return to Plaza Italia",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/piezas-faltantes-una-tumba-por-reconstruir-y-placas-que-restaurar-los-trabajos-pendientes-para-completar-el-regreso-de-baquedano-a-la-plaza-italia/",
-        "published_date": "2026-09-22 15:11:41",
         "category": "Local Events"
     }
 ]
