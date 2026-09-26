@@ -35,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Alfredo Moreno on the Strait of Magellan and the conditions of other maritime routes: \u201cWe are going to have important competition\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/alfredo-moreno-sobre-el-estrecho-de-magallanes-y-las-condiciones-de-otras-rutas-maritimas-vamos-a-tener-una-competencia-importante/",
-        "published_date": "2026-09-17 20:38:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Minister Barros' plan to strengthen Chile's strategic capabilities and presence in the southern zone: they will renew planes and tanks",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/25/el-plan-del-ministro-barros-para-fortalecer-las-capacidades-estrategicas-y-la-presencia-de-chile-en-la-zona-austral-renovaran-aviones-y-tanques/",
@@ -70,11 +63,11 @@
         "category": "Military"
     },
     {
-        "title": "At the request of his defense: Germ\u00e1n Naranjo, the Chilean executive accused of racism in Brazil, will enter a psychiatric clinic",
+        "title": "The annoyance of Renca and Quilicura with the Ministry of Energy: they arrived with a proposal for a project for high voltage towers in the park and they accuse that it was not received",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/17/a-pedido-de-su-defensa-german-naranjo-el-ejecutivo-chileno-acusado-de-racismo-en-brasil-ingresara-a-una-clinica-psiquiatrica/",
-        "published_date": "2026-09-17 20:14:02",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/09/25/la-molestia-de-renca-y-quilicura-con-el-ministerio-de-energia-llegaron-con-propuesta-por-proyecto-de-torres-de-alta-tension-en-parque-y-acusan-que-no-fue-recibida/",
+        "published_date": "2026-09-25 20:10:00",
+        "category": "Energy"
     },
     {
         "title": "Little Red Riding Hood and the Wolf: the Valpara\u00edso restaurant that opened in a family home and 14 years later is a benchmark of the port's gastronomy",
@@ -203,6 +196,69 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cJoin the pack and laugh at a person\u201d: La Noche's harsh criticism of Telet\u00f3n after a parody of Leo Rey's viral video",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/sumarse-a-la-manada-y-reirse-de-una-persona-la-dura-critica-de-la-noche-a-teleton-tras-parodia-de-video-viral-de-leo-rey/",
+        "published_date": "2026-09-25 23:56:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "From \u201cLa Ola\u201d to her debut as a theater director: Daniela L\u00f3pez premieres \u201cThe Voices of My Mother\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/de-la-ola-a-su-debut-como-directora-teatral-daniela-lopez-estrena-las-voces-de-mi-madre/",
+        "published_date": "2026-09-25 22:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Patient noticed that his arm had a bad smell, but they told him that it was normal: he ended up amputated and they will have to pay him millionaire compensation",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/paciente-advirtio-que-su-brazo-tenia-mal-olor-pero-le-dijeron-que-era-normal-termino-amputado-y-deberan-pagarle-millonaria-indemnizacion/",
+        "published_date": "2026-09-25 21:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reactivation of Pavez (UDI) in the Government spokespersons in the face of criticism from the ruling party for the absence of that role in the cabinet",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/la-reactivacion-de-pavez-udi-en-las-vocerias-del-gobierno-ante-las-criticas-del-oficialismo-por-la-ausencia-de-ese-rol-en-el-gabinete/",
+        "published_date": "2026-09-25 21:24:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "What are the 25 programs that the Government will merge amid cuts for Budget 2027?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/en-que-consisten-los-25-programas-que-el-gobierno-fusionara-en-medio-de-recortes-para-el-presupuesto-2027/",
+        "published_date": "2026-09-25 21:21:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Patricio Montero?The new head of Stadium Security who faces his first challenge after the incidents in Sausalito",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/quien-es-patricio-montero-el-nuevo-jefe-de-seguridad-de-los-estadios-que-enfrenta-su-primer-desafio-tras-los-incidentes-en-sausalito/",
+        "published_date": "2026-09-25 21:07:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why a bigger engine doesn't always win the horsepower race",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/motor-mas-grande-mas-potencia/",
+        "published_date": "2026-09-25 21:02:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conaf opens almost seven thousand temporary job spots: check what the requirements are and how to apply",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/conaf-abre-casi-siete-mil-cupos-de-trabajo-temporal-revisa-cuales-son-los-requisitos-y-como-postular/",
+        "published_date": "2026-09-25 20:17:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI'll wait in line for BTS!\u201d: They take advantage of the ARMY's euphoria and charge $40,000 to stand in line for twelve hours at the National Stadium",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/25/te-hago-la-fila-para-bts-aprovechan-la-euforia-de-las-army-y-cobran-40-000-por-hacer-doce-horas-de-fila-en-estadio-nacional/",
+        "published_date": "2026-09-25 19:53:23",
+        "category": "Local Events"
+    },
+    {
         "title": "Fernanda Castillo, director of the Biob\u00edo Theater: \u201cCulture is inherent to human beings, no matter how much artificial intelligence exists\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/25/fernanda-castillo-directora-del-teatro-biobio-la-cultura-es-inherente-al-ser-humano-por-mucha-inteligencia-artificial-que-exista/",
@@ -277,69 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/24/el-mensaje-de-bachelet-y-boric-por-escudo-de-las-americas-llamamos-al-gobierno-del-presidente-kast-a-reconsiderar-la-permanencia-de-chile-en-esta-instancia/",
         "published_date": "2026-09-24 21:40:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chile faces new mining transparency challenges after joining the international EITI standard",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/desafios-transparencia-minera-chile-eiti/",
-        "published_date": "2026-09-24 20:42:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nissan X-Trail is renewed in Chile: they present the facelift of the family SUV that aims at versatility",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/nuevo-nissan-x-trail-en-chile-lanzamiento-precios-facelift/",
-        "published_date": "2026-09-24 15:39:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cYou just have to dare\u201d: Chilean astronomy student will travel to Poland to spend two weeks isolated in a base with conditions similar to the Moon and Mars",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/hay-que-atreverse-nomas-estudiante-chilena-de-astronomia-viajara-a-polonia-para-pasar-dos-semanas-aislada-en-una-base-con-condiciones-similares-a-la-luna-y-marte/",
-        "published_date": "2026-09-24 15:34:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "CMPC says goodbye to its Corrugated business and sells it to the Irish company Smurfit Westrock for US$420 million",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/cmpc-dice-adios-a-su-negocio-de-corrugados-y-lo-vende-a-empresa-irlandesa-smurfit-westrock-por-us420-millones/",
-        "published_date": "2026-09-24 15:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MOP agrees to advance up to $200 billion to the Chacao Bridge contractor to accelerate the works",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/mop-acuerda-adelantar-hasta-200-mil-millones-a-contratista-del-puente-chacao-para-acelerar-las-obras/",
-        "published_date": "2026-09-24 14:50:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "CPI warns that lowering the TAG would generate up to US$800 million in state debt: De Grange responds that \u201cit is not a debt\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/cpi-advierte-que-rebaja-del-tag-generaria-hasta-us800-millones-de-deuda-estatal-de-grange-responde-que-no-es-un-endeudamiento/",
-        "published_date": "2026-09-24 13:47:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "From third place in the U-20 of Alexis and Vidal to falling back into prison: the extensive criminal record of Ronald Valladares, the former goalkeeper detained in Concepci\u00f3n",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/del-tercer-lugar-en-la-sub-20-de-alexis-y-vidal-a-caer-nuevamente-en-prision-el-extenso-prontuario-de-ronald-valladares-el-exarquero-detenido-en-concepcion/",
-        "published_date": "2026-09-24 13:44:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey told him he couldn't get on the podium because he was a foreigner\u201d: 14-year-old athlete came second, they called him to receive his award and when he arrived they denied him the medal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/le-dijeron-que-no-podia-subir-al-podio-por-ser-extranjero-atleta-de-14-anos-salio-segundo-lo-llamaron-a-recibir-su-premio-y-al-llegar-le-negaron-la-medalla/",
-        "published_date": "2026-09-24 13:38:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bentley Torcal: the car that asks British luxury to stop sounding like an engine to continue sounding like Bentley",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/bentley-torcal-electrico/",
-        "published_date": "2026-09-24 13:29:02",
         "category": "Local Events"
     }
 ]
