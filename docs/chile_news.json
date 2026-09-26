@@ -1,5 +1,12 @@
 [
     {
+        "title": "The flank of the Shield of the Americas and the approach to Venezuela: the balance of La Moneda after Kast's tour",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/el-flanco-del-escudo-de-las-americas-y-el-acercamiento-a-venezuela-el-balance-de-la-moneda-tras-la-gira-de-kast/",
+        "published_date": "2026-09-26 12:15:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Israeli Ambassador sends letter to UC rector and accuses academic Sebasti\u00e1n Gray of \u201cpublic insults\u201d and \u201cdegrading insults\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/24/embajador-de-israel-envia-carta-al-rector-de-la-uc-y-acusa-al-academico-sebatian-gray-de-injurias-publicas-e-insultos-denigrantes/",
@@ -33,6 +40,13 @@
         "url": "https://www.theclinic.cl/2026/09/18/canciller-y-duro-resultado-de-bachelet-en-carrera-por-la-secretaria-general-de-la-onu-veiamos-una-candidatura-con-poca-probabilidad-de-exito/",
         "published_date": "2026-09-18 17:16:22",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Power Newsletter: Minister Barros without a shield",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/newsletter-poder-ministro-barros-sin-escudo/",
+        "published_date": "2026-09-26 12:02:00",
+        "category": "Military"
     },
     {
         "title": "Minister Barros' plan to strengthen Chile's strategic capabilities and presence in the southern zone: they will renew planes and tanks",
@@ -126,11 +140,25 @@
         "category": "Energy"
     },
     {
-        "title": "Sand storms in the north, isolated droplets and possible lightning in Santiago and winds of 80 km/h in the south: look at the meteorological scenario for this 18",
+        "title": "The battle for the sale of medicines and dermocosmetics online: Cencosud and Falabella seek to challenge Mercado Libre",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/18/tormentas-de-arena-en-el-norte-gotitas-aisladas-y-posibles-rayos-en-santiago-y-vientos-de-80-km-h-en-el-sur-mira-el-escenario-meteorologico-para-este-18/",
-        "published_date": "2026-09-18 12:22:26",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/09/26/tras-la-iniciativa-de-mercado-libre-cencosud-y-falabella-buscan-sumarse-a-la-venta-de-medicamentos-y-dermocosmeticos-online/",
+        "published_date": "2026-09-26 13:32:18",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cThanks to that job I was able to pay for my career\u201d: How a generation of former packers sees the return of a job that will now be with a contract and without tips",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/gracias-a-ese-trabajo-pude-pagar-mi-carrera-como-una-generacion-de-ex-empaquetadores-ve-el-retorno-de-un-oficio-que-ahora-sera-con-contrato-y-sin-propinas/",
+        "published_date": "2026-09-26 11:09:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Column by Danilo Herrera: Chronicle of an announced cut",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/columna-de-danilo-herrera-cronica-de-un-recorte-anunciado/",
+        "published_date": "2026-09-26 11:00:00",
+        "category": "Economy"
     },
     {
         "title": "Grim outlook: Market operators reduce growth projection for this year and increase inflation forecast",
@@ -194,6 +222,41 @@
         "url": "https://www.theclinic.cl/2026/09/20/fannie-mae-a-la-chilena-la-propuesta-del-gobierno-la-historia-y-las-alertas-detras-de-una-de-las-protagonistas-de-la-crisis-subprime/",
         "published_date": "2026-09-20 11:10:00",
         "category": "Economy"
+    },
+    {
+        "title": "Minister of Education, Mar\u00eda Paz Arzola: \u201cFree access is a very large benefit in monetary terms and it was not being allocated with the rigor that was required\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/ministra-de-educacion-maria-paz-arzola-la-gratuidad-es-un-beneficio-muy-cuantioso-en-terminos-monetarios-y-no-se-estaba-asignando-con-el-rigor-que-se-requeria/",
+        "published_date": "2026-09-26 12:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alan McPherson, author of \u201cKilling Letelier\u201d: \u201cThe idea of \u200b\u200btrying Pinochet, legally speaking, was very, very difficult\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/alan-mcpherson-autor-de-matar-a-letelier-la-idea-de-juzgar-a-pinochet-legalmente-hablando-era-muy-muy-dificil/",
+        "published_date": "2026-09-26 11:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Rita Cox: General Baquedano, the Metropolitan Region and a mistimed craving",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/el-general-baquedano-la-region-metropolitana-y-un-antojo-a-destiempo/",
+        "published_date": "2026-09-26 11:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journey to the origin of York ice cream: the story of the business that seemed destined to fail and that from Valpara\u00edso ended up marking generations of Chileans",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/viaje-al-origen-de-los-helados-york-la-historia-del-negocio-que-parecia-destinado-al-fracaso-y-que-desde-valparaiso-termino-marcando-a-generaciones-de-chilenos/",
+        "published_date": "2026-09-26 11:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Jaime Ma\u00f1alich: An emergency network without artificial borders",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/columna-de-jaime-manalich-una-red-de-urgencia-sin-fronteras-artificiales/",
+        "published_date": "2026-09-26 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "\u201cJoin the pack and laugh at a person\u201d: La Noche's harsh criticism of Telet\u00f3n after a parody of Leo Rey's viral video",
@@ -298,41 +361,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/25/pablo-milad-plantea-dos-escenarios-para-resolver-la-llave-entre-everton-y-la-u-tras-suspension-del-partido-en-sausalito/",
         "published_date": "2026-09-25 13:03:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The rescue of the 33 miners comes to streaming with a new documentary on Disney+: \u201cIt is good to remind us of the epics we are capable of creating\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/el-rescate-de-los-33-mineros-llega-al-streaming-con-nuevo-documental-en-disney-es-bueno-recordarnos-las-epopeyas-de-las-cuales-somos-capaces-de-realizar/",
-        "published_date": "2026-09-25 11:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Educational robotics: an antidote to the \u201csimple click\u201d of artificial intelligence",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/robotica-educativa-cambia-forma-aprender-estudiantes/",
-        "published_date": "2026-09-25 11:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A series where ghosts are the protagonists: \u201cMy Sad Dead\u201d arrives on Netflix, the latest by Pablo Larra\u00edn based on the work of Mariana Enr\u00edquez",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/una-serie-donde-los-fantasmas-son-protagonistas-llega-a-netflix-mis-muertos-tristes-lo-ultimo-de-pablo-larrain-basado-en-la-obra-de-mariana-enriquez/",
-        "published_date": "2026-09-24 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Pintana becomes the first commune in Chile to seek the elimination of cervical cancer",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/la-pintana-se-convierte-en-la-primera-comuna-de-chile-en-buscar-la-eliminacion-del-cancer-cervicouterino/",
-        "published_date": "2026-09-24 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bachelet and Boric's message for Shield of the Americas: \u201cWe call on the Government of President Kast to reconsider Chile's permanence in this instance\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/el-mensaje-de-bachelet-y-boric-por-escudo-de-las-americas-llamamos-al-gobierno-del-presidente-kast-a-reconsiderar-la-permanencia-de-chile-en-esta-instancia/",
-        "published_date": "2026-09-24 21:40:52",
         "category": "Local Events"
     }
 ]
