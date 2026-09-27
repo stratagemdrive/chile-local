@@ -35,13 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Chancellor and tough result for Bachelet in the race for the UN Secretary General: \u201cWe saw a candidacy with little probability of success\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/18/canciller-y-duro-resultado-de-bachelet-en-carrera-por-la-secretaria-general-de-la-onu-veiamos-una-candidatura-con-poca-probabilidad-de-exito/",
-        "published_date": "2026-09-18 17:16:22",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Power Newsletter: Minister Barros without a shield",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/26/newsletter-poder-ministro-barros-sin-escudo/",
@@ -75,6 +68,13 @@
         "url": "https://www.theclinic.cl/2026/09/19/el-origen-del-parque-ohiggins-de-la-pampilla-y-el-campo-de-marte-a-la-parada-militar/",
         "published_date": "2026-09-19 14:00:00",
         "category": "Military"
+    },
+    {
+        "title": "\u201cIt is putting ourselves at risk again\u201d: Electrodependents on alert after a ruling that eliminates the requirement for companies to permanently deliver generators",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/es-volver-a-ponernos-en-riesgo-electrodependientes-en-alerta-tras-fallo-que-elimina-exigencia-a-companias-de-entregar-generadores-de-forma-permanente/",
+        "published_date": "2026-09-26 18:10:00",
+        "category": "Energy"
     },
     {
         "title": "The annoyance of Renca and Quilicura with the Ministry of Energy: they arrived with a proposal for a project for high voltage towers in the park and they accuse that it was not received",
@@ -138,6 +138,13 @@
         "url": "https://www.theclinic.cl/2026/09/19/amargas-lagrimas-de-los-chilenos-con-tres-expulsiones-santiago-wanderers-pierde-ante-real-madrid-por-intercontinental-sub20/",
         "published_date": "2026-09-19 12:52:33",
         "category": "Energy"
+    },
+    {
+        "title": "Orrego criticizes budget cuts of up to 10% to regional governments and claims that \u201cChile is left halfway\u201d with the postponement of infrastructure works",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/orrego-critica-recorte-de-hasta-10-a-los-gobiernos-regionales-y-reclama-que-se-deja-chile-a-medias-con-la-postergacion-de-obras-de-infraestructura/",
+        "published_date": "2026-09-26 15:21:43",
+        "category": "Economy"
     },
     {
         "title": "The battle for the sale of medicines and dermocosmetics online: Cencosud and Falabella seek to challenge Mercado Libre",
@@ -222,6 +229,13 @@
         "url": "https://www.theclinic.cl/2026/09/20/fannie-mae-a-la-chilena-la-propuesta-del-gobierno-la-historia-y-las-alertas-detras-de-una-de-las-protagonistas-de-la-crisis-subprime/",
         "published_date": "2026-09-20 11:10:00",
         "category": "Economy"
+    },
+    {
+        "title": "One medal away from the historical record: Chile ends its participation in the South American Games in fourth place with 49 gold, 58 silver and 68 bronze",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/a-una-medalla-de-romper-el-record-historico-team-chile-cierra-su-participacion-en-los-juegos-suramericanos-con-49-oros-58-platas-y-69-bronces/",
+        "published_date": "2026-09-26 21:43:14",
+        "category": "Local Events"
     },
     {
         "title": "Minister of Education, Mar\u00eda Paz Arzola: \u201cFree access is a very large benefit in monetary terms and it was not being allocated with the rigor that was required\u201d",
@@ -354,13 +368,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/25/audi-persigue-a-su-propio-hijo-chino-por-que-ingolstadt-no-quiere-el-audi-e5-sportback-en-europa/",
         "published_date": "2026-09-25 13:23:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The options that Pablo Milad opened to resolve the key between Everton and the U after the suspension of the match in Sausalito",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/pablo-milad-plantea-dos-escenarios-para-resolver-la-llave-entre-everton-y-la-u-tras-suspension-del-partido-en-sausalito/",
-        "published_date": "2026-09-25 13:03:19",
         "category": "Local Events"
     }
 ]
