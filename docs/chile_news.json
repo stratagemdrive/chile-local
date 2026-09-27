@@ -1,5 +1,12 @@
 [
     {
+        "title": "Editorial: Whaling",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/editorial-la-caza-de-ballenas/",
+        "published_date": "2026-09-27 11:00:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The flank of the Shield of the Americas and the approach to Venezuela: the balance of La Moneda after Kast's tour",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/26/el-flanco-del-escudo-de-las-americas-y-el-acercamiento-a-venezuela-el-balance-de-la-moneda-tras-la-gira-de-kast/",
@@ -63,11 +70,11 @@
         "category": "Military"
     },
     {
-        "title": "The origin of O\u2019Higgins Park: from La Pampilla and Campo de Marte to the Military Parade",
+        "title": "From working in a mining company to opening three stores in Iquique: the story of Silvestre Coffee and its commitment to changing the local gastronomy of the north",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/el-origen-del-parque-ohiggins-de-la-pampilla-y-el-campo-de-marte-a-la-parada-militar/",
-        "published_date": "2026-09-19 14:00:00",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/09/27/de-trabajar-en-una-minera-a-abrir-tres-locales-en-iquique-la-historia-de-silvestre-coffee-y-su-apuesta-por-cambiar-la-gastronomia-local-del-norte/",
+        "published_date": "2026-09-27 11:11:00",
+        "category": "Energy"
     },
     {
         "title": "\u201cIt is putting ourselves at risk again\u201d: Electrodependents on alert after a ruling that eliminates the requirement for companies to permanently deliver generators",
@@ -133,11 +140,11 @@
         "category": "Energy"
     },
     {
-        "title": "Bitter tears of the Chileans: with three expulsions Santiago Wanderers loses to Real Madrid for Intercontinental Sub20",
+        "title": "Too young, too old or mothers: the disparate barrier that hits women in the midst of the employment crisis",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/amargas-lagrimas-de-los-chilenos-con-tres-expulsiones-santiago-wanderers-pierde-ante-real-madrid-por-intercontinental-sub20/",
-        "published_date": "2026-09-19 12:52:33",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/09/27/demasiado-jovenes-demasiado-mayores-o-madres-la-dispar-barrera-que-golpea-a-las-mujeres-en-medio-de-la-crisis-del-empleo/",
+        "published_date": "2026-09-27 11:09:00",
+        "category": "Economy"
     },
     {
         "title": "Orrego criticizes budget cuts of up to 10% to regional governments and claims that \u201cChile is left halfway\u201d with the postponement of infrastructure works",
@@ -231,10 +238,52 @@
         "category": "Economy"
     },
     {
+        "title": "Mayors affected by the postponement of train works to Melipilla ask the Government to reverse the decision: \u201cThe commitment cannot be ignored\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/alcaldes-afectados-por-postergacion-de-obras-en-tren-a-melipilla-piden-al-gobierno-revertir-decision-el-compromiso-no-puede-desconocerse/",
+        "published_date": "2026-09-27 14:23:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Virgen del Carmen will tour the center of Santiago this Sunday: what are the schedules, routes and activities for the 100 years of her coronation",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/virgen-del-carmen-recorrera-el-centro-de-santiago-este-domingo-horarios-recorrido-y-actividades-por-los-100-anos-de-su-coronacion/",
+        "published_date": "2026-09-27 13:56:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poduje announces controversial new requirements for cyclists on San Crist\u00f3bal Hill: they must register to climb and wear a reflective vest with an identification code",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/poduje-anuncia-nuevas-exigencias-para-ciclistas-del-cerro-san-cristobal-deberan-inscribirse-para-subir-y-portar-chaleco-reflectante-con-codigo-de-identificacion/",
+        "published_date": "2026-09-27 13:31:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lautaro Carmona, president of the PC: \u201cWe need to put the idea of \u200b\u200bbeing a mass party back at the center\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/lautaro-carmona-presidente-del-pc-necesitamos-volver-a-poner-en-el-centro-la-idea-de-ser-un-partido-de-masas/",
+        "published_date": "2026-09-27 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kike Mujica Profile: What's wrong with you Bassa?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/perfil-de-kike-mujica-que-te-pasa-bassa/",
+        "published_date": "2026-09-27 11:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "One medal away from the historical record: Chile ends its participation in the South American Games in fourth place with 49 gold, 58 silver and 68 bronze",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/26/a-una-medalla-de-romper-el-record-historico-team-chile-cierra-su-participacion-en-los-juegos-suramericanos-con-49-oros-58-platas-y-69-bronces/",
         "published_date": "2026-09-26 21:43:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "What is behind the massive reception that the opposition is preparing for Bachelet in La Pintana with the assistance of Boric",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/26/que-hay-tras-la-recepcion-masiva-que-prepara-la-oposicion-para-bachelet-en-la-pintana-con-boric-entre-los-invitados/",
+        "published_date": "2026-09-26 20:53:18",
         "category": "Local Events"
     },
     {
@@ -326,48 +375,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/25/conaf-abre-casi-siete-mil-cupos-de-trabajo-temporal-revisa-cuales-son-los-requisitos-y-como-postular/",
         "published_date": "2026-09-25 20:17:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI'll wait in line for BTS!\u201d: They take advantage of the ARMY's euphoria and charge $40,000 to stand in line for twelve hours at the National Stadium",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/te-hago-la-fila-para-bts-aprovechan-la-euforia-de-las-army-y-cobran-40-000-por-hacer-doce-horas-de-fila-en-estadio-nacional/",
-        "published_date": "2026-09-25 19:53:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fernanda Castillo, director of the Biob\u00edo Theater: \u201cCulture is inherent to human beings, no matter how much artificial intelligence exists\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/fernanda-castillo-directora-del-teatro-biobio-la-cultura-es-inherente-al-ser-humano-por-mucha-inteligencia-artificial-que-exista/",
-        "published_date": "2026-09-25 15:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Holidays: Sales of neighborhood stores fell 2.4% although visits increased",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/fiestas-patrias-ventas-de-almacenes-de-barrio-cayeron-24-aunque-aumentaron-las-visitas/",
-        "published_date": "2026-09-25 15:22:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pressure from N\u00fa\u00f1ez (RN) to perform \u201cmajor surgery\u201d in Kast's cabinet revives criticism from Republicans towards the president of the Senate",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/presion-de-nunez-rn-a-realizar-cirugia-mayor-en-el-gabinete-de-kast-revive-criticas-de-republicanos-hacia-la-presidenta-del-senado/",
-        "published_date": "2026-09-25 14:28:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The alliance of Arauco and Malleco to reverse years of poverty and low investment: mayors will bring proposals to the Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/la-alianza-de-arauco-y-malleco-para-revertir-anos-de-pobreza-y-baja-inversion-alcaldes-llevaran-propuestas-al-gobierno/",
-        "published_date": "2026-09-25 14:19:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Audi is chasing its own Chinese son: why Ingolstadt doesn't want the AUDI E5 Sportback in Europe",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/audi-persigue-a-su-propio-hijo-chino-por-que-ingolstadt-no-quiere-el-audi-e5-sportback-en-europa/",
-        "published_date": "2026-09-25 13:23:25",
         "category": "Local Events"
     }
 ]
