@@ -1,5 +1,12 @@
 [
     {
+        "title": "Alvarado criticizes Boric and Bachelet for their statement against the Shield of the Americas and calls on the former presidents to \u201cdiscuss these issues in private\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/alvarado-cuestiona-a-boric-y-bachelet-por-comunicado-contra-escudo-de-las-americas-y-critica-que-como-expresidentes-deben-hablar-estos-temas-en-privado/",
+        "published_date": "2026-09-27 15:42:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Editorial: Whaling",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/27/editorial-la-caza-de-ballenas/",
@@ -60,13 +67,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/22/tanque-nuclear-en-china-proyecto-canon-electromagnetico/",
         "published_date": "2026-09-22 13:01:07",
-        "category": "Military"
-    },
-    {
-        "title": "With an unprecedented participation of the Gendarmerie: Kast led his first Military Parade as President",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/19/con-una-inedita-participacion-de-gendarmeria-kast-encabezo-su-primera-parada-militar-como-presidente/",
-        "published_date": "2026-09-19 17:53:55",
         "category": "Military"
     },
     {
@@ -238,6 +238,27 @@
         "category": "Economy"
     },
     {
+        "title": "Minister Arrau and Carabineros general moved to the Las Condes Clinic: police officer is shot in Lo Espejo and remains at life risk",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/carabinero-que-fue-baleado-en-operativo-policial-en-lo-espejo-se-encuentra-en-estado-de-gravedad-en-clinica-las-condes/",
+        "published_date": "2026-09-27 20:50:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "They annul the process to choose the Chilean pavilion at the Venice Biennale and the architect of the jury questions what change in the competition \u201cwill affect our representation\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/anulan-concurso-para-elegir-al-pabellon-de-chile-en-venecia-y-arquitecta-del-jurado-cuestiona-que-la-decision-afectara-nuestra-representacion/",
+        "published_date": "2026-09-27 19:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Roja suffers with defeat, but Mega celebrates its first match as the new home of the national team and widely prevails in the rating",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/27/la-roja-sufre-con-derrota-pero-mega-celebra-su-primer-partido-como-nueva-casa-de-la-seleccion-tras-imponerse-en-el-rating/",
+        "published_date": "2026-09-27 18:07:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Mayors affected by the postponement of train works to Melipilla ask the Government to reverse the decision: \u201cThe commitment cannot be ignored\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/27/alcaldes-afectados-por-postergacion-de-obras-en-tren-a-melipilla-piden-al-gobierno-revertir-decision-el-compromiso-no-puede-desconocerse/",
@@ -354,27 +375,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/25/en-que-consisten-los-25-programas-que-el-gobierno-fusionara-en-medio-de-recortes-para-el-presupuesto-2027/",
         "published_date": "2026-09-25 21:21:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Patricio Montero?The new head of Stadium Security who faces his first challenge after the incidents in Sausalito",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/quien-es-patricio-montero-el-nuevo-jefe-de-seguridad-de-los-estadios-que-enfrenta-su-primer-desafio-tras-los-incidentes-en-sausalito/",
-        "published_date": "2026-09-25 21:07:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why a bigger engine doesn't always win the horsepower race",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/motor-mas-grande-mas-potencia/",
-        "published_date": "2026-09-25 21:02:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conaf opens almost seven thousand temporary job spots: check what the requirements are and how to apply",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/conaf-abre-casi-siete-mil-cupos-de-trabajo-temporal-revisa-cuales-son-los-requisitos-y-como-postular/",
-        "published_date": "2026-09-25 20:17:43",
         "category": "Local Events"
     }
 ]
