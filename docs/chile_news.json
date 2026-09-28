@@ -49,6 +49,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The debut of Cristi\u00e1n Valenzuela in the Steinert commission and the calculated defense of the former minister with arguments derived from the Monsalve Case",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/el-estreno-de-cristian-valenzuela-en-la-comision-steinert-y-la-calculada-defensa-a-la-exministra-con-argumentos-derivados-del-caso-monsalve/",
+        "published_date": "2026-09-28 16:40:41",
+        "category": "Military"
+    },
+    {
+        "title": "US shows Chilean military training in the Amazon during multinational exercise",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/ejercito-de-chile-realiza-extremno-entrenamiento-en-la-selva-amazonica-en-el-marco-del-southern-vanguard-2026/",
+        "published_date": "2026-09-28 16:25:24",
+        "category": "Military"
+    },
+    {
         "title": "Power Newsletter: Minister Barros without a shield",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/26/newsletter-poder-ministro-barros-sin-escudo/",
@@ -68,6 +82,13 @@
         "url": "https://www.theclinic.cl/2026/09/22/tanque-nuclear-en-china-proyecto-canon-electromagnetico/",
         "published_date": "2026-09-22 13:01:07",
         "category": "Military"
+    },
+    {
+        "title": "What time does it start to rain in Santiago?: showers and a possible electrical storm are predicted from the afternoon",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/a-que-hora-comienza-a-llover-en-santiago-pronostican-chubascos-y-posible-tormenta-electrica-desde-la-tarde/",
+        "published_date": "2026-09-28 16:01:28",
+        "category": "Energy"
     },
     {
         "title": "From working in a mining company to opening three stores in Iquique: the story of Silvestre Coffee and its commitment to changing the local gastronomy of the north",
@@ -130,13 +151,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/21/diego-morande-ante-la-nueva-ley-de-datos-personales-aplica-a-todo-aquel-que-trate-datos-desde-el-conserje-del-edificio-hasta-una-transnacional/",
         "published_date": "2026-09-21 15:19:06",
-        "category": "Energy"
-    },
-    {
-        "title": "18 deaths and 144 detainees arrested for driving with alcohol and drugs: the harsh balance of Carabineros in National Holiday celebrations",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/20/18-fallecidos-y-144-detenidos-detenidos-por-manejar-con-alcohol-y-drogas-el-duro-balance-de-carabineros-en-celebraciones-de-fiestas-patrias/",
-        "published_date": "2026-09-20 14:04:49",
         "category": "Energy"
     },
     {
@@ -231,11 +245,53 @@
         "category": "Economy"
     },
     {
-        "title": "Fannie Mae Chilean style?The government's proposal, the history and the alerts behind one of the protagonists of the subprime crisis",
+        "title": "Behind the wheel of the BMW",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/20/fannie-mae-a-la-chilena-la-propuesta-del-gobierno-la-historia-y-las-alertas-detras-de-una-de-las-protagonistas-de-la-crisis-subprime/",
-        "published_date": "2026-09-20 11:10:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/28/test-drive-bmw-x1-sdrive18i-m-sport-chile/",
+        "published_date": "2026-09-28 18:06:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Progressive centers call on the government to postpone tax cuts in 2027 to use those resources for more employment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/centros-progresistas-llaman-al-gobierno-a-postergar-rebaja-de-impuestos-en-2027-para-usar-esos-recursos-en-mas-empleo/",
+        "published_date": "2026-09-28 17:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Restoration of the Baquedano monument enters its final stage: final arrangements will cost $160 million and are seeking financing from donations",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/restauracion-del-monumento-a-baquedano-entra-en-su-etapa-final-ultimos-arreglos-costaran-160-millones-y-buscan-financiamiento-por-donaciones/",
+        "published_date": "2026-09-28 16:39:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "From October 1: WhatsApp Business will have a limit of free messages and will begin charging companies that exceed it",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/desde-el-1-de-octubre-whatsapp-business-tendra-un-limite-de-mensajes-gratuitos-y-comenzara-a-cobrar-a-las-empresas-que-lo-excedan/",
+        "published_date": "2026-09-28 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cYou cannot continue to attribute responsibilities to third parties\u201d: The opposition counterattack on security after the Kast siege",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/no-puede-seguir-imputando-responsabilidades-a-terceros-el-contraataque-opositor-en-seguridad-tras-emplazamiento-de-kast/",
+        "published_date": "2026-09-28 16:18:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "TVN's explanation for the color change of its iconic logo: it appeared on a blue background on the web",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/la-explicacion-de-tvn-por-el-cambio-de-color-de-su-iconico-logo-aparecio-sobre-un-fondo-azul-en-la-web/",
+        "published_date": "2026-09-28 16:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Robbie Williams and his party without fear of cringe in La Florida: feathers, covers and classic repertoire on his return to Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/robbie-williams-y-su-fiesta-sin-miedo-al-cringe-en-la-florida-plumas-covers-y-repertorio-clasico-en-su-regreso-a-chile/",
+        "published_date": "2026-09-28 15:37:57",
+        "category": "Local Events"
     },
     {
         "title": "Minister Arrau and Carabineros general moved to the Las Condes Clinic: police officer is shot in Lo Espejo and remains at life risk",
@@ -326,55 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/26/el-general-baquedano-la-region-metropolitana-y-un-antojo-a-destiempo/",
         "published_date": "2026-09-26 11:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Journey to the origin of York ice cream: the story of the business that seemed destined to fail and that from Valpara\u00edso ended up marking generations of Chileans",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/viaje-al-origen-de-los-helados-york-la-historia-del-negocio-que-parecia-destinado-al-fracaso-y-que-desde-valparaiso-termino-marcando-a-generaciones-de-chilenos/",
-        "published_date": "2026-09-26 11:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Jaime Ma\u00f1alich: An emergency network without artificial borders",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/columna-de-jaime-manalich-una-red-de-urgencia-sin-fronteras-artificiales/",
-        "published_date": "2026-09-26 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cJoin the pack and laugh at a person\u201d: La Noche's harsh criticism of Telet\u00f3n after a parody of Leo Rey's viral video",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/sumarse-a-la-manada-y-reirse-de-una-persona-la-dura-critica-de-la-noche-a-teleton-tras-parodia-de-video-viral-de-leo-rey/",
-        "published_date": "2026-09-25 23:56:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "From \u201cLa Ola\u201d to her debut as a theater director: Daniela L\u00f3pez premieres \u201cThe Voices of My Mother\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/de-la-ola-a-su-debut-como-directora-teatral-daniela-lopez-estrena-las-voces-de-mi-madre/",
-        "published_date": "2026-09-25 22:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Patient noticed that his arm had a bad smell, but they told him that it was normal: he ended up amputated and they will have to pay him millionaire compensation",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/paciente-advirtio-que-su-brazo-tenia-mal-olor-pero-le-dijeron-que-era-normal-termino-amputado-y-deberan-pagarle-millonaria-indemnizacion/",
-        "published_date": "2026-09-25 21:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reactivation of Pavez (UDI) in the Government spokespersons in the face of criticism from the ruling party for the absence of that role in the cabinet",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/la-reactivacion-de-pavez-udi-en-las-vocerias-del-gobierno-ante-las-criticas-del-oficialismo-por-la-ausencia-de-ese-rol-en-el-gabinete/",
-        "published_date": "2026-09-25 21:24:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "What are the 25 programs that the Government will merge amid cuts for Budget 2027?",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/25/en-que-consisten-los-25-programas-que-el-gobierno-fusionara-en-medio-de-recortes-para-el-presupuesto-2027/",
-        "published_date": "2026-09-25 21:21:44",
         "category": "Local Events"
     }
 ]
