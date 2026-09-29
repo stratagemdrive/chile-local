@@ -105,6 +105,20 @@
         "category": "Military"
     },
     {
+        "title": "Myth or reality: Does putting magnets on the refrigerator door increase your electricity bill?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/mito-o-realidad-poner-imanes-en-la-puerta-del-refrigerador-aumenta-la-cuenta-de-luz/",
+        "published_date": "2026-09-29 16:41:52",
+        "category": "Energy"
+    },
+    {
+        "title": "Roads with the soul of a power plant: where the invention works and where it crashed",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/carreteras-que-generan-electricidad/",
+        "published_date": "2026-09-29 14:30:00",
+        "category": "Energy"
+    },
+    {
         "title": "What time does it start to rain in Santiago?: showers and a possible electrical storm are predicted from the afternoon",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/a-que-hora-comienza-a-llover-en-santiago-pronostican-chubascos-y-posible-tormenta-electrica-desde-la-tarde/",
@@ -165,13 +179,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/22/como-proteger-datos-escritor/",
         "published_date": "2026-09-22 21:35:20",
-        "category": "Energy"
-    },
-    {
-        "title": "Diego Morand\u00e9 regarding the new Personal Data law: \u201cIt applies to anyone who processes data from the building janitor to a transnational company\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/21/diego-morande-ante-la-nueva-ley-de-datos-personales-aplica-a-todo-aquel-que-trate-datos-desde-el-conserje-del-edificio-hasta-una-transnacional/",
-        "published_date": "2026-09-21 15:19:06",
         "category": "Energy"
     },
     {
@@ -280,6 +287,62 @@
         "category": "Economy"
     },
     {
+        "title": "Chamber of Deputies approved the project that refunds VAT for the purchase of diapers and medicines",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/camara-de-diputados-aprobo-el-proyecto-que-devuelve-el-iva-por-la-compra-de-panales-y-medicamentos/",
+        "published_date": "2026-09-29 16:38:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comedy, fame and his endless fight against addiction: Netflix releases preview of the documentary series about Matthew Perry",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/comedia-fama-y-su-interminable-lucha-contra-la-adiccion-netflix-libera-adelanto-de-la-serie-documental-sobre-matthew-perry/",
+        "published_date": "2026-09-29 16:27:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bachelet's reactivation after closing the UN chapter: the signs of her new agenda between tributes and her constant dialogues with Boric",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/la-reactivacion-de-bachelet-tras-cerrar-el-capitulo-de-la-onu-las-senales-de-su-nueva-agenda-entre-homenajes-y-sus-dialogos-constantes-con-boric/",
+        "published_date": "2026-09-29 16:07:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ten days without electricity, without signal and away from their families: the battle to keep the older adults of Canela connected",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/diez-dias-sin-luz-sin-senal-y-lejos-de-sus-familias-la-batalla-por-mantener-conectados-a-los-adultos-mayores-de-canela/",
+        "published_date": "2026-09-29 15:28:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt is a totally segregating measure, disconnected from all reality\u201d: Cyclists react to the new measures of Cerro San Crist\u00f3bal",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/es-una-medida-totalmente-segregadora-desconectada-de-toda-la-realidad-ciclistas-reaccionan-a-las-nuevas-medidas-del-cerro-san-cristobal/",
+        "published_date": "2026-09-29 15:03:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago Airport will have direct connection with regional bus terminals from 2027: measure will benefit cities in the central zone",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/aeropuerto-de-santiago-tendra-conexion-directa-con-terminales-de-buses-de-regiones-desde-2027-medida-beneficiara-a-ciudades-de-la-zona-central/",
+        "published_date": "2026-09-29 14:41:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWhat is happening with customer service in Chile?\u201d: Brazilian woman denounces having a bad experience as a customer",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/que-esta-pasando-con-la-atencion-al-publico-en-chile-brasilena-denuncia-sufrir-mala-experiencia-como-consumidora/",
+        "published_date": "2026-09-29 14:19:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cGovern with Faith\u201d: The Christian conclave to be held in Santiago led by Republican deputies on the role of religion in politics",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/gobernar-con-fe-el-conclave-cristiano-a-realizarse-en-santiago-liderado-por-diputados-republicanos-sobre-el-rol-de-la-religion-en-politica/",
+        "published_date": "2026-09-29 13:59:52",
+        "category": "Local Events"
+    },
+    {
         "title": "Dominga Project: Andes Iron withdraws appeals presented to the Supreme Court after rejection of the initiative",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/proyecto-dominga-andes-iron-desiste-de-recursos-presentados-en-la-corte-suprema-tras-rechazo-a-la-iniciativa/",
@@ -361,62 +424,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/robbie-williams-y-su-fiesta-sin-miedo-al-cringe-en-la-florida-plumas-covers-y-repertorio-clasico-en-su-regreso-a-chile/",
         "published_date": "2026-09-28 15:37:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister Arrau and Carabineros general moved to the Las Condes Clinic: police officer is shot in Lo Espejo and remains at life risk",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/carabinero-que-fue-baleado-en-operativo-policial-en-lo-espejo-se-encuentra-en-estado-de-gravedad-en-clinica-las-condes/",
-        "published_date": "2026-09-27 20:50:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "They annul the process to choose the Chilean pavilion at the Venice Biennale and the architect of the jury questions what change in the competition \u201cwill affect our representation\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/anulan-concurso-para-elegir-al-pabellon-de-chile-en-venecia-y-arquitecta-del-jurado-cuestiona-que-la-decision-afectara-nuestra-representacion/",
-        "published_date": "2026-09-27 19:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Roja suffers with defeat, but Mega celebrates its first match as the new home of the national team and widely prevails in the rating",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/la-roja-sufre-con-derrota-pero-mega-celebra-su-primer-partido-como-nueva-casa-de-la-seleccion-tras-imponerse-en-el-rating/",
-        "published_date": "2026-09-27 18:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayors affected by the postponement of train works to Melipilla ask the Government to reverse the decision: \u201cThe commitment cannot be ignored\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/alcaldes-afectados-por-postergacion-de-obras-en-tren-a-melipilla-piden-al-gobierno-revertir-decision-el-compromiso-no-puede-desconocerse/",
-        "published_date": "2026-09-27 14:23:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Virgen del Carmen will tour the center of Santiago this Sunday: what are the schedules, routes and activities for the 100 years of her coronation",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/virgen-del-carmen-recorrera-el-centro-de-santiago-este-domingo-horarios-recorrido-y-actividades-por-los-100-anos-de-su-coronacion/",
-        "published_date": "2026-09-27 13:56:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poduje announces controversial new requirements for cyclists on San Crist\u00f3bal Hill: they must register to climb and wear a reflective vest with an identification code",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/poduje-anuncia-nuevas-exigencias-para-ciclistas-del-cerro-san-cristobal-deberan-inscribirse-para-subir-y-portar-chaleco-reflectante-con-codigo-de-identificacion/",
-        "published_date": "2026-09-27 13:31:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lautaro Carmona, president of the PC: \u201cWe need to put the idea of \u200b\u200bbeing a mass party back at the center\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/lautaro-carmona-presidente-del-pc-necesitamos-volver-a-poner-en-el-centro-la-idea-de-ser-un-partido-de-masas/",
-        "published_date": "2026-09-27 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kike Mujica Profile: What's wrong with you Bassa?",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/perfil-de-kike-mujica-que-te-pasa-bassa/",
-        "published_date": "2026-09-27 11:00:00",
         "category": "Local Events"
     }
 ]
