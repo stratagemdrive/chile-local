@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cYou are not a lawyer, I am\u201d: Representative Venegas' summons to Chancellor P\u00e9rez Mackenna by Shield of the Americas",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/usted-no-es-abogado-yo-si-el-emplazamiento-del-diputado-venegas-al-canciller-perez-mackenna-por-escudo-de-las-americas/",
+        "published_date": "2026-09-28 20:57:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Alvarado criticizes Boric and Bachelet for their statement against the Shield of the Americas and calls on the former presidents to \u201cdiscuss these issues in private\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/27/alvarado-cuestiona-a-boric-y-bachelet-por-comunicado-contra-escudo-de-las-americas-y-critica-que-como-expresidentes-deben-hablar-estos-temas-en-privado/",
@@ -47,6 +54,20 @@
         "url": "https://www.theclinic.cl/2026/09/22/chile-se-suma-al-escudo-de-las-americas-convocado-por-donald-trump-e-identifica-a-26-bandas-de-crimen-organizado-en-la-region/",
         "published_date": "2026-09-22 21:09:21",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Who is Wendy Garc\u00eda: the defender of the Cuban regime who will be part of the MUDA Festival programming along with Jadue, Jara and Boric",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/quien-es-wendy-garcia-la-defensora-del-regimen-cubano-que-formara-parte-de-la-programacion-del-festival-muda-junto-a-jadue-jara-y-boric/",
+        "published_date": "2026-09-28 22:18:25",
+        "category": "Military"
+    },
+    {
+        "title": "From trucks to drones: the automotive industry once again looks towards defense",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/fabricantes-autos-defensa/",
+        "published_date": "2026-09-28 20:40:52",
+        "category": "Military"
     },
     {
         "title": "The debut of Cristi\u00e1n Valenzuela in the Steinert commission and the calculated defense of the former minister with arguments derived from the Monsalve Case",
@@ -154,6 +175,20 @@
         "category": "Energy"
     },
     {
+        "title": "UDI announces rejection of changes in the Bank Fraud Law proposed by the Government in reform of the capital market",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/udi-anuncia-rechazo-a-cambios-en-ley-de-fraudes-bancarios-propuestos-por-el-gobierno-en-reforma-al-mercado-de-capitales/",
+        "published_date": "2026-09-28 23:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Santiago Stock Exchange adds 16 Peruvian shares to its Foreign Securities Market",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/bolsa-de-santiago-incorpora-16-acciones-peruanas-a-su-mercado-de-valores-extranjeros/",
+        "published_date": "2026-09-28 22:05:00",
+        "category": "Economy"
+    },
+    {
         "title": "Too young, too old or mothers: the disparate barrier that hits women in the midst of the employment crisis",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/27/demasiado-jovenes-demasiado-mayores-o-madres-la-dispar-barrera-que-golpea-a-las-mujeres-en-medio-de-la-crisis-del-empleo/",
@@ -243,6 +278,41 @@
         "url": "https://www.theclinic.cl/2026/09/22/el-auge-de-las-senior-suites-en-chile-oferta-crecio-mas-de-60-en-una-decada-y-sector-oriente-de-santiago-concentra-gran-parte-del-negocio/",
         "published_date": "2026-09-22 13:52:09",
         "category": "Economy"
+    },
+    {
+        "title": "Dominga Project: Andes Iron withdraws appeals presented to the Supreme Court after rejection of the initiative",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/proyecto-dominga-andes-iron-desiste-de-recursos-presentados-en-la-corte-suprema-tras-rechazo-a-la-iniciativa/",
+        "published_date": "2026-09-29 01:54:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Andr\u00e9s Herrera, national director of Sernac who will leave office after a summary of workplace harassment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/quien-es-andres-herrera-director-nacional-del-sernac-que-dejara-el-cargo-tras-un-sumario-por-acoso-laboral/",
+        "published_date": "2026-09-29 00:29:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina denounces \u201cillegal\u201d flights by a British company between the Malvinas Islands and Punta Arenas and announces criminal sanctions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/argentina-denuncia-vuelos-ilegales-de-empresa-britanica-entre-islas-malvinas-y-punta-arenas-y-anuncia-sanciones-penales/",
+        "published_date": "2026-09-28 22:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "First Command of the Capital: the largest criminal gang in Brazil whose faction in Chile was dismantled after a PDI operation",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/primer-comando-de-la-capital-la-banda-criminal-mas-grande-de-brasil-cuya-faccion-en-chile-fue-desarticulada-tras-un-operativo-pdi/",
+        "published_date": "2026-09-28 21:56:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The solidarity business behind the pharmacies of the League against Epilepsy: its sales make it possible to serve more than 12 thousand patients and allocate $4.52 billion to subsidies",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/28/el-negocio-solidario-detras-de-las-farmacias-de-la-liga-contra-la-epilepsia-sus-ventas-permiten-atender-a-mas-de-12-mil-pacientes-y-destinar-4-520-millones-a-subsidios/",
+        "published_date": "2026-09-28 21:11:11",
+        "category": "Local Events"
     },
     {
         "title": "Behind the wheel of the BMW",
@@ -347,41 +417,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/27/perfil-de-kike-mujica-que-te-pasa-bassa/",
         "published_date": "2026-09-27 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One medal away from the historical record: Chile ends its participation in the South American Games in fourth place with 49 gold, 58 silver and 68 bronze",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/a-una-medalla-de-romper-el-record-historico-team-chile-cierra-su-participacion-en-los-juegos-suramericanos-con-49-oros-58-platas-y-69-bronces/",
-        "published_date": "2026-09-26 21:43:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is behind the massive reception that the opposition is preparing for Bachelet in La Pintana with the assistance of Boric",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/que-hay-tras-la-recepcion-masiva-que-prepara-la-oposicion-para-bachelet-en-la-pintana-con-boric-entre-los-invitados/",
-        "published_date": "2026-09-26 20:53:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Education, Mar\u00eda Paz Arzola: \u201cFree access is a very large benefit in monetary terms and it was not being allocated with the rigor that was required\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/ministra-de-educacion-maria-paz-arzola-la-gratuidad-es-un-beneficio-muy-cuantioso-en-terminos-monetarios-y-no-se-estaba-asignando-con-el-rigor-que-se-requeria/",
-        "published_date": "2026-09-26 12:13:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alan McPherson, author of \u201cKilling Letelier\u201d: \u201cThe idea of \u200b\u200btrying Pinochet, legally speaking, was very, very difficult\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/alan-mcpherson-autor-de-matar-a-letelier-la-idea-de-juzgar-a-pinochet-legalmente-hablando-era-muy-muy-dificil/",
-        "published_date": "2026-09-26 11:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Rita Cox: General Baquedano, the Metropolitan Region and a mistimed craving",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/el-general-baquedano-la-region-metropolitana-y-un-antojo-a-destiempo/",
-        "published_date": "2026-09-26 11:14:00",
         "category": "Local Events"
     }
 ]
