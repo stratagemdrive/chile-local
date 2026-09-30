@@ -105,6 +105,20 @@
         "category": "Military"
     },
     {
+        "title": "They launch the first electric bicycle competition in Chile: Event organized by Francisco L\u00f3pez will be this October 10 in Lo Barnechea",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/lanzan-primera-competencia-de-bicicletas-electricas-en-chile-evento-organizado-por-francisco-lopez-sera-este-10-de-octubre-en-lo-barnechea/",
+        "published_date": "2026-09-30 00:26:54",
+        "category": "Energy"
+    },
+    {
+        "title": "Not so harmless: scientific evidence puts rabbits in the crosshairs for the spread of Chagas",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/ni-tan-inofensivos-evidencia-cientifica-pone-a-los-conejos-en-la-mira-por-la-propagacion-del-chagas/",
+        "published_date": "2026-09-29 23:55:00",
+        "category": "Energy"
+    },
+    {
         "title": "Myth or reality: Does putting magnets on the refrigerator door increase your electricity bill?",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/29/mito-o-realidad-poner-imanes-en-la-puerta-del-refrigerador-aumenta-la-cuenta-de-luz/",
@@ -180,6 +194,13 @@
         "url": "https://www.theclinic.cl/2026/09/22/como-proteger-datos-escritor/",
         "published_date": "2026-09-22 21:35:20",
         "category": "Energy"
+    },
+    {
+        "title": "President of the Central Bank warns of \u201cpossible conflicts of interest\u201d of BancoEstado when managing the new Housing Fund",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/presidenta-del-banco-central-advierte-de-posibles-conflictos-de-interes-de-bancoestado-al-gestionar-nuevo-fondo-para-la-vivienda/",
+        "published_date": "2026-09-29 21:45:00",
+        "category": "Economy"
     },
     {
         "title": "UDI announces rejection of changes in the Bank Fraud Law proposed by the Government in reform of the capital market",
@@ -287,6 +308,55 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cThe Little Prince\u201d returns to the big screen: An ambitious live-action film of the classic children's novel is being prepared",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/el-principito-vuelve-a-la-pantalla-grande-preparan-ambiciosa-pelicula-en-live-action-de-la-clasica-novela-infantil/",
+        "published_date": "2026-09-30 01:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "CyberMonday turns 15: expects sales of US$ 460 million and 4.5 million transactions",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/cybermonday-cumple-15-anos-espera-ventas-por-us-460-millones-y-45-millones-de-transacciones/",
+        "published_date": "2026-09-30 00:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cA little culture doesn't hurt anyone\u201d: Deputies criticize the director of Prodemu for removing Simone de Beauvoir from the list of notable authors",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/poco-de-cultura-no-le-hace-mal-a-nadie-diputadas-critican-a-directora-de-prodemu-por-sacar-a-simone-de-beauvoir-del-listado-de-autoras-destacadas/",
+        "published_date": "2026-09-29 23:15:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cOne took out a gun and started shooting\u201d: The crude story of one of the victims of the fatal attack on a bus with Colo Colo fans in San Antonio",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/uno-saco-una-pistola-y-empezo-a-disparar-el-crudo-relato-de-una-de-las-victimas-del-fatal-ataque-a-bus-con-hinchas-de-colo-colo-en-san-antonio/",
+        "published_date": "2026-09-29 22:01:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "From calling a former minister a \u201cpathetic wuachita\u201d to eliminating Simone de Beauvoir from the list of notable authors: the history of controversies of the director of Prodemu",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/de-llamar-wuachita-patetica-a-exministra-a-eliminar-a-simone-de-beauvoir-de-lista-de-autoras-destacadas-el-historial-de-polemicas-de-la-directora-de-prodemu/",
+        "published_date": "2026-09-29 21:38:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe President asked me to find a solution\u201d: Poduje confirms that the Government is working to finance and allow the opening of the Cerro Chena Park in San Bernardo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/el-presidente-me-pidio-buscar-una-solucion-poduje-confirma-que-el-gobierno-trabaja-para-financiar-y-permitir-apertura-del-parque-cerro-chena-de-san-bernardo/",
+        "published_date": "2026-09-29 21:21:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kast gives signals to Congress for a security agenda and summons key actors to a meeting in Cerro Castillo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/29/kast-da-senales-al-congreso-por-agenda-de-seguridad-y-cita-a-actores-clave-a-reunion-en-cerro-castillo/",
+        "published_date": "2026-09-29 21:14:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Chamber of Deputies approved the project that refunds VAT for the purchase of diapers and medicines",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/29/camara-de-diputados-aprobo-el-proyecto-que-devuelve-el-iva-por-la-compra-de-panales-y-medicamentos/",
@@ -375,55 +445,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/el-negocio-solidario-detras-de-las-farmacias-de-la-liga-contra-la-epilepsia-sus-ventas-permiten-atender-a-mas-de-12-mil-pacientes-y-destinar-4-520-millones-a-subsidios/",
         "published_date": "2026-09-28 21:11:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Behind the wheel of the BMW",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/test-drive-bmw-x1-sdrive18i-m-sport-chile/",
-        "published_date": "2026-09-28 18:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Progressive centers call on the government to postpone tax cuts in 2027 to use those resources for more employment",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/centros-progresistas-llaman-al-gobierno-a-postergar-rebaja-de-impuestos-en-2027-para-usar-esos-recursos-en-mas-empleo/",
-        "published_date": "2026-09-28 17:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Restoration of the Baquedano monument enters its final stage: final arrangements will cost $160 million and are seeking financing from donations",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/restauracion-del-monumento-a-baquedano-entra-en-su-etapa-final-ultimos-arreglos-costaran-160-millones-y-buscan-financiamiento-por-donaciones/",
-        "published_date": "2026-09-28 16:39:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "From October 1: WhatsApp Business will have a limit of free messages and will begin charging companies that exceed it",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/desde-el-1-de-octubre-whatsapp-business-tendra-un-limite-de-mensajes-gratuitos-y-comenzara-a-cobrar-a-las-empresas-que-lo-excedan/",
-        "published_date": "2026-09-28 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cYou cannot continue to attribute responsibilities to third parties\u201d: The opposition counterattack on security after the Kast siege",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/no-puede-seguir-imputando-responsabilidades-a-terceros-el-contraataque-opositor-en-seguridad-tras-emplazamiento-de-kast/",
-        "published_date": "2026-09-28 16:18:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "TVN's explanation for the color change of its iconic logo: it appeared on a blue background on the web",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/la-explicacion-de-tvn-por-el-cambio-de-color-de-su-iconico-logo-aparecio-sobre-un-fondo-azul-en-la-web/",
-        "published_date": "2026-09-28 16:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Robbie Williams and his party without fear of cringe in La Florida: feathers, covers and classic repertoire on his return to Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/robbie-williams-y-su-fiesta-sin-miedo-al-cringe-en-la-florida-plumas-covers-y-repertorio-clasico-en-su-regreso-a-chile/",
-        "published_date": "2026-09-28 15:37:57",
         "category": "Local Events"
     }
 ]
