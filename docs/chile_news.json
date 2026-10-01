@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cA blatant lie\u201d: US ambassador denies Senator Daniel N\u00fa\u00f1ez (PC) for alleged visa denial",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/una-mentira-descarada-embajador-de-ee-uu-desmiente-al-senador-daniel-nunez-pc-por-supuesta-negativa-de-visa/",
+        "published_date": "2026-10-01 00:04:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cYou are not a lawyer, I am\u201d: Representative Venegas' summons to Chancellor P\u00e9rez Mackenna by Shield of the Americas",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/usted-no-es-abogado-yo-si-el-emplazamiento-del-diputado-venegas-al-canciller-perez-mackenna-por-escudo-de-las-americas/",
@@ -49,13 +56,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Chile adheres to the Shield of the Americas after meeting with Donald Trump and identifies 25 organized crime gangs in the region",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/chile-se-suma-al-escudo-de-las-americas-convocado-por-donald-trump-e-identifica-a-26-bandas-de-crimen-organizado-en-la-region/",
-        "published_date": "2026-09-22 21:09:21",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Who is Wendy Garc\u00eda: the defender of the Cuban regime who will be part of the MUDA Festival programming along with Jadue, Jara and Boric",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/quien-es-wendy-garcia-la-defensora-del-regimen-cubano-que-formara-parte-de-la-programacion-del-festival-muda-junto-a-jadue-jara-y-boric/",
@@ -96,6 +96,27 @@
         "url": "https://www.theclinic.cl/2026/09/25/el-plan-del-ministro-barros-para-fortalecer-las-capacidades-estrategicas-y-la-presencia-de-chile-en-la-zona-austral-renovaran-aviones-y-tanques/",
         "published_date": "2026-09-25 12:21:18",
         "category": "Military"
+    },
+    {
+        "title": "Quiroz enters the 2027 Budget project and confirms a 1.5% increase in public spending",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/quiroz-ingresa-proyecto-de-presupuesto-2027-y-confirma-incremento-del-15-en-el-gasto-publico/",
+        "published_date": "2026-09-30 23:39:14",
+        "category": "Energy"
+    },
+    {
+        "title": "The fall of Alex Vega: the Gendarmerie union leader who used his role to cover a corruption network in Santiago I",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/la-caida-de-alex-vega-el-lider-gremial-de-gendarmeria-que-utilizo-su-rol-para-cubrir-una-red-de-corrupcion-en-santiago-i/",
+        "published_date": "2026-09-30 22:53:21",
+        "category": "Energy"
+    },
+    {
+        "title": "The third in one day: The Seremi of Economy of the O'Higgins Region resigns and the Government accumulates more than 40 departures in six months",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/el-tercero-en-un-dia-renuncia-el-seremi-de-economia-de-la-region-de-ohiggins-y-el-gobierno-acumula-mas-de-40-salidas-en-seis-meses/",
+        "published_date": "2026-09-30 22:15:48",
+        "category": "Energy"
     },
     {
         "title": "The new BMW i3 faces its own myth: do they reach 912 km of autonomy to retire the thermal engine?",
@@ -203,13 +224,6 @@
         "category": "Energy"
     },
     {
-        "title": "Protecting your data as a freelance writer: the risks of digging too deep",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/como-proteger-datos-escritor/",
-        "published_date": "2026-09-22 21:35:20",
-        "category": "Energy"
-    },
-    {
         "title": "President of the Central Bank warns of \u201cpossible conflicts of interest\u201d of BancoEstado when managing the new Housing Fund",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/29/presidenta-del-banco-central-advierte-de-posibles-conflictos-de-interes-de-bancoestado-al-gestionar-nuevo-fondo-para-la-vivienda/",
@@ -294,25 +308,46 @@
         "category": "Economy"
     },
     {
-        "title": "Debris recovery: Parque Panam\u00e1, the first real estate project in Chile under the circular economy model",
+        "title": "\"Did you think that after this I was going to go home? That's not going to happen\": The harangue from the left to Bachelet with which they seek to reposition her",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/recuperacion-de-escombros-parque-panama-el-primer-proyecto-inmobiliario-en-chile-bajo-el-modelo-de-economia-circular/",
-        "published_date": "2026-09-23 00:36:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/30/pensaban-que-despues-de-esto-me-iba-a-ir-para-la-casa-eso-no-va-a-pasar-el-arengazo-de-la-izquierda-a-bachelet-con-el-que-se-reposiciona-a-la-expresidenta/",
+        "published_date": "2026-10-01 01:05:28",
+        "category": "Local Events"
     },
     {
-        "title": "MK4: Fonavi, fraud law and corporations mark second session in the Treasury",
+        "title": "\u201cTo govern is to order\u201d: President Kast presents the first Budget law of his administration with a focus on growth, employment and security",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/mk4-fonavi-ley-de-fraudes-y-sociedades-anonimas-marcan-segunda-sesion-en-hacienda/",
-        "published_date": "2026-09-22 22:30:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/30/gobernar-es-ordenar-presidente-kast-presenta-la-primera-ley-de-presupuesto-de-su-administracion-con-foco-en-crecimiento-empleo-y-seguridad/",
+        "published_date": "2026-10-01 00:21:58",
+        "category": "Local Events"
     },
     {
-        "title": "The millionaire losses revealed by the president of BancoEstado due to card fraud: in 2026 alone they would exceed US$20 million",
+        "title": "Who is who in the 2027 Budget and the style that Quiroz printed in his design",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/22/las-millonarias-perdidas-que-revelo-el-presidente-de-bancoestado-por-fraudes-en-tarjetas-solo-en-2026-superarian-los-us20-millones/",
-        "published_date": "2026-09-22 22:02:41",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/09/30/quien-es-quien-en-el-presupuesto-2027-y-el-estilo-que-imprimio-quiroz-en-su-diseno/",
+        "published_date": "2026-09-30 22:04:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt's unbearable, it smells like a sewer\u201d: The unpleasant smell that has been in the Tobalaba station for weeks and that bothers passengers and Metro workers",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/es-insoportable-huele-a-alcantarilla-el-desagradable-olor-que-lleva-semanas-en-estacion-tobalaba-y-que-molesta-a-pasajeros-y-trabajadores-de-metro/",
+        "published_date": "2026-09-30 21:30:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cEight million per meter is crazy\u201d: The millionaire cost of burying cables that worries municipalities",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/ocho-millones-el-metro-es-una-locura-el-millonario-costo-de-soterrar-cables-que-preocupa-a-municipios/",
+        "published_date": "2026-09-30 21:13:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the midst of an ambitious expansion plan: Parque Arauco completes the purchase of Mall Paseo Quil\u00edn in Pe\u00f1alol\u00e9n",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/09/30/en-medio-de-ambicioso-plan-de-expansion-parque-arauco-concreta-compra-de-mall-paseo-quilin-de-penalolen/",
+        "published_date": "2026-09-30 21:12:14",
+        "category": "Local Events"
     },
     {
         "title": "Plaza de Armas opens command post with cameras and 24/7 surveillance: the structure was donated from China",
@@ -410,48 +445,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/29/kast-da-senales-al-congreso-por-agenda-de-seguridad-y-cita-a-actores-clave-a-reunion-en-cerro-castillo/",
         "published_date": "2026-09-29 21:14:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chamber of Deputies approved the project that refunds VAT for the purchase of diapers and medicines",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/29/camara-de-diputados-aprobo-el-proyecto-que-devuelve-el-iva-por-la-compra-de-panales-y-medicamentos/",
-        "published_date": "2026-09-29 16:38:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comedy, fame and his endless fight against addiction: Netflix releases preview of the documentary series about Matthew Perry",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/29/comedia-fama-y-su-interminable-lucha-contra-la-adiccion-netflix-libera-adelanto-de-la-serie-documental-sobre-matthew-perry/",
-        "published_date": "2026-09-29 16:27:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bachelet's reactivation after closing the UN chapter: the signs of her new agenda between tributes and her constant dialogues with Boric",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/29/la-reactivacion-de-bachelet-tras-cerrar-el-capitulo-de-la-onu-las-senales-de-su-nueva-agenda-entre-homenajes-y-sus-dialogos-constantes-con-boric/",
-        "published_date": "2026-09-29 16:07:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ten days without electricity, without signal and away from their families: the battle to keep the older adults of Canela connected",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/29/diez-dias-sin-luz-sin-senal-y-lejos-de-sus-familias-la-batalla-por-mantener-conectados-a-los-adultos-mayores-de-canela/",
-        "published_date": "2026-09-29 15:28:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt is a totally segregating measure, disconnected from all reality\u201d: Cyclists react to the new measures of Cerro San Crist\u00f3bal",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/29/es-una-medida-totalmente-segregadora-desconectada-de-toda-la-realidad-ciclistas-reaccionan-a-las-nuevas-medidas-del-cerro-san-cristobal/",
-        "published_date": "2026-09-29 15:03:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago Airport will have direct connection with regional bus terminals from 2027: measure will benefit cities in the central zone",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/29/aeropuerto-de-santiago-tendra-conexion-directa-con-terminales-de-buses-de-regiones-desde-2027-medida-beneficiara-a-ciudades-de-la-zona-central/",
-        "published_date": "2026-09-29 14:41:25",
         "category": "Local Events"
     }
 ]
