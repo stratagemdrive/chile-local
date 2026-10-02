@@ -42,11 +42,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Finger down: the gesture of Deputy Soto (PPD) when the chancellor highlighted Chile's entry into the Shield of the Americas",
+        "title": "Coquimbo turns on alerts for possible shark attack: Diver has been missing for a week and items with marks attributable to an attack have been found",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/24/dedo-para-abajo-el-gesto-del-diputado-soto-ppd-cuando-canciller-destaco-ingreso-de-chile-al-escudo-de-las-americas/",
-        "published_date": "2026-09-24 15:27:18",
-        "category": "Diplomacy"
+        "url": "https://www.theclinic.cl/2026/10/02/coquimbo-enciende-las-alertas-por-posible-ataque-de-tiburon-buzo-lleva-una-semana-desaparecido-y-se-han-encontrado-elementos-con-marcas-atribuibles-a-un-ataque/",
+        "published_date": "2026-10-02 14:37:00",
+        "category": "Military"
     },
     {
         "title": "Who is Wendy Garc\u00eda: the defender of the Cuban regime who will be part of the MUDA Festival programming along with Jadue, Jara and Boric",
@@ -231,6 +231,13 @@
         "category": "Energy"
     },
     {
+        "title": "Quiroz at the Annual Trade Meeting: \u201cWe made Chile unattractive\u2026we covered ourselves with taxes, regulations, we lost security\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/quiroz-en-el-encuentro-anual-de-comercio-hicimos-que-chile-fuera-poco-atractivo-nos-tapamos-de-impuestos-regulaciones-perdimos-la-seguridad/",
+        "published_date": "2026-10-02 15:26:37",
+        "category": "Economy"
+    },
+    {
         "title": "President of the Central Bank warns of \u201cpossible conflicts of interest\u201d of BancoEstado when managing the new Housing Fund",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/29/presidenta-del-banco-central-advierte-de-posibles-conflictos-de-interes-de-bancoestado-al-gestionar-nuevo-fondo-para-la-vivienda/",
@@ -299,6 +306,62 @@
         "url": "https://www.theclinic.cl/2026/09/24/bancoestado-y-conservador-de-bienes-raices-de-santiago-acuerdan-agilizar-inscripcion-de-propiedades-y-creditos-hipotecarios/",
         "published_date": "2026-09-24 21:04:44",
         "category": "Economy"
+    },
+    {
+        "title": "Company removed six robots by throwing them into an oven Terminator 2 style",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/empresa-retiro-seis-robots-haciendolos-lanzarse-a-un-horno-al-estilo-terminator-2/",
+        "published_date": "2026-10-02 16:25:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Culture suffers sharp cuts in Budget 2027: funds for books, performing arts and audiovisual promotion record the biggest falls",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/cultura-sufre-fuerte-recorte-en-presupuesto-2027-fondos-del-libro-artes-escenicas-y-fomento-audiovisual-anotan-las-mayores-caidas/",
+        "published_date": "2026-10-02 16:19:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt opened the doors of the world for me\u201d: the stories of the children whose lives \u201cI Choose My PC\u201d changed and their opinions on the end of the benefit",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/me-abrio-las-puertas-del-mundo-las-historias-de-los-ninos-a-los-que-yo-elijo-mi-pc-les-cambio-la-vida-y-sus-opiniones-sobre-el-fin-del-beneficio/",
+        "published_date": "2026-10-02 15:47:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Review of the movie \u201cDigger\u201d: The arrogance that precedes the fall",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/critica-a-la-pelicula-digger-la-arrogancia-que-precede-a-la-caida/",
+        "published_date": "2026-10-02 15:22:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Berlin route: to treat yourself to the best jam, pastry or even Nutella fillings",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/la-ruta-del-berlin-para-darse-un-gusto-con-los-mejores-rellenos-de-mermelada-pastelera-o-incluso-nutella/",
+        "published_date": "2026-10-02 15:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alyson Richman, the bestseller of \u201cThe Lovers of Prague\u201d, visiting Chile: \u201cIn each book the human experience overcomes the historical\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/alyson-richman-la-bestseller-de-los-amantes-de-praga-de-visita-en-chile-en-cada-libro-la-experiencia-humana-vence-a-lo-historico/",
+        "published_date": "2026-10-02 15:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carmen Gloria Bresky and her acting career: \u201cIt is no guarantee to have had a good character or an award to always remain relevant\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/carmen-gloria-bresky-y-la-carrera-de-actriz-no-es-garantia-haber-tenido-un-buen-personaje-o-un-premio-para-seguir-siempre-vigente/",
+        "published_date": "2026-10-02 15:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anonymous letters against suicide: Finis Terrae's commitment to stop the mental health crisis on campuses",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/02/cartas-anonimas-contra-el-suicidio-la-apuesta-de-la-finis-terrae-para-frenar-la-crisis-de-salud-mental-en-los-campus/",
+        "published_date": "2026-10-02 14:34:00",
+        "category": "Local Events"
     },
     {
         "title": "The Comptroller's Office gives the green light to a decree entered by the Minvu that lowers the density coefficient and allows the construction of more apartments per building",
@@ -382,62 +445,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/01/javiera-sandoval-unica-chilena-seleccionada-para-el-programa-de-crisis-de-vital-voices-las-amenazas-no-se-pueden-evitar-pero-si-podemos-prepararnos-y-anticiparnos/",
         "published_date": "2026-10-01 15:21:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The case of Christa Pike: the inmate who survived lethal injections and caused Tennessee to suspend death sentences",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/01/el-caso-de-christa-pike-la-reclusa-que-sobrevivio-a-inyecciones-letales-y-que-provoco-que-tennessee-suspendiera-penas-de-muerte/",
-        "published_date": "2026-10-01 15:12:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "QS Ranking 2027: check which are the ten Chilean universities that stand out among the best in Latin America",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/01/ranking-qs-2027-revisa-cuales-son-diez-universidades-chilenas-que-destacan-entre-las-mejores-de-latinoamerica/",
-        "published_date": "2026-10-01 15:11:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Post offices, green handkerchiefs and LGBT flags: the intense counter-campaign that affected Bachelet's candidacy for the UN General Secretariat",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/01/correos-panuelos-verdes-y-banderas-lgbt-la-intensa-contracampana-que-afecto-la-candidatura-de-bachelet-a-la-secretaria-general-de-la-onu/",
-        "published_date": "2026-10-01 15:10:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students demonstrate in Alameda against Government measures: clashes with Carabineros mark the day",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/01/estudiantes-se-manifiestan-en-la-alameda-contra-medidas-del-gobierno-enfrentamientos-con-carabineros-marcan-la-jornada/",
-        "published_date": "2026-10-01 15:08:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Did you think that after this I was going to go home? That's not going to happen\": The harangue from the left to Bachelet with which they seek to reposition her",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/pensaban-que-despues-de-esto-me-iba-a-ir-para-la-casa-eso-no-va-a-pasar-el-arengazo-de-la-izquierda-a-bachelet-con-el-que-se-reposiciona-a-la-expresidenta/",
-        "published_date": "2026-10-01 01:05:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cTo govern is to order\u201d: President Kast presents the first Budget law of his administration with a focus on growth, employment and security",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/gobernar-es-ordenar-presidente-kast-presenta-la-primera-ley-de-presupuesto-de-su-administracion-con-foco-en-crecimiento-empleo-y-seguridad/",
-        "published_date": "2026-10-01 00:21:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is who in the 2027 Budget and the style that Quiroz printed in his design",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/quien-es-quien-en-el-presupuesto-2027-y-el-estilo-que-imprimio-quiroz-en-su-diseno/",
-        "published_date": "2026-09-30 22:04:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt's unbearable, it smells like a sewer\u201d: The unpleasant smell that has been in the Tobalaba station for weeks and that bothers passengers and Metro workers",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/es-insoportable-huele-a-alcantarilla-el-desagradable-olor-que-lleva-semanas-en-estacion-tobalaba-y-que-molesta-a-pasajeros-y-trabajadores-de-metro/",
-        "published_date": "2026-09-30 21:30:08",
         "category": "Local Events"
     }
 ]
