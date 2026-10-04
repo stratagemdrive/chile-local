@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kike Mujica's Column: The Cold War of Santiago, Chile",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/04/columna-de-kike-mujica-la-guerra-fria-de-santiago-de-chile/",
+        "published_date": "2026-10-04 11:03:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cA blatant lie\u201d: US ambassador denies Senator Daniel N\u00fa\u00f1ez (PC) for alleged visa denial",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/30/una-mentira-descarada-embajador-de-ee-uu-desmiente-al-senador-daniel-nunez-pc-por-supuesta-negativa-de-visa/",
@@ -25,13 +32,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/27/editorial-la-caza-de-ballenas/",
         "published_date": "2026-09-27 11:00:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The flank of the Shield of the Americas and the approach to Venezuela: the balance of La Moneda after Kast's tour",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/el-flanco-del-escudo-de-las-americas-y-el-acercamiento-a-venezuela-el-balance-de-la-moneda-tras-la-gira-de-kast/",
-        "published_date": "2026-09-26 12:15:13",
         "category": "Diplomacy"
     },
     {
@@ -84,11 +84,18 @@
         "category": "Military"
     },
     {
-        "title": "Power Newsletter: Minister Barros without a shield",
+        "title": "Ignacio Briones before Plan Chile Despega: \u201cIt seems completely insufficient to me, US$100 million is less than an aspirin\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/newsletter-poder-ministro-barros-sin-escudo/",
-        "published_date": "2026-09-26 12:02:00",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/10/04/ignacio-briones-ante-plan-chile-despega-me-parece-completamente-insuficiente-us100-millones-es-menos-que-una-aspirina/",
+        "published_date": "2026-10-04 11:07:00",
+        "category": "Energy"
+    },
+    {
+        "title": "They arrived together in San Pedro de Atacama, started a family and 17 years later opened their own restaurant: the story behind the Unai chefs",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/04/de-copero-en-estados-unidos-a-liderar-unai-junto-a-su-pareja-la-historia-de-un-chef-que-busca-consolidarse-en-san-pedro-de-atacama/",
+        "published_date": "2026-10-04 11:06:00",
+        "category": "Energy"
     },
     {
         "title": "The \u201cspeech clock\u201d: why your pauses, tone and fillers reveal mental wear and tear before wrinkles",
@@ -217,20 +224,6 @@
         "category": "Energy"
     },
     {
-        "title": "From working in a mining company to opening three stores in Iquique: the story of Silvestre Coffee and its commitment to changing the local gastronomy of the north",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/de-trabajar-en-una-minera-a-abrir-tres-locales-en-iquique-la-historia-de-silvestre-coffee-y-su-apuesta-por-cambiar-la-gastronomia-local-del-norte/",
-        "published_date": "2026-09-27 11:11:00",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cIt is putting ourselves at risk again\u201d: Electrodependents on alert after a ruling that eliminates the requirement for companies to permanently deliver generators",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/es-volver-a-ponernos-en-riesgo-electrodependientes-en-alerta-tras-fallo-que-elimina-exigencia-a-companias-de-entregar-generadores-de-forma-permanente/",
-        "published_date": "2026-09-26 18:10:00",
-        "category": "Energy"
-    },
-    {
         "title": "Coordinator of the Treasury and capital market reform: \u201cIt is not about greater freedom for controlling shareholders, what is sought is for companies to have more alternatives\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/03/coordinador-de-hacienda-y-reforma-al-mercado-de-capitales-no-se-trata-de-mayor-libertad-para-los-accionistas-controladores-lo-que-se-busca-es-que-las-sociedades-tengan-mas-alternativas/",
@@ -294,32 +287,32 @@
         "category": "Economy"
     },
     {
-        "title": "Orrego criticizes budget cuts of up to 10% to regional governments and claims that \u201cChile is left halfway\u201d with the postponement of infrastructure works",
+        "title": "\u201cI'm taking off my clothes because it's very hot here\u201d: Mayor of Hualaihu\u00e9 was ironic with Quiroz's sayings about the use of paraffin",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/orrego-critica-recorte-de-hasta-10-a-los-gobiernos-regionales-y-reclama-que-se-deja-chile-a-medias-con-la-postergacion-de-obras-de-infraestructura/",
-        "published_date": "2026-09-26 15:21:43",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/04/estoy-que-me-saco-la-ropa-porque-hay-mucho-calor-aqui-alcaldesa-de-hualaihue-ironizo-con-dichos-de-quiroz-sobre-uso-de-parafina/",
+        "published_date": "2026-10-04 14:47:08",
+        "category": "Local Events"
     },
     {
-        "title": "The battle for the sale of medicines and dermocosmetics online: Cencosud and Falabella seek to challenge Mercado Libre",
+        "title": "\u201cHe lacks equipment and has plenty of pride\u201d: Matthei's harsh criticism of the first months of Kast's management",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/tras-la-iniciativa-de-mercado-libre-cencosud-y-falabella-buscan-sumarse-a-la-venta-de-medicamentos-y-dermocosmeticos-online/",
-        "published_date": "2026-09-26 13:32:18",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/04/le-falta-equipo-y-le-sobra-soberbia-la-dura-critica-de-matthei-a-los-primeros-meses-de-gestion-de-kast/",
+        "published_date": "2026-10-04 13:14:03",
+        "category": "Local Events"
     },
     {
-        "title": "\u201cThanks to that job I was able to pay for my career\u201d: How a generation of former packers sees the return of a job that will now be with a contract and without tips",
+        "title": "Iv\u00e1n Poduje, Minister of Housing: \u201cThe housing deficit is the main challenge, but the main obstacle is bureaucracy, for us it is the cancer of the public sector\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/gracias-a-ese-trabajo-pude-pagar-mi-carrera-como-una-generacion-de-ex-empaquetadores-ve-el-retorno-de-un-oficio-que-ahora-sera-con-contrato-y-sin-propinas/",
-        "published_date": "2026-09-26 11:09:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/04/ivan-poduje-ministro-de-vivienda-el-deficit-habitacional-es-el-principal-desafio-pero-la-principal-traba-es-la-burocracia-para-nosotros-es-el-cancer-del-sector-publico/",
+        "published_date": "2026-10-04 11:05:00",
+        "category": "Local Events"
     },
     {
-        "title": "Column by Danilo Herrera: Chronicle of an announced cut",
+        "title": "Editorial: Rucos in Arturo Merino Ben\u00edtez",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/26/columna-de-danilo-herrera-cronica-de-un-recorte-anunciado/",
-        "published_date": "2026-09-26 11:00:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/04/editorial-rucos-en-arturo-merino-benitez/",
+        "published_date": "2026-10-04 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "The dissimilar self-criticisms of Jeannette Jara and Daniel Jadue about the left at the MUDA Festival",
@@ -431,34 +424,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/02/osvaldo-andrade-exministro-del-trabajo-por-las-cifras-de-desempleo-pensar-que-los-empresarios-van-a-resolver-este-problema-es-un-profundo-error/",
         "published_date": "2026-10-02 23:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cEast of Eden\u201d and \u201cWar\u201d: two must-see miniseries to watch this weekend",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/al-este-del-eden-y-guerra-dos-miniseries-imperdibles-para-ver-este-fin-de-semana/",
-        "published_date": "2026-10-02 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Las Dunas Population: The history of the conflictive neighborhood of Lo Espejo that was intervened after the crime of Cape Aguilera",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/poblacion-las-dunas-la-historia-del-conflictivo-barrio-de-lo-espejo-que-fue-intervenido-tras-el-crimen-del-cabo-aguilera/",
-        "published_date": "2026-10-02 22:13:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The change that shakes the notarial system: review the list of the 35 notaries and conservators who must leave their positions due to the new law",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/el-cambio-que-remece-al-sistema-notarial-revisa-el-listado-de-los-35-notarios-y-conservadores-que-deben-dejar-sus-cargos-por-nueva-ley/",
-        "published_date": "2026-10-02 21:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Company removed six robots by throwing them into an oven Terminator 2 style",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/empresa-retiro-seis-robots-haciendolos-lanzarse-a-un-horno-al-estilo-terminator-2/",
-        "published_date": "2026-10-02 16:25:51",
         "category": "Local Events"
     }
 ]
