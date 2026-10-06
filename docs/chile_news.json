@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Prosecutor's Office confirms that Zaliasnik is a defendant and the case of the Chilean ambassador to Israel complicates La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/fiscalia-confirma-que-zaliasnik-se-encuentra-en-calidad-de-imputado-y-caso-del-embajador-de-chile-en-israel-complica-a-la-moneda/",
+        "published_date": "2026-10-06 16:26:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Former President Boric reiterated criticism for joining the Shield of the Americas: \u201cIt goes against the essential principles that Chile has upheld\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/04/expresidente-boric-reitero-criticas-por-adhesion-a-escudo-de-las-americas-va-en-contra-de-los-principios-esenciales-que-ha-sostenido-chile/",
@@ -26,6 +33,13 @@
         "url": "https://www.theclinic.cl/2026/09/28/usted-no-es-abogado-yo-si-el-emplazamiento-del-diputado-venegas-al-canciller-perez-mackenna-por-escudo-de-las-americas/",
         "published_date": "2026-09-28 20:57:46",
         "category": "Diplomacy"
+    },
+    {
+        "title": "The United States approves execution by firing squad of Nidal Malik Hasan, former military psychiatrist responsible for the shooting in Texas",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/estados-unidos-aprueba-ejecucion-por-fusilamiento-de-nidal-malik-hasan-expsiquiatra-militar-autor-del-tiroteo-en-texas/",
+        "published_date": "2026-10-06 15:17:16",
+        "category": "Military"
     },
     {
         "title": "The coldest marriage book in the world: Chilean scientists say \u201cyes\u201d in Antarctica after 16 years without weddings at the end of the world",
@@ -60,20 +74,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/09/28/fabricantes-autos-defensa/",
         "published_date": "2026-09-28 20:40:52",
-        "category": "Military"
-    },
-    {
-        "title": "The debut of Cristi\u00e1n Valenzuela in the Steinert commission and the calculated defense of the former minister with arguments derived from the Monsalve Case",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/el-estreno-de-cristian-valenzuela-en-la-comision-steinert-y-la-calculada-defensa-a-la-exministra-con-argumentos-derivados-del-caso-monsalve/",
-        "published_date": "2026-09-28 16:40:41",
-        "category": "Military"
-    },
-    {
-        "title": "US shows Chilean military training in the Amazon during multinational exercise",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/ejercito-de-chile-realiza-extremno-entrenamiento-en-la-selva-amazonica-en-el-marco-del-southern-vanguard-2026/",
-        "published_date": "2026-09-28 16:25:24",
         "category": "Military"
     },
     {
@@ -217,6 +217,13 @@
         "category": "Energy"
     },
     {
+        "title": "The new $50 coin enters circulation today and will gradually replace the current one",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/la-nueva-moneda-de-50-entra-hoy-en-circulacion-y-reemplazara-gradualmente-a-la-actual/",
+        "published_date": "2026-10-06 14:31:57",
+        "category": "Economy"
+    },
+    {
         "title": "Budget 2027: Government requests authorization to borrow up to US$25.6 billion",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/05/presupuesto-2027-gobierno-solicita-autorizacion-para-endeudarse-hasta-por-us25-600-millones/",
@@ -285,6 +292,55 @@
         "url": "https://www.theclinic.cl/2026/09/28/bolsa-de-santiago-incorpora-16-acciones-peruanas-a-su-mercado-de-valores-extranjeros/",
         "published_date": "2026-09-28 22:05:00",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cThere is going to be very great progress in our knowledge of the galaxy\u201d: The story of the UNAB scientist who worked for ten years on the Nancy Grace Roman, NASA's most modern space telescope",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/va-a-haber-un-progreso-muy-grande-en-nuestro-conocimiento-de-la-galaxia-la-historia-del-cientifico-unab-que-trabajo-diez-anos-en-el-nancy-grace-roman-el-telescopio-espacial-mas-mod/",
+        "published_date": "2026-10-06 16:59:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe statutes can be reviewed before giving false spots\u201d: Karamanos responds to accusations by Minister Mar\u00edn and finally rules out responsibility for Prodemu",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/se-pueden-revisar-los-estatutos-antes-de-dar-cunas-falsas-karamanos-responde-a-acusaciones-de-la-ministra-marin-y-descarta-responsabilidad-por-fin-de-prodemu/",
+        "published_date": "2026-10-06 16:28:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extension Center of the University of Chile on alert for a 100% cut proposal: \u201cWe trust that it can be corrected\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/centro-de-extension-de-la-u-de-chile-en-alerta-por-propuesta-de-recorte-del-100-confiamos-en-que-pueda-ser-corregida/",
+        "published_date": "2026-10-06 16:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "President of the Prodemu union regarding its possible closure: \u201cNow it is the foundation, then Sernameg will come and then the ministry will come\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/presidenta-del-sindicato-de-prodemu-ante-su-posible-cierre-ahora-es-la-fundacion-luego-vendra-sernameg-y-luego-vendra-el-ministerio/",
+        "published_date": "2026-10-06 16:11:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death of two police officers in one week increases pressure against the Government and Republicans ask to declare a state of emergency at the national level",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/muerte-de-dos-carabineros-en-una-semana-eleva-presion-contra-el-gobierno-y-republicanos-pide-decretar-estado-de-emergencia-a-nivel-nacional/",
+        "published_date": "2026-10-06 15:19:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Kast and his nod to the program \u201cI choose my PC\u201d: \u201cThere we risk our future (\u2026) a childhood away from technology\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/presidente-kast-y-su-guino-al-programa-yo-elijo-mi-pc-ahi-nos-jugamos-el-futuro-una-infancia-alejada-de-la-tecnologia/",
+        "published_date": "2026-10-06 15:07:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister Mar\u00edn targets Karamanos for the Prodemu crisis and defends its eventual closure: \u201cThat institutionality was destroyed\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/06/ministra-marin-apunta-a-karamanos-por-crisis-de-prodemu-y-defiende-su-eventual-cierre-se-destruyo-esa-institucionalidad/",
+        "published_date": "2026-10-06 14:33:23",
+        "category": "Local Events"
     },
     {
         "title": "Party at a naval facility, alcohol and two sergeants in prison: The plot behind the rape complaint that shakes Rapa Nui",
@@ -375,55 +431,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/04/ivan-poduje-ministro-de-vivienda-el-deficit-habitacional-es-el-principal-desafio-pero-la-principal-traba-es-la-burocracia-para-nosotros-es-el-cancer-del-sector-publico/",
         "published_date": "2026-10-04 11:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Editorial: Rucos in Arturo Merino Ben\u00edtez",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/04/editorial-rucos-en-arturo-merino-benitez/",
-        "published_date": "2026-10-04 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dissimilar self-criticisms of Jeannette Jara and Daniel Jadue about the left at the MUDA Festival",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/las-disimiles-autocriticas-de-jeannette-jara-y-daniel-jadue-sobre-la-izquierda-en-el-festival-muda/",
-        "published_date": "2026-10-03 22:20:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Football, dance and obstacles: dozens of corporeal people will face each other in a family sports competition",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/corpo-games-competencia/",
-        "published_date": "2026-10-03 22:17:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThis is not democracy\u201d: Daniel Jadue's controversial phrases about judges and prosecutors during a talk at the MUDA Festival",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/esto-no-es-democracia-las-controversiales-frases-de-daniel-jadue-sobre-jueces-y-fiscales-durante-charla-en-festival-muda/",
-        "published_date": "2026-10-03 20:36:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minvu 2027 Budget will grow by 5.8%, but includes severe adjustments in rental and camp subsidies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/presupuesto-minvu-2027-crecera-un-58-pero-contempla-severos-ajustes-en-subsidios-de-arriendo-y-campamentos/",
-        "published_date": "2026-10-03 19:50:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "With 300 faithful in Las Condes: President Kast participated in an international conclave with Christian political leaders",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/con-300-fieles-en-las-condes-presidente-kast-participo-de-conclave-internacional-con-lideres-politicos-cristianos/",
-        "published_date": "2026-10-03 17:47:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former President Frei defended adherence to the Shield of the Americas: \u201cIt strengthens the State's response to organized crime and drug trafficking\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/expresidente-frei-defendio-adhesion-al-escudo-de-las-americas-fortalece-la-respuesta-del-estado-frente-al-crimen-organizado-y-el-narcotrafico/",
-        "published_date": "2026-10-03 15:47:16",
         "category": "Local Events"
     }
 ]
