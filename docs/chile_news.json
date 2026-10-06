@@ -28,20 +28,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Alvarado criticizes Boric and Bachelet for their statement against the Shield of the Americas and calls on the former presidents to \u201cdiscuss these issues in private\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/alvarado-cuestiona-a-boric-y-bachelet-por-comunicado-contra-escudo-de-las-americas-y-critica-que-como-expresidentes-deben-hablar-estos-temas-en-privado/",
-        "published_date": "2026-09-27 15:42:59",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Editorial: Whaling",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/editorial-la-caza-de-ballenas/",
-        "published_date": "2026-09-27 11:00:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The coldest marriage book in the world: Chilean scientists say \u201cyes\u201d in Antarctica after 16 years without weddings at the end of the world",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/03/la-libreta-de-matrimonio-mas-fria-del-mundo-cientificos-chilenos-dan-el-si-en-la-antartica-tras-16-anos-sin-bodas-en-el-fin-del-mundo/",
@@ -89,6 +75,13 @@
         "url": "https://www.theclinic.cl/2026/09/28/ejercito-de-chile-realiza-extremno-entrenamiento-en-la-selva-amazonica-en-el-marco-del-southern-vanguard-2026/",
         "published_date": "2026-09-28 16:25:24",
         "category": "Military"
+    },
+    {
+        "title": "They found drugs in his room and he was sent to a common module: Court orders the prisoner to be returned to the Penitentiary Hospital",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/hallaron-drogas-en-su-habitacion-y-fue-enviado-a-un-modulo-comun-corte-ordena-devolver-reo-al-hospital-penitenciario/",
+        "published_date": "2026-10-05 22:30:00",
+        "category": "Energy"
     },
     {
         "title": "Ignacio Briones before Plan Chile Despega: \u201cIt seems completely insufficient to me, US$100 million is less than an aspirin\u201d",
@@ -224,11 +217,18 @@
         "category": "Energy"
     },
     {
-        "title": "What time does it start to rain in Santiago?: showers and a possible electrical storm are predicted from the afternoon",
+        "title": "Budget 2027: Government requests authorization to borrow up to US$25.6 billion",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/28/a-que-hora-comienza-a-llover-en-santiago-pronostican-chubascos-y-posible-tormenta-electrica-desde-la-tarde/",
-        "published_date": "2026-09-28 16:01:28",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/10/05/presupuesto-2027-gobierno-solicita-autorizacion-para-endeudarse-hasta-por-us25-600-millones/",
+        "published_date": "2026-10-05 21:18:16",
+        "category": "Economy"
+    },
+    {
+        "title": "Universities and employability: professionals and market in transformation",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/carreras-uvm-empleabilidad/",
+        "published_date": "2026-10-05 20:59:43",
+        "category": "Economy"
     },
     {
         "title": "Coordinator of the Treasury and capital market reform: \u201cIt is not about greater freedom for controlling shareholders, what is sought is for companies to have more alternatives\u201d",
@@ -287,11 +287,53 @@
         "category": "Economy"
     },
     {
-        "title": "Too young, too old or mothers: the disparate barrier that hits women in the midst of the employment crisis",
+        "title": "Party at a naval facility, alcohol and two sergeants in prison: The plot behind the rape complaint that shakes Rapa Nui",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/27/demasiado-jovenes-demasiado-mayores-o-madres-la-dispar-barrera-que-golpea-a-las-mujeres-en-medio-de-la-crisis-del-empleo/",
-        "published_date": "2026-09-27 11:09:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/05/fiesta-en-un-recinto-naval-alcohol-y-dos-sargentos-en-prision-la-trama-detras-de-la-denuncia-por-violacion-que-remece-rapa-nui/",
+        "published_date": "2026-10-06 01:17:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "End to Streets without Violence: Government reformulates President Boric's emblematic policy and creates the Focus Plan",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/fin-al-plan-calles-sin-violencia-presupuesto-2027-en-seguridad-no-considera-recursos-para-emblematica-politica-de-gabriel-boric/",
+        "published_date": "2026-10-05 23:15:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government cuts budget for Science: Chile Scholarships will have almost $2,000 million less in 2027",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/gobierno-recorta-presupuesto-para-ciencia-becas-chile-tendra-casi-2-000-millones-menos-en-2027/",
+        "published_date": "2026-10-05 22:32:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deleting accounts of minors under 13 years of age and with a parental guide: TikTok's guidelines in Chile to maintain a healthy algorithm",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/eliminando-cuentas-a-menores-de-13-anos-y-con-una-guia-parental-los-lineamientos-de-tiktok-en-chile-para-mantener-un-algoritmo-sano/",
+        "published_date": "2026-10-05 22:29:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "CyberMonday starts with average discounts of 19.4% and online sales projection on the rise",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/cybermonday-arranca-con-descuentos-promedio-de-194-y-proyeccion-de-ventas-online-al-alza/",
+        "published_date": "2026-10-05 21:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reasons behind the Government's sharp cut to the budget of the Cholito Law: \u201cIn ten years it has never been evaluated and there is no real impact indicator\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/en-diez-anos-nunca-se-ha-evaluado-y-no-hay-un-indicador-de-impacto-real-gobierno-recorta-en-un-86-el-presupuesto-a-la-ley-cholito/",
+        "published_date": "2026-10-05 21:05:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cyber \u200b\u200bMonday 2026: what products to see to best take advantage of the offers",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/05/cyber-monday-2026-productos-mejores-ofertas/",
+        "published_date": "2026-10-05 21:04:38",
+        "category": "Local Events"
     },
     {
         "title": "RN threatens to break all parliamentary dialogue with the National Libertarian Party for statements against Pi\u00f1era",
@@ -382,55 +424,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/03/expresidente-frei-defendio-adhesion-al-escudo-de-las-americas-fortalece-la-respuesta-del-estado-frente-al-crimen-organizado-y-el-narcotrafico/",
         "published_date": "2026-10-03 15:47:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Director of Horizonte Ciudadano analyzes the Bachelet-Boric duo: \u201cIt is the experience of the former president plus the will and future of Boric\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/director-de-horizonte-ciudadano-analiza-dupla-bachelet-boric-es-la-experiencia-de-la-expresidenta-mas-la-voluntad-y-futuro-de-boric/",
-        "published_date": "2026-10-03 13:36:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNE Festival: Find out the program, schedules and activities of the free citizen meeting in the Central Plaza of the GAM",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/festival-une-conoce-el-programa-horarios-y-actividades-del-encuentro-ciudadano-gratuito-en-la-plaza-central-del-gam/",
-        "published_date": "2026-10-03 12:42:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power Newsletter: Bachelet appeared to President Kast",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/newsletter-poder-bachelet-se-le-aparecio-al-presidente-kast/",
-        "published_date": "2026-10-03 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Isabel Plant Column: Simone de Beauvoir was scandalous and that's part of the point",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/columna-de-isabel-plant-simone-de-beauvoir-era-escandalosa-y-eso-es-parte-del-punto/",
-        "published_date": "2026-10-03 11:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cEvery Sambernardino has a little piece of Chena in their heart\u201d: the dream of a commune to open the park for which they have waited more than 11 years",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/cada-sambernardino-tiene-un-pedacito-del-chena-en-su-corazon-el-sueno-de-una-comuna-por-abrir-el-parque-por-el-que-han-esperado-mas-de-11-anos/",
-        "published_date": "2026-10-03 11:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Pablo Zeballos: Who came first?How organized crime recruits children and adolescents",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/columna-de-pablo-zeballos-quien-llego-antes-como-el-crimen-organizado-recluta-ninos-y-adolescentes/",
-        "published_date": "2026-10-03 11:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chilean pisco was celebrated in an exclusive bar in Japan",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/pisco-chileno-fue-celebrado-en-exclusivo-bar-de-japon/",
-        "published_date": "2026-10-03 00:33:00",
         "category": "Local Events"
     }
 ]
