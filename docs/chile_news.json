@@ -49,13 +49,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cA blatant lie\u201d: US ambassador denies Senator Daniel N\u00fa\u00f1ez (PC) for alleged visa denial",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/una-mentira-descarada-embajador-de-ee-uu-desmiente-al-senador-daniel-nunez-pc-por-supuesta-negativa-de-visa/",
-        "published_date": "2026-10-01 00:04:10",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Return of the \u201cCa\u00f1onazo de las 12\u201d remains on pause: permits with Carabineros, Firefighters and Defense hinder the return of the tradition to Santa Luc\u00eda Hill",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/07/regreso-del-canonazo-de-las-12-sigue-en-pausa-permisos-con-carabineros-bomberos-y-defensa-entrampan-el-regreso-de-la-tradicion-al-cerro-santa-lucia/",
@@ -96,6 +89,13 @@
         "url": "https://www.theclinic.cl/2026/10/02/coquimbo-enciende-las-alertas-por-posible-ataque-de-tiburon-buzo-lleva-una-semana-desaparecido-y-se-han-encontrado-elementos-con-marcas-atribuibles-a-un-ataque/",
         "published_date": "2026-10-02 14:37:00",
         "category": "Military"
+    },
+    {
+        "title": "Minera Centinela workers set up camp in Las Condes in the middle of a flood: they announce a hunger strike for this Friday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/trabajadores-de-minera-centinela-instalan-campamento-en-las-condes-en-medio-de-aluvion-anuncian-huelga-de-hambre-para-este-viernes/",
+        "published_date": "2026-10-09 01:12:59",
+        "category": "Energy"
     },
     {
         "title": "Chilean restaurant Jer\u00f3nimo wins the Oscars for interior design",
@@ -179,27 +179,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/01/cfa-advierte-riesgos-fiscales-del-fonavi-y-plantea-mejorar-gobernanza-de-bancoestado/",
         "published_date": "2026-10-01 16:55:20",
-        "category": "Energy"
-    },
-    {
-        "title": "Quiroz enters the 2027 Budget project and confirms a 1.5% increase in public spending",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/quiroz-ingresa-proyecto-de-presupuesto-2027-y-confirma-incremento-del-15-en-el-gasto-publico/",
-        "published_date": "2026-09-30 23:39:14",
-        "category": "Energy"
-    },
-    {
-        "title": "The fall of Alex Vega: the Gendarmerie union leader who used his role to cover a corruption network in Santiago I",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/la-caida-de-alex-vega-el-lider-gremial-de-gendarmeria-que-utilizo-su-rol-para-cubrir-una-red-de-corrupcion-en-santiago-i/",
-        "published_date": "2026-09-30 22:53:21",
-        "category": "Energy"
-    },
-    {
-        "title": "The third in one day: The Seremi of Economy of the O'Higgins Region resigns and the Government accumulates more than 40 departures in six months",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/09/30/el-tercero-en-un-dia-renuncia-el-seremi-de-economia-de-la-region-de-ohiggins-y-el-gobierno-acumula-mas-de-40-salidas-en-seis-meses/",
-        "published_date": "2026-09-30 22:15:48",
         "category": "Energy"
     },
     {
@@ -287,6 +266,69 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cWe were all screaming and crying because the water was rising\u201d: The crude story of the passengers of the bus that was swept away by the flood in Las Condes",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/estabamos-todos-gritando-y-llorando-porque-el-agua-subia-el-crudo-relato-de-los-pasajeros-del-bus-que-fue-arrastrado-por-el-aluvion-en-las-condes/",
+        "published_date": "2026-10-09 01:53:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government decrees a disaster zone in Las Condes after a flood: Six people are injured",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/gobierno-decreta-zona-de-catastrofe-en-las-condes-tras-aluvion-hay-seis-personas-lesionadas/",
+        "published_date": "2026-10-08 23:24:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fire, a high isotherm and a piped ravine: dean of architecture explains why an alluvium was generated in San Carlos de Apoquindo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/un-incendio-una-isoterma-alta-y-una-quebrada-entubada-decano-de-arquitectura-explica-por-que-se-genero-el-aluvion-en-san-carlos/",
+        "published_date": "2026-10-08 23:12:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Classes are suspended for this Friday in 10 communes of the Metropolitan Region after a flood in Las Condes",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/suspenden-clases-para-este-viernes-en-todos-los-establecimientos-educacionales-de-las-condes-tras-aluvion/",
+        "published_date": "2026-10-08 22:47:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "L\u00edder Los Dominicos closes due to a flood in Las Condes and workers remain sheltered inside waiting to be evacuated",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/lider-los-dominicos-cierra-por-aluvion-en-las-condes-y-trabajadores-permanecen-resguardados-en-su-interior-a-la-espera-de-ser-evacuados/",
+        "published_date": "2026-10-08 22:40:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cDo not leave your homes if it is not necessary\u201d: Mayor San Mart\u00edn's call in the midst of the flood that affected Las Condes",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/no-salgan-de-sus-casas-si-no-es-necesario-el-llamado-de-la-alcaldesa-san-martin-en-medio-de-aluvion-que-afecto-a-las-condes/",
+        "published_date": "2026-10-08 22:15:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flood affects Cl\u00ednica San Carlos: stretchers and medical supplies are covered in mud",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/aluvion-afecta-a-clinica-san-carlos-uc-camillas-y-material-medico-quedan-cubiertos-por-el-barro/",
+        "published_date": "2026-10-08 21:43:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Carlos de Apoquindo Clinic flooded after heavy rains in the Metropolitan Region",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/clinica-san-carlos-de-apoquindo-inundada-tras-intensas-lluvias-en-la-region-metropolitana/",
+        "published_date": "2026-10-08 21:32:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cNostalgia for the past and obsession with power\u201d: the minutes of La Moneda regarding a possible third candidacy of Bachelet",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/08/nostalgia-del-pasado-y-obsesion-por-el-poder-la-minuta-de-la-moneda-ante-una-posible-tercera-candidatura-de-bachelet/",
+        "published_date": "2026-10-08 21:29:48",
+        "category": "Local Events"
+    },
+    {
         "title": "Fentanyl, methadone and clonazepam: Comptroller's Office detects 1,045 prescriptions issued by doctors with no accredited link with Talagante Hospital",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/08/fentanilo-metadona-y-clonazepam-contraloria-detecta-1-045-recetas-emitidas-por-medicos-sin-vinculo-acreditado-con-hospital/",
@@ -361,69 +403,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/07/pero-miren-quien-anda-dando-consejos-la-respuesta-de-sebastian-davalos-al-diputado-olivares-tras-pedir-a-bachelet-que-se-fuera-a-cocinar-cazuela/",
         "published_date": "2026-10-08 00:08:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Real estate businessman linked to Rangers and a director of two decades in Palestino: Who are the candidates for the presidency of the ANFP",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/empresario-inmobiliario-ligado-a-rangers-y-un-directivo-de-dos-decadas-en-palestino-quienes-son-los-candidatos-a-la-presidencia-de-la-anfp/",
-        "published_date": "2026-10-07 22:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt was paradise\u201d: The decline of the emblematic Chinese Mall in San Diego, which today has dozens of closed stores",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/era-el-paraiso-el-declive-del-emblematico-mall-chino-de-san-diego-que-hoy-tiene-decenas-de-locales-cerrados/",
-        "published_date": "2026-10-07 22:16:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI have 21 books and I started in April\u201d: Mar\u00eda Isidora, the little booktoker who seeks to promote children's literature",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/llevo-21-libros-y-empece-en-abril-maria-isidora-la-pequena-booktoker-que-busca-promover-la-literatura-infantil/",
-        "published_date": "2026-10-07 22:05:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crist\u00f3bal Gumucio, director of Matucana 100: \u201cThere is a decrease in funds and that, indirectly or directly, also afflicts us\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/cristobal-gumucio-director-de-matucana-100-hay-disminucion-de-los-fondos-y-eso-indirecta-o-directamente-tambien-nos-aflige/",
-        "published_date": "2026-10-07 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Last EtMtuesday of 2026 brought together more than 500 attendees with a focus on business growth",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/etmtuesday-2026-ultimo-asistentes/",
-        "published_date": "2026-10-07 21:55:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The change to the NEM being evaluated by the Ministry of Education: Demre proposes limiting it to 5% in the PAES weightings",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/el-cambio-al-nem-que-evalua-el-ministerio-de-educacion-demre-propone-limitarlo-a-un-5-en-las-ponderaciones-de-la-paes/",
-        "published_date": "2026-10-07 17:29:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alvarado for Bachelet's eventual presidential candidacy: \u201cWhen they register we will talk\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/alvarado-por-eventual-candidatura-presidencial-de-bachelet-cuando-se-inscriban-conversaremos/",
-        "published_date": "2026-10-07 16:37:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bacheletazo: opposition schedules meeting with former president after she opened the door for a third presidential term",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/bacheletazo-oposicion-agenda-reunion-con-expresidenta-luego-de-que-abriera-la-puerta-para-un-tercer-periodo-presidencial/",
-        "published_date": "2026-10-07 16:31:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Education defends the end of Yo Eligo mi PC to students: \u201cWhen you have a limited budget, it is very important to focus on what is effective\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/07/educacion-defiende-el-fin-de-yo-elijo-mi-pc-a-estudiantes-cuando-uno-tiene-un-presupuesto-acotado-es-muy-importante-centrarse-en-lo-efectivo/",
-        "published_date": "2026-10-07 16:26:55",
         "category": "Local Events"
     }
 ]
