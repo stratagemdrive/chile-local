@@ -49,6 +49,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Newsletter Poder: Bachelet 3.0 and Matthei with voice, but without bots",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/newsletter-poder-bachelet-3-0-y-matthei-con-voz-pero-sin-bots/",
+        "published_date": "2026-10-10 12:00:00",
+        "category": "Military"
+    },
+    {
         "title": "Return of the \u201cCa\u00f1onazo de las 12\u201d remains on pause: permits with Carabineros, Firefighters and Defense hinder the return of the tradition to Santa Luc\u00eda Hill",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/07/regreso-del-canonazo-de-las-12-sigue-en-pausa-permisos-con-carabineros-bomberos-y-defensa-entrampan-el-regreso-de-la-tradicion-al-cerro-santa-lucia/",
@@ -84,11 +91,11 @@
         "category": "Military"
     },
     {
-        "title": "Coquimbo turns on alerts for possible shark attack: Diver has been missing for a week and items with marks attributable to an attack have been found",
+        "title": "Column by Jaime Ma\u00f1alich: Chile, first in the class\u2026 but not yet approved",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/coquimbo-enciende-las-alertas-por-posible-ataque-de-tiburon-buzo-lleva-una-semana-desaparecido-y-se-han-encontrado-elementos-con-marcas-atribuibles-a-un-ataque/",
-        "published_date": "2026-10-02 14:37:00",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/10/10/columna-de-jaime-manalich-chile-primero-de-la-clase-pero-todavia-no-aprobado/",
+        "published_date": "2026-10-10 11:17:00",
+        "category": "Energy"
     },
     {
         "title": "The $918 million cut to Senapred made by the Treasury that resurfaces amid the flood in Las Condes and criticism for lack of prevention",
@@ -238,11 +245,53 @@
         "category": "Economy"
     },
     {
-        "title": "Quiroz at the Annual Trade Meeting: \u201cWe made Chile unattractive\u2026we covered ourselves with taxes, regulations, we lost security\u201d",
+        "title": "With cranes in the middle of the field in the middle of the rain: This is how the controversial installation of the stage for the BTS concerts at the National Stadium goes",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/02/quiroz-en-el-encuentro-anual-de-comercio-hicimos-que-chile-fuera-poco-atractivo-nos-tapamos-de-impuestos-regulaciones-perdimos-la-seguridad/",
-        "published_date": "2026-10-02 15:26:37",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/10/con-gruas-en-la-mitad-de-la-cancha-en-plenas-lluvias-asi-va-la-controversial-instalacion-del-escenario-para-los-conciertos-de-bts-en-el-estadio-nacional/",
+        "published_date": "2026-10-10 15:56:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Live Nation and Bizarro announce alliance to expand the music scene in Chile: The international promoter would have majority shares",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/live-nation-y-bizarro-anuncian-alianza-para-expandir-el-escenario-musical-en-chile-la-promotora-internacional-tendria-acciones-mayoritarias/",
+        "published_date": "2026-10-10 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "With more than a thousand volunteers, cleanup efforts continue after the flood in Las Condes: \u201cThe response has been up to par.\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/con-mas-de-mil-voluntarios-siguen-labores-de-limpieza-tras-aluvion-en-las-condes-la-respuesta-ha-estado-a-la-altura/",
+        "published_date": "2026-10-10 14:46:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Undersecretary of Public Health warns of risks of diseases after flood: \u201cWith the removal of soil, there is a risk of contaminated water\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/subsecretaria-de-salud-publica-advierte-riesgos-de-enfermedades-tras-aluvion-ya-con-el-hecho-de-remocion-de-tierra-hay-riesgo-de-que-haya-agua-contaminada/",
+        "published_date": "2026-10-10 13:43:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Juanita Toro, the teacher who could not be a ballet performer due to her stepfather's decision: \u201cMy destiny was to be a person who could accompany, motivate and make people grow\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/juanita-toro-la-maestra-que-no-pudo-ser-interprete-de-ballet-por-decision-de-su-padrastro-mi-destino-era-ser-una-persona-que-pudiera-acompanar-motivar-y-hacer-crecer/",
+        "published_date": "2026-10-10 11:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The artist Norton Maza and the success of the Chilean pavilion in Italy: \u201cI never thought I would represent the country in such an important biennial, imagine Lautaro being in Venice\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/norton-maza-en-medio-de-los-aplausos-en-la-bienal-de-venecia-si-yo-no-hiciera-arte-estaria-deprimido-debo-ser-honesto/",
+        "published_date": "2026-10-10 11:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey asked for a meeting to say how to do the classes\u201d: The drama of university professors who describe a generation of 'fifth middles' in higher education",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/10/pidieron-una-reunion-para-decir-como-hacer-las-clases-el-drama-de-profesores-universitarios-que-describen-una-generacion-de-quintos-medios-en-la-educacion-superior/",
+        "published_date": "2026-10-10 11:15:00",
+        "category": "Local Events"
     },
     {
         "title": "Senator Rojo Edwards loses candidacy for the presidency of the Interparliamentary Union: He came third with 21 votes",
@@ -333,55 +382,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/09/carta-a-la-directora-mas-que-computadores/",
         "published_date": "2026-10-09 16:03:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bitman & Roban return to celebrate the 20th anniversary of their cult album \u201cMusic for After Lunch\u201d: \u201cWe always did whatever we wanted\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/bitman-y-roban-regresan-a-festejar-los-20-anos-de-su-disco-de-culto-musica-para-despues-de-almuerzo-siempre-hicimos-lo-que-nos-dio-la-gana/",
-        "published_date": "2026-10-09 15:50:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luis Vel\u00e1squez, president of the Santa Isabel union: \u201cWe have always been telling the truth to the people\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/luis-velasquez-sindicato-santa-isabel-liderazgo-sindical/",
-        "published_date": "2026-10-09 15:40:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "60 cars have been rescued and moved to Claro Arena after the flood in Las Condes: expert explains that automobile insurance does not respond in all cases",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/60-autos-han-sido-rescatados-y-trasladados-al-claro-arena-tras-el-aluvion-en-las-condes-experto-explica-que-el-seguro-automotriz-no-responde-en-todos-los-casos/",
-        "published_date": "2026-10-09 15:23:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cameras captured the exact moment when the flood entered the streets of Las Condes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/camaras-captaron-el-momento-exacto-en-que-el-aluvion-ingreso-a-las-calles-de-las-condes/",
-        "published_date": "2026-10-09 15:22:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Natalia Babarovic, winner of the Plagiarism Award for Artistic Creativity: \u201cBeing a semi-underground artist has helped me hide when one does not want to be seen\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/natalia-babarovic-ganadora-del-premio-plagio-a-la-creatividad-artistica-ser-una-artista-media-subterranea-me-ha-servido-para-ocultarme-cuando-uno-no-quiere-ser-visto/",
-        "published_date": "2026-10-09 15:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Letter to the director of Fares Jadue, mayor of Recoleta: \u00a0The politics of social \u201csnip\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/carta-a-la-directora-de-fares-jadue-alcalde-de-recoleta-la-politica-del-tijeretazo-social/",
-        "published_date": "2026-10-09 14:57:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe were all screaming and crying because the water was rising\u201d: The crude story of the passengers of the bus that was swept away by the flood in Las Condes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/08/estabamos-todos-gritando-y-llorando-porque-el-agua-subia-el-crudo-relato-de-los-pasajeros-del-bus-que-fue-arrastrado-por-el-aluvion-en-las-condes/",
-        "published_date": "2026-10-09 01:53:59",
         "category": "Local Events"
     }
 ]
