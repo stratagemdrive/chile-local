@@ -35,20 +35,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Former President Boric reiterated criticism for joining the Shield of the Americas: \u201cIt goes against the essential principles that Chile has upheld\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/04/expresidente-boric-reitero-criticas-por-adhesion-a-escudo-de-las-americas-va-en-contra-de-los-principios-esenciales-que-ha-sostenido-chile/",
-        "published_date": "2026-10-04 19:04:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Kike Mujica's Column: The Cold War of Santiago, Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/04/columna-de-kike-mujica-la-guerra-fria-de-santiago-de-chile/",
-        "published_date": "2026-10-04 11:03:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Newsletter Poder: Bachelet 3.0 and Matthei with voice, but without bots",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/10/newsletter-poder-bachelet-3-0-y-matthei-con-voz-pero-sin-bots/",
@@ -119,18 +105,18 @@
         "category": "Energy"
     },
     {
-        "title": "Ignacio Briones before Plan Chile Despega: \u201cIt seems completely insufficient to me, US$100 million is less than an aspirin\u201d",
+        "title": "Former coordinator of the Ministry of Finance: \u201cThe most important reform to recover the capital market has already been carried out, the measures that have been announced are of much lesser significance\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/04/ignacio-briones-ante-plan-chile-despega-me-parece-completamente-insuficiente-us100-millones-es-menos-que-una-aspirina/",
-        "published_date": "2026-10-04 11:07:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/10/12/excoordinador-del-ministerio-de-hacienda-la-reforma-mas-importante-para-recuperar-el-mercado-de-capitales-ya-se-hizo-las-medidas-que-se-han-anunciado-son-de-bastante-menor-calado/",
+        "published_date": "2026-10-12 13:00:00",
+        "category": "Economy"
     },
     {
-        "title": "They arrived together in San Pedro de Atacama, started a family and 17 years later opened their own restaurant: the story behind the Unai chefs",
+        "title": "From the individual pocket to the global economy: the keys to the work of Hall and Woodford, new Nobel Prize winners in Economics",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/04/de-copero-en-estados-unidos-a-liderar-unai-junto-a-su-pareja-la-historia-de-un-chef-que-busca-consolidarse-en-san-pedro-de-atacama/",
-        "published_date": "2026-10-04 11:06:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/10/12/del-bolsillo-individual-a-la-economia-global-las-claves-del-trabajo-de-hall-y-woodford-nuevos-nobel-de-economia/",
+        "published_date": "2026-10-12 12:21:38",
+        "category": "Economy"
     },
     {
         "title": "Kike Mujica Profile: Happy and Lined Strike Back?With Gino you never know",
@@ -187,6 +173,55 @@
         "url": "https://www.theclinic.cl/2026/10/05/carreras-uvm-empleabilidad/",
         "published_date": "2026-10-05 20:59:43",
         "category": "Economy"
+    },
+    {
+        "title": "Tremor was felt in the central area of \u200b\u200bthe country",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/temblor-se-percibio-en-la-zona-central-del-pais/",
+        "published_date": "2026-10-12 18:22:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government instructed evacuation of houses in Las Condes that suffered total loss due to new rainfall",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/codina-instruyo-evacuacion-de-casas-de-las-condes-que-sufrieron-perdida-total-ante-nuevas-precipitaciones/",
+        "published_date": "2026-10-12 15:39:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal Camargo, director of FICValdivia, at the beginning of the 33rd edition: \u201cThe great novelty is the perseverance of continuing to do the same\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/raul-camargo-director-de-ficvaldivia-en-el-inicio-de-la-33a-edicion-la-gran-novedad-es-la-constancia-de-seguir-haciendo-lo-mismo/",
+        "published_date": "2026-10-12 14:11:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who was Penelope Knuth, the UC professor who died in the Chile Chamber Orchestra crash",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/quien-era-penelope-knuth-la-profesora-de-la-uc-fallecida-en-el-choque-de-la-orquesta-de-camara-de-chile/",
+        "published_date": "2026-10-12 14:03:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "With more than 380 activities throughout the country: SME Week begins this Tuesday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/con-mas-de-380-actividades-en-todo-el-pais-comienza-este-martes-la-semana-de-la-pyme/",
+        "published_date": "2026-10-12 13:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cTeacher of many generations\u201d: At the age of 65, the prominent actor Gabriel Prieto died",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/maestro-de-muchas-generaciones-a-los-65-anos-fallecio-el-destacado-actor-gabriel-prieto/",
+        "published_date": "2026-10-12 13:23:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities suspend classes in 12 schools in Las Condes to facilitate cleanup work after a flood",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/12/autoridades-suspenden-clases-en-12-colegios-de-las-condes-para-facilitar-trabajo-de-limpiezas-tras-aluvion/",
+        "published_date": "2026-10-12 12:52:29",
+        "category": "Local Events"
     },
     {
         "title": "Ad\u00e9la, Lola Young and RAYE: The three pop voices of the moment arriving at Lollapalooza 2027",
@@ -277,55 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/10/57-anos-de-haciendo-escuela-la-iniciativa-de-falabella-que-apoya-a-53-establecimientos-y-a-mas-de-23-mil-alumnos-desde-arica-a-punta-arenas/",
         "published_date": "2026-10-10 21:17:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Leo Rey to Teodioteodio: the varied commitment of Chilean artists at Lollapalooza 2027",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/desde-leo-rey-a-teodioteodio-la-variada-apuesta-de-artistas-chilenos-del-lollapalooza-2027/",
-        "published_date": "2026-10-10 20:25:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government carries out its tenth expulsion on flight with 56 foreigners: 45 administrative expulsions and eleven by judicial resolution",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/gobierno-concreta-su-decima-expulsion-en-vuelo-con-56-extranjeros-cinco-registran-antecedentes-policiales/",
-        "published_date": "2026-10-10 17:37:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a flood in Las Condes: UC Clinic announces temporary closure of the center and transfer of all its hospitalized patients",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/tras-aluvion-en-las-condes-clinica-uc-anuncia-cierre-del-centro-temporalmente-y-traslado-de-todos-sus-pacientes-hospitalizados/",
-        "published_date": "2026-10-10 16:45:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "With cranes in the middle of the field in the middle of the rain: This is how the controversial installation of the stage for the BTS concerts at the National Stadium goes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/con-gruas-en-la-mitad-de-la-cancha-en-plenas-lluvias-asi-va-la-controversial-instalacion-del-escenario-para-los-conciertos-de-bts-en-el-estadio-nacional/",
-        "published_date": "2026-10-10 15:56:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Live Nation and Bizarro announce alliance to expand the music scene in Chile: The international promoter would have majority shares",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/live-nation-y-bizarro-anuncian-alianza-para-expandir-el-escenario-musical-en-chile-la-promotora-internacional-tendria-acciones-mayoritarias/",
-        "published_date": "2026-10-10 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "With more than a thousand volunteers, cleanup efforts continue after the flood in Las Condes: \u201cThe response has been up to par.\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/con-mas-de-mil-voluntarios-siguen-labores-de-limpieza-tras-aluvion-en-las-condes-la-respuesta-ha-estado-a-la-altura/",
-        "published_date": "2026-10-10 14:46:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Undersecretary of Public Health warns of risks of diseases after flood: \u201cWith the removal of soil, there is a risk of contaminated water\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/subsecretaria-de-salud-publica-advierte-riesgos-de-enfermedades-tras-aluvion-ya-con-el-hecho-de-remocion-de-tierra-hay-riesgo-de-que-haya-agua-contaminada/",
-        "published_date": "2026-10-10 13:43:48",
         "category": "Local Events"
     }
 ]
