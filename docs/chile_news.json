@@ -133,13 +133,6 @@
         "category": "Energy"
     },
     {
-        "title": "The \u201cspeech clock\u201d: why your pauses, tone and fillers reveal mental wear and tear before wrinkles",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/03/el-reloj-del-habla-por-que-tus-pausas-tono-y-muletillas-revelan-el-desgaste-mental-antes-que-las-arrugas/",
-        "published_date": "2026-10-03 21:07:00",
-        "category": "Energy"
-    },
-    {
         "title": "Kike Mujica Profile: Happy and Lined Strike Back?With Gino you never know",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/11/perfil-de-kike-mujica-felices-y-forrados-contrataca-con-gino-nunca-se-sabe/",
@@ -194,6 +187,27 @@
         "url": "https://www.theclinic.cl/2026/10/05/carreras-uvm-empleabilidad/",
         "published_date": "2026-10-05 20:59:43",
         "category": "Economy"
+    },
+    {
+        "title": "Ad\u00e9la, Lola Young and RAYE: The three pop voices of the moment arriving at Lollapalooza 2027",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/11/adela-lola-young-y-raye-las-tres-voces-del-pop-del-momento-que-llegan-al-lollapalooza-2027/",
+        "published_date": "2026-10-11 20:33:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "New tragedy mourns Codelco: two workers died in an avalanche in El Teniente",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/11/avalancha-en-el-teniente-afecta-a-tres-trabajadores-codelco-confirma-rescate-en-curso-de-dos-de-ellos/",
+        "published_date": "2026-10-11 19:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cMany students should not have even gotten there\u201d: The debate that opened the crisis of professors in university education",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/11/muchos-estudiantes-ni-siquiera-debian-haber-llegado-alli-el-debate-que-abrio-la-crisis-de-los-profesores-en-la-educacion-universitaria/",
+        "published_date": "2026-10-11 18:46:40",
+        "category": "Local Events"
     },
     {
         "title": "Juan Pablo C\u00e1rdenas, National Journalism Award winner, founder of Analysis magazine and defender of freedom of expression during the dictatorship, dies",
@@ -312,27 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/10/subsecretaria-de-salud-publica-advierte-riesgos-de-enfermedades-tras-aluvion-ya-con-el-hecho-de-remocion-de-tierra-hay-riesgo-de-que-haya-agua-contaminada/",
         "published_date": "2026-10-10 13:43:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juanita Toro, the teacher who could not be a ballet performer due to her stepfather's decision: \u201cMy destiny was to be a person who could accompany, motivate and make people grow\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/juanita-toro-la-maestra-que-no-pudo-ser-interprete-de-ballet-por-decision-de-su-padrastro-mi-destino-era-ser-una-persona-que-pudiera-acompanar-motivar-y-hacer-crecer/",
-        "published_date": "2026-10-10 11:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The artist Norton Maza and the success of the Chilean pavilion in Italy: \u201cI never thought I would represent the country in such an important biennial, imagine Lautaro being in Venice\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/norton-maza-en-medio-de-los-aplausos-en-la-bienal-de-venecia-si-yo-no-hiciera-arte-estaria-deprimido-debo-ser-honesto/",
-        "published_date": "2026-10-10 11:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey asked for a meeting to say how to do the classes\u201d: The drama of university professors who describe a generation of 'fifth middles' in higher education",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/10/pidieron-una-reunion-para-decir-como-hacer-las-clases-el-drama-de-profesores-universitarios-que-describen-una-generacion-de-quintos-medios-en-la-educacion-superior/",
-        "published_date": "2026-10-10 11:15:00",
         "category": "Local Events"
     }
 ]
