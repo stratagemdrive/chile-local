@@ -1,5 +1,12 @@
 [
     {
+        "title": "After signing the Shield of the Americas: the meeting of Chilean authorities with the US government to attend to \u201cconsultations\u201d about submarine cables after the conflict with China",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/tras-firma-del-escudo-de-las-americas-la-cita-de-autoridades-chilenas-con-el-gobierno-de-ee-uu-para-atender-consultas-por-cables-submarinos-luego-de-conflicto-con-china/",
+        "published_date": "2026-10-13 21:21:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Queens of the Stone Age: the rock ambassadors who will arrive with a new album at Lollapalooza Chile 2027",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/13/queens-of-the-stone-age-los-emabajadores-del-rock-que-llegaran-con-nuevo-disco-a-lollapalooza-chile-2027/",
@@ -70,6 +77,13 @@
         "category": "Military"
     },
     {
+        "title": "\u201cIts intensity will decrease\u201d: After an electrical storm, the Government projects that rainfall in Santiago will last until 10 p.m.",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/disminuira-su-intensidad-tras-tormenta-electrica-gobierno-proyecta-que-precipitaciones-en-santiago-se-extenderan-hasta-las-22-horas/",
+        "published_date": "2026-10-13 21:17:42",
+        "category": "Energy"
+    },
+    {
         "title": "Column by Jaime Ma\u00f1alich: Chile, first in the class\u2026 but not yet approved",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/10/columna-de-jaime-manalich-chile-primero-de-la-clase-pero-todavia-no-aprobado/",
@@ -105,11 +119,11 @@
         "category": "Energy"
     },
     {
-        "title": "They found drugs in his room and he was sent to a common module: Court orders the prisoner to be returned to the Penitentiary Hospital",
+        "title": "Mac\u00edas and MK4 reform: \u201cI would expect a much stronger voice from the AFPs on how they are protecting the 12 million minority shareholders of the pension funds\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/05/hallaron-drogas-en-su-habitacion-y-fue-enviado-a-un-modulo-comun-corte-ordena-devolver-reo-al-hospital-penitenciario/",
-        "published_date": "2026-10-05 22:30:00",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/10/13/macias-y-reforma-mk4-yo-esperaria-una-voz-mucho-mas-fuerte-de-las-afp-sobre-como-estan-protegiendo-a-los-12-millones-de-accionistas-minoritarios-de-los-fondos-de-pensiones/",
+        "published_date": "2026-10-13 22:00:00",
+        "category": "Economy"
     },
     {
         "title": "Former coordinator of the Ministry of Finance: \u201cThe most important reform to recover the capital market has already been carried out, the measures that have been announced are of much lesser significance\u201d",
@@ -168,18 +182,53 @@
         "category": "Economy"
     },
     {
-        "title": "Budget 2027: Government requests authorization to borrow up to US$25.6 billion",
+        "title": "Roger Koza, actor and jury of Chilean Cinema of the Future at FICValdivia: \u201cI would like to know who the heirs of Ignacio Ag\u00fcero will be\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/05/presupuesto-2027-gobierno-solicita-autorizacion-para-endeudarse-hasta-por-us25-600-millones/",
-        "published_date": "2026-10-05 21:18:16",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/13/roger-koza-actor-y-jurado-de-cine-chileno-del-futuro-en-ficvaldivia-me-gustaria-saber-quienes-seran-los-herederos-de-ignacio-aguero/",
+        "published_date": "2026-10-14 00:38:56",
+        "category": "Local Events"
     },
     {
-        "title": "Universities and employability: professionals and market in transformation",
+        "title": "Providencia and \u00d1u\u00f1oa suspend classes for this Wednesday due to accumulation of water in educational establishments",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/05/carreras-uvm-empleabilidad/",
-        "published_date": "2026-10-05 20:59:43",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/13/providencia-suspende-clases-para-este-miercoles-ante-acumulacion-de-agua-en-establecimientos-educacionales/",
+        "published_date": "2026-10-14 00:03:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tita Ureta celebrates the great leap in her career in Vertigo: \u201cI knew that at some point they were going to call me for something bigger\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/tita-ureta-celebra-el-gran-salto-en-su-carrera-en-vertigo-yo-sabia-que-en-algun-momento-me-iban-a-llamar-para-algo-mas-grande/",
+        "published_date": "2026-10-13 22:58:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cPreliminarily it would be a tornado\u201d: \u200b\u200bDMC explains meteorological phenomenon that affected the bus terminal in Estaci\u00f3n Central",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/preliminarmente-se-trataria-de-un-tornado-dmc-explica-fenomeno-meteorologico-que-afecto-al-terminal-de-buses-en-estacion-central/",
+        "published_date": "2026-10-13 22:52:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hail storm in Santiago: How long can your car last before ending up dented or with a broken windshield?",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/tormenta-granizo-santiago-danos-autos-resistencia/",
+        "published_date": "2026-10-13 22:02:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Behind the wheel of the Chevrolet Silverado High Country: the force of diesel torque dressed in formalwear",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/prueba-chevrolet-silverado-high-country-3-0-diesel/",
+        "published_date": "2026-10-13 21:31:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "PDI ruled out the participation of third parties: what is known about the death of the 22-year-old young man on the Lo Barnechea channel",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/13/pdi-descarto-participacion-de-terceros-lo-que-se-sabe-de-la-muerte-del-joven-de-22-anos-en-canal-de-lo-barnechea/",
+        "published_date": "2026-10-13 21:23:57",
+        "category": "Local Events"
     },
     {
         "title": "BTS arrives in Santiago and the K-Pop phenomenon takes over the streaming screen: how and where to watch it",
@@ -270,55 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/12/codina-instruyo-evacuacion-de-casas-de-las-condes-que-sufrieron-perdida-total-ante-nuevas-precipitaciones/",
         "published_date": "2026-10-12 15:39:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ra\u00fal Camargo, director of FICValdivia, at the beginning of the 33rd edition: \u201cThe great novelty is the perseverance of continuing to do the same\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/raul-camargo-director-de-ficvaldivia-en-el-inicio-de-la-33a-edicion-la-gran-novedad-es-la-constancia-de-seguir-haciendo-lo-mismo/",
-        "published_date": "2026-10-12 14:11:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who was Penelope Knuth, the UC professor who died in the Chile Chamber Orchestra crash",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/quien-era-penelope-knuth-la-profesora-de-la-uc-fallecida-en-el-choque-de-la-orquesta-de-camara-de-chile/",
-        "published_date": "2026-10-12 14:03:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "With more than 380 activities throughout the country: SME Week begins this Tuesday",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/con-mas-de-380-actividades-en-todo-el-pais-comienza-este-martes-la-semana-de-la-pyme/",
-        "published_date": "2026-10-12 13:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cTeacher of many generations\u201d: At the age of 65, the prominent actor Gabriel Prieto died",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/maestro-de-muchas-generaciones-a-los-65-anos-fallecio-el-destacado-actor-gabriel-prieto/",
-        "published_date": "2026-10-12 13:23:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities suspend classes in 12 schools in Las Condes to facilitate cleanup work after a flood",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/autoridades-suspenden-clases-en-12-colegios-de-las-condes-para-facilitar-trabajo-de-limpiezas-tras-aluvion/",
-        "published_date": "2026-10-12 12:52:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ad\u00e9la, Lola Young and RAYE: The three pop voices of the moment arriving at Lollapalooza 2027",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/11/adela-lola-young-y-raye-las-tres-voces-del-pop-del-momento-que-llegan-al-lollapalooza-2027/",
-        "published_date": "2026-10-11 20:33:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "New tragedy mourns Codelco: two workers died in an avalanche in El Teniente",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/11/avalancha-en-el-teniente-afecta-a-tres-trabajadores-codelco-confirma-rescate-en-curso-de-dos-de-ellos/",
-        "published_date": "2026-10-11 19:05:45",
         "category": "Local Events"
     }
 ]
