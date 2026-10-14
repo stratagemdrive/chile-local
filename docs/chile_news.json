@@ -49,6 +49,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The round between Pavez (UDI) and Schonhaut (FA) for the \u201crisk communication\u201d of the Government and the defense of La Moneda against its deployment",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/el-round-entre-pavez-udi-y-schonhaut-fa-por-la-comunicacion-de-riesgo-del-gobierno-y-la-defensa-de-la-moneda-a-su-despliegue/",
+        "published_date": "2026-10-14 14:38:36",
+        "category": "Military"
+    },
+    {
         "title": "Newsletter Poder: Bachelet 3.0 and Matthei with voice, but without bots",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/10/newsletter-poder-bachelet-3-0-y-matthei-con-voz-pero-sin-bots/",
@@ -70,11 +77,11 @@
         "category": "Military"
     },
     {
-        "title": "The United States approves execution by firing squad of Nidal Malik Hasan, former military psychiatrist responsible for the shooting in Texas",
+        "title": "Ximena Rinc\u00f3n distances herself from Quiroz's statements about paraffin consumption: \"Is there a decrease in use? Yes, but it continues to be used.\"",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/06/estados-unidos-aprueba-ejecucion-por-fusilamiento-de-nidal-malik-hasan-expsiquiatra-militar-autor-del-tiroteo-en-texas/",
-        "published_date": "2026-10-06 15:17:16",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/10/14/ximena-rincon-se-desmarca-de-dichos-de-quiroz-sobre-el-consumo-de-parafina-hay-disminucion-del-uso-si-pero-se-sigue-usando/",
+        "published_date": "2026-10-14 14:01:36",
+        "category": "Energy"
     },
     {
         "title": "\u201cIts intensity will decrease\u201d: After an electrical storm, the Government projects that rainfall in Santiago will last until 10 p.m.",
@@ -175,11 +182,60 @@
         "category": "Economy"
     },
     {
-        "title": "The new $50 coin enters circulation today and will gradually replace the current one",
+        "title": "Squella questions Vallejo's international landing and calls on her to take care of \u201cthe moderation with which she is going to participate in contingent politics.\u201d",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/06/la-nueva-moneda-de-50-entra-hoy-en-circulacion-y-reemplazara-gradualmente-a-la-actual/",
-        "published_date": "2026-10-06 14:31:57",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/14/squella-cuestiona-el-desembarco-internacional-de-vallejo-y-la-llama-a-cuidar-la-mesura-con-la-que-va-a-participar-de-la-politica-contingente/",
+        "published_date": "2026-10-14 15:23:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Google wants to bring the \u201ccoding vibe\u201d to everyone: users will be able to create their own apps and test them in the Play Store",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/google-vibe-coding-crear-apps-ia-play-store/",
+        "published_date": "2026-10-14 15:22:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago records a historical record of rainfall in October and experts warn about the effects of climate change: \u201cA bad year for denialism\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/santiago-registra-record-historico-de-lluvias-en-octubre-y-expertos-alertan-por-efectos-del-cambio-climatico-un-mal-ano-para-el-negacionismo/",
+        "published_date": "2026-10-14 15:20:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cClosed until further notice\u201d: Temporary hit renowned Providencia establishments that suspend their sales due to flooding",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/cerrados-hasta-nuevo-aviso-temporal-golpeo-a-reconocidos-locales-de-providencia-que-suspenden-sus-ventas-por-inundaciones/",
+        "published_date": "2026-10-14 15:00:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt seems clumsy to me not to make visible something that is part of life\u201d: Santiago Quintana's reflection on living with cerebral palsy after the death of RJ Mitte",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/me-parece-una-torpeza-no-visibilizar-algo-que-es-parte-de-la-vida-la-reflexion-de-santiago-quintana-sobre-vivir-con-paralisis-cerebral-tras-la-muerte-de-rj-mitte/",
+        "published_date": "2026-10-14 14:44:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThere has to be a budget for this\u201d: Mayor Bellolio asks for meteorological investment from the State after a storm that affected Providencia",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/tiene-que-haber-presupuesto-para-esto-alcalde-bellolio-pide-inversion-meteorologica-del-estado-tras-temporal-que-afecto-a-providencia/",
+        "published_date": "2026-10-14 12:37:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cars under water in Santiago: the definitive guide to rescue a vehicle after the storm",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/autos-inundados-en-santiago-guia-rescate-reparacion/",
+        "published_date": "2026-10-14 12:25:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The internal debate that began in the Frente Amplio for the presidential reopening of Bachelet",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/14/el-debate-interno-que-comenzo-en-el-frente-amplio-por-la-reapertura-de-bachelet-presidencial/",
+        "published_date": "2026-10-14 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Roger Koza, actor and jury of Chilean Cinema of the Future at FICValdivia: \u201cI would like to know who the heirs of Ignacio Ag\u00fcero will be\u201d",
@@ -263,62 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/13/expertos-vuelven-a-ajustar-expectativas-de-crecimiento-para-este-ano-a-un-02-y-proyectan-inflacion-de-46-a-diciembre/",
         "published_date": "2026-10-13 17:14:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juan Carlos Mu\u00f1oz criticizes cuts to regional transportation in Budget 2027: \u201cIt ends up damaging the mirror of resources between Santiago and the regions\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/13/juan-carlos-munoz-critica-recortes-al-transporte-regional-en-presupuesto-2027-termina-danando-el-espejo-de-recursos-entre-santiago-y-regiones/",
-        "published_date": "2026-10-13 17:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Budget Law 2027 for the Health sector",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/13/ley-de-presupuesto-2027-para-el-sector-salud/",
-        "published_date": "2026-10-13 17:06:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is the training school for Latin American leaders that Camila Vallejo will direct and why she refused to settle in Mexico",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/13/como-es-la-escuela-de-formacion-de-lideres-latinoamericanos-que-dirigira-camila-vallejo-y-por-que-rechazo-radicarse-en-mexico/",
-        "published_date": "2026-10-13 15:59:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cEvery pandemic began with a single case\u201d: the alerts regarding a case of plague in Russia after a laboratory accident",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/toda-pandemia-inicio-con-un-solo-caso-las-alertas-ante-caso-de-peste-en-rusia-tras-accidente-en-laboratorio/",
-        "published_date": "2026-10-12 21:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Actor RJ Mitte, known for his role in the acclaimed series Breaking Bad, died at the age of 34.",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/a-los-34-anos-fallecio-el-actor-rj-mitte-conocido-por-su-papel-en-la-aclamada-serie-breaking-bad/",
-        "published_date": "2026-10-12 20:37:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camilo Arancibia, the award-winning Chilean actor for Il Cileno: \u201cIt is not a film about the dictatorship, it is a human story\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/camilo-arancibia-el-premiado-actor-chileno-por-il-cileno-no-es-una-pelicula-sobre-la-dictadura-es-una-historia-humana/",
-        "published_date": "2026-10-12 20:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor was felt in the central area of \u200b\u200bthe country",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/temblor-se-percibio-en-la-zona-central-del-pais/",
-        "published_date": "2026-10-12 18:22:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government instructed evacuation of houses in Las Condes that suffered total loss due to new rainfall",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/12/codina-instruyo-evacuacion-de-casas-de-las-condes-que-sufrieron-perdida-total-ante-nuevas-precipitaciones/",
-        "published_date": "2026-10-12 15:39:26",
         "category": "Local Events"
     }
 ]
