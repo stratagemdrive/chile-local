@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cA permanent and inalienable objective\u201d: President of Bolivia points out to Kast that they will not renounce maritime sovereignty",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/un-objetivo-permanente-e-irrenunciable-presidente-de-bolivia-senala-frente-a-kast-que-no-renunciaran-a-la-soberania-maritima/",
+        "published_date": "2026-10-16 19:37:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "After signing the Shield of the Americas: the meeting of Chilean authorities with the US government to attend to \u201cconsultations\u201d about submarine cables after the conflict with China",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/13/tras-firma-del-escudo-de-las-americas-la-cita-de-autoridades-chilenas-con-el-gobierno-de-ee-uu-para-atender-consultas-por-cables-submarinos-luego-de-conflicto-con-china/",
@@ -40,6 +47,20 @@
         "url": "https://www.theclinic.cl/2026/10/10/newsletter-poder-bachelet-3-0-y-matthei-con-voz-pero-sin-bots/",
         "published_date": "2026-10-10 12:00:00",
         "category": "Military"
+    },
+    {
+        "title": "Oil price jumps to US$ 110 and a fifth consecutive increase in fuel prices is projected for next week",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/precio-del-petroleo-salta-hasta-los-us-110-y-se-proyecta-una-quinta-alza-consecutiva-de-los-combustibles-para-la-proxima-semana/",
+        "published_date": "2026-10-17 00:48:05",
+        "category": "Energy"
+    },
+    {
+        "title": "Fury over the iPhone Duo: high demand in Chile pushes Apple's delivery times until January 2027",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/iphone-duo-chile-entregas-enero-2027/",
+        "published_date": "2026-10-16 23:42:47",
+        "category": "Energy"
     },
     {
         "title": "Guillermo Rodr\u00edguez, the pioneering chef who brought the corn cake to La Moneda: \u201cCooking is political\u201d",
@@ -175,11 +196,46 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cInflation and the CPI are the responsibility of the Central Bank\u201d: Minister Quiroz's attacks against businessmen and economic alerts",
+        "title": "\u201cIf someone steps out of that framework, they will have to pay the consequences\u201d: Kast's warning in the face of possible protests commemorating 18-O",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/08/la-inflacion-y-el-ipc-son-responsabilidad-del-banco-central-los-dardos-del-ministro-quiroz-contra-empresarios-y-las-alertas-economicas/",
-        "published_date": "2026-10-08 16:05:03",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/16/si-alguien-se-sale-de-ese-marco-tendra-que-pagar-las-consecuencias-la-advertencia-de-kast-ante-eventuales-protestas-en-conmemoracion-del-18-o/",
+        "published_date": "2026-10-16 23:43:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake at the University of Chile: Cecilia P\u00e9rez and the board of directors of Azul Azul leave following the request of the shareholders meeting",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/terremoto-en-universidad-de-chile-cecilia-perez-y-el-directorio-de-azul-azul-sale-tras-solicitud-de-la-junta-de-accionistas/",
+        "published_date": "2026-10-16 22:13:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Letter to the director/ Being late to the crime: Security Budget 2027",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/carta-a-la-directora-llegar-tarde-al-delito-presupuesto-en-seguridad-2027/",
+        "published_date": "2026-10-16 20:43:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Until death with BTS: the Chilean funeral home that went viral for offering personalized coffins with the band's face for $2.5 million",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/hasta-la-muerte-con-bts-la-funeraria-chilena-que-se-volvio-viral-por-ofrecer-ataudes-personalizados-con-el-rostro-de-la-banda-por-25-millones/",
+        "published_date": "2026-10-16 20:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "They grant freedom to Patricio Maturana, former police officer convicted of blinding Senator Fabiola Campillai",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/otorgan-libertad-a-patricio-maturana-excarabinero-condenado-por-cegar-a-la-senadora-fabiola-campillai/",
+        "published_date": "2026-10-16 20:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Millionaire losses from Fund E reach Congress: deputies promote an investigative commission against the AFP",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/16/perdidas-millonarias-del-fondo-e-llegan-al-congreso-diputados-impulsan-comision-investigadora-contra-las-afp/",
+        "published_date": "2026-10-16 19:39:27",
+        "category": "Local Events"
     },
     {
         "title": "\u201cLos Emisarios del Cauca\u201d, the Colombian criminal gang sentenced to 143 years in prison: they managed to transport up to 800 kilos of drugs to Chile",
@@ -277,48 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/15/vehiculo-definido-software-renault-lg/",
         "published_date": "2026-10-15 20:41:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "ASUS launches the ROG Xbox Ally X20 in Chile, a portable console with augmented reality glasses",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/rog-xbox-ally-x20-chile-precio/",
-        "published_date": "2026-10-15 14:41:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor Vodanovic after the fourth consecutive year of barrista incidents in Villa San Luis: \u201cThe State does not show any capacity to respond\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/alcalde-vodanovic-tras-cuarto-ano-consecutivo-de-incidentes-de-barristas-en-la-villa-san-luis-el-estado-no-muestra-ninguna-capacidad-de-respuesta/",
-        "published_date": "2026-10-15 14:19:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The general sale of places for the Santiago Marathon 2027 begins: review the values \u200b\u200band requirements",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/comienza-la-venta-general-de-cupos-para-la-maraton-de-santiago-2027-revisa-los-valores-y-requisitos/",
-        "published_date": "2026-10-15 14:03:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the itch of goat chub to the laboratory: the UFRO project that seeks to alleviate chronic pain with Chilean chili pepper",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/del-picor-del-cacho-de-cabra-al-laboratorio-el-proyecto-de-la-ufro-que-busca-aliviar-el-dolor-cronico-con-aji-chileno/",
-        "published_date": "2026-10-15 14:00:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt was a moment of great violence and we hope it will not be repeated\u201d: President Kast's reflection on a new 18-O",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/fue-un-momento-de-mucha-violencia-y-esperamos-que-no-se-vuelva-a-repetir-la-reflexion-del-presidente-kast-ante-un-nuevo-18-o/",
-        "published_date": "2026-10-15 13:53:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pumas, screeching foxes and even dogs: Chilo\u00e9's alert for the arrival of foreign predators to the island with the opening of the Chacao Bridge",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/pumas-zorros-chilla-y-hasta-perros-la-alerta-de-chiloe-por-la-llegada-de-depredadores-foraneos-a-la-isla-con-la-apertura-del-puente-chacao/",
-        "published_date": "2026-10-15 13:25:13",
         "category": "Local Events"
     }
 ]
