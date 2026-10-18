@@ -112,13 +112,6 @@
         "category": "Energy"
     },
     {
-        "title": "The $918 million cut to Senapred made by the Treasury that resurfaces amid the flood in Las Condes and criticism for lack of prevention",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/09/el-recorte-de-918-millones-a-senapred-realizado-por-hacienda-que-resurge-en-medio-del-aluvion-en-las-condes-y-las-criticas-por-falta-de-prevencion/",
-        "published_date": "2026-10-09 15:09:44",
-        "category": "Energy"
-    },
-    {
         "title": "Tickets to Panama: former president Boric will participate in a conference on poverty with former president \u00c1lvaro Uribe",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/16/pasajes-a-panama-expresidente-boric-participara-en-conferencia-sobre-pobreza-junto-al-expresidente-alvaro-uribe/",
@@ -194,6 +187,34 @@
         "url": "https://www.theclinic.cl/2026/10/11/perfil-de-kike-mujica-felices-y-forrados-contrataca-con-gino-nunca-se-sabe/",
         "published_date": "2026-10-11 11:03:00",
         "category": "Economy"
+    },
+    {
+        "title": "\u201cTo make a film you only need a weapon\u201d by Argentine Santiago Sein obtains the highest award at the FICValdivia",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/17/para-hacer-una-pelicula-solo-hace-falta-un-arma-del-argentino-santiago-sein-obtiene-el-maximo-galardon-en-el-ficvaldivia/",
+        "published_date": "2026-10-18 00:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iguales rejects the presence of a priest who promotes \u201cexiting\u201d homosexuality at Expofamily: \u201cIt is giving public legitimacy to a practice that harms\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/17/iguales-rechaza-presencia-de-sacerdote-que-promueve-salir-de-la-homosexualidad-en-expofamily-es-dar-legitimidad-publica-a-una-practica-que-dana/",
+        "published_date": "2026-10-17 19:50:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comptroller's Office warns of constitutional problems in the Reconstruction Law that was published today in the Official Gazette and asks to review regulations that remain in force",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/17/contraloria-advierte-problemas-constitucionales-en-ley-de-reconstruccion-que-fue-publicada-hoy-en-el-diario-oficial-y-pide-revisar-normas-que-quedaron-vigentes/",
+        "published_date": "2026-10-17 16:52:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two Chileans arrested in Bali with almost five kilos of cocaine: they risk life imprisonment and even the death penalty",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/17/dos-chilenos-detenidos-en-bali-con-casi-cinco-kilos-de-cocaina-arriesgan-cadena-perpetua-y-hasta-la-pena-de-muerte/",
+        "published_date": "2026-10-17 15:48:29",
+        "category": "Local Events"
     },
     {
         "title": "The story of Zhenfeng Chen, the Chinese man accused of bribery after offering $100,000 to a police officer so that his \u201cgambling\u201d room would not be inspected",
@@ -305,34 +326,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/16/javier-olivera-el-cura-argentino-que-realiza-charlas-sobre-como-salir-de-la-homosexualidad-invitado-a-la-cumbre-de-derecha-expofamily/",
         "published_date": "2026-10-16 14:04:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Circus of propellers or the ultimate supercar?What the presentation of the Tesla Roadster left behind",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/16/presentacion-tesla-roadster-especificaciones-lanzamiento/",
-        "published_date": "2026-10-16 13:49:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The triumphant return of V\u00e9rtigo to Channel 13 after eight years: it led in ratings on its first night with the debut of Mart\u00edn C\u00e1rcamo and Tita Ureta",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/16/el-triunfal-regreso-de-vertigo-a-canal-13-tras-ocho-anos-lidero-en-rating-en-su-primera-noche-con-el-debut-de-martin-carcamo-y-tita-ureta/",
-        "published_date": "2026-10-16 13:47:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "SEC ordered to correct excessive charges to a client and Enel did not comply: Court determined that company must eliminate $434 thousand pesos from its account",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/16/sec-ordeno-corregir-cobros-excesivos-a-una-clienta-y-enel-no-cumplio-corte-determino-que-empresa-debe-eliminar-434-mil-pesos-de-su-cuenta/",
-        "published_date": "2026-10-16 13:32:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "19% fewer women in management: the community of 200 executives that makes the gender gap in offices visible and expands throughout Latin America",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/15/un-19-menos-de-mujeres-en-jefaturas-la-comunidad-de-200-ejecutivas-que-visibiliza-la-brecha-de-genero-en-las-oficinas-y-se-expande-por-latinoamerica/",
-        "published_date": "2026-10-16 00:00:00",
         "category": "Local Events"
     }
 ]
