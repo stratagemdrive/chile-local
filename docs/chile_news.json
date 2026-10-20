@@ -42,6 +42,13 @@
         "category": "Military"
     },
     {
+        "title": "\u201cIf you use it daily you will spend more than $50,000 a month\u201d: Mayor Luksic warns of risks of not integrating the Bicentenario Cable Car into the public transportation network",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/si-lo-usas-a-diario-vas-a-gastar-mas-de-50-mil-al-mes-alcalde-luksic-advierte-riesgos-de-no-integrar-el-teleferico-bicentenario-a-la-red-de-transporte-publico/",
+        "published_date": "2026-10-19 20:33:03",
+        "category": "Energy"
+    },
+    {
         "title": "Jorge Rodr\u00edguez, CEP, and the budget: \u201cThere was no cut, the correct word is reallocation\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/18/jorge-rodriguez-cep-y-el-presupuesto-no-hubo-recorte-la-palabra-correcta-es-reasignacion/",
@@ -103,6 +110,13 @@
         "url": "https://www.theclinic.cl/2026/10/13/disminuira-su-intensidad-tras-tormenta-electrica-gobierno-proyecta-que-precipitaciones-en-santiago-se-extenderan-hasta-las-22-horas/",
         "published_date": "2026-10-13 21:17:42",
         "category": "Energy"
+    },
+    {
+        "title": "\u201cYou don't even feel like he's listening to you\u201d: He was looking for his first internship and ended up being interviewed by an AI that couldn't answer his questions about the job",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/ni-siquiera-sientes-que-te-esta-escuchando-buscaba-su-primera-practica-profesional-y-termino-entrevistado-por-una-ia-que-no-pudo-responder-sus-preguntas-sobre-el-trabajo/",
+        "published_date": "2026-10-19 21:20:00",
+        "category": "Economy"
     },
     {
         "title": "The true heir of the Fortwo: The arrival of Smart #2 in Chile is confirmed",
@@ -180,6 +194,62 @@
         "url": "https://www.theclinic.cl/2026/10/12/del-bolsillo-individual-a-la-economia-global-las-claves-del-trabajo-de-hall-y-woodford-nuevos-nobel-de-economia/",
         "published_date": "2026-10-12 12:21:38",
         "category": "Economy"
+    },
+    {
+        "title": "Government suspends classes in communes in four regions of the country due to the arrival of the new frontal system",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/gobierno-suspende-clases-en-comunas-de-cuatro-regiones-del-pais-ante-llegada-de-nuevo-sistema-frontal/",
+        "published_date": "2026-10-20 01:14:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Frontal system: check which are the nine streams in five communes with the highest risk of landslides in Santiago and what measures the municipalities have adopted",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/sistema-frontal-cuales-son-las-quebradas-con-mayor-riesgo-de-aluviones-en-santiago-y-que-medidas-han-adoptado-los-municipios-para-su-contencion/",
+        "published_date": "2026-10-20 00:29:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "He changed the nets for the cells: The history of arrests that Jean Paul Pineda accumulates after his time on the courts",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/cambio-las-redes-por-las-celdas-el-historial-de-detenciones-que-acumula-jean-paul-pineda-tras-su-paso-por-las-canchas/",
+        "published_date": "2026-10-19 21:55:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "New spokesperson, but without being a minister: how La Moneda was convinced of a new redesign of its communications",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/nuevo-vocero-pero-sin-ser-ministro-como-la-moneda-se-convencio-de-un-nuevo-rediseno-en-sus-comunicaciones/",
+        "published_date": "2026-10-19 21:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe do not rule out an event similar to the one that occurred two weeks ago in Las Condes\u201d: The complex scenario that experts foresee before the frontal system this Tuesday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/no-descartamos-un-evento-similar-al-de-hace-dos-semanas-en-las-condes-el-complejo-escenario-que-preven-expertos-ante-el-sistema-frontal-de-este-martes/",
+        "published_date": "2026-10-19 21:00:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of the woman who has spent 19 years of her life as a foster home and has cared for more than three thousand rescued cats",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/la-historia-de-la-mujer-que-ha-pasado-19-anos-de-su-vida-siendo-hogar-temporal-y-ha-cuidado-a-mas-de-tres-mil-gatos-rescatados/",
+        "published_date": "2026-10-19 20:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poduje's boomerang in his criticism of Congress: the last national days of the Family and the Telethon were promoted by the Government itself",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/el-boomerang-de-poduje-en-su-critica-al-congreso-ultimos-dias-nacionales-de-la-familia-y-de-la-teleton-fueron-impulsados-por-el-propio-gobierno/",
+        "published_date": "2026-10-19 20:44:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Politicians react to Fund E losses with special sessions, bills and proposals to advance pension reform",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/19/politicos-reaccionan-a-perdidas-del-fondo-e-con-sesiones-especiales-proyectos-de-ley-y-propuestas-para-adelantar-la-reforma-de-pensiones/",
+        "published_date": "2026-10-19 20:40:04",
+        "category": "Local Events"
     },
     {
         "title": "With Nicolas Cage and Antonio Banderas: HBO announces the protagonists of the fifth season of \u201cTrue Detective\u201d",
@@ -263,62 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/18/cindy-crawford-rompe-el-silencio-tras-la-muerte-de-su-hijo-presley-gerber-estamos-muy-orgullosos-de-como-se-mostro-ante-el-mundo-con-amabilidad-y-vulnerabilidad/",
         "published_date": "2026-10-18 19:09:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than three thousand police deployed, performative dances, confrontations and the presence of Daniel Jadue: this is how the first 18-O is experienced under the Kast government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/mas-de-tres-mil-carabineros-desplegados-bailes-performativos-enfretamientos-y-la-presencia-de-daniel-jadue-asi-se-vive-el-primer-18-o-bajo-el-gobierno-de-kast/",
-        "published_date": "2026-10-18 17:58:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The backstage of Alessandri's anger with Poduje for treating parliamentarians as \u201cclowns\u201d and his attempt to send a letter of protest",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/la-trastienda-del-enojo-de-alessandri-con-poduje-por-tratar-de-payasos-a-parlamentarios-y-su-intento-de-enviar-una-carta-de-protesta/",
-        "published_date": "2026-10-18 14:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The day a couple got married in the \u201cJard\u00edn de la Resistencia\u201d: the details of the unusual marriage in a place that no longer exists in Plaza Italia",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/el-dia-que-una-pareja-se-caso-en-el-jardin-de-la-resistencia-los-detalles-del-inusual-matrimonio-en-un-lugar-que-ya-no-existe-de-plaza-italia/",
-        "published_date": "2026-10-18 14:26:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Johannes Kaiser pressures Kast for pardons for police officers from 18-O: \u201cSupport him, sponsor him, it's the least they deserve\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/johannes-kaiser-presiona-a-kast-por-indultos-a-carabineros-del-18-o-respaldelo-patrocinelo-es-lo-menos-que-se-merecen/",
-        "published_date": "2026-10-18 12:49:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jaime Bassa, seven years after 18-O: \u201cWe did something well during that entire period: we put the oligarchy against the wall\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/jaime-bassa-a-siete-anos-del-18-o-algo-hicimos-bien-durante-todo-ese-periodo-pusimos-la-oligarquia-contra-la-pared/",
-        "published_date": "2026-10-18 12:02:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The stories behind Monte Rosa: its abundant dishes, old customers and a cantina that has received from Allende to Boric",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/las-historias-detras-de-monte-rosa-sus-platos-abundantes-viejos-parroquianos-y-una-cantina-que-ha-recibido-desde-allende-hasta-boric/",
-        "published_date": "2026-10-18 11:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Luis Cordero Vega: Fear also makes you sick",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/columna-de-luis-cordero-vega-el-miedo-tambien-enferma/",
-        "published_date": "2026-10-18 11:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Column by Pablo Zeballos |When we stop looking: the exploited children that the world stopped seeing",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/18/columna-de-pablo-zeballos-cuando-dejamos-de-mirar-los-ninos-explotados-que-el-mundo-dejo-de-ver/",
-        "published_date": "2026-10-18 11:08:00",
         "category": "Local Events"
     }
 ]
