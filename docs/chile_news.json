@@ -14,6 +14,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Rabat confirms that the Government reduced sentences for two former soldiers in Punta Peuco convicted of kidnapping and torture: \u201cThis is what the law establishes\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/22/rabat-confirma-que-gobierno-redujo-penas-a-dos-exmilitares-en-punta-peuco-condenados-por-secuestro-y-torturas-asi-lo-establece-la-ley/",
+        "published_date": "2026-10-23 00:05:43",
+        "category": "Military"
+    },
+    {
         "title": "\u201cNo member of Secom maintains a professional or contractual relationship\u201d: Alvarado's defense of the Government in the Cerimedo commission",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/20/ningun-miembro-de-la-secom-mantiene-relacion-profesional-o-contractual-la-defensa-de-alvarado-al-gobierno-en-la-comision-cerimedo/",
@@ -25,13 +32,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/15/los-disimiles-preparativos-de-los-partidos-de-izquierda-y-derecha-para-el-septimo-aniversario-del-estallido-social/",
         "published_date": "2026-10-15 21:21:06",
-        "category": "Military"
-    },
-    {
-        "title": "The 15-ton revolution: this is how the Milrem Robotics HAVOC 8\u00d78 operates in modern warfare",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/14/milrem-robotics-havoc-8x8-vehiculo-robotico-combate/",
-        "published_date": "2026-10-14 21:13:19",
         "category": "Military"
     },
     {
@@ -102,13 +102,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/15/alivio-para-el-bolsillo-en-2027-cuentas-de-la-luz-bajarian-un-promedio-de-43-en-13-regiones-del-pais-a-partir-de-enero/",
         "published_date": "2026-10-15 14:41:10",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cBlack Cocaine\u201d, the documentary about Eugenio Berr\u00edos, the DINA chemist: \u201cThe image of a monster became that of an ordinary and banal guy\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/14/cocaina-negra-el-documental-sobre-eugenio-berrios-el-quimico-de-la-dina-la-imagen-de-monstruo-se-convirtio-en-la-de-un-tipo-corriente-y-banal/",
-        "published_date": "2026-10-14 22:05:00",
         "category": "Energy"
     },
     {
@@ -189,18 +182,53 @@
         "category": "Economy"
     },
     {
-        "title": "Codelco calls an extraordinary shareholders meeting to address inconsistencies in production figures between 2024 and 2025",
+        "title": "From PES 6 to Need For Speed \u200b\u200band GTA Vice City: check out how to find PlayStation 2 classics released by users in free web version",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/14/codelco-cita-a-junta-extraordinaria-de-accionistas-para-abordar-inconsistencias-de-las-cifras-de-produccion-entre-2024-y-2025/",
-        "published_date": "2026-10-14 23:23:52",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/22/del-pes-6-a-los-need-for-speed-y-gta-vice-city-los-clasicos-de-playstation-2-que-revivieron-tras-ser-lanzados-por-usuarios-en-version-web/",
+        "published_date": "2026-10-23 00:30:00",
+        "category": "Local Events"
     },
     {
-        "title": "President of Renta 4 for MK4: \u201cIt doesn't have to be ambitious to think that Chile could become a regional financial center\u201d",
+        "title": "\u201cThis puts the rights of children in danger\u201d: Fundaci\u00f3n Para la Confianza criticizes the delivery of benefits to those convicted of child abuse",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/14/presidente-de-renta-4-por-mk4-no-tiene-por-que-ser-ambicioso-pensar-que-chile-podria-convertirse-en-un-centro-financiero-regional/",
-        "published_date": "2026-10-14 21:25:01",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/22/con-esto-se-pone-en-peligro-el-derecho-de-los-ninos-fundacion-para-la-confianza-critica-entrega-de-beneficios-a-condenados-por-abuso-a-menores/",
+        "published_date": "2026-10-22 22:52:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey were going to make my life impossible\u201d: Claudio Orrego reveals warning from Republicans and accuses an offensive against him",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/22/claudio-orrego-republicanos-vida-imposible-tricel/",
+        "published_date": "2026-10-22 22:33:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The pressure cooker in the Ministry of Housing that complicates Poduje and contrasts with his positive evaluation in the surveys",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/22/la-olla-a-presion-en-el-ministerio-de-vivienda-que-complica-a-poduje-y-que-contrasta-con-su-positiva-evaluacion-en-las-encuestas/",
+        "published_date": "2026-10-22 21:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cPlease don't do it\u201d: Woman reports error in new agreement for CAE debtors and warns users",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/22/por-favor-no-lo-hagan-mujer-denuncia-error-en-nuevo-convenio-para-deudores-cae-y-advierte-a-usuarios/",
+        "published_date": "2026-10-22 21:12:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The return of Soulf\u00eda to Quinta Vergara: the Chilean who will represent Chile at the Vi\u00f1a Festival 2027",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/22/el-regreso-de-soulfia-a-la-quinta-vergara-la-chilena-que-representara-a-chile-en-el-festival-de-vina-2027/",
+        "published_date": "2026-10-22 20:50:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jesus Diamantino and his autopsy of terror in his new book \u201cFear in the flesh\u201d: \u201cFor me, terror is therapeutic\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/22/jesus-diamantino-y-su-autopsia-al-terror-en-su-nuevo-libro-miedo-en-la-carne-para-mi-el-terror-es-terapeutico/",
+        "published_date": "2026-10-22 20:30:00",
+        "category": "Local Events"
     },
     {
         "title": "The flank that was opened to the Government by the reduction of sentences for sexual abusers and that caused an official rebellion to avoid new cases",
@@ -291,55 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/21/chile-parte-desde-una-inversion-en-esta-area-que-ya-es-insuficiente-la-carta-del-rector-de-la-uc-en-que-pide-corregir-el-presupuesto-del-ministerio-de-ciencia/",
         "published_date": "2026-10-21 22:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Relevant, but insufficient modification: the analysts' judgment of the redesign of La Moneda with the landing of Arenas as spokesperson",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/modificacion-relevante-pero-insuficiente-el-juicio-de-los-analistas-al-rediseno-de-la-moneda-con-el-aterrizaje-de-arenas-como-vocero/",
-        "published_date": "2026-10-21 21:40:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The millionaire agreement that CMPC closed: it agreed to the sale of 60 thousand hectares of forestry in Maule for more than US$ 365 million",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/el-millonario-acuerdo-que-cerro-cmpc-acordo-la-venta-de-60-mil-hectareas-forestales-en-el-maule-por-mas-de-us-365-millones/",
-        "published_date": "2026-10-21 21:11:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valpara\u00edso Court confirms three-year prison sentence for man who defrauded victims of the megafire",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/corte-de-valparaiso-confirma-condena-de-tres-anos-de-carcel-a-hombre-que-estafo-a-damnificados-del-megaincendio/",
-        "published_date": "2026-10-21 21:02:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cmecca\u201d silhouette that defies the night: this is the Omoda X and what it means for Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/la-silueta-meca-que-desafia-la-noche-asi-es-el-omoda-x-y-lo-que-significa-para-chile/",
-        "published_date": "2026-10-21 21:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture in Tricao Park the strange courtship ritual of a Himalayan bird that lasts just seconds",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/captan-en-parque-tricao-el-extrano-ritual-de-cortejo-de-una-ave-del-himalaya-que-dura-apenas-segundos/",
-        "published_date": "2026-10-21 15:31:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe cannot let our guard down\u201d: Critical streams in Santiago resist rains but mayors pressure the MOP to clean channels in the face of future storms",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/no-podemos-bajar-la-guardia-quebradas-criticas-de-santiago-resisten-lluvias-pero-alcaldes-presionan-al-mop-por-limpieza-de-cauces-ante-futuros-temporales/",
-        "published_date": "2026-10-21 15:21:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe must do everything possible so that the right is never re-elected again\u201d: Jara's (PC) reflection in podcast with deputy Gatica",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/21/hay-que-hacer-todo-lo-posible-para-que-la-derecha-no-vuelva-a-ser-reelegida-nunca-mas-la-reflexion-de-jara-pc-en-podcast-junto-a-diputado-gatica/",
-        "published_date": "2026-10-21 15:16:21",
         "category": "Local Events"
     }
 ]
