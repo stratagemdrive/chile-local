@@ -28,6 +28,13 @@
         "category": "Military"
     },
     {
+        "title": "Casa Le\u00f3n: the story of the pandemic entrepreneurship of two friends that today was crowned with the award for the best cake in Millefeuille",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/casa-leon-la-historia-del-emprendimiento-pandemico-de-dos-amigas-que-hoy-se-coronaron-con-el-premio-a-la-mejor-torta-de-milhojas/",
+        "published_date": "2026-10-25 11:14:00",
+        "category": "Energy"
+    },
+    {
         "title": "Great gastronomic offer, sunny day and massive attendance: this is how the first day of the Bamba Festival in Santiago is experienced",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/",
@@ -98,20 +105,6 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cIt is terrible to have a phobia and that people do not put themselves in your place\u201d: The uncomfortable daily life of those who do not love pets in an increasingly pet-friendly Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/17/es-heavy-tener-fobia-y-que-las-personas-no-se-pongan-en-tu-lugar-el-incomodo-dia-a-dia-de-quienes-no-aman-a-las-mascotas-en-un-chile-cada-vez-mas-pet-friendly/",
-        "published_date": "2026-10-17 11:12:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil price jumps to US$ 110 and a fifth consecutive increase in fuel prices is projected for next week",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/16/precio-del-petroleo-salta-hasta-los-us-110-y-se-proyecta-una-quinta-alza-consecutiva-de-los-combustibles-para-la-proxima-semana/",
-        "published_date": "2026-10-17 00:48:05",
-        "category": "Energy"
-    },
-    {
         "title": "TECHO-Chile and BancoEstado launch National Collection 2026: \u201cYour place today, transform Chile\u201d",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/23/techo-chile-bancoestado-colecta-nacional-2026/",
@@ -159,6 +152,55 @@
         "url": "https://www.theclinic.cl/2026/10/19/el-verdadero-heredero-del-fortwo-se-confirma-la-llegada-del-smart-2-a-chile/",
         "published_date": "2026-10-19 15:46:02",
         "category": "Economy"
+    },
+    {
+        "title": "Juanes at the Bamba Festival: a review of his successes and the origin of a dream in Parque O'Higgins",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/juanes-en-el-festival-bamba-un-repaso-por-sus-exitos-y-el-origen-de-un-sueno-en-el-parque-ohiggins/",
+        "published_date": "2026-10-25 13:29:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detention of suspect for disappearance of a young man from Maip\u00fa is extended: it will be formalized on Tuesday",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/amplian-detencion-de-sospechoso-por-desaparicion-de-un-joven-de-maipu-sera-formalizado-el-martes/",
+        "published_date": "2026-10-25 13:26:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Benjam\u00edn Moreno (REP): \u201cIf there is a sector that cannot come to give lessons, it is the one that had an undersecretary accused of rape\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/benjamin-moreno-rep-si-hay-un-sector-que-no-puede-venir-a-dar-lecciones-es-el-que-tenia-a-un-subsecretario-acusado-de-violacion/",
+        "published_date": "2026-10-25 11:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Profile of Kike Mujica to Gonzalo Arenas: Kast's lightning rod",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/perfil-de-kike-mujica-a-gonzalo-arenas-el-pararrayos-de-kast/",
+        "published_date": "2026-10-25 11:09:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Juan Francisco Galli, former Undersecretary of the Interior/ Background OF: Crashing at 100 km/h when there is fog",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/columna-de-juan-francisco-galli-exsubsecretario-del-interior-fondo-e-chocar-a-100-km-h-cuando-hay-neblina/",
+        "published_date": "2026-10-25 11:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Juan Carvajal: \"The power that a Government has to communicate is immense. If you don't use it, then you lose\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/juan-carvajal-el-poder-que-tiene-un-gobierno-para-comunicar-es-inmenso-si-usted-no-lo-usa-entonces-pierde/",
+        "published_date": "2026-10-25 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neither UDI nor Republican, only pro-Kast: the political networks of Gonzalo Arenas behind his arrival to the Government spokesperson",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/25/ni-udi-ni-republicano-solo-pro-kast-las-redes-politicas-de-gonzalo-arenas-detras-de-su-llegada-a-la-voceria-de-gobierno/",
+        "published_date": "2026-10-25 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Arturo Squella apologizes to the president of the UDI for statements against Larra\u00edn and announces that he will communicate with the former minister",
@@ -249,55 +291,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/23/el-peligro-tras-el-mito-del-hogar-tradicional-por-que-las-tradwifes-pueden-seguir-reproduciendo-finalmente-desigualdades-de-genero/",
         "published_date": "2026-10-23 21:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Falabella, Cencosud and Latam change their benefit programs: review the new rules to accumulate points and access prizes",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/falabella-cencosud-y-latam-cambian-sus-programas-de-beneficios-revisa-las-nuevas-reglas-para-acumular-puntos-y-acceder-a-premios/",
-        "published_date": "2026-10-23 21:30:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gajardo refutes spokesman Arenas for reducing sentences and marks differences between the Boric and Kast governments",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/gajardo-refuta-a-vocero-arenas-por-rebajas-de-condenas-y-marca-diferencias-entre-los-gobiernos-de-boric-y-kast/",
-        "published_date": "2026-10-23 21:23:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is no acquired right\u201d: Former Minister Larra\u00edn contradicts Rabat in the midst of controversy over the reduction of sentences for sexual abusers",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/no-hay-derecho-adquirido-exministro-larrain-contradice-a-rabat-en-medio-de-polemica-por-rebaja-de-condena-a-abusadores-sexuales/",
-        "published_date": "2026-10-23 21:17:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The unknown business of Keyboards: this is the hotel that operates under the brand of the bar chain in the old Los Espa\u00f1oles de Providencia",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/el-desconocido-negocio-de-teclados-asi-es-el-hotel-boutique-que-la-cadena-de-bares-levanto-en-el-antiguo-los-espanoles-de-providencia/",
-        "published_date": "2026-10-23 20:54:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "If you forgot, you have two more weeks: they extend the deadline to complete the FUAS and apply for free and other higher education scholarships",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/si-se-te-olvido-tienes-dos-semanas-mas-extienden-plazo-para-completar-el-fuas-y-postular-a-la-gratuidad-y-otras-becas-de-educacion-superior/",
-        "published_date": "2026-10-23 20:48:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the collapse of D and E funds, the AFPs report the first signs of recovery in October",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/tras-el-desplome-de-los-fondos-d-y-e-las-afp-reportan-las-primeras-senales-de-recuperacion-en-octubre/",
-        "published_date": "2026-10-23 20:31:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to $3.5 million per month: Check the ranking of the 10 highest-paying university degrees in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/hasta-35-millones-mensuales-revisa-el-ranking-de-las-10-carreras-universitarias-mejor-pagadas-en-chile/",
-        "published_date": "2026-10-23 20:03:35",
         "category": "Local Events"
     }
 ]
