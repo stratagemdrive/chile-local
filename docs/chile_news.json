@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chile's new historic turn at the UN: it abstains for the first time in 33 years from a resolution against the US embargo on Cuba",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/28/el-nuevo-giro-historico-de-chile-en-la-onu-se-abstiene-por-primera-vez-en-33-anos-ante-resolucion-contra-el-embargo-de-ee-uu-a-cuba/",
+        "published_date": "2026-10-28 15:54:12",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Chile's nod to the US in the run-up to the key vote on the blockade of Cuba and doubts about a possible historic turn in foreign policy",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/21/el-guino-de-chile-a-ee-uu-en-la-antesala-de-votacion-clave-sobre-el-bloqueo-a-cuba-y-las-dudas-por-un-posible-giro-historico-en-politica-exterior/",
@@ -35,11 +42,11 @@
         "category": "Military"
     },
     {
-        "title": "\u201cNo member of Secom maintains a professional or contractual relationship\u201d: Alvarado's defense of the Government in the Cerimedo commission",
+        "title": "End of the cement era and the arrival of a new gastronomic tour in \u00d1u\u00f1oa: the rebirth of Plaza Ega\u00f1a with 700 square meters of green areas",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/20/ningun-miembro-de-la-secom-mantiene-relacion-profesional-o-contractual-la-defensa-de-alvarado-al-gobierno-en-la-comision-cerimedo/",
-        "published_date": "2026-10-20 14:38:17",
-        "category": "Military"
+        "url": "https://www.theclinic.cl/2026/10/28/fin-a-la-era-del-cemento-y-la-llegada-de-un-nuevo-paseo-gastronomico-en-nunoa-el-renacer-de-la-plaza-egana-con-700-metros-cuadrados-de-areas-verdes/",
+        "published_date": "2026-10-28 14:57:09",
+        "category": "Energy"
     },
     {
         "title": "Revenge, love affair and drugs: The \u201cwar\u201d between \u2018Los Su\u00e1rez\u2019 and \u201cLos Iquique\u201d that frightened Arica and whose investigation allowed the fall of its leaders",
@@ -133,13 +140,6 @@
         "category": "Energy"
     },
     {
-        "title": "3,738 expulsions of migrants have been suspended due to judicial appeals: Courts of Antofagasta, Valpara\u00edso and Biob\u00edo concentrate the majority of cases",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/20/3-738-expulsiones-de-migrantes-han-sido-suspendidas-por-recursos-judiciales-cortes-de-antofagasta-valparaiso-y-biobio-concentran-mayoria-de-casos/",
-        "published_date": "2026-10-20 14:13:43",
-        "category": "Energy"
-    },
-    {
         "title": "Capital reform takes the first step with approval in the Chamber of Deputies",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/27/reforma-de-capitales-da-el-primer-paso-con-la-aprobacion-en-la-camara-de-diputados/",
@@ -168,18 +168,53 @@
         "category": "Economy"
     },
     {
-        "title": "Pension Superintendence announces sanctioning process against seven AFPs for losses in D and E funds",
+        "title": "The profile of the resistant smoker: one in five adults aged 41 to 50 smokes every day of the week in Chile",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/20/superintendencia-de-pensiones-anuncia-proceso-sancionatorio-contra-siete-afp-por-perdidas-en-fondos-d-y-e/",
-        "published_date": "2026-10-20 14:44:06",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/28/el-perfil-del-fumador-resistente-uno-de-cada-cinco-adultos-de-41-a-50-anos-fuma-todos-los-dias-de-la-semana-en-chile/",
+        "published_date": "2026-10-28 16:29:31",
+        "category": "Local Events"
     },
     {
-        "title": "Lenovo claims to lead the tablet market in Chile and launches its new bet to maintain first place",
+        "title": "He left law to pursue music in Chicago: the story of CONOSUR, the Chilean who pursues his dreams in the United States",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/20/lenovo-lider-mercado-tablets-chile-idea-tab-pro-gen-2-2/",
-        "published_date": "2026-10-20 13:14:11",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/28/dejo-derecho-para-perseguir-la-musica-en-chicago-la-historia-de-conosur-el-chileno-que-persigue-sus-suenos-en-estados-unidos/",
+        "published_date": "2026-10-28 16:25:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 20 thousand contracts under scrutiny: platform allows tracking $60 billion in public works",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/28/plataforma-ucen-rastrear-60-millones-obras-publicas/",
+        "published_date": "2026-10-28 16:09:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"What is the goal? To become famous and use football as a means of electoral communication?\": Milad's attacks against the mayor of Pe\u00f1alol\u00e9n after the closure of the ANFP headquarters",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/28/cual-es-el-fin-hacerse-famoso-y-utilizar-el-futbol-como-medio-de-comunicacion-electoral-los-dardos-de-milad-contra-alcalde-de-penalolen-tras-clausura-de-sede-de-la-anfp/",
+        "published_date": "2026-10-28 15:36:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rabat loses support: the first official opposition appears in the face of possible AC and the UDI becomes the main obstacle for La Moneda",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/28/rabat-pierde-respaldo-asoman-primeros-desmarques-oficialistas-ante-posible-ac-y-la-udi-se-convierte-en-el-principal-obstaculo-de-la-moneda/",
+        "published_date": "2026-10-28 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government clarifies Pavez's controversial flight on a FACH plane and avoids responding to the alleged cost: \"He couldn't arrive if we sent him on a commercial flight\"",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/28/gobierno-aclara-polemico-vuelo-de-pavez-en-avion-de-la-fach-y-evita-responder-por-supuesto-costo-no-alcanzaba-a-llegar-si-lo-mandabamos-en-un-vuelo-comercial/",
+        "published_date": "2026-10-28 14:57:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cVertigo Extremo\u201d falls in audience and \u201cMasterChef\u201d achieves its most watched episode in the dispute for Tuesday night's ratings",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/28/vertigo-extremo-cae-en-audiencia-y-masterchef-logra-su-capitulo-mas-visto-en-la-disputa-por-el-rating-del-martes-por-la-noche/",
+        "published_date": "2026-10-28 14:42:03",
+        "category": "Local Events"
     },
     {
         "title": "Train transporting artists from the Telet\u00f3n tour runs over a person when entering Talca: Affected person left with minor injuries",
@@ -270,55 +305,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/27/criticas-de-sedini-y-reproche-de-alvarado-como-una-foto-de-maximo-pavez-rumbo-a-santo-domingo-genero-otro-dolor-de-cabeza-en-la-moneda/",
         "published_date": "2026-10-27 13:50:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe one in Requinoa is one of the most intense of which we have records\u201d: The ranking of the most destructive tornadoes in the history of Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/27/el-de-requinoa-es-de-los-mas-intensos-de-los-cuales-tenemos-registro-el-ranking-de-los-tornados-mas-destructivos-en-la-historia-de-chile/",
-        "published_date": "2026-10-27 13:44:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "They tried to abuse her, she jumped out of a car and died from her injuries: The case of a Bolivian woman that shocks Melipilla and for which there is a detainee",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/intentaron-abusar-de-ella-se-lanzo-de-un-auto-y-murio-por-sus-heridas-el-caso-de-una-mujer-boliviana-que-conmociona-melipilla-y-por-el-cual-hay-un-detenido/",
-        "published_date": "2026-10-27 01:08:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "70 homes affected, a school with serious damage and dozens of fractured poles: The damage left by the EF-2 tornado in Requ\u00ednoa",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/70-viviendas-afectadas-un-colegio-con-graves-danos-y-decena-de-postes-fracturados-los-estragos-que-dejo-el-tornado-ef-2-en-requinoa/",
-        "published_date": "2026-10-27 00:37:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frontal system: Red Alert in 10 pre-mountain communes of the Metropolitan Region due to activation of streams",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/sistema-frontal-alerta-roja-en-10-comunas-precordilleranas-de-la-region-metropolitana-por-activacion-de-quebradas/",
-        "published_date": "2026-10-26 23:26:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "With Depolo among them: the Broad Front delegation that traveled to Brazil to support Lula and the reflection that opened her victory to the extreme right",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/con-depolo-entre-ellos-la-comitiva-del-frente-amplio-que-viajo-a-brasil-para-apoyar-a-la-lula-y-la-reflexion-que-abrio-su-triunfo-a-la-ultraderecha/",
-        "published_date": "2026-10-26 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe screen cracks and turns off\u201d: The controversy of the new iPhone Duo due to failures within hours of its launch and Apple's response",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/la-pantalla-se-agrieta-y-se-apaga-la-polemica-del-nuevo-iphone-duo-por-fallas-a-horas-de-su-lanzamiento-y-la-respuesta-de-apple/",
-        "published_date": "2026-10-26 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "It would have reached a speed of up to 218 km/h: Mayor of Requ\u00ednoa warns of serious damage after the passage of an EF-2 category tornado",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/habria-alcanzado-una-velocidad-de-hasta-218-km-h-alcalde-de-requinoa-advierte-graves-danos-tras-el-paso-de-un-tornado-de-categoria-ef-2/",
-        "published_date": "2026-10-26 21:49:16",
         "category": "Local Events"
     }
 ]
