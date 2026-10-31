@@ -49,13 +49,6 @@
         "category": "Military"
     },
     {
-        "title": "Rabat confirms that the Government reduced sentences for two former soldiers in Punta Peuco convicted of kidnapping and torture: \u201cThis is what the law establishes\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/22/rabat-confirma-que-gobierno-redujo-penas-a-dos-exmilitares-en-punta-peuco-condenados-por-secuestro-y-torturas-asi-lo-establece-la-ley/",
-        "published_date": "2026-10-23 00:05:43",
-        "category": "Military"
-    },
-    {
         "title": "The price of crime: Chile disbursed US$10.54 billion in 2025 and most of it was allocated to preventing crimes",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/29/el-precio-de-la-delincuencia-chile-desembolso-us10-540-millones-en-2025-y-la-mayor-parte-se-destino-a-prevenir-delitos/",
@@ -147,6 +140,13 @@
         "category": "Energy"
     },
     {
+        "title": "BCI mistakenly paid a $30 million check without funds: the bank sued the beneficiary, but the Supreme Court ruled that it could not request the money back",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/bci-pago-por-error-un-cheque-de-30-millones-sin-fondos-el-banco-demando-al-beneficiario-pero-corte-suprema-dictamino-que-no-podia-solicitar-el-dinero-de-vuelta/",
+        "published_date": "2026-10-30 20:58:04",
+        "category": "Economy"
+    },
+    {
         "title": "Home prices rose again: Report reveals 3% increase during the second quarter of this year",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/30/precio-de-las-viviendas-volvio-a-subir-informe-revela-aumento-de-3-durante-el-segundo-trimestre-de-este-ano/",
@@ -194,6 +194,69 @@
         "url": "https://www.theclinic.cl/2026/10/23/techo-chile-bancoestado-colecta-nacional-2026/",
         "published_date": "2026-10-23 15:18:00",
         "category": "Economy"
+    },
+    {
+        "title": "They negotiated a ransom payment even though the victim had already been murdered: Details of the kidnapping with homicide of Mart\u00edn P\u00e9rez",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/negociaron-un-pago-de-rescate-pese-a-que-la-victima-ya-habia-sido-asesinada-detalles-del-secuestro-con-homicidio-de-martin-perez/",
+        "published_date": "2026-10-31 01:46:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Isabel Morel Gumucio, widow of Orlando Letelier and key figure in the judicial fight for his murder, dies",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/muere-isabel-morel-gumucio-viuda-de-orlando-letelier-y-figura-clave-en-la-lucha-judicial-por-su-asesinato/",
+        "published_date": "2026-10-31 00:43:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIn the government we are neither to protect positions nor to avoid responsibilities\u201d: Alvarado explains the departure of Luis Silva from the Undersecretary of Justice",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/en-el-gobierno-no-estamos-ni-para-proteger-cargos-ni-eludir-responsabilidades-alvarado-explica-salida-de-luis-silva-de-la-subsecretaria-de-justicia/",
+        "published_date": "2026-10-31 00:15:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The film of the moment schedules a premiere in Chilean cinemas: the documentary \u201cYou can see everything\u201d premieres on December 3",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/la-pelicula-del-momento-agenda-estreno-en-cines-chilenos-el-documental-puedes-verlo-todo-se-estrena-el-3-de-diciembre/",
+        "published_date": "2026-10-30 22:41:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawyer close to Republicans and former director of the Jaime Guzman Foundation: Who is Josefina Soto, the new Undersecretary of Justice",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/abogada-cercana-a-republicanos-y-exdirectora-de-la-fundacion-jaime-guzman-quien-es-josefina-soto-la-nueva-subsecretaria-de-justicia/",
+        "published_date": "2026-10-30 22:09:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "First fall of the Government due to reduced sentences: President Kast calls for the resignation of Undersecretary of Justice Luis Silva",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/remueven-a-luis-silva-de-la-subsecretaria-de-justicia-en-medio-de-polemica-por-rebaja-de-condenas-y-luego-de-publicar-un-video-sin-informar/",
+        "published_date": "2026-10-30 21:20:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI don't see the Republicans recriminating him for being disloyal\u201d: The new flank that Luis Silva opened in the ruling party in the midst of the Justice crisis",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/no-veo-a-los-republicanos-recriminandolo-por-desleal-el-nuevo-flanco-que-abrio-luis-silva-en-el-oficialismo-en-medio-de-la-crisis-de-justicia/",
+        "published_date": "2026-10-30 21:01:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the glass plate to the three wheels: The story of the first photo of a car",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/primera-foto-de-un-auto/",
+        "published_date": "2026-10-30 21:01:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "New female drivers join the Red Movilidad bus system: in 20 years, women in public transport increased by 6,000%",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/30/nuevas-conductoras-se-incorporan-al-sistema-de-buses-de-red-movilidad-en-20-anos-aumentaron-en-6-000-las-mujeres-en-el-transporte-publico/",
+        "published_date": "2026-10-30 20:42:57",
+        "category": "Local Events"
     },
     {
         "title": "Minor who was discharged from the Magallanes hospital and died two days later: parents request compensation of $400 million",
@@ -270,69 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/29/julio-asensio-tecnologia-reconversion-laboral-mineria/",
         "published_date": "2026-10-29 21:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the Jaraquemada Commission to the presidency of the CPLT: who is the lawyer who will have the challenge of promoting a new Transparency Law",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/de-la-comision-jaraquemada-a-la-presidencia-del-cplt-quien-es-la-abogada-que-tendra-el-desafio-de-impulsar-una-nueva-ley-de-transparencia/",
-        "published_date": "2026-10-29 21:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Third International Congress on Inclusive Higher Education calls for progress from policies towards concrete results for people",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/congreso-internacional-educacion-superior-inclusiva/",
-        "published_date": "2026-10-29 21:25:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bassa's statements pass the bill: Rabat announces criminal complaint for accusation of an \u201cinternational pedophile network\u201d in the Government",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/dichos-de-bassa-le-pasan-la-cuenta-rabat-anuncia-querella-criminal-por-acusacion-de-una-red-internacional-de-pedofilia-en-el-gobierno/",
-        "published_date": "2026-10-29 17:14:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "How do you know if a bite is from a corner spider?Warning symptoms, serious complications and when to consult the emergency room",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/como-saber-si-una-mordedura-es-de-arana-de-rincon-sintomas-de-alarma-complicaciones-graves-y-cuando-consultar-a-urgencias/",
-        "published_date": "2026-10-29 17:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "All Saints' Day: the schedules, masses and activities that the cemeteries of Santiago will have this weekend",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/dia-de-todos-los-santos-los-horarios-misas-y-actividades-que-tendran-los-cementerios-de-santiago-este-fin-de-semana/",
-        "published_date": "2026-10-29 16:55:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 16 pro-government deputies who alert the Government for its eventual lack of support for Rabat and the efforts of La Moneda to avoid disagreements",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/los-16-diputados-oficialistas-que-alertan-al-gobierno-por-su-eventual-desmarque-en-apoyar-a-rabat-y-las-gestiones-de-la-moneda-para-evitar-descuelgues/",
-        "published_date": "2026-10-29 16:43:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 20 thousand people are prohibited from working with minors in Chile: Comptroller's Office detected 164 hiring in public organizations",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/mas-de-20-mil-personas-tienen-prohibido-trabajar-con-menores-en-chile-contraloria-detecto-164-contrataciones-en-organismos-publicos/",
-        "published_date": "2026-10-29 16:30:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe corrupt are going to fall\u201d: The tense moment in the Congress of the Regions that ended with the mayor of Concepci\u00f3n removed by Kast escorts",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/los-corruptos-van-a-caer-el-tenso-momento-del-alcalde-de-concepcion-en-el-congreso-de-las-regiones-encabezado-por-jose-antonio-kast/",
-        "published_date": "2026-10-29 16:13:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nestl\u00e9's commitment to incorporating young talent in the midst of the employment crisis: \u201cWe have to encourage more young people to become interested in technical-professional things\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/la-apuesta-de-nestle-por-incorporar-talento-joven-en-medio-de-la-crisis-de-empleo-tenemos-que-fomentar-que-mas-jovenes-se-interesen-por-lo-tecnico-profesional/",
-        "published_date": "2026-10-29 16:05:36",
         "category": "Local Events"
     }
 ]
