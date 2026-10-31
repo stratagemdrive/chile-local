@@ -49,6 +49,13 @@
         "category": "Military"
     },
     {
+        "title": "Newsletter Power: It's politics, stupid!",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/newsletter-poder-es-la-politica-estupido/",
+        "published_date": "2026-10-31 12:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "The price of crime: Chile disbursed US$10.54 billion in 2025 and most of it was allocated to preventing crimes",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/29/el-precio-de-la-delincuencia-chile-desembolso-us10-540-millones-en-2025-y-la-mayor-parte-se-destino-a-prevenir-delitos/",
@@ -119,27 +126,6 @@
         "category": "Energy"
     },
     {
-        "title": "Dancing, singing and eating Latin in Parque O'Higgins: a practical guide to the first version of the Bamba Festival",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/bailar-cantar-y-comer-lo-latino-en-el-parque-ohiggins-una-guia-practica-de-la-primera-version-del-festival-bamba/",
-        "published_date": "2026-10-23 15:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cArgentina has the tool to eliminate Puerto Williams\u201d: Former Argentine commander proposes cutting off gas and recognizes that Chile is advancing faster in Antarctica",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/argentina-tiene-la-herramienta-para-eliminar-puerto-williams-excomandante-argentino-plantea-cortar-el-gas-y-reconoce-que-chile-avanza-mas-rapido-en-la-antartica/",
-        "published_date": "2026-10-23 14:43:40",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cThat we are going to mobilize, I see it as more than likely\u201d: Valpara\u00edso Truckers Federation joins the pressure in the sector due to the rise in diesel",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/de-que-nos-vamos-a-movilizar-yo-lo-veo-mas-que-probable-federacion-de-camioneros-de-valparaiso-se-suma-a-la-presion-del-rubro-por-alza-del-diesel/",
-        "published_date": "2026-10-23 14:17:43",
-        "category": "Energy"
-    },
-    {
         "title": "BCI mistakenly paid a $30 million check without funds: the bank sued the beneficiary, but the Supreme Court ruled that it could not request the money back",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/30/bci-pago-por-error-un-cheque-de-30-millones-sin-fondos-el-banco-demando-al-beneficiario-pero-corte-suprema-dictamino-que-no-podia-solicitar-el-dinero-de-vuelta/",
@@ -189,11 +175,53 @@
         "category": "Economy"
     },
     {
-        "title": "TECHO-Chile and BancoEstado launch National Collection 2026: \u201cYour place today, transform Chile\u201d",
+        "title": "Column by Kike Mujica |Luis Silva: it was stop, no play",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/23/techo-chile-bancoestado-colecta-nacional-2026/",
-        "published_date": "2026-10-23 15:18:00",
-        "category": "Economy"
+        "url": "https://www.theclinic.cl/2026/10/31/columna-de-kike-mujica-luis-silva-era-stop-no-play/",
+        "published_date": "2026-10-31 14:28:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Against Rabat and the reductions in sentences, budget cuts and other Government policies: the marches that will mark the coming days in the capital",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/contra-rabat-y-las-rebajas-de-condena-recortes-de-presupuesto-y-otras-politicas-del-gobierno-las-convocatorias-a-marchas-que-marcaran-los-proximos-dias-en-la-capital/",
+        "published_date": "2026-10-31 13:30:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where did the goals go?: The unsuccessful search for a striker for Chilean football in the midst of the institutional crisis of the ANFP",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/donde-se-fueron-los-goles-la-infructuosa-busqueda-de-un-delantero-para-el-futbol-chileno-en-medio-de-la-crisis-institucional-de-la-anfp/",
+        "published_date": "2026-10-31 11:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journey to the heart of San Carlos de Apoquindo: the history of the residential neighborhood of Las Condes that became a small city and the neighbors who today face the effects of climate change",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/viaje-al-corazon-de-san-carlos-de-apoquindo-la-historia-del-residencial-barrio-de-las-condes-que-se-convirtio-en-una-ciudadela-y-los-vecinos-que-hoy-enfrentan-los-efectos-del-cambio-climatico/",
+        "published_date": "2026-10-31 11:08:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conquering little readers: how the San Joaqu\u00edn de Renca School goes against the current and gets its students to read for pleasure",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/a-la-conquista-de-pequenos-lectores-como-el-colegio-san-joaquin-de-renca-va-contra-la-corriente-y-logra-que-sus-alumnos-lean-por-gusto/",
+        "published_date": "2026-10-31 11:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The plot of the man convicted of sexually abusing his daughter and granddaughter: justice denied him parole five times, but he ended up free by decree",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/la-trama-del-hombre-condenado-por-abusar-sexualmente-de-su-hija-y-su-nieta-la-justicia-le-nego-cinco-veces-la-libertad-condicional-pero-termino-libre-por-decreto/",
+        "published_date": "2026-10-31 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Marco Moreno: The Government of a thousand explanations",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/10/31/el-gobierno-de-las-mil-explicaciones/",
+        "published_date": "2026-10-31 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "They negotiated a ransom payment even though the victim had already been murdered: Details of the kidnapping with homicide of Mart\u00edn P\u00e9rez",
@@ -284,55 +312,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/30/directv-sera-socio-de-difusion-del-team-chile-hasta-los-angeles-2028/",
         "published_date": "2026-10-30 15:46:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indumotora's bet with Forthing: the Chinese plan to disarm anxiety over autonomy in Chile",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/forthing-en-chile-modelos-precios-lanzamiento/",
-        "published_date": "2026-10-30 15:42:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Undersecretary Silva addresses controversial prison benefits: \u201cWhen the State fails, it is not enough to explain, we must take charge\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/subsecretario-silva-aborda-polemicos-beneficios-carcelarios-cuando-el-estado-falla-no-basta-con-explicar-hay-que-hacerse-cargo/",
-        "published_date": "2026-10-30 02:00:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Codelco dismisses eight senior officials from four divisions due to irregularities in the production process",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/codelco-desvincula-a-ocho-altos-funcionarios-de-cuatro-divisiones-por-irregularidades-en-el-proceso-de-produccion/",
-        "published_date": "2026-10-29 23:24:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Youth at breaking point: those under 30 years of age lead the worst depression record in four years",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/la-juventud-en-punto-de-quiebre-menores-de-30-anos-lideran-el-peor-registro-de-depresion-en-cuatro-anos/",
-        "published_date": "2026-10-29 21:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00d1uble leads regional unemployment with 11.8% and five regions exceed the national average",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/__trashed-29/",
-        "published_date": "2026-10-29 21:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The alert that worries the \u201cdog lovers\u201d of Las Condes: municipality reports discovery of mouse poison in a communal kennel to the PDI",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/la-alerta-que-preocupa-a-los-dog-lovers-de-las-condes-municipio-denuncia-ante-la-pdi-hallazgo-de-veneno-para-ratones-en-canil-comunal/",
-        "published_date": "2026-10-29 21:38:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Julio Asensio, union leader of Mantos Blancos: \u201cThe worker has to reinvent himself\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/29/julio-asensio-tecnologia-reconversion-laboral-mineria/",
-        "published_date": "2026-10-29 21:30:00",
         "category": "Local Events"
     }
 ]
