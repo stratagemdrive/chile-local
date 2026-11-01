@@ -49,13 +49,6 @@
         "category": "Military"
     },
     {
-        "title": "\u201cIt is causing deep damage to the Government\u201d: UDI summons the Republicans helmsman for his statements against former Minister Larra\u00edn",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/24/le-esta-causando-un-profundo-dano-al-gobierno-udi-emplaza-a-timonel-de-republicanos-por-sus-dichos-contra-exministro-larrain/",
-        "published_date": "2026-10-24 16:28:15",
-        "category": "Military"
-    },
-    {
         "title": "Newsletter Power: It's politics, stupid!",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/31/newsletter-poder-es-la-politica-estupido/",
@@ -133,6 +126,27 @@
         "category": "Energy"
     },
     {
+        "title": "Jimmy Carter's grandson joins the millionaire private island market in the south and puts 6,000 hectares of land for sale in the Chilo\u00e9 archipelago",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/nieto-de-jimmy-carter-se-suma-al-millonario-mercado-de-islas-privadas-en-el-sur-y-pone-a-la-venta-terreno-de-6-000-hectareas-en-el-archipielago-de-chiloe/",
+        "published_date": "2026-11-01 14:06:29",
+        "category": "Economy"
+    },
+    {
+        "title": "Pablo Zeballos Column: Bloody Gold",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/columna-de-pablo-zeballos-oro-sangriento/",
+        "published_date": "2026-11-01 11:15:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Fernando Alvear, former manager of the CPC and Kast's call to provide more employment at Enade: \u201cIt's what everyone wants, but companies are having a hard time regulating today\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/fernando-alvear-exgerente-de-la-cpc-y-el-llamado-de-kast-a-dar-mas-empleo-en-enade-es-lo-que-todos-quieren-pero-las-empresas-la-estan-pasando-reguleque-hoy-dia/",
+        "published_date": "2026-11-01 11:05:00",
+        "category": "Economy"
+    },
+    {
         "title": "BCI mistakenly paid a $30 million check without funds: the bank sued the beneficiary, but the Supreme Court ruled that it could not request the money back",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/30/bci-pago-por-error-un-cheque-de-30-millones-sin-fondos-el-banco-demando-al-beneficiario-pero-corte-suprema-dictamino-que-no-podia-solicitar-el-dinero-de-vuelta/",
@@ -180,6 +194,55 @@
         "url": "https://www.theclinic.cl/2026/10/27/reforma-de-capitales-da-el-primer-paso-con-la-aprobacion-en-la-camara-de-diputados/",
         "published_date": "2026-10-28 00:07:18",
         "category": "Economy"
+    },
+    {
+        "title": "With a thousand interviewers and three months of home visits: the Casen survey data collection begins to measure poverty rates",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/con-mil-encuestadores-y-tres-meses-de-visitas-a-viviendas-comienza-el-levantamiento-de-datos-de-la-encuesta-casen-para-medir-los-indices-de-pobreza/",
+        "published_date": "2026-11-01 16:45:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government spokesperson due to sentence reduction crisis: criticizes Silva, points to a political attack and defends that leaving Rabat \u201cis not going to help anything\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/vocero-de-gobierno-aborda-catastrofe-de-crisis-por-rebajas-de-condena-critica-a-silva-apunta-a-un-ataque-politico-y-reconoce-error-de-rabat-pero-descarta-su-salida/",
+        "published_date": "2026-11-01 16:05:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Column by Luis Cordero: Truth, treatment and politics",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/columna-de-luis-cordero-verdad-trato-y-politica/",
+        "published_date": "2026-11-01 11:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rodrigo Topelberg, the man who uncovered the Audio Case, his new book and his links in Capit\u00e1n Y\u00e1ber: \u201cHermosilla told me that in another life we \u200b\u200bcould have been friends and it is the truth\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/rodrigo-topelberg-el-hombre-que-destapo-el-caso-audio-su-nuevo-libro-y-su-vinculos-en-capitan-yaber-vi-una-figura-paterna-en-luis-hermosilla-y-hasta-el-dia-de-hoy-nadie-lo-entiende/",
+        "published_date": "2026-11-01 11:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "OHBOK: the story of the Korean family that settled in Chile and opened a restaurant in Vitacura where BTS repeated the dish",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/ohbok-la-historia-de-la-familia-coreana-que-se-instalo-en-chile-y-abrio-un-restaurante-en-vitacura-donde-bts-se-repitio-el-plato/",
+        "published_date": "2026-11-01 11:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Johannes Kaiser: \u201cThe Government's crisis does not decompress with the departure of Rabat\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/johannes-kaiser-la-crisis-del-gobierno-no-se-descomprime-con-la-salida-de-rabat/",
+        "published_date": "2026-11-01 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Editorial: What unites us",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/editorial-lo-que-nos-une/",
+        "published_date": "2026-11-01 11:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Poduje gives Milovan Kegevic 24 hours to vacate the headquarters of the Tennis Federation in Cerro Colorado: he threatens eviction with Carabineros and a complaint",
@@ -270,55 +333,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/30/muere-isabel-morel-gumucio-viuda-de-orlando-letelier-y-figura-clave-en-la-lucha-judicial-por-su-asesinato/",
         "published_date": "2026-10-31 00:43:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIn the government we are neither to protect positions nor to avoid responsibilities\u201d: Alvarado explains the departure of Luis Silva from the Undersecretary of Justice",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/en-el-gobierno-no-estamos-ni-para-proteger-cargos-ni-eludir-responsabilidades-alvarado-explica-salida-de-luis-silva-de-la-subsecretaria-de-justicia/",
-        "published_date": "2026-10-31 00:15:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The film of the moment schedules a premiere in Chilean cinemas: the documentary \u201cYou can see everything\u201d premieres on December 3",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/la-pelicula-del-momento-agenda-estreno-en-cines-chilenos-el-documental-puedes-verlo-todo-se-estrena-el-3-de-diciembre/",
-        "published_date": "2026-10-30 22:41:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lawyer close to Republicans and former director of the Jaime Guzman Foundation: Who is Josefina Soto, the new Undersecretary of Justice",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/abogada-cercana-a-republicanos-y-exdirectora-de-la-fundacion-jaime-guzman-quien-es-josefina-soto-la-nueva-subsecretaria-de-justicia/",
-        "published_date": "2026-10-30 22:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "First fall of the Government due to reduced sentences: President Kast calls for the resignation of Undersecretary of Justice Luis Silva",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/remueven-a-luis-silva-de-la-subsecretaria-de-justicia-en-medio-de-polemica-por-rebaja-de-condenas-y-luego-de-publicar-un-video-sin-informar/",
-        "published_date": "2026-10-30 21:20:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI don't see the Republicans recriminating him for being disloyal\u201d: The new flank that Luis Silva opened in the ruling party in the midst of the Justice crisis",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/no-veo-a-los-republicanos-recriminandolo-por-desleal-el-nuevo-flanco-que-abrio-luis-silva-en-el-oficialismo-en-medio-de-la-crisis-de-justicia/",
-        "published_date": "2026-10-30 21:01:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the glass plate to the three wheels: The story of the first photo of a car",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/primera-foto-de-un-auto/",
-        "published_date": "2026-10-30 21:01:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "New female drivers join the Red Movilidad bus system: in 20 years, women in public transport increased by 6,000%",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/nuevas-conductoras-se-incorporan-al-sistema-de-buses-de-red-movilidad-en-20-anos-aumentaron-en-6-000-las-mujeres-en-el-transporte-publico/",
-        "published_date": "2026-10-30 20:42:57",
         "category": "Local Events"
     }
 ]
