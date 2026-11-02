@@ -112,20 +112,6 @@
         "category": "Energy"
     },
     {
-        "title": "Great gastronomic offer, sunny day and massive attendance: this is how the first day of the Bamba Festival in Santiago is experienced",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/24/gran-oferta-gastronomica-dia-soleado-y-masiva-asistencia-asi-se-vive-la-primera-jornada-del-festival-bamba-en-santiago/",
-        "published_date": "2026-10-24 20:48:42",
-        "category": "Energy"
-    },
-    {
-        "title": "Rain forecasts for this weekend: DMC warns of a thunderstorm for the RM and ten communes remain on Preventive Early Warning",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/24/pronosticos-de-lluvia-para-este-fin-de-semana-dmc-alerta-tormenta-electrica-para-la-rm-y-diez-comunas-se-mantienen-en-alerta-temprana-preventiva/",
-        "published_date": "2026-10-24 20:11:26",
-        "category": "Energy"
-    },
-    {
         "title": "Jimmy Carter's grandson joins the millionaire private island market in the south and puts 6,000 hectares of land for sale in the Chilo\u00e9 archipelago",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/11/01/nieto-de-jimmy-carter-se-suma-al-millonario-mercado-de-islas-privadas-en-el-sur-y-pone-a-la-venta-terreno-de-6-000-hectareas-en-el-archipielago-de-chiloe/",
@@ -194,6 +180,20 @@
         "url": "https://www.theclinic.cl/2026/10/27/reforma-de-capitales-da-el-primer-paso-con-la-aprobacion-en-la-camara-de-diputados/",
         "published_date": "2026-10-28 00:07:18",
         "category": "Economy"
+    },
+    {
+        "title": "What is known about the fatal accident in the Caj\u00f3n del Maipo: a group was rafting on a raft not recognized by local companies and three people died after capsizing",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/tres-personas-fallecidas-y-cerca-de-siete-desaparecidas-en-fatal-accidente-en-el-cajon-del-maipo-embarcacion-no-perteneceria-a-una-empresa/",
+        "published_date": "2026-11-01 19:48:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Archbishop Chomali due to the crisis of reducing sentences for sexual abusers of minors: \u201cEvidently it has generated widespread unrest\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/01/arzobispo-chomali-se-pronuncia-por-crisis-de-rebajas-de-condenas-a-abusadores-sexuales-de-menores-evidentemente-ha-generado-un-malestar-muy-generalizado/",
+        "published_date": "2026-11-01 17:38:43",
+        "category": "Local Events"
     },
     {
         "title": "With a thousand interviewers and three months of home visits: the Casen survey data collection begins to measure poverty rates",
@@ -319,20 +319,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/10/31/el-gobierno-de-las-mil-explicaciones/",
         "published_date": "2026-10-31 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They negotiated a ransom payment even though the victim had already been murdered: Details of the kidnapping with homicide of Mart\u00edn P\u00e9rez",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/negociaron-un-pago-de-rescate-pese-a-que-la-victima-ya-habia-sido-asesinada-detalles-del-secuestro-con-homicidio-de-martin-perez/",
-        "published_date": "2026-10-31 01:46:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Isabel Morel Gumucio, widow of Orlando Letelier and key figure in the judicial fight for his murder, dies",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/30/muere-isabel-morel-gumucio-viuda-de-orlando-letelier-y-figura-clave-en-la-lucha-judicial-por-su-asesinato/",
-        "published_date": "2026-10-31 00:43:15",
         "category": "Local Events"
     }
 ]
