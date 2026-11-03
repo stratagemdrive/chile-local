@@ -42,13 +42,6 @@
         "category": "Military"
     },
     {
-        "title": "Air Force planes fly over Santiago due to change of institutional command: General Romanini takes over as Commander in Chief of the FACh",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/aviones-de-la-fuerza-aerea-sobrevuelan-santiago-por-cambio-de-mando-institucional-general-romanini-asume-como-comandante-en-jefe-de-la-fach/",
-        "published_date": "2026-10-26 14:44:16",
-        "category": "Military"
-    },
-    {
         "title": "Quiroz's unprecedented decision that surprised Congress and opened a new conflict over the 2027 Budget: he did not replace the resources rejected to Servel and Sciences",
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/11/02/la-inedita-decision-de-quiroz-que-sorprendio-al-congreso-y-abrio-un-nuevo-conflicto-por-el-presupuesto-2027-no-repuso-los-recursos-rechazados-al-servel-y-ciencias/",
@@ -112,11 +105,18 @@
         "category": "Energy"
     },
     {
-        "title": "The story of the exclusive building that was left half finished in Vitacura and how it will now be auctioned off for almost US$25 million",
+        "title": "Mall Plaza Norte is sentenced to pay $20 million to a client who tripped on a loose tile in the facility: she suffered a sprained knee",
         "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/10/26/la-historia-del-exclusivo-edificio-que-quedo-a-medio-terminar-en-vitacura-y-como-ahora-sera-rematado-por-casi-us25-millones/",
-        "published_date": "2026-10-26 15:37:43",
-        "category": "Energy"
+        "url": "https://www.theclinic.cl/2026/11/03/condenan-a-mall-plaza-norte-a-pagar-20-millones-a-clienta-que-se-tropezo-con-una-baldosa-suelta-en-el-recinto-sufrio-esguince-de-rodilla/",
+        "published_date": "2026-11-03 16:46:33",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cA coffee?\u201d: Woman is surprised by a novel initiative by L\u00edder supermarkets to bring their customers closer",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/un-cafe-mujer-se-sorprende-con-novedosa-iniciativa-de-supermercados-lider-para-acercar-a-sus-clientes/",
+        "published_date": "2026-11-03 16:16:23",
+        "category": "Economy"
     },
     {
         "title": "His property was valued at $80 million and they auctioned it off at $11: The testimony of the man who lost his home in Puerto Octay without being notified",
@@ -201,6 +201,48 @@
         "url": "https://www.theclinic.cl/2026/10/27/reforma-de-capitales-da-el-primer-paso-con-la-aprobacion-en-la-camara-de-diputados/",
         "published_date": "2026-10-28 00:07:18",
         "category": "Economy"
+    },
+    {
+        "title": "Superintendent of Pensions due to exclusion of AFPs in housing savings: \u201cIt is a bad idea to legislate in the heat of a crisis\u201d",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/superintendente-de-pensiones-por-exclusion-de-las-afp-en-el-ahorro-para-la-vivienda-es-mala-idea-legislar-al-calor-de-una-crisis/",
+        "published_date": "2026-11-03 17:34:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luz Jim\u00e9nez will return to the stage after the death of her daughter in an avalanche in Portillo",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/luz-jimenez-volvera-a-los-escenarios-tras-la-muerte-de-su-hija-en-una-avalancha-en-portillo/",
+        "published_date": "2026-11-03 17:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of a birth at the San Borja Hospital that ended in tragedy: the newborn died from a skull fracture after the use of forceps and his family demands justice",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/la-historia-de-un-parto-en-el-hospital-san-borja-que-termino-en-tragedia-recien-nacido-murio-por-una-fractura-craneal-tras-el-uso-de-forceps-y-su-familia-exige-justicia/",
+        "published_date": "2026-11-03 16:48:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forced to postpone: the opposition mess after the announcement of the constitutional accusation against Rabat due to lack of legal background",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/obligados-a-postergar-el-enredo-opositor-tras-el-anuncio-de-la-acusacion-constitucional-contra-rabat-por-falta-de-antecedentes-juridicos/",
+        "published_date": "2026-11-03 16:37:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mission to organize ranks: general secretaries of the Republican Party and Chile Vamos hold an extraordinary meeting to define roles before AC against Rabat",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/mision-ordenar-filas-secretarios-generales-del-partido-republicano-y-chile-vamos-realizan-cita-extraordinaria-para-definir-roles-ante-ac-contra-rabat/",
+        "published_date": "2026-11-03 16:29:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Second Floor enters the crosshairs of RN: the criticism of Irarr\u00e1zaval and the harsh objections of the political commission to the handling of the crisis by Rabat",
+        "source": "The Clinic",
+        "url": "https://www.theclinic.cl/2026/11/03/el-segundo-piso-entra-en-la-mira-de-rn-las-criticas-a-irarrazaval-y-los-duros-reparos-de-la-comision-politica-al-manejo-de-la-crisis-por-rabat/",
+        "published_date": "2026-11-03 16:28:46",
+        "category": "Local Events"
     },
     {
         "title": "Victim was trapped while carrying out disassembly work: What is known about the fatal accident that affected a Metro worker in Renca",
@@ -298,48 +340,6 @@
         "source": "The Clinic",
         "url": "https://www.theclinic.cl/2026/11/02/innovaciones-chilenas-premiadas-mineria-alimentos-medioambiente/",
         "published_date": "2026-11-02 18:45:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kast's reunion with Santiago Abascal in the middle of Spain's electoral campaign",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/11/02/el-reencuentro-de-kast-con-santiago-abascal-en-medio-de-la-campana-electoral-de-espana/",
-        "published_date": "2026-11-02 18:43:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The video that Secom did prevent from being published and the advisor behind the recordings: the unknown details of Luis Silva's departure",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/11/02/el-video-que-la-secom-si-impidio-que-se-publicara-y-el-asesor-detras-de-las-grabaciones-los-detalles-desconocidos-de-la-salida-de-luis-silva/",
-        "published_date": "2026-11-02 18:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is known about the fatal accident in the Caj\u00f3n del Maipo: a group was rafting on a raft not recognized by local companies and three people died after capsizing",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/11/01/tres-personas-fallecidas-y-cerca-de-siete-desaparecidas-en-fatal-accidente-en-el-cajon-del-maipo-embarcacion-no-perteneceria-a-una-empresa/",
-        "published_date": "2026-11-01 19:48:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Archbishop Chomali due to the crisis of reducing sentences for sexual abusers of minors: \u201cEvidently it has generated widespread unrest\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/11/01/arzobispo-chomali-se-pronuncia-por-crisis-de-rebajas-de-condenas-a-abusadores-sexuales-de-menores-evidentemente-ha-generado-un-malestar-muy-generalizado/",
-        "published_date": "2026-11-01 17:38:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "With a thousand interviewers and three months of home visits: the Casen survey data collection begins to measure poverty rates",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/11/01/con-mil-encuestadores-y-tres-meses-de-visitas-a-viviendas-comienza-el-levantamiento-de-datos-de-la-encuesta-casen-para-medir-los-indices-de-pobreza/",
-        "published_date": "2026-11-01 16:45:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government spokesperson due to sentence reduction crisis: criticizes Silva, points to a political attack and defends that leaving Rabat \u201cis not going to help anything\u201d",
-        "source": "The Clinic",
-        "url": "https://www.theclinic.cl/2026/11/01/vocero-de-gobierno-aborda-catastrofe-de-crisis-por-rebajas-de-condena-critica-a-silva-apunta-a-un-ataque-politico-y-reconoce-error-de-rabat-pero-descarta-su-salida/",
-        "published_date": "2026-11-01 16:05:13",
         "category": "Local Events"
     }
 ]
